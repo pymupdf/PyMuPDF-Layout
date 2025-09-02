@@ -1,0 +1,23 @@
+
+environment. The Master, Infrastructure and Compute Roles are deployed to a single node (Figure 6-1).
+
+| **Automation CI/CD Tools**<br/>**Cluster Administrators**<br/>**Developers**<br/>**Application Owners** |   |   |   | Web Console :8443<br/>*https\://ocp.example.com:8443*                                  |   | Router :80 & :443                        |   | **Application Users**<br/>http\://\<myapp>.ocp.example.com<br/>https\://\<myapp>.ocp.example.com:443 |                                     |   |
+| ------------------------------------------------------------------------------------------------------- | - | - | - | -------------------------------------------------------------------------------------- | - | ---------------------------------------- | - | ---------------------------------------------------------------------------------------------------- | ----------------------------------- | - |
+|                                                                                                         |   |   |   | REGISTRY<br/>Jenkins<br/>S2I<br/>Prometheus<br/>K8s Operators<br/>OLM<br/>............ |   | **PODs**<br/>POD C POD<br/>POD POD C POD |   |                                                                                                      | **PVC Storage**<br/>(stacked disks) |   |
+|                                                                                                         |   |   |   |                                                                                        |   |                                          |   |                                                                                                      |                                     |   |
+|                                                                                                         |   |   |   |                                                                                        |   |                                          |   |                                                                                                      |                                     |   |
+|                                                                                                         |   |   |   |                                                                                        |   |                                          |   |                                                                                                      |                                     |   |
+
+
+_Figure 6-1_   OpenShift Container Platform 3.11 all-in-one
+
+* **Seven nodes deployment** is highly available and suitable for production. The Master and Infrastructure Roles are deployed to three Nodes, the Computer Role is deployed to three Worker Nodes, and the Load Balancer is deployed to a single Node (Figure 6-2).
+
+| **Automation CI/CD Tools**<br/>**Cluster Administrators**<br/>**Developers**<br/>**Application Owners** |   |   |   | Load Balancer \[LB]                                                                                          |   |   |   | **Application Users**<br/>http\://\<myapp>.ocp.example.com<br/>https\://\<myapp>.ocp.example.com:443 |   |   |
+| ------------------------------------------------------------------------------------------------------- | - | - | - | ------------------------------------------------------------------------------------------------------------ | - | - | - | ---------------------------------------------------------------------------------------------------- | - | - |
+|                                                                                                         |   |   |   | **Routers**<br/>Master - Infra Master - Infra Master - Infra<br/><br/>**Registry**                           |   |   |   |                                                                                                      |   |   |
+| **Master Nodes**                                                                                        |   |   |   | **Application Nodes**<br/>APP POD POD POD<br/>APP POD POD<br/>APP POD C<br/><br/>PVC Storage (stacked disks) |   |   |   |                                                                                                      |   |   |
+| Master Nodes                                                                                            |   |   |   |                                                                                                              |   |   |   |                                                                                                      |   |   |
+
+
+_Figure 6-2_   OpenShift Container Platform 3.11 6xNodes + Load Balancer

@@ -1,0 +1,73 @@
+US 6,482,565 B1
+
+7
+
+Polyacrolein thus obtained (20 g), ethane-1,2-diol (150 g), toluene-p-sulfonic acid (1 g) and benzene (200 g) were placed in a 1000-ml round-bottomed flask, and the reaction was performed under reflux with a Dean and Stark water separator attached to the flask, until no more water was generated. After the reaction was completed, the product was precipitated from distilled water, to obtain pure compound represented by following Chemical Formula 6a (yield: 45%).
+
+<Chemical Formula 6a>
+
+
+
+using 2-vinyl-1,3-dioxane (0.1 mole) of Chemical Formula
+
+As the reaction catalyst, an acid such as trifluoromethanesulfonic acid, hydrochloric acid or boron trifluoride-etherate may be used instead of toluene-p-sulfonic acid. As a reaction solvent, a non-carbonyl solvent such as tetrahydrofuran may be used instead of benzene.
+
+## EXAMPLE 2
+
+The procedure according to Example I was repeated but using propane-1,2-diol (20 g) instead of ethane-1,2-diol, to obtain the compound represented by Chemical Formula 7a (yield: 45%).
+
+25
+
+30
+
+<Chemical Formula 7a>
+
+
+
+## EXAMPLE 3
+
+In a 100 ml flask, 2-vinyl-1,3-dioxolane (0.1 mole) of Chemical Formula 1a, acrylic acid (0.06 mole), tetrahydrofuran (20 g) and AIBN (0.2 g) were placed, and the mixture was reacted at 65° C. under nitrogen or argon atmosphere for 8 hours. After the polymerization was completed, the polymers were precipitated from distilled water or ethyl ether, to obtain the compound of Chemical Formula 6 (yield: 60%).
+
+The image shows the chemical structure of 2-vinyl-1,3-dioxolane (Chemical Formula 1a) at the top, which contains a five-membered ring with two oxygen atoms and a vinyl group. Below it is the copolymer product (Chemical Formula 6) showing repeating units derived from both the dioxolane monomer and acrylic acid, with the dioxolane ring pendant groups and carboxylic acid functionality. This represents the polymerization reaction described in Example 4 where the two monomers were copolymerized using AIBN as an initiator.
+
+8
+
+lb instead of 2-vinyl-1,3-dioxolane of Chemical Formula 1a,
+to obtain the compound represented by Chemical Formula 7
+(yield: 55%).
+
+5
+
+The image shows two chemical structures labeled as Chemical Formula 1b and Chemical Formula 7. The top structure depicts a simple six-membered ring containing two oxygen atoms in a 1,4-dioxane configuration. The bottom structure shows a more complex polymer chain with pendant 1,4-dioxane groups and terminal carboxylic acid functionality.
+
+10
+
+15
+
+20
+
+## EXAMPLE 5
+
+In a 250-ml flask, 2-vinyl-1,3-dioxolane (0.3 mole) of Chemical Formula 1a, maleic anhydride (0.1 mole), AIBN (0.8 g) and tetrahydrofuran (41 g) were placed, and the mixture was reacted at \( 65^{\circ} \mathrm{C} \). under nitrogen or argon atmosphere for 8 hours. After the polymerization was completed, the polymers were precipitated from ethyl ether, and dried in vacuo to obtain pure compound of Chemical Formula 8 (yield: 80\%).
+
+35
+
+As a polymerization initiator, conventional radical polymerization initiators such as lauryl peroxide may be used instead of AIBN (yield: 40%).
+
+40
+
+
+
+45
+
+## EXAMPLE 6
+
+The procedure according to Example 5 was repeated but using 2-vinyl-1,3-dioxane (0.3 mole) of Chemical Formula Ib instead of 2-vinyl-1,3-dioxolane of Chemical Formula 1a, to obtain the compound represented by Chemical Formula 9 (yield: 42%).
+
+60
+
+
+
+<Chemical Formula 9>
+
+65
