@@ -1,12 +1,22 @@
+
 import json
 import pandas as pd
-
 from utils import find_best_match_and_normalized_distance
 
+# =============================================================================
+# CONFIGURATION
+# =============================================================================
 
+# --- Input Files ---
+GROUND_TRUTH_FILE = "cleaned_output.json"
+PAGE_MAPPING_FILE = "page_folder_mapping.csv"
 
-# Define folder names and their corresponding column names
-folder_info = [
+# --- Output File ---
+OUTPUT_CSV_FILE = "benchmark_results_final.csv"
+
+# --- Method Definitions ---
+# Each tuple contains: (folder_name, column_name_for_results)
+FOLDER_INFO = [
     ('reducto_markdowns', 'reducto'),
     ('pymupdf_markdowns', 'pymupdf'),
     ('llamaparse_markdowns', 'llamaparse'),
@@ -16,87 +26,160 @@ folder_info = [
     ('geminipro_markdowns', 'geminipro'),
     ('llamaparse_highest_markdowns', 'llamaparse_highest'),
     ('datalablllm_markdowns', 'datalabllm')
-
 ]
 
-# Load ground truth data once
-with open("cleaned_output.json") as f:
-    cleaned_full_data = json.load(f)
+# --- Analysis Parameters ---
+# Rows where the best score across all methods is not below this threshold will be excluded.
+# A lower score (distance) is better.
+MIN_SCORE_THRESHOLD = 0.25
+# Folders from the mapping file to exclude from the final analysis.
+EXCLUDED_FOLDERS = ["test"]
 
-# Initialize results dictionary
-all_results = []
+# Automatically derive the list of score columns from FOLDER_INFO
+SCORE_COLUMNS = [col_name for _, col_name in FOLDER_INFO]
 
-# Process all ground truth entries
-for index, ground in enumerate(cleaned_full_data):
-    print(f"Processing {index+1}/{len(cleaned_full_data)}")
-    page_number = ground['page_number']
-    # Process each needle text with its index
-    for needle_index, needle in enumerate(ground['texts']):
-        row = {
-            'page_number': page_number,
-            'needle_index': needle_index,  # Add the array location
-            'needle': needle
-        }
-        # Get scores from each folder
-        for folder_name, col_name in folder_info:
-            markdown_path = f"{folder_name}/page_{page_number}.md"
-            try:
-                with open(markdown_path, 'r', encoding='utf-8') as f:
-                    md_content = f.read()
-                match_result = find_best_match_and_normalized_distance(needle, md_content)
-                score = match_result[1]  # Assuming this is the distance/score
-            except FileNotFoundError:
-                score = None  # or use np.nan
-            row[col_name] = score
-        all_results.append(row)
 
-# Create DataFrame
-df = pd.DataFrame(all_results)
+def generate_raw_scores(ground_truth_data: list, folder_info: list) -> pd.DataFrame:
+    """
+    Processes ground truth data against markdown files from various methods.
 
-# Calculate means for each method
-print("\n" + "="*50)
-print("MEAN SCORES BY METHOD:")
-print("="*50)
-score_columns = [col_name for _, col_name in folder_info]
-# Save complete results
-num_cols = ["reducto", "pymupdf", "llamaparse", "datalab","datalabllm",
-             "gemini", "docling", "geminipro","llamaparse_highest"]
-df = df.dropna(subset=num_cols)
-map = pd.read_csv("page_folder_mapping.csv")
-dm = df.merge(map, left_on="page_number", right_on="Page")  
-dm = dm[dm["Folder"] != "test"]
-dm = dm[dm[num_cols].min(axis=1) < 0.25]
-result = dm.groupby("Folder")[num_cols].mean()
-final_result = ((1 - result) * 100).round(2)
+    For each piece of text ("needle") in the ground truth, this function searches
+    for the best match in the corresponding page's markdown file ("haystack")
+    for each specified method.
 
-# Add folder count column as integer
-folder_counts = dm.groupby("Folder").size().astype(int)
-final_result['Folder_Count'] = folder_counts
+    Args:
+        ground_truth_data: A list of dictionaries, where each dictionary
+                           represents a page and contains its 'page_number'
+                           and a list of 'texts' to find.
+        folder_info: A list of tuples, each defining a method's folder
+                     and the desired column name for its scores.
 
-# Calculate weighted mean for each column
-weighted_means = {}
-for col in num_cols:
-    # Calculate weighted mean: sum(value * weight) / sum(weights)
-    weighted_mean = (result[col] * folder_counts).sum() / folder_counts.sum()
-    weighted_mean_percentage = ((1 - weighted_mean) * 100).round(2)
-    weighted_means[col] = weighted_mean_percentage
+    Returns:
+        A pandas DataFrame containing the raw scores (normalized distances)
+        for each needle against each method.
+    """
+    all_results = []
+    total_entries = len(ground_truth_data)
 
-# Add weighted mean as a new row
-weighted_mean_row = pd.Series(weighted_means, name='Weighted_Mean')
-weighted_mean_row['Folder_Count'] = int(folder_counts.sum())  # Ensure it's an integer
+    print("Generating raw scores...")
+    for index, ground_truth_entry in enumerate(ground_truth_data):
+        print(f"Processing page group {index + 1}/{total_entries}")
+        page_number = ground_truth_entry['page_number']
 
-# Append weighted mean row to the final result
-final_result = pd.concat([final_result, weighted_mean_row.to_frame().T])
+        for needle_index, needle_text in enumerate(ground_truth_entry['texts']):
+            row = {
+                'page_number': page_number,
+                'needle_index': needle_index,
+                'needle': needle_text
+            }
 
-# Convert Folder_Count to integer type to ensure proper formatting
-final_result['Folder_Count'] = final_result['Folder_Count'].astype(int)
+            for folder_name, col_name in folder_info:
+                markdown_path = f"{folder_name}/page_{page_number}.md"
+                try:
+                    with open(markdown_path, 'r', encoding='utf-8') as f:
+                        md_content = f.read()
+                    
+                    # The score is the normalized distance; lower is better.
+                    _, score = find_best_match_and_normalized_distance(needle_text, md_content)
+                except FileNotFoundError:
+                    score = None
+                
+                row[col_name] = score
+            
+            all_results.append(row)
 
-# Get the order of columns based on weighted mean (excluding Folder_Count)
-weighted_mean_values = final_result.loc['Weighted_Mean', num_cols]
-sorted_cols = weighted_mean_values.sort_values(ascending=False).index.tolist()
+    return pd.DataFrame(all_results)
 
-# Reorder columns: sorted method columns + Folder_Count at the end
-final_result = final_result[sorted_cols + ['Folder_Count']]
 
-# Display the final result
-final_result.to_csv('benchmark_results_final.csv')
+def analyze_results(scores_df: pd.DataFrame, mapping_file: str) -> pd.DataFrame:
+    """
+    Analyzes the raw scores to produce a final summary report.
+
+    This function merges scores with page-folder mappings, filters data,
+    calculates mean accuracy, adds folder counts, computes a weighted
+    average, and sorts the results for presentation.
+
+    Args:
+        scores_df: DataFrame with raw scores from generate_raw_scores.
+        mapping_file: Path to the CSV file mapping page numbers to folders.
+
+    Returns:
+        A pandas DataFrame containing the final, formatted benchmark results.
+    """
+    print("\nAnalyzing results...")
+    
+    # 1. Merge with page-folder mapping
+    page_mapping_df = pd.read_csv(mapping_file)
+    merged_df = scores_df.merge(page_mapping_df, left_on="page_number", right_on="Page")
+
+    # 2. Filter data
+    # Drop rows where any method failed to produce a score
+    filtered_df = merged_df.dropna(subset=SCORE_COLUMNS).copy()
+    # Exclude specified folders (e.g., 'test' folders)
+    filtered_df = filtered_df[~filtered_df["Folder"].isin(EXCLUDED_FOLDERS)]
+    # Keep only rows where at least one method found a close match
+    filtered_df = filtered_df[filtered_df[SCORE_COLUMNS].min(axis=1) < MIN_SCORE_THRESHOLD]
+
+    if filtered_df.empty:
+        print("Warning: No data left after filtering. Cannot generate report.")
+        return pd.DataFrame()
+
+    # 3. Calculate mean scores (distances) grouped by folder type
+    mean_distances = filtered_df.groupby("Folder")[SCORE_COLUMNS].mean()
+    
+    # 4. Convert distance to accuracy percentage and add folder counts
+    # Accuracy = (1 - distance) * 100
+    final_report = ((1 - mean_distances) * 100).round(2)
+    folder_counts = filtered_df.groupby("Folder").size()
+    final_report['Folder_Count'] = folder_counts.astype(int)
+
+    # 5. Calculate and append a weighted mean row
+    total_count = folder_counts.sum()
+    weighted_means = {}
+    for col in SCORE_COLUMNS:
+        weighted_mean_distance = (mean_distances[col] * folder_counts).sum() / total_count
+        weighted_mean_accuracy = ((1 - weighted_mean_distance) * 100).round(2)
+        weighted_means[col] = weighted_mean_accuracy
+        
+    weighted_mean_row = pd.Series(weighted_means, name='Weighted_Mean')
+    weighted_mean_row['Folder_Count'] = int(total_count)
+    final_report = pd.concat([final_report, weighted_mean_row.to_frame().T])
+
+    # 6. Sort columns by performance (descending weighted mean accuracy)
+    weighted_accuracies = final_report.loc['Weighted_Mean', SCORE_COLUMNS]
+    sorted_cols = weighted_accuracies.sort_values(ascending=False).index.tolist()
+    final_report = final_report[sorted_cols + ['Folder_Count']]
+
+    return final_report
+
+
+def main():
+    """Main function to run the entire benchmarking process."""
+    
+    # Load ground truth data
+    try:
+        with open(GROUND_TRUTH_FILE) as f:
+            cleaned_full_data = json.load(f)
+    except FileNotFoundError:
+        print(f"Error: Ground truth file not found at '{GROUND_TRUTH_FILE}'")
+        return
+
+    # Step 1: Generate raw scores for all methods
+    raw_scores_df = generate_raw_scores(cleaned_full_data, FOLDER_INFO)
+
+    # Step 2: Analyze scores and create the final report
+    final_result_df = analyze_results(raw_scores_df, PAGE_MAPPING_FILE)
+
+    # Step 3: Save the report to a CSV file
+    if not final_result_df.empty:
+        final_result_df.to_csv(OUTPUT_CSV_FILE)
+        print("\n" + "="*50)
+        print("ANALYSIS COMPLETE")
+        print("="*50)
+        print(f"Final results saved to: {OUTPUT_CSV_FILE}")
+        print("\nFinal Report:")
+        print(final_result_df)
+
+
+if __name__ == "__main__":
+    main()
