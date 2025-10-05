@@ -25,7 +25,8 @@ FOLDER_INFO = [
     ('docling_markdowns', 'docling'),
     ('geminipro_markdowns', 'geminipro'),
     ('llamaparse_highest_markdowns', 'llamaparse_highest'),
-    ('datalablllm_markdowns', 'datalabllm')
+    ('datalablllm_markdowns', 'datalabllm'),
+    ('pymupdflayout_markdowns',"pymupdflayout")
 ]
 
 # --- Analysis Parameters ---
