@@ -8,5 +8,5 @@ Proof of your highest grade passed
 
 Proof of any other relevant qualifications you have obtained 
 
-**==> picture intentionally omitted <==**
+**==> picture [95 x 10] intentionally omitted <==**
 

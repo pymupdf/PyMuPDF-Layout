@@ -28,5 +28,3 @@ Late in the year, Santos sold its 18.02% share in the Carpentaria Gas Pipeline b
 
 **BRANTAS PSC** 
 
-Annual Report 2004 23 
-

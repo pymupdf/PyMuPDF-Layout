@@ -2,11 +2,11 @@
 
 ## **Special Flight Rules Area (SFRA)** 
 
-## **Flight Restricted Zone (FRZ) Relating to National Security 
+## **Flight Restricted Zone (FRZ) Relating to National Security** 
 
 ## **Special Use Airspace** 
 
-**==> picture intentionally omitted <==**
+**==> picture [136 x 303] intentionally omitted <==**
 
 ## **Special Air Traffic Rules / Airport Patterns (FAR Part 93)** 
 
@@ -16,11 +16,11 @@ Inside the FAR Part 93 boundary area, the cross hatching is at a 45 degree angle
 
 ## **National Security Area** 
 
-**==> picture intentionally omitted <==**
+**==> picture [94 x 24] intentionally omitted <==**
 
 Small Area 
 
-**NOTICE FOR REASONS OF NATIONAL SECURITY **PILOTS ARE REQUESTED TO AVOID FLIGHT BELOW 1200' MSL IN THIS AREA 
+**NOTICE FOR REASONS OF NATIONAL SECURITY PILOTS ARE REQUESTED TO AVOID FLIGHT BELOW 1200' MSL IN THIS AREA** 
 
 ## **Special Awareness Training Areas** 
 
@@ -31,6 +31,4 @@ Appropriate notes as required may be shown.
 ## **Air Defense Identification Zone (ADIZ)** 
 
 Note: Delimiting line not shown when it coincides with International Boundary, projection lines or other linear features. 
-
-30 
 

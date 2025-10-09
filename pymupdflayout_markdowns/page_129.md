@@ -10,9 +10,9 @@ If guidance is issued that indicates the planned repatriation qualifies for the 
 
 Company will attempt to permanently reinvest the proceeds in another foreign jurisdiction, such as Macau. In such case, the Company would recognize a tax benefit of $11 million as part of continuing operations in the quarter in which the reinvestment is made. The Company currently does not have a plan to reinvest the proceeds in such manner. 
 
-**NOTE 10 — COMMITMENTS AND CONTINGENCIES Leases. The Company leases real estate and various equipment under operating and, to a lesser extent, capital lease arrangements. Certain real estate leases provide for escalation of rent based upon a specified price index and/or based upon periodic appraisals. 
+**NOTE 10 — COMMITMENTS AND CONTINGENCIES Leases.** The Company leases real estate and various equipment under operating and, to a lesser extent, capital lease arrangements. Certain real estate leases provide for escalation of rent based upon a specified price index and/or based upon periodic appraisals. 
 
-At December 31, 2004, the Company was obligated under non-cancelable operat- ing leases and capital leases to make future minimum lease payments as follows: 
+At December 31, 2004, the Company was obligated under non-cancelable operating leases and capital leases to make future minimum lease payments as follows: 
 
-**==> picture intentionally omitted <==**
+**==> picture [319 x 170] intentionally omitted <==**
 

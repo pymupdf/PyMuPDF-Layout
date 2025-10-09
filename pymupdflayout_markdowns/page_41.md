@@ -30,15 +30,15 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (2) Paragraph (1) does not apply to any aircraft— 
 
-- operating by or on behalf of the— 
+- (a) operating by or on behalf of the— 
 
-- National Police Air Service, 
+- (i) National Police Air Service, 
 
-- Helicopter Emergency Services, or 
+- (ii) Helicopter Emergency Services, or 
 
-- Maritime and Coastguard Agency, or 
+- (iii) Maritime and Coastguard Agency, or 
 
-- operating with the permission of Kent Police. 
+- (b) operating with the permission of Kent Police. 
 
 ( **a** ) S.I. 2016/765, to which there are amendments not relevant to these Regulations. 
 

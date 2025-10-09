@@ -18,9 +18,7 @@ Finally, our Company remains well positioned because of the hard and creative wo
 
 Sincerely, 
 
-_Our shareholders will benefit from our exposure _to some of the highest quality US shale acreage _and production in the Eagle Ford along with _our leading cost structure and strong balance sheet. 
+_Our shareholders will benefit from our exposure to some of the highest quality US shale acreage and production in the Eagle Ford along with our leading cost structure and strong balance sheet._ 
 
-**E RIC **M C **C RADY _Managing Director & CEO_ 
-
-**5** 
+**E RIC M C C RADY** _Managing Director & CEO_ 
 

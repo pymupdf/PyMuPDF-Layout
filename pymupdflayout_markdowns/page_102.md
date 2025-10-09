@@ -53,7 +53,5 @@
 
 (3) – POPS refers to the estimated population of a given geographic area.  Market POPS are those within a market area, and Covered POPS are those covered by the network’s service area.  ARPU is revenue before travel, roaming revenue, and management fee, net of adjustments divided by average subscribers.  PCS Travel revenue includes roamer revenue and is divided by average subscribers.  PCS Average management fee per subscriber is 8% of collected revenue excluding travel revenue, retained by Sprint.  PCS Ave Monthly Churn is the average of three monthly calculations of deactivations (excluding returns less than 30 days) divided by beginning of period subscribers.  CPGA includes selling costs, product costs, and advertising costs.  CCPU includes network, customer care and other costs. 
 
-(4) - On a normalized basis, the 4 <sup>[th]</sup> quarter PCS travel revenue per subscriber would be $19.25 and PCS CCPU would be approximately $38.66 if adjustments and true-ups recorded in December 2003 were excluded. 
-
-SHENANDOAH TELECOMMUNICATIONS COMPANY ■ 10 
+(4) - On a normalized basis, the 4[th] quarter PCS travel revenue per subscriber would be $19.25 and PCS CCPU would be approximately $38.66 if adjustments and true-ups recorded in December 2003 were excluded. 
 

@@ -1,14 +1,12 @@
 Figure A.5: Support under concave treatment response 
 
-The function _ϕ_ can be readily shown to be nonincreasing. Thus, at the optimum _B k = ( _−∞, b k ) with _b k +1 _≤ b _k_ and _b k _∈_ [ _−∞, ∞_ ] for every integer _k_ . By Theorem 1, for _δ >_ 0 _, B k _<sup>[D]</sup>_ <sup>[is written as]</sup> 
+The function _ϕ_ can be readily shown to be nonincreasing. Thus, at the optimum _B k_ = ( _−∞, b k_ ) with _b k_ +1 _≤ b k_ and _b k ∈_ [ _−∞, ∞_ ] for every integer _k_ . By Theorem 1, for _δ >_ 0 _, B k[D]_[is written as] 
 
-**==> formula intentionally omitted <==**
+**==> formula [418 x 31] intentionally omitted <==**
 
-Note that _Y_ 1 = _Y_ 0 + _δ_ and _Y_ 1 = _t <sup>[t]</sup> 0 <sup>[1]</sup> _− <sup>[−]</sup> _t <sup>[t]</sup> _W <sup>[W]</sup> _<sup>[Y]</sup>_ <sup>[0]</sup> _<sup>[ −]</sup> t _<sup>[t]</sup>_ 0 <sup>[1]</sup> _− <sup>[−]</sup> _t <sup>[t]</sup> _W_ <sup>[0]</sup> _<sup>[w]</sup>_ <sup>[ intersect at]</sup> � _tt_ 01 _−−tt W 0 _<sup>[δ]</sup>_ <sup>[ +]</sup> _<sup>[ y]</sup> <sup>[−]</sup> <sup>[1]</sup> _<sup>[,]</sup> <sup>[t]</sup> _t_ <sup>[1]</sup> 1 _<sup>[−]</sup> − _<sup>[t]</sup> t _<sup>[W]</sup>_ 0 _<sup>[δ]</sup>_ <sup>[ +]</sup> _<sup>[ w]</sup>_ � _._ I consider the following three cases: a) _b k +1 _≤ b _k ≤ _<sup>[t]</sup> t <sup>[0]</sup> 1 _<sup>[−]</sup> − _<sup>[t]</sup> t _<sup>[W]</sup>_ 0 _<sup>[δ]</sup>_ <sup>[ +]</sup> _<sup>[ w,]</sup>_ <sup>[ b)]</sup> _<sup>[ b]</sup> <sup>[k]</sup> <sup>[+1]</sup> _<sup>[ ≤]</sup> <sup>[t]</sup> _t_ <sup>[0]</sup> 1 _<sup>[−]</sup> − _<sup>[t]</sup> t _<sup>[W]</sup>_ 0 _<sup>[δ]</sup>_ <sup>[ +]</sup> _<sup>[ w][ ≤]</sup> <sup>[b]</sup> _<sup>[k]</sup> <sup>[,]</sup> <sup>[ and c)]</sup> _<sup>[t]</sup> t <sup>[0]</sup> 1 _<sup>[−]</sup> − _<sup>[t]</sup> t _<sup>[W]</sup>_ 0 _<sup>[δ]</sup>_ <sup>[ +]</sup> _<sup>[ w][ ≤]</sup> b _k_ +1 _≤ b _k . 
+Note that _Y_ 1 = _Y_ 0 + _δ_ and _Y_ 1 = _t[t]_ 0[1] _−[−] t[t] W[W][Y]_[0] _[ −] t[t]_ 0[1] _−[−] t[t] W_[0] _[w]_[ intersect at] � _tt_ 01 _−−tt W_ 0 _[δ]_[ +] _[ y][−]_[1] _[,][t] t_[1] 1 _[−] −[t] t[W]_ 0 _[δ]_[ +] _[ w]_ � _._ I consider the following three cases: a) _b k_ +1 _≤ b k ≤[t] t_[0] 1 _[−] −[t] t[W]_ 0 _[δ]_[ +] _[ w,]_[ b)] _[ b][k]_[+1] _[ ≤][t] t_[0] 1 _[−] −[t] t[W]_ 0 _[δ]_[ +] _[ w][ ≤][b][k][,]_[ and c)] _[t] t_[0] 1 _[−] −[t] t[W]_ 0 _[δ]_[ +] _[ w][ ≤] b k_ +1 _≤ b k ._ 
 
-**==> picture intentionally omitted <==**
+**==> picture [302 x 27] intentionally omitted <==**
 
-**Case a)** _b k +1 _≤ b _k ≤ _<sup>[t]</sup> t <sup>[0]</sup> 1 _<sup>[−]</sup> − _<sup>[t]</sup> t _<sup>[W]</sup>_ 0 _<sup>[δ]</sup>_ <sup>[ +]</sup> _<sup>[ w]</sup>_ If _b k +1 _≤ b _k ≤ _<sup>[t]</sup> t <sup>[0]</sup> 1 _<sup>[−]</sup> − _<sup>[t]</sup> t _<sup>[W]</sup>_ 0 _<sup>[δ]</sup>_ <sup>[ +]</sup> _<sup>[ w,]</sup>_ <sup>[ as illustrated in Figure A.5(a), for any]</sup> _<sup>[ y]</sup>_ <sup>[0]</sup> _<sup>[ < b]</sup> <sup>[k]</sup> <sup>[+1]</sup> _<sup>[ ≤]</sup> <sup>[t]</sup> _t_ <sup>[0]</sup> 1 _<sup>[−]</sup> − _<sup>[t]</sup> t _<sup>[W]</sup>_ 0 _<sup>[δ]</sup>_ <sup>[ +]</sup> _<sup>[ w,]</sup>_ <sup>[ there exists]</sup> 
-
-69 
+**Case a)** _b k_ +1 _≤ b k ≤[t] t_[0] 1 _[−] −[t] t[W]_ 0 _[δ]_[ +] _[ w]_ If _b k_ +1 _≤ b k ≤[t] t_[0] 1 _[−] −[t] t[W]_ 0 _[δ]_[ +] _[ w,]_[ as illustrated in Figure A.5(a), for any] _[ y]_[0] _[ < b][k]_[+1] _[ ≤][t] t_[0] 1 _[−] −[t] t[W]_ 0 _[δ]_[ +] _[ w,]_[ there exists] 
 

@@ -6,7 +6,7 @@ Runway declared distance information when available will be indicated by and is 
 
 ## **Runway Lights** 
 
-Notes regarding approach lighting systems are shown at the bottom of the sketch box. Run- way lights (HIRL) (MIRL) (LIRL) (TDZL)(TDZ/CL) shall be indicated by a note, e.g. HIRL Rwy 9-27. 
+Notes regarding approach lighting systems are shown at the bottom of the sketch box. Runway lights (HIRL) (MIRL) (LIRL) (TDZL)(TDZ/CL) shall be indicated by a note, e.g. HIRL Rwy 9-27. 
 
 Other approach lighting is shown on the airport sketch as a symbol on the side of the runway where they are actually located. Symbols that are shown in negative indicate pilot-controlled lighting. 
 
@@ -20,11 +20,9 @@ When applicable, a Time/Distance Table is provided below the airport sketch. The
 
 ## **Base Information (Copter Approaches Only)** 
 
-Base Information, as required and necessary to identify the MAP area and in the vicinity of the landing area shall be pro- vided. Information shall be limited to and depict significant visual landmark features at and surrounding the MAP area and the heliport/pad of intended landing. 
+Base Information, as required and necessary to identify the MAP area and in the vicinity of the landing area shall be provided. Information shall be limited to and depict significant visual landmark features at and surrounding the MAP area and the heliport/pad of intended landing. 
 
 ## **AIRPORT DIAGRAMS** 
 
-Airport Diagrams are specifically designed to assist in the movement of ground traffic at locations with complex runway/ taxiway configurations. Airport Diagrams are not intended for use in approach and landing or departure operations. An airport diagram assists pilots in identifying their location on the airport, thus reducing requests for “progressive taxi instruc- tions” from controllers. 
-
-115 
+Airport Diagrams are specifically designed to assist in the movement of ground traffic at locations with complex runway/ taxiway configurations. Airport Diagrams are not intended for use in approach and landing or departure operations. An airport diagram assists pilots in identifying their location on the airport, thus reducing requests for “progressive taxi instructions” from controllers. 
 

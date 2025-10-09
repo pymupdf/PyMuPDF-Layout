@@ -24,17 +24,15 @@ The supplies delivered by the contractor to the contracting authority must be in
 
 The supplies delivered must: 
 
-- correspond to the description given in the tender specifications and possess the characteristics of the supplies provided by the contractor to the contracting authority as a sample or model; 
+- (a) correspond to the description given in the tender specifications and possess the characteristics of the supplies provided by the contractor to the contracting authority as a sample or model; 
 
-- be fit for any specific purpose required of them by the contracting authority and made known to the contractor at the time of conclusion of this contract and accepted by the contractor; 
+- (b) be fit for any specific purpose required of them by the contracting authority and made known to the contractor at the time of conclusion of this contract and accepted by the contractor; 
 
-- be fit for the purposes for which supplies of the same type are normally used; 
+- (c) be fit for the purposes for which supplies of the same type are normally used; 
 
-- demonstrate the high quality standards and performance which are normal in supplies of the same type and which the contracting authority can reasonably expect, given the nature of the supplies and taking into account any public statements on the specific characteristics of the supplies made by the contractor, the producer or its representative, particularly in advertising or on labelling; in accordance with the state of the art in the industry and the provisions of this contract, in particular the tender specifications and the terms of its tender. 
+- (d) demonstrate the high quality standards and performance which are normal in supplies of the same type and which the contracting authority can reasonably expect, given the nature of the supplies and taking into account any public statements on the specific characteristics of the supplies made by the contractor, the producer or its representative, particularly in advertising or on labelling; in accordance with the state of the art in the industry and the provisions of this contract, in particular the tender specifications and the terms of its tender. 
 
-- be packaged according to the usual method for supplies of the same type or, failing this, in a way designed to preserve and protect them. 
+- (e) be packaged according to the usual method for supplies of the same type or, failing this, in a way designed to preserve and protect them. 
 
 ## **II.4.11 Remedy** 
-
-14 
 

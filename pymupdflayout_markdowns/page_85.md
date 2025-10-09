@@ -1,22 +1,22 @@
 ## **SPECIFICATIONS** 
 
-- 
+- 1. Length of mechanical tube: 160mm 
 
-- 
+- 2. Conjugate distance between object and image: 195mm 
 
-- 
+- 3. Condenser: Abbe; numerical aperture: NA1.25 (oil immersion) 
 
-- 
+- 4. Illumination: Input 110V or 200V; Output: 20W 
 
-- 
+- 5. Fine adjustment range: .002mm 
 
-- 
+- 6. Coarse Adjustment Range: 20mm 
 
-- 
+- 7. Shift or Mechanical Stage: Longitude - 40mm; Transversal - 70mm 
 
-- 
+- 8. Condenser Elevation Range: 15mm 
 
-- 
+- 9. Iris diaphragm aperture: 2mm-30mm 
 
 ## **Objective Specifications** 
 
@@ -74,19 +74,15 @@ Note: For oil immersion, please use the index of refraction 1.515 oil
 
 ## **OPERATION** 
 
-- assembling instrument. 
+- 1. Remove all components from package. Identify all parts before assembling instrument. 
 
-- turret. Tighten and secure to maximum finger pressure only. 
+- 2. Attach 4x, 10x and 40x objectives by screwing into revolving turret. Tighten and secure to maximum finger pressure only. 
 
-- NOTE: The cover glass must face upward (the thinner glass is the cover glass), otherwise when the 40x objective is used the specimen cannot be observed. Observation is best when the thickness of the cover glass is 0.1-1.1mm and the cover glass is 0.17mm. 
+- 3. Place the specimen on the stage and secure with spring clips. NOTE: The cover glass must face upward (the thinner glass is the cover glass), otherwise when the 40x objective is used the specimen cannot be observed. Observation is best when the thickness of the cover glass is 0.1-1.1mm and the cover glass is 0.17mm. 
 
 thickness of the cover glass is 0.1-1.1mm and the cover glass 
 
-- lamp ON. 
+- 4. Plug power cord into an electrical outlet. Turn microscope lamp ON. 
 
-- first. The 10x objective provides a larger field of view making it easier to search the specimen. 
-
-**15** 
-
-**16** 
+- 5. Observe the specimen using the lowest magnification objective first. The 10x objective provides a larger field of view making it easier to search the specimen. 
 

@@ -36,5 +36,3 @@ Fuel availability indicated by use of tick marks around the basic airport symbol
 
 Other airports with or without fuel: 
 
-15 
-

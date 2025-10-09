@@ -1,24 +1,24 @@
 General Administrative and Submission Clauses 
 
-- An image of the signature copy-pasted on the document is not acceptable, the signature should be made by hand (the document should be printed, hand signed and then scanned to pdf or image format). 
+-  An image of the signature copy-pasted on the document is not acceptable, the signature should be made by hand (the document should be printed, hand signed and then scanned to pdf or image format). 
 
 **Ad ii)** a copy of the corporate registration document (e.g. extract from the national register of companies, Official Gazette, etc.) or other proof of establishment (formation) issued by a national authority shall also be attached the VIF. 
 
-**N.B.:** Only applicable if the registration document supplied by the Tenderer as a proof of its legal capacity is not showing the below listed information (see **point 6.4** below in conjunction with **point 1.7.3 of the ‘Terms of Reference’). 
+**N.B.:** Only applicable if the registration document supplied by the Tenderer as a proof of its legal capacity is not showing the below listed information (see **point 6.4** below in conjunction with **point 1.7.3** of the ‘Terms of Reference’). 
 
 The registration document shall, as a minimum, include the following information: 
 
-- official registered name; 
+-  official registered name; 
 
-- official registered address (seat/Head Office); 
+-  official registered address (seat/Head Office); 
 
-- alternative addresses, if any; 
+-  alternative addresses, if any; 
 
-- name and title of legal representative(s); 
+-  name and title of legal representative(s); 
 
-- registration number; 
+-  registration number; 
 
-- VAT number (if available on the same document). 
+-  VAT number (if available on the same document). 
 
 ## Format: 
 
@@ -41,8 +41,4 @@ Where the `Terms of Reference` refers to ‘Tenderer’ it shall be considered a
 Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract. 
 
 Please be aware that after the UK's withdrawal from the EU, the rules of access to EU procurement procedures of economic operators established in third countries will apply to candidates or tenderers 
-
-Last updated: June 2020 
-
-Page 17 of 21 
 

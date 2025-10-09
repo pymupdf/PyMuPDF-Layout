@@ -1,6 +1,6 @@
 The Company re c o rded an $800,000 write-down of certain ATM hard w a re assets associated with the p u rchase of the Budapest Bank ATM network in May 2000 and the Service Bank ATM network in M a rch 1999 (see Note 10 to the Consolidated Financial Statements – Asset Write Down). In addition, the Company re c o rded a one-time gain in its Central European Sub-segment of $1.2 million. The gain is related to a change in Hungarian law that eliminates a major portion of the Company’s liability for import taxes on ATM hard w a re to the Hungarian government. The gain is included as an element of direct operating costs. 
 
-**==> picture intentionally omitted <==**
+**==> picture [118 x 131] intentionally omitted <==**
 
 The operating expenses for the Central European Sub-segment totaled $21.7 million for the year ended December 31, 2000 as compared to $20.7 million for the year ended December 31, 1999, an i n c rease of 5%. The increase in operating expenses is largely the result of an increase in the number of ATMs operated by the Company from 1,203 at December 31, 1999 to 1,391 at December 31, 2000, and increased transaction volumes. 
 
@@ -31,6 +31,4 @@ Segment salaries and benefits increased to $7.4 million for the year ended Decem
 Selling, general and administrative costs allocated to the Network Services Segment decreased to $2.4 million for the year ended December 31, 2000 from $2.9 million for the year ended December 31, 1999.  The $500,000 cost decrease for the year ended December 31, 2000 results fro m the net effect of (1) a $600,000 increase in the allocation of costs from the selling, general and administrative line of the Budapest pro c e s s i n g center to the operating cost line, as discussed above, from $2.9 million for the year ended December 31, 1999 to $3.5 for the year ended December 31, 2000 and (2) a $100,000 increase in costs associated with the expansion of the Company’s network operations. 
 
 D e p reciation and amortization increased to $8.0 million for the year ended December 31, 2000 from $7.4 million for the year ended December 31, 1999. The increases are due primarily to the increase in the number of owned ATMs as discussed pre v i o u s l y. The Company also re c o rded an $800,000 write-down of certain ATM hard w a re assets for the year ended December 31, 2000, as previously discussed. 
-
-1 7 
 

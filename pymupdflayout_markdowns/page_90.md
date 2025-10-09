@@ -4,7 +4,7 @@ Directors’ Report
 
 The following summarises the performance of the Group over the last five years: 
 
-**==> picture intentionally omitted <==**
+**==> picture [493 x 88] intentionally omitted <==**
 
 ## Short-Term Incentives 
 
@@ -12,7 +12,5 @@ Effective from 1 July 2012, the Group implemented an STI Plan. The objectives of
 
 Key features of the STI Plan are outlined in the following table. 
 
-**==> picture intentionally omitted <==**
-
-www.kingsgate.com.au 
+**==> picture [490 x 363] intentionally omitted <==**
 

@@ -1,4 +1,4 @@
-_EC - FWC services Dec 2018 Contract no: [complete] 
+_EC - FWC services Dec 2018 Contract no: [complete]_ 
 
 If moral rights on parts of the _results_ protected by copyright may exist, the contractor must obtain the consent of _creators_ regarding the granting or waiver of the relevant moral rights in accordance with the applicable legal provisions and be ready to provide documentary evidence upon request. 
 
@@ -16,11 +16,11 @@ When making use of the _results_ , the contractor must declare that they have be
 
 ## **II.14. FORCE MAJEURE** 
 
-- If a party is affected by _force majeure_ , it must immediately _notify_ the other party, stating the nature of the circumstances, their likely duration and foreseeable effects. 
+- **II.14.1** If a party is affected by _force majeure_ , it must immediately _notify_ the other party, stating the nature of the circumstances, their likely duration and foreseeable effects. 
 
-- A party is not liable for any delay or failure to perform its obligations under the FWC if that delay or failure is a _result_ of _force majeure_ . If the contractor is unable to fulfil its contractual obligations owing to _force majeure_ , it has the right to remuneration only for the services actually provided. 
+- **II.14.2** A party is not liable for any delay or failure to perform its obligations under the FWC if that delay or failure is a _result_ of _force majeure_ . If the contractor is unable to fulfil its contractual obligations owing to _force majeure_ , it has the right to remuneration only for the services actually provided. 
 
-- The parties must take all necessary measures to limit any damage due to _force majeure_ . 
+- **II.14.3** The parties must take all necessary measures to limit any damage due to _force majeure_ . 
 
 ## **II.15. LIQUIDATED DAMAGES** 
 
@@ -33,6 +33,4 @@ If the contractor fails to perform its contractual obligations within the applic
 where: 
 
 _V_ is the price of the relevant purchase or deliverable or _result_ ; 
-
-25 
 

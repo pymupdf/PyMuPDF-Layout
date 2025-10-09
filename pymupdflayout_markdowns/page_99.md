@@ -4,7 +4,7 @@
 
 ## **Proved Reserve Growth** Bcfe at end of year  
 
-**Total Resource Base Growth** <sup>[*]</sup> Bcfe at end of year  
+**Total Resource Base Growth**[*] Bcfe at end of year  
 
-**==> picture intentionally omitted <==**
+**==> picture [582 x 688] intentionally omitted <==**
 

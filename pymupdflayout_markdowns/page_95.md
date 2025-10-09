@@ -1,4 +1,4 @@
-**Santos is investing in the future of Australia’s petroleum industry through the funding of the Australian School of Petroleum at the **University of Adelaide.** 
+**Santos is investing in the future of Australia’s petroleum industry through the funding of the Australian School of Petroleum at the University of Adelaide.** 
 
 This long-term program is designed to ensure that the way employees work together enhances Santos’ ability to be successful. 
 
@@ -8,7 +8,7 @@ With the exception of a small number of project teams, all non-award based posit
 
 One of the first tasks undertaken was a voluntary employee survey to identify the gaps between the existing culture and the desired culture. The outcomes of the survey will assist in the development of programs and activities that will better align work practices with Santos’ strategic goals. 
 
-**TRAINING AND DEVELOPING PEOPLE 
+**TRAINING AND DEVELOPING PEOPLE** 
 
 Making sure training and development supports current and future business requirements, and provides opportunities for people to develop their skills to achieve optimum performance, are key aspects of Santos’ human resources strategy. 
 
@@ -20,7 +20,7 @@ Santos has a number of long-term projects underway which will optimise the subst
 
 ## **BANKSIA AWARDS** 
 
-Santos was selected in 2004 as a finalist in the Banksia Environmental Awards for the work undertaken in the Company- led initiative to protect the world-renowned Coongie Lakes, resulting in the area being declared a new National Park by the South Australian Government. 
+Santos was selected in 2004 as a finalist in the Banksia Environmental Awards for the work undertaken in the Companyled initiative to protect the world-renowned Coongie Lakes, resulting in the area being declared a new National Park by the South Australian Government. 
 
 As a finalist for this award Santos was recognised for its leadership role in bringing together a group of disparate parties to develop a Memorandum of Understanding recommending further protection for the Coongie Lakes. 
 
@@ -32,7 +32,7 @@ This technology will be implemented where possible
 
 ## **OIL SPILL VOLUMES** 
 
-m <sup>[3]</sup> 
+m[3] 
 
 2000 
 
@@ -54,7 +54,7 @@ There was a substantial reduction in the volume of hydrocarbons released to the 
 
 Santos released its Greenhouse Policy in 2004 to drive performance improvements in this area through reducing emissions and producing oil and gas more efficiently. 
 
-Santos’ Greenhouse Policy is being rolled out across the organisation through cross- functional greenhouse gas teams that have the right skill sets and responsibilities to progress this initiative. These teams will manage Greenhouse Policy and regulation, carbon management and trading opportunities, and energy efficiency. A key internal driver for emissions reduction will be the promotion of energy efficiency. 
+Santos’ Greenhouse Policy is being rolled out across the organisation through crossfunctional greenhouse gas teams that have the right skill sets and responsibilities to progress this initiative. These teams will manage Greenhouse Policy and regulation, carbon management and trading opportunities, and energy efficiency. A key internal driver for emissions reduction will be the promotion of energy efficiency. 
 
 Santos is committed to achieving 
 
@@ -63,6 +63,4 @@ effective emission reduction targets, to the pursuit of energy efficiency strate
 Lytton oil spill effect 
 
 ’03 ’04 
-
-Annual Report 2004 27 
 

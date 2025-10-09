@@ -3,9 +3,9 @@
 
 
 
-**→ All of the above specified evidence of economic and financial capacity must be provided with the tender. 
+**→ All of the above specified evidence of economic and financial capacity must be provided with the tender.** 
 
-## **3.2.3. Technical and professional capacity 
+## **3.2.3. Technical and professional capacity** 
 
 Tenderers must comply with the following selection criteria in order to prove that they have the necessary technical and professional capacity to perform the contract. 
 
@@ -18,7 +18,5 @@ Tenderers must comply with the following selection criteria in order to prove th
 
 
 
-15 Specific contracts under a framework contract, direct contracts (i.e. not under a framework contract) or sub- contracts. 
-
-20 
+15 Specific contracts under a framework contract, direct contracts (i.e. not under a framework contract) or subcontracts. 
 
