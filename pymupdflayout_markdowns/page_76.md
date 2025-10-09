@@ -10,5 +10,3 @@ _Figure 6-5   Advanced pool settings_
 
 When advanced pool settings are enabled, you can additionally select an extent size at creation time, as shown in Figure 6-6 on page 195. 
 
-**194** Implementing the IBM Storwize V7000 with IBM Spectrum Virtualize V8.2.1 
-

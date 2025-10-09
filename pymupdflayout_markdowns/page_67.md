@@ -1,8 +1,8 @@
 Basic English Language Skills 
 
-- Each paragraph should contain one main thought or idea, and there should be a logical link between each paragraph and the next. 
+- • Each paragraph should contain one main thought or idea, and there should be a logical link between each paragraph and the next. 
 
-- Make sure that you focus on answering the question – only include relevant information, and remember to present logical arguments in support of your answer. 
+- • Make sure that you focus on answering the question – only include relevant information, and remember to present logical arguments in support of your answer. 
 
 8. Proofread your assignment before handing it in. Tip: read your answers out loud to make sure that they sound logical. 
 
@@ -14,7 +14,7 @@ Read through the feedback, and learn from your mistakes. This will help you to p
 
 ## TYPES OF QUESTIONS THAT YOU WILL FREQUENTLY COME ACROSS IN ASSIGNMENTS 
 
-In your assignments, you will often be asked to write short paragraphs or longer essays in which you have to “explain” a particular concept, “iden- tify” certain features, or “prove” a certain point. 
+In your assignments, you will often be asked to write short paragraphs or longer essays in which you have to “explain” a particular concept, “identify” certain features, or “prove” a certain point. 
 
 It’s sometimes difficult to figure out exactly what these questions mean -- which is why we are providing you with the following explanations: 
 

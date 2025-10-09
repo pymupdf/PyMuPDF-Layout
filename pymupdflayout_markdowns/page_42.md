@@ -12,13 +12,13 @@ That airspace from 18,000’ MSL to and including FL 450, including Santa Barbar
 
 ## **Class B** 
 
-_Low Chart Only Controlled _Airspace_ 
+_Low Chart Only Controlled Airspace_ 
 
 _Screened Blue with a Solid Blue Outline_ 
 
 _Example:_ 
 
-That airspace from the surface to 10,000’ MSL (unless otherwise designated) surrounding the nation’s busi- est airports. Each Class B airspace area is individually tailored and consists of a surface area and two or more layers. 
+That airspace from the surface to 10,000’ MSL (unless otherwise designated) surrounding the nation’s busiest airports. Each Class B airspace area is individually tailored and consists of a surface area and two or more layers. 
 
 ## **Mode C Area** A Solid Blue Outline 
 
@@ -27,6 +27,4 @@ That airspace from the surface to 10,000’ MSL (unless otherwise designated) su
 _Low Chart Only_ That airspace within 30 NM of the primary airports of Class B airspace and within 10 NM of designated airports. _Controlled_ Mode-C transponder equipment is required. (See FAR _Airspace_ 91.215) 
 
 _See Chart example above._ 
-
-83 
 

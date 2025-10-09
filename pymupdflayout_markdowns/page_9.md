@@ -2,23 +2,23 @@ where
 
 
 
-**==> formula intentionally omitted <==**
+**==> formula [295 x 56] intentionally omitted <==**
 
 and the inverse covariance matrix 
 
 
 
-**==> formula intentionally omitted <==**
+**==> formula [339 x 55] intentionally omitted <==**
 
-The fourth set of observational data is 12 Hubble evolution data from [21] and [22], its χ <sup>[2]</sup> H <sup>[is defined as]</sup> 
+The fourth set of observational data is 12 Hubble evolution data from [21] and [22], its χ[2] H[is defined as] 
 
-**==> formula intentionally omitted <==**
+**==> formula [308 x 38] intentionally omitted <==**
 
 Note that redshifts of these data fall in the region z ∈ (0, 1.75). 
 
 In summary, 
 
-**==> formula intentionally omitted <==**
+**==> formula [316 x 17] intentionally omitted <==**
 
 ## IV. FITTING RESULTS 
 
@@ -34,7 +34,5 @@ At first, we divide the whole region of redshift into 4 bins (i.e., m = 3), the 
 
 
 
-TABLE I: The best-fitted χ <sup>[2]</sup> of four data sets for Model I, CPL model and the ΛCDM model. 
-
-8 
+TABLE I: The best-fitted χ[2] of four data sets for Model I, CPL model and the ΛCDM model. 
 

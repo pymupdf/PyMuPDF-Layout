@@ -10,9 +10,7 @@ An extensive public-awareness campaign was launched on television and radio, in 
 
 In December 2003, Shentel mailed out 120,000 ShentelPages directories to every home and business in Shenandoah, Rockingham, Frederick, Page, Clarke and Warren counties. ShentelPages now has a potential audience that exceeds 300,000 readers. The 2004 directory continues to be an important local resource.  In addition to telephone listings, it contains both general and county-specific information - from ZIP codes to area codes, and from international dialing instructions to the listing of regional interstate exits. 
 
-Through ShentelPages, businesses have a new way of reaching thousands more potential customers within the six- county area to sell their products and services. ShentelPages is bundled with our electronic version, ShentelPages.com.  This service allows area residents to use their computer and the Internet to let their fingers do the walking. 
+Through ShentelPages, businesses have a new way of reaching thousands more potential customers within the sixcounty area to sell their products and services. ShentelPages is bundled with our electronic version, ShentelPages.com.  This service allows area residents to use their computer and the Internet to let their fingers do the walking. 
 
 Just like our first book in 1906, the 2004 ShentelPages provides area residents with a quick and easy way to stay in touch. 
-
-SHENANDOAH TELECOMMUNICATIONS COMPANY ■ 8 
 

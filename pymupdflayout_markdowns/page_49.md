@@ -1,10 +1,10 @@
 Toutefois, lorsque les intérêts calculés sont d'un montant inférieur ou égal à 200 EUR, ils ne sont versés au contractant (ou chef de file dans le cas d'une offre conjointe) que sur demande présentée dans les deux mois qui suivent la réception du paiement tardif. 
 
-## **II.21 R **ECOUVREMENT** 
+## **II.21 R ECOUVREMENT** 
 
-- Si un montant doit faire l'objet d'un recouvrement aux termes du CC, le contractant doit reverser ledit montant au pouvoir adjudicateur. 
+- **II.21.1** Si un montant doit faire l'objet d'un recouvrement aux termes du CC, le contractant doit reverser ledit montant au pouvoir adjudicateur. 
 
-- 
+- **II.21.2 Procédure de recouvrement** 
 
 Avant de procéder au recouvrement, le pouvoir adjudicateur doit _notifier formellement_ au contractant son intention de recouvrer le montant concerné, en précisant le montant dû et les motifs du recouvrement et en invitant le contractant à faire part de ses observations dans un délai de 30 jours à compter de la réception de la notification. 
 
@@ -12,11 +12,11 @@ Si aucune observation n'a été présentée ou si, malgré les observations pré
 
 Si le contractant n'a toujours pas effectué le paiement à la date d'échéance, le pouvoir adjudicateur peut, après en avoir informé le contractant par écrit, recouvrer les montants dus: 
 
-- par compensation avec des sommes que l'Union doit au contractant; 
+- a) par compensation avec des sommes que l'Union doit au contractant; 
 
-- par mobilisation de la garantie financière si le contractant a remis une telle garantie au pouvoir adjudicateur; 
+- b) par mobilisation de la garantie financière si le contractant a remis une telle garantie au pouvoir adjudicateur; 
 
-- par une action en justice. 
+- c) par une action en justice. 
 
 ## **II.21.3 Intérêts de retard** 
 
@@ -30,11 +30,9 @@ Si le contrat est signé par un groupement (offre conjointe), ce groupement est 
 
 Si le chef de file n'a toujours pas effectué l'intégralité du paiement à la date d'échéance et si le montant dû ne peut être compensé ou ne peut être compensé que partiellement conformément à l'article II.21.2, point a), le pouvoir adjudicateur peut réclamer le montant restant dû à un ou plusieurs autres membres du groupement en leur _notifiant_ à chacun une note de débit conformément aux dispositions de l'article II.21.2. 
 
-## **II.22 C **ONTRÔLES ET AUDITS** 
+## **II.22 C ONTRÔLES ET AUDITS** 
 
-- Le pouvoir adjudicateur et l'Office européen de lutte antifraude (OLAF) peuvent procéder à un contrôle ou exiger un audit de l' _exécution du CC_ . Ces contrôles et audits peuvent être effectués par le personnel de l'OLAF ou par tout autre organisme externe mandaté par ce dernier à cet effet. 
+- **II.22.1** Le pouvoir adjudicateur et l'Office européen de lutte antifraude (OLAF) peuvent procéder à un contrôle ou exiger un audit de l' _exécution du CC_ . Ces contrôles et audits peuvent être effectués par le personnel de l'OLAF ou par tout autre organisme externe mandaté par ce dernier à cet effet. 
 
 Ces contrôles et audits peuvent être lancés à tout moment durant la fourniture des services et jusqu'à cinq ans à compter du paiement du solde du dernier _bon de commande_ émis au titre du CC. 
-
-32 **FR** 
 

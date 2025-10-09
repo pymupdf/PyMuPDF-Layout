@@ -8,13 +8,13 @@ Mail sent to the contracting authority is deemed to have been received by the co
 
 _Formal notifications_ are considered to have been received by the receiving party on the date of receipt indicated in the proof received by the sending party that the message was delivered to the specified recipient. 
 
-## **II.5.3. Submission of e-documents via e-PRIOR 
+## **II.5.3. Submission of e-documents via e-PRIOR** 
 
-If provided for in the special conditions, the exchange of electronic documents (e- documents) such as invoices between the parties is automated through the use of the _e- PRIOR platform. This platform provides two possibilities for such exchanges: either through web services (machine-to-machine connection) or through a web application (the _supplier portal_ ). 
+If provided for in the special conditions, the exchange of electronic documents (edocuments) such as invoices between the parties is automated through the use of the _ePRIOR_ platform. This platform provides two possibilities for such exchanges: either through web services (machine-to-machine connection) or through a web application (the _supplier portal_ ). 
 
 The contracting authority takes the necessary measures to implement and maintain electronic systems that enable the _supplier portal_ to be used effectively. 
 
-In the case of machine-to-machine connection, a direct connection is established between the parties’ _back offices_ . In this case, the parties take the measures necessary on their side to implement and maintain electronic systems that enable the machine-to-machine connection to be used effectively. The electronic systems are specified in the _interface control document . The contractor (or leader in the case of a joint tender) must take the necessary technical measures to set up a machine-to-machine connection and at its own cost. 
+In the case of machine-to-machine connection, a direct connection is established between the parties’ _back offices_ . In this case, the parties take the measures necessary on their side to implement and maintain electronic systems that enable the machine-to-machine connection to be used effectively. The electronic systems are specified in the _interface control document_ . The contractor (or leader in the case of a joint tender) must take the necessary technical measures to set up a machine-to-machine connection and at its own cost. 
 
 If communication via the _supplier portal_ or via the web services (machine-to-machine connection) is hindered by factors beyond the control of one party, it must _notify_ the other immediately and the parties must take the necessary measures to restore this communication. 
 
@@ -22,7 +22,5 @@ If it is impossible to restore the communication within two working days, one pa
 
 When a change in the _interface control document_ requires adaptations, the contractor (or leader in the case of a joint tender) has up to six months from receipt of the _notification_ to implement this change. This period can be shortened by mutual agreement of the parties. This period does not apply to urgent measures required by the security policy of the contracting authority to ensure integrity, confidentiality and non-repudiation of information and the availability of _e-PRIOR_ , which must be applied immediately. 
 
-## **II.5.4. Validity and date of e-documents 
-
-17 
+## **II.5.4. Validity and date of e-documents** 
 

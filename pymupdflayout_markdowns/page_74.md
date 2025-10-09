@@ -1,9 +1,8 @@
-- 
+- 3. Create the A → C relationship (or the B → C relationship). 
 
-- 
+- 4. Synchronize to system C, and ensure that A → C is established: 
 
-- A → B, A → C, A → D, B → C, B → D, and C → D 
-- A → B, A → C, and B → C 
+- – A → B, A → C, A → D, B → C, B → D, and C → D – A → B, A → C, and B → C 
 
 Figure 11-84 shows an example of a triangle topology (A → B, A → C, and B → C). 
 
@@ -22,6 +21,4 @@ _Figure 11-86   Daisy-chain topology_
 Although systems can have up to three partnerships, volumes can be part of only one remote copy relationship, for example A → B. 
 
 **System partnership intermix:** All of the preceding topologies are valid for the intermix of the IBM SAN Volume Controller with the Storwize V7000 if the Storwize V7000 is set to the replication layer and running IBM Spectrum Virtualize code 6.3.0 or later. 
-
-Chapter 11. Advanced Copy Services **517** 
 

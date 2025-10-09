@@ -8,13 +8,13 @@ _Contract no: [complete]_
 
 The contractor (or leader in the case of a joint tender) must send an invoice for payment of the balance due under a specific contract, as provided for in the tender specifications and accompanied by the following: 
 
-- a list of all pre-existing rights to the results or parts of the results or a declaration stating that 
+-  a list of all pre-existing rights to the results or parts of the results or a declaration stating that 
 
-- 
+- there are no such pre-existing rights, as provided for in Article II.13.4 (Annex IV); 
 
-- relevant progress report or deliverable result, as stated in the specific contract. 
+-  relevant progress report or deliverable result, as stated in the specific contract. 
 
-2. The contracting authority must approve the submitted documents or deliverables and pay within **60 days from receipt of the invoice. 
+2. The contracting authority must approve the submitted documents or deliverables and pay within **60 days from receipt of the invoice.** 
 
 3. If the contracting authority has observations to make, it must send them to the contractor (or leader in the case of a joint tender) and suspend the time limit for payment in accordance with Article II.21.7. The contractor (or leader in the case of a joint tender) has fifteen days to submit additional information or corrections or a new version of the documents if the contracting authority requires it. 
 
@@ -45,6 +45,4 @@ European Agency for Safety and Health at Work Communication and Promotion Unit S
 ## SPAIN 
 
 E-mail: information@osha.europa.eu 
-
-7 
 

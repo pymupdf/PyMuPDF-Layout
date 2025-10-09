@@ -10,11 +10,11 @@ Lot 2: Provision of infrastructure for Operational Cooperation and exercises
 
 Lot 3: Audio-visual material development, Journalistic, Public Affairs and Back Office Support 
 
-**Reference:** ENISA F-COD-20-T03 **Procurement procedure:** Open call for tender (with three (3) Lots) **Expiry date and time: 13 **<sup>[th]</sup> March 2020 at 18:00 (CET) Central European time 
+**Reference:** ENISA F-COD-20-T03 **Procurement procedure:** Open call for tender (with three (3) Lots) **Expiry date and time: 13[th] March 2020 at 18:00 (CET) Central European time** 
 
 Dear Madam/Sir, 
 
-The European Union Agency for Cybersecurity (ENISA) referred to below as _the contracting authority,_ is planning to award the contract(s) resulting from the above procurement procedure. The procurement documents consist of the contract notice, this invitation letter, the draft contract(s) and tender specifications with their respective annexes. All documents are available at the following TED e-Tendering website <sup>[1]</sup> : 
+The European Union Agency for Cybersecurity (ENISA) referred to below as _the contracting authority,_ is planning to award the contract(s) resulting from the above procurement procedure. The procurement documents consist of the contract notice, this invitation letter, the draft contract(s) and tender specifications with their respective annexes. All documents are available at the following TED e-Tendering website[1] : 
 
 ## **https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5999** 
 
@@ -22,7 +22,7 @@ Economic operators interested in this contract are invited to submit a tender in
 
 ## **1. Submission of tenders.** 
 
-Tenders must be submitted exclusively via the electronic submission system (e-Submission) available from the above website <sup>[2]</sup> and accessible on the Funding and Tenders Opportunities portal (F&T portal) <sup>[3]</sup> , Tenders submitted in any other way (e.g. e-mail or by letter) will be disregarded. 
+Tenders must be submitted exclusively via the electronic submission system (e-Submission) available from the above website[2] and accessible on the Funding and Tenders Opportunities portal (F&T portal)[3] , Tenders submitted in any other way (e.g. e-mail or by letter) will be disregarded. 
 
 In order to submit a tender using e-Submission, economic operators (each member of the group in the case of a joint tender) will need to register in the European Commission's Participant Register - an online register of organisations participating in EU calls for tenders or proposals. On registering each organisation obtains a Participant Identification Code (PIC, 9-digit number) which acts as its 
 

@@ -16,43 +16,43 @@ Warranty Information................................ Back Cover
 
 Congratulations on your purchase of this high quality BARSKA microscope. With proper care, this microscope will provide many years of use. Please read the following instructions before operating this instrument. 
 
-- been carefully assembled at the factory and should only be examined by a factory-trained technician. 
+- 1. Do not attempt to disassemble the instrument. This product has been carefully assembled at the factory and should only be examined by a factory-trained technician. 
 
-- indoor temperature range of 32 <sup>[o]</sup> F to 104 <sup>[o]</sup> F. 
+- 2. This instrument should only be used in an environment with an indoor temperature range of 32[o] F to 104[o] F. 
 
-- 
+- 3. Do not use this instrument in an environment with a lot of dust. 
 
 ## **Cover the instrument when not in use.** 
 
-- 
+- 4. Do not subject the instrument to shock. 
 
 ## **MAINTENANCE** 
 
 Proper care and storage of this instrument is essential. Please read the following guidelines: 
 
-- 
+- 1. Keep the instrument in a dry and moisture-free location. 
 
-- 
+- 2. Do not expose to acid, alkali fumes or moisture. 
 
-- 
+- 3. Keep optical parts clean and free of dust. To clean optical parts 
 
-- 
+- gently wipe with lens cleaning tissue and a mixture of alcohol 
 
-- 
+- and diethyl ether. Depending on weather conditions, the 
 
-- 
+- following are the recommended mixture ratios: 
 
 Wet weather: 1:2 
 
 Dry Weather: 1:1 
 
-- 
+- 4. After use, cover the instrument with the plastic dust cover. 
 
-- remove the eyepiece and oculars and store in a moisture-proof container. 
+- 5. If instrument is to be stored for an extended period of time, remove the eyepiece and oculars and store in a moisture-proof container. 
 
 ## **MODEL AY11240/AY11238** 
 
-**==> picture intentionally omitted <==**
+**==> picture [346 x 237] intentionally omitted <==**
 
 ## **MICROSCOPE USAGE** 
 
@@ -60,9 +60,5 @@ BARSKA Model AY11240 and Model AY11238 are designed for biological studies such 
 
 ## **CONSTRUCTION** 
 
-BARSKA Model AY11240 is a fixed tube type. For comfortable observation, the arm can be easily tilted at any angle from 90 <sup>[o]</sup> vertical to 45 <sup>[o]</sup> level. It is also equipped with a coarse adjustment and fine adjustment as well as a space limiter to protect the objective from contacting and damaging the specimen. BARSKA Model AY11238 features a monocular tube that is slanted at a 45 <sup>[o]</sup> angle. The head rotates 360 <sup>[o]</sup> . The Eyepiece Set Screw prevents the eyepiece from falling out of the tube. 
-
-**2** 
-
-**1** 
+BARSKA Model AY11240 is a fixed tube type. For comfortable observation, the arm can be easily tilted at any angle from 90[o] vertical to 45[o] level. It is also equipped with a coarse adjustment and fine adjustment as well as a space limiter to protect the objective from contacting and damaging the specimen. BARSKA Model AY11238 features a monocular tube that is slanted at a 45[o] angle. The head rotates 360[o] . The Eyepiece Set Screw prevents the eyepiece from falling out of the tube. 
 

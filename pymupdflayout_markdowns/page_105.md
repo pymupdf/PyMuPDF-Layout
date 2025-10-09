@@ -59,7 +59,5 @@ Reserves are defined as those quantities of petroleum which are anticipated to b
 
 forward. Santos reports reserves net of the gas required for processing and transportation to the customer. Reserves reported are based on, and accurately reflect, information compiled by full-time employees of the Company who have the requisite qualifications and experience prescribed by the ASX Listing Rules. 
 
-**EXTERNALLY REVIEWED BOOKING PROCESS Santos’ reserves processes and procedures were reviewed by independent expert, Gaffney, Cline & Associates, and found to be ‘appropriate to providing robust estimates of Santos’ reserve position in accordance with international industry practice’. 
-
-Annual Report 2004 25 
+**EXTERNALLY REVIEWED BOOKING PROCESS** Santos’ reserves processes and procedures were reviewed by independent expert, Gaffney, Cline & Associates, and found to be ‘appropriate to providing robust estimates of Santos’ reserve position in accordance with international industry practice’. 
 

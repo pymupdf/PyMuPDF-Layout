@@ -14,17 +14,15 @@ _Figure 3-8   IBM Cloud Pak for Automation benefits_
 
 Additional features of the IBM Cloud Pak for Automation are: 
 
-- Drive scale, speed, and assist with complex knowledge work. 
+- � Drive scale, speed, and assist with complex knowledge work. 
 
-- Automate complex and less-structured business processes and optimize lighter customer experiences for task efficiency. 
+- � Automate complex and less-structured business processes and optimize lighter customer experiences for task efficiency. 
 
-- Drive growth with enhanced customer experiences and new business models. 
+- � Drive growth with enhanced customer experiences and new business models. 
 
-- Enable a few expert employees to create great customer experiences at scale. 
+- � Enable a few expert employees to create great customer experiences at scale. 
 
-- Integrated automation platform. 
+- � Integrated automation platform. 
 
-- Measure, in real time, the value of human and automated work across your business. 
-
-Chapter 3. IBM Cloud Paks - Middleware anywhere **43** 
+- � Measure, in real time, the value of human and automated work across your business. 
 

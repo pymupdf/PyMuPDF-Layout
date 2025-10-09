@@ -7,7 +7,7 @@
 
 **LOT 1 and LOT 2** 
 
-**Criterion T2 Capacity to deliver within a quality and security framework in compliance with **relevant ISO standards 
+**Criterion T2 Capacity to deliver within a quality and security framework in compliance with relevant ISO standards** 
 
 |relevant ISO|standards|Col3|
 |---|---|---|
@@ -18,6 +18,4 @@
 |||oftheorganisation(s)andalllocation(s)thatwillbeusedby|
 
 
-
-26 
 

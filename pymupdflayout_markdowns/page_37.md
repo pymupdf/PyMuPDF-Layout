@@ -18,7 +18,7 @@ MEA for aircraft utilizing VHF NAVAID of 15000’ MEA for aircraft utilizing RNA
 
 MOCA of 13300’ 
 
-**==> picture intentionally omitted <==**
+**==> picture [11 x 23] intentionally omitted <==**
 
 ## **MCA and MTA Example at a NAVAID** 
 
@@ -32,7 +32,5 @@ Aircraft traveling E on V520 and turning to V330 on a W heading must turn at alt
 
 Aircraft traveling E on V330 and turning to V520 on a W heading must turn at altitude of 16000’ or higher 
 
-Aircraft traveling NW on V328 and turning to V465 on a SW head- ing must turn at altitude of 15100’ or higher. 
-
-80 
+Aircraft traveling NW on V328 and turning to V465 on a SW heading must turn at altitude of 15100’ or higher. 
 

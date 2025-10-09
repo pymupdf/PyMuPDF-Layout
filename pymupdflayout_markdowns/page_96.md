@@ -1,4 +1,4 @@
-## _The Eagle Ford continues to have one of the highest internal rates of return of any of the US unconventional resource plays. 
+## _The Eagle Ford continues to have one of the highest internal rates of return of any of the US unconventional resource plays._ 
 
 Because of its relatively low operating costs, the Eagle Ford to remains profitable during current oil commodity pricing conditions. Sundance has quickly transformed the Eagle Ford position acquired in its merger with Texon Petroleum Ltd to its most valuable asset in its portfolio through development and growing its drilling inventory. 
 
@@ -19,11 +19,11 @@ _As at and for the Year Ended 31 December 2014_
 
 
 
-**==> picture intentionally omitted <==**
+**==> picture [71 x 10] intentionally omitted <==**
 
 In 2014, the Company gress brought 35 gross (26.1 Net Wells in ProNet Acres gress net) Eagle Ford wells into production by D&P investments of $244 million. Through $26 million of direct mineral leases and $36 million of acquisitions in 2014, the Company increased its Eagle Ford acreage position to 20,742 net acres, which represents 153.7 net undrilled 3P Reserves locations. 
 
-**==> picture intentionally omitted <==**
+**==> picture [192 x 146] intentionally omitted <==**
 
 Since its entrance into the Eagle Ford in March 2013, the Company has: 
 
@@ -44,6 +44,4 @@ _As at and for the Year Ended 31 December 2014_
 • increased its undrilled 3P Reserves drilling locations to 153.7 net; which represents a 
 
 4.3 year drilling inventory (assuming two rig program drilling 36 net wells per year and 40-80 acre spacing) 
-
-**10** 
 
