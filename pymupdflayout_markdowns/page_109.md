@@ -2,7 +2,9 @@
 
 US009423690B2 
 
-# c12) **United States Patent Takizawa et al.** 
+# c12) **United States Patent** 
+
+# **Takizawa et al.** 
 
 # (IO) **Patent No.: US 9,423,690 B2** 
 
@@ -24,7 +26,7 @@ US009423690B2
 
 ## (65) **Prior Publication Data** 
 
-US 2015/0168834 Al Jun. 18, 2015 
+> US 2015/0168834 Al Jun. 18, 2015 
 
 ## **Related U.S. Application Data** 
 
@@ -32,11 +34,11 @@ US 2015/0168834 Al Jun. 18, 2015
 
 ## (30) **Foreign Application Priority Data** 
 
-Aug. 20, 2012 (JP) ................................. 2012-181892 Mar. 15, 2013 (JP) ................................. 2013-054401 
+**==> picture [211 x 23] intentionally omitted <==**
 
 - (51) **Int. Cl.** 
 
-- _**G03F 71004**_ (2006.01) _**G03F 71038**_ (2006.01) _**C08F 220118**_ (2006.01) 
+**==> picture [122 x 33] intentionally omitted <==**
 
 (Continued) 
 
@@ -62,20 +64,13 @@ Aug. 20, 2012 (JP) ................................. 2012-181892 Mar. 15, 2013 (
 
 ## U.S. PATENT DOCUMENTS 
 
-|8252504<br>8, 426,<br>115<br>, ,|B2<br>B2|*<br>*|8/2012<br>4/2013|H Ha ar taa kd ea e at a al . et.. . a.. l. ... .. .. .. .. ...4 3 40 3/2 07 /30 1.1<br>y m . . 2|
-|---|---|---|---|---|
-
-
+**==> picture [198 x 23] intentionally omitted <==**
 
 (Continued) 
 
 ## FOREIGN PATENT DOCUMENTS 
 
-|JP|2001201854<br>-|A|7/2001|
-|---|---|---|---|
-|JP|2005-091712|A|4/2005|
-
-
+**==> picture [140 x 19] intentionally omitted <==**
 
 (Continued) 
 

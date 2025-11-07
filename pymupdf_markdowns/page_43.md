@@ -1,76 +1,40 @@
-**RADIO AIDS TO NAVIGATION**
+## **RADIO AIDS TO NAVIGATION** 
 
+On VFR Charts, information about radio aids to navigation (NAVAID) are boxed, as illustrated. Duplication of data is avoided. When two or more radio aids in a general area have the same name with different frequencies, Tactical Air Navigation (TACAN) channel numbers, or identification letters, and no misinterpretation can result, the name of the radio aid may be indicated only once within the identification box. Very High Frequency/Ultra High Frequency (VHF/UHF) NAVAID names and identification boxes (shown in blue) take precedence. Only those items that differ (e.g., frequency, Morse Code) are repeated in the box in the appropriate color. The choice of separate or combined boxes is made in each case on the basis of economy of space and clear identification of the radio aids. 
 
-On VFR Charts, information about radio aids to navigation (NAVAID) are boxed, as illustrated. Duplication of data is
-avoided. When two or more radio aids in a general area have the
-same name with different frequencies, Tactical Air Navigation
-(TACAN) channel numbers, or identification letters, and no
-misinterpretation can result, the name of the radio aid may be
-indicated only once within the identification box. Very High
-Frequency/Ultra High Frequency (VHF/UHF) NAVAID names
-and identification boxes (shown in blue) take precedence. Only
-those items that differ (e.g., frequency, Morse Code) are repeated in the box in the appropriate color. The choice of
-separate or combined boxes is made in each case on the basis of economy of space and clear identification of the radio
-aids.
+A NAVAID that is physically located on an airport may not always be represented as a typical NAVAID symbol. A small open circle indicates the NAVAID location when collocated with an airport icon. 
 
+The type of NAVAID will be identified by: "VOR," (VHF Omni-Directional Range) "VORTAC" (VOR Tactical Aircraft Control), "VOR-DME," (VOR-Distance Measuring Equipment) or “DME” (Distance Measuring Equipment) positioned on and breaking the top line of the NAVAID box. 
 
-A NAVAID that is physically located on an airport may not always be represented as a
-typical NAVAID symbol. A small open circle indicates the NAVAID location when
-collocated with an airport icon.
+DMEs are shown without the compass rose. 
 
+**==> picture [130 x 129] intentionally omitted <==**
 
-The type of NAVAID will be identified by: "VOR," (VHF Omni-Directional Range)
-"VORTAC" (VOR Tactical Aircraft Control), "VOR-DME," (VOR-Distance Measuring
-Equipment) or “DME” (Distance Measuring Equipment) positioned on and breaking
-the top line of the NAVAID box.
+## **AIRPORTS** 
 
+Airports in the following categories are charted as indicated (additional symbols are shown later in this Section). Public use airports: 
 
-DMEs are shown without the compass rose.
+Hard-surfaced runways greater than 8069’ or some multiple runways less than 8069’ 
 
+Hard-surfaced runways 1500’ to 8069’ 
 
-**AIRPORTS**
+Other than hard-surfaced runways 
 
+Seaplane bases 
 
-Airports in the following categories are charted as indicated (additional symbols are shown later in this Section).
-Public use airports:
+Military airports: 
 
+Other than hard-surfaced runways 
 
-Hard-surfaced runways greater than 8069’ or some multiple runways less than 8069’
+Hard-surfaced runways are depicted the same as public-use airports. 
 
+U.S. military airports are identified by abbreviations such as AAF (Army Air Field), AFB (Air Force Base), MCAS (Marine Corps Air Station), NAS (Naval Air Station), NAV (Naval Air Facility), NAAS (Naval Auxiliary Air Station), etc. Canadian military airports are identified by the abbreviation DND (Department of National Defense). 
 
-Hard-surfaced runways 1500’ to 8069’
+Fuel Available: 
 
+Fuel availability indicated by use of tick marks around the basic airport symbol. Consult Chart Supplement for details and availability. 
 
-Other than hard-surfaced runways
+Other airports with or without fuel: 
 
-
-Seaplane bases
-
-
-Military airports:
-
-
-Other than hard-surfaced runways
-
-
-Hard-surfaced runways are depicted the same as public-use airports.
-
-
-U.S. military airports are identified by abbreviations such as AAF (Army Air Field), AFB (Air Force Base), MCAS (Marine
-Corps Air Station), NAS (Naval Air Station), NAV (Naval Air Facility), NAAS (Naval Auxiliary Air Station), etc. Canadian
-military airports are identified by the abbreviation DND (Department of National Defense).
-
-
-Fuel Available:
-
-
-Fuel availability indicated by use of tick marks around the basic airport symbol. Consult Chart Supplement
-for details and availability.
-
-
-Other airports with or without fuel:
-
-
-15
-
+15 
 

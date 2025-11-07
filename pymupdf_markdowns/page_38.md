@@ -1,86 +1,34 @@
-**AIRSPACE INFORMATION (Continued)**
+## **AIRSPACE INFORMATION (Continued)** 
 
+## **Special Flight Rules Area (SFRA)** 
 
-**Special Flight Rules Area (SFRA)**
+## **Flight Restricted Zone (FRZ) Relating to National Security** 
 
+## 
 
-**Special Use Airspace**
+## **Special Use Airspace** 
 
-Only the airspace effective
-below 18,000 feet MSL is
-shown.
+**==> picture [112 x 164] intentionally omitted <==**
 
+## **Special Air Traffic Rules / Airport Patterns (FAR Part 93)** 
 
-The type of area shall be
-spelled out in large areas if
-space permits.
+Appropriate boxed note as required shown adjacent to area. 
 
+Inside the FAR Part 93 boundary area, the cross hatching is at a 45 degree angle. The hypsometric tint shall be masked within the area around the yellow city tint when applicable (should not be confused with white glacier tint). 
 
-- Alert Areas do not extend
+**==> picture [107 x 48] intentionally omitted <==**
 
-into Class A, B, C and D
-airspace, or Class E airport
-surface areas.
+Small Area 
 
+**==> picture [26 x 10] intentionally omitted <==**
 
-**Special Air Traffic Rules / Airport Patterns (FAR Part 93)**
+**==> picture [140 x 24] intentionally omitted <==**
 
-Appropriate boxed note as required
-shown adjacent to area.
+**==> picture [241 x 59] intentionally omitted <==**
 
+**==> picture [258 x 82] intentionally omitted <==**
 
-Inside the FAR Part 93 boundary
-area, the cross hatching is at a 45
-degree angle. The hypsometric tint
-shall be masked within the area
+Note: Delimiting line not shown when it coincides with International Boundary, projection lines or other linear features. 
 
-around the yellow city tint when
-applicable (should not be confused
-with white glacier tint).
-
-
-
-**Flight Restricted Zone (FRZ) Relating to**
-**National Security**
-
-
-**National Security Area**
-
-
-Appropriate notes as
-required may be shown
-
-
-Small Area
-
-
-**NOTICE**
-
-
-**FOR REASONS OF NATIONAL SECURITY**
-**PILOTS ARE REQUESTED TO AVOID FLIGHT**
-**BELOW 1200' MSL IN THIS AREA**
-
-
-**Special Awareness Training Areas**
-
-
-**Mode C (FAR 91.215)**
-
-Appropriate notes as
-required may be shown.
-
-
-**Air Defense Identification Zone (ADIZ)**
-
-Note: Delimiting line not
-shown when it coincides with
-
-International Boundary,
-projection lines or other linear
-features.
-
-
-30
-
+30 
 

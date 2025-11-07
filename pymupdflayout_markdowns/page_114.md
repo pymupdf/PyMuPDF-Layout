@@ -4,13 +4,13 @@
 
 **40** 
 
-**==> picture [64 x 257] intentionally omitted <==**
+**==> picture [41 x 12] intentionally omitted <==**
+
+**==> picture [55 x 97] intentionally omitted <==**
 
 **[0397]** The content of the acid diffusion control agent in the resist composition is preferably 0.001 % to 10% by mass, and more preferably 0.01 % to 5% by mass with respect to the total solid content of the composition. 
 
-**[0398]** The acid diffusion control agents may be used alone or in combination of two or more kinds thereof. 
-
-**[0399]** The ratio of the photoacid generator and the acid diffusion control agent in the resist composition, photoacid generator/acid diffusion control agent (molar ratio), is preferably 2.5 to 300. From the viewpoints of the sensitivity and the resolution, the molar ratio is preferably 2.5 or more, and from the viewpoint of suppression of reduction in the resolution as the resist pattern is thickened with aging after exposure until the heating treatment, the molar ratio is preferably 300 or less. The photoacid generator/acid diffusion control agent (molar ratio) is more preferably 5 .0 to 200, and still more preferably 7.0 to 150. 
+**[0398]** The acid diffusion control agents may be used alone or in combination of two or more kinds thereof. **[0399]** The ratio of the photoacid generator and the acid diffusion control agent in the resist composition, photoacid generator/acid diffusion control agent (molar ratio), is preferably 2.5 to 300. From the viewpoints of the sensitivity and the resolution, the molar ratio is preferably 2.5 or more, and from the viewpoint of suppression of reduction in the resolution as the resist pattern is thickened with aging after exposure until the heating treatment, the molar ratio is preferably 300 or less. The photoacid generator/acid diffusion control agent (molar ratio) is more preferably 5 .0 to 200, and still more preferably 7.0 to 150. 
 
 **[0400]** Examples of the acid diffusion control agent include the compounds (amine compounds, amido groupcontaining compounds, urea compounds, nitrogen-containing heterocyclic compounds, and the like) described m paragraphs <0140> to <0144> of JP2013-011833A. 
 

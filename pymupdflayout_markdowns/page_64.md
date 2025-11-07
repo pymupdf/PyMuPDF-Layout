@@ -1,21 +1,23 @@
-|Col1|k . Master Data Management (bespoke or commercial solution) –<br>minimum 1 reference<br>l BPMN UML (or equivalent) minimum 3 references<br>. , –<br>m . RUP , Prince2 or equivalent waterfall methodology – minimum<br>2 references<br>n . Agile/Scaled Agile Framework – minimum 3 references|
+**==> picture [165 x 43] intentionally omitted <==**
+
+||k. Master Data Management (bespoke or commercial solution) –<br>minimum 1 reference<br>l.<br>BPMN, UML (or equivalent) – minimum 3 references<br>m. RUP, Prince2 or equivalent waterfall methodology – minimum<br>2 references<br>n. Agile/Scaled Agile Framework – minimum 3 references|
 |---|---|
-|**Basisfor**<br>**assessment**|Aconsolidatedassessmentofthetendererasawhole(including,if<br>applicable,allmembersofajointtenderand/orotherentitiesonwhich<br>thetendererreliestofulfilthisselectioncriterion)willbecarriedout.|
-|**Evidence**|Tenderersmustprovide**minimum10(andinanycasenomore**<br>**than20)contractreferences**.Evidencemustbeprovidedinthe<br>formofafilled-incontractreferenceperproject.Foreachcontract<br>referencetheuseofthetemplatesprovidedin**Annex09**tothis<br>documentismandatory.Onlyreferencessubmittedontheseformswill<br>beconsidered.<br>Tendererswhofailtoprovideadescription,orwhoonlyprovidegeneric<br>content,whichdoesnotspecificallydescribetherelevanceofthe<br>contractreferencewithregardtotheminimumlevelofcapacity<br>detailedabove,willbeconsideredasnothavingthetechnicaland<br>professionalcapacitytoperformthecontract.<br>Thereferencesmustconcernatleast3differentclients.Departments,<br>divisions,directorates,andotherentitiesofasamebody(includingthe<br>sameEUInstitution)willberegardedasthesameclient.EachEU<br>Institution(includinganEUagency)isconsideredadifferentclient.<br>Underaframeworkcontract(orframeworkcontracts)withdifferent<br>specificcontracts,aspecificcontract(aloneorincombinationwith<br>otherspecificcontracts)canbeusedonlyonce(i.e.itwillbeconsidered<br>asasinglereference).Incaseofajointtender,thesamereference<br>contractcannotbesubmittedasaseparatecontractreferenceby<br>differenteconomicoperatorsforthesametender.<br>TheContractingAuthoritymayrequest**statementsissuedbythe**<br>**clients**,publicorprivate,assupportingdocumentsforeachcontract<br>reference.Thesedocumentsshouldbereadytobeprovidedwithinfive<br>workingdaysoftheContractingAuthority’srequest.Thecontact<br>personsforthecustomersindicatedinthecontractreferenceformmay<br>becontactedinthecontextofthiscallfortenderstocrosscheckthe<br>validityoftheinformationprovidedasevidence.|
+|**Basis for**<br>**assessment**|A consolidated assessment of the tenderer as a whole (including, if<br>applicable, all members of a joint tender and/or other entities on which<br>the tenderer relies to fulfilthis selection criterion) willbe carried out.|
+|**Evidence**|Tenderers must provide**minimum 10 (and in any case no more**<br>**than 20) contract references**. Evidence must be provided in the<br>form of a filled-in contract reference per project. For each contract<br>reference the use of the templates provided in**Annex 09** to this<br>document is mandatory. Only references submitted on these forms will<br>be considered.<br>Tenderers who fail to provide a description, or who only provide generic<br>content, which does not specifically describe the relevance of the<br>contract reference with regard to the minimum level of capacity<br>detailed above, will be considered as not having the technical and<br>professional capacity to perform the contract.<br>The references must concern at least 3 different clients. Departments,<br>divisions, directorates, and other entities of a same body (including the<br>same EU Institution) will be regarded as the same client. Each EU<br>Institution (including an EU agency) is considered a different client.<br>Under a framework contract (or framework contracts) with different<br>specific contracts, a specific contract (alone or in combination with<br>other specific contracts) can be used only once (i.e. it will be considered<br>as a single reference). In case of a joint tender, the same reference<br>contract cannot be submitted as a separate contract reference by<br>different economic operators for the same tender.<br>The Contracting Authority may request**statements issued by the**<br>**clients**, public or private, as supporting documents for each contract<br>reference. These documents should be ready to be provided within five<br>working days of the Contracting Authority’s request. The contact<br>persons for the customers indicated in the contract reference form may<br>be contacted in the context of this call for tenders to crosscheck the<br>validity of the information provided as evidence.|
 
 
 
-**LOT 1 and LOT 2** 
+## **LOT 1 and LOT 2** 
 
-**Criterion T2 Capacity to deliver within a quality and security framework in compliance with relevant ISO standards** 
+**Criterion T2** 
 
-|relevant ISO|standards|Col3|
-|---|---|---|
-|**Minimum**|ThetenderermustbecertifiedinthefollowingISOstandardsinthe|ThetenderermustbecertifiedinthefollowingISOstandardsinthe|
-|**levelof**|areas|coveredbythiscallfortenders:|
-|**capacity**|||
-||•|**T2.1**:ISO9001:2015orequivalent(specify):foralltheparts|
-|||oftheorganisation(s)andalllocation(s)thatwillbeusedby|
+**Capacity to deliver within a quality and security framework in compliance with relevant ISO standards** 
 
+**Minimum** The tenderer must be certified in the following ISO standards in the **level of** areas covered by this call for tenders: 
 
+**capacity** 
+
+• **T 2.1** : ISO 9001:2015 or equivalent (specify): for all the parts of the organisation(s) and all location(s) that will be used by 
+
+26 
 

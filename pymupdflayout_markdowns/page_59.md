@@ -30,3 +30,7 @@ Si le chantier est dépourvu de haut-parleurs ou de sirènes, il convient de met
 
 - 3.3.4 Au besoin, les entreprises peuvent faire appel au service médical du CUE. À cet effet, l'entreprise établit, en concertation avec le coordinateur sécurité/santé (CSS) ou le chef du chantier et les services compétents du CUE, une procédure de premiers soins. 
 
+70 **FR** 
+
+ANNEX VII 
+

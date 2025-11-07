@@ -10,9 +10,7 @@ Let
 
 and 
 
-_K_ 
-
-**==> formula [310 x 25] intentionally omitted <==**
+**==> formula [310 x 32] intentionally omitted <==**
 
 where _y[∗] ∈_ arg max � _∞k_ = _−∞_[max (] _[F]_[1][ (] _[y]_[ + (] _[k]_[ + 1)] _[ δ]_[)] _[ −][F]_[0][ (] _[y]_[ +] _[ kδ]_[)] _[ ,]_[ 0) and] _[ K]_[ is a nonnegative integer.] 0 _≤y≤δ_ 
 
@@ -32,5 +30,9 @@ where
 
 It is not straightforward to solve the problem (B.2) numerically in Step 3; the function max _{x,_ 0 _}_ is nondifferentiable. Furthermore in practice, marginal distribution functions are often estimated in a complicated 
 
-24 I put _ε_ = 10 _−_ 5 for the implementation in Section 4 and Section 5. 25 By Lemma B.1, I considered _J_ = _K, K_ + 1 _, . . . ,_ 2 _K_ for the sequence _{a k }[J] k_ = _−J_[and compared the values of local maxima] achieved by _{a k }[J] k_ = _−J_[with] _[ V][K]_[ (] _[δ]_[)] 
+> 24 I put _ε_ = 10 _−_ 5 for the implementation in Section 4 and Section 5. 
+
+> 25 By Lemma B.1, I considered _J_ = _K, K_ + 1 _, . . . ,_ 2 _K_ for the sequence _{a k }[J] k_ = _−J_[and compared the values of local maxima] achieved by _{a k }[J] k_ = _−J_[with] _[ V][K]_[ (] _[δ]_[)] 
+
+74 
 

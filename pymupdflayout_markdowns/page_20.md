@@ -2,9 +2,13 @@
 
 with 
 
-2 g 
+2 
+
+g 
 
 **==> formula [279 x 31] intentionally omitted <==**
+
+**==> picture [12 x 1] intentionally omitted <==**
 
 Note that ǫ 1,2,3 are all proportional to X which contains a double suppression factor. This feature was the main ingredient for the compatibility of the D-BESS model with the EW ¯ precision tests. In the five dimensional formulation of this model the ratio (g/g 5 )[2] originates from the presence of brane localized kinetic terms. 
 
@@ -17,10 +21,6 @@ with
 **==> formula [335 x 70] intentionally omitted <==**
 
 In section VI, we will study the constraints on the model parameter space by EW precision parameter for two choices of the warp factor, b(y) ≡ 1 (flat extra dimension) and b(y) = e[−][2][ky] (a slice of AdS 5 ). To this aim we need to invert (73), (74) and (75), 
-
-**==> formula [10 x 13] intentionally omitted <==**
-
-
 
 **==> formula [370 x 104] intentionally omitted <==**
 

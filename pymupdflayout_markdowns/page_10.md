@@ -1,8 +1,6 @@
 in (a) and (b), respectively. Therefore, from consideration of Case a, b and c, 
 
-_∞_ 
-
-**==> formula [346 x 59] intentionally omitted <==**
+**==> formula [346 x 67] intentionally omitted <==**
 
 where _[t] t_[0] 1 _[−] −[t] t[W]_ 0 _[δ]_[+] _[w][ ≤][b][k]_[+1] _[ ≤][b][k][.]_[ Consequently, the sharp upper bound is written as follows: letting] _[ F][ U]_ ∆ _,W_[(] _[δ][|][w]_[)] be the sharp upper bound on Pr ( _Y_ 1 _− Y_ 0 _≤ δ|W_ = _w_ ) _,_ 
 
@@ -23,4 +21,6 @@ It is innocuous to assume that _{a k }[∞] k_ = _−∞_[satisfies] _[ a][k]_[+
 **Proof.** I will show that for any sequence _{a k }[∞] k_ = _−∞[∈A][δ]_[ satisfying] _[ a][k]_[+2] _[ −][a][k][ ≤][δ]_[ for some integer] _[ k,]_[ one] can construct _{_ � _a k }[∞] k_ = _−∞[∈A][δ]_[ with][ �] _[a][k]_[+2] _[ −]_[�] _[a][k][ > δ]_[ for each integer] _[ k]_[ and] 
 
 **==> formula [320 x 32] intentionally omitted <==**
+
+72 
 

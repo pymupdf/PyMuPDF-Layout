@@ -1,3 +1,5 @@
+**==> picture [165 x 43] intentionally omitted <==**
+
 It is the responsibility of each tenderer to ensure that the total amount of the tender inserted in the relevant field of the e-Submission application corresponds to the amount indicated in the uploaded financial offer. In case of discrepancies, only the amount indicated in the financial offer will be taken into account. The financial offer shall be: 
 
 - • expressed in euro.cents. Tenderers from countries outside the euro zone have to quote their prices in euro as well. The price quoted may not be revised in line with exchange rate movements. It is for the tenderer to bear the risks or the benefits deriving from any variation. 
@@ -19,4 +21,6 @@ The **price structure** document as referred to in Section 3.5 may be required b
 The provisions on price revisions are provided in the Draft FWC. 
 
 The prices provided in the Price Catalogue will become part of Annex II to the FWC. 
+
+44 
 

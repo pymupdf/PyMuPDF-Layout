@@ -12,17 +12,17 @@
 
 **==> picture [16 x 10] intentionally omitted <==**
 
-**==> picture [20 x 10] intentionally omitted <==**
+311A[3 ] 
 
-**==> picture [20 x 11] intentionally omitted <==**
+250A[3 ] 
 
 **==> picture [20 x 10] intentionally omitted <==**
 
 **==> picture [72 x 55] intentionally omitted <==**
 
-**==> picture [20 x 11] intentionally omitted <==**
+290A[3 ] 
 
-HO-~---+--FI Flt----+--FI ~-N-Ol 0 **II** F F F 0 **II** H 
+**==> picture [164 x 82] intentionally omitted <==**
 
 **==> picture [179 x 58] intentionally omitted <==**
 
@@ -36,7 +36,9 @@ HO-~---+--FI Flt----+--FI ~-N-Ol 0 **II** F F F 0 **II** H
 
 **[0295]** The number of carbon atoms of the organic group as each of R 201 , R 202 , and R 203 is preferably **1** to 30, and more preferably **1** to 20. 
 
-**[0296]** Furthermore, two ofR 201 to R 203 may be bonded to each other to form a ring structure, and the ring may include an oxygen atom, a sulfur atom, an ester bond, an amide bond, or a carbonyl group, and examples of the group formed by the bonding of two of R 201 to R 203 include an alkylene group (for example, a butylene group and a pentylene group). **[0297] z-** represents a non-nucleophilic anion (anion having a remarkably low ability of causing a nucleophilic reaction). 
+**[0296]** Furthermore, two ofR 201 to R 203 may be bonded to each other to form a ring structure, and the ring may include an oxygen atom, a sulfur atom, an ester bond, an amide bond, or a carbonyl group, and examples of the group formed by the bonding of two of R 201 to R 203 include an alkylene group (for example, a butylene group and a pentylene group). 
+
+> **[0297] z-** represents a non-nucleophilic anion (anion having a remarkably low ability of causing a nucleophilic reaction). 
 
 **[0298]** Examples of the non-nucleophilic anion include a sulfonate anion (such as an aliphatic sulfonate anion, an aromatic sulfonate anion, and a camphor sulfonate anion), a carboxylate anion (such as an aliphatic carboxylate anion, an aromatic carboxylate anion, and an aralkyl carboxylate anion), a sulfonylimide anion, a bis(alkylsulfonyl)imide anion, and a tris(alkylsulfonyl)methide anion. 
 

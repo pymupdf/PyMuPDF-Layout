@@ -18,7 +18,7 @@ US007851130B2
 
 - ( *) Notice: Subject to any disclaimer, the term ofthis patent is extended or adjusted under 35 U.S.C. 154(b) by 42 days. 
 
-- This patent is subject to a terminal disclaimer. 
+   - This patent is subject to a terminal disclaimer. 
 
 - (21) Appl. No.: **11/857,645** 
 
@@ -40,15 +40,11 @@ Sep. 19, 2006 (JP) ............................. 2006-253381
 
 - (58) **Field of Classification Search** ....................... None See application file for complete search history. 
 
-## (56) **References Cited** 
+- (56) **References Cited** 
 
-## U.S. PATENT DOCUMENTS 
+**==> picture [112 x 12] intentionally omitted <==**
 
-**==> picture [212 x 28] intentionally omitted <==**
-
-- FOREIGN PATENT DOCUMENTS 
-
-**==> picture [140 x 11] intentionally omitted <==**
+**==> picture [217 x 57] intentionally omitted <==**
 
 **==> picture [141 x 116] intentionally omitted <==**
 
@@ -62,13 +58,11 @@ _Primary Examiner-Sin_ J. Lee
 
 (74) _Attorney, Agent, or Firm-Sughrue_ Mion, PLLC 
 
-## (57) **ABSTRACT** 
+(57) **ABSTRACT** 
 
 A photosensitive composition includes (A) a compound represented by the following formula (I): 
 
-**==> picture [8 x 10] intentionally omitted <==**
-
-**==> picture [12 x 8] intentionally omitted <==**
+**==> picture [144 x 16] intentionally omitted <==**
 
 wherein R[1 ] to R[13 ] each independently represents a hydrogen atom or a substituent, Z represents a single bond or a divalent linking group, and x- represents an anion containing a proton acceptor functional group. 
 

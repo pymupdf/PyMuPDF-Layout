@@ -1,6 +1,10 @@
+_Contract no: [complete]_ 
+
 _EC - FWC services Dec 2018_ 
 
-_Contract no: [complete]_ 
+**==> picture [44 x 31] intentionally omitted <==**
+
+**==> picture [106 x 69] intentionally omitted <==**
 
 - d) a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing; 
 
@@ -35,4 +39,6 @@ The contractor shall notify the contracting authority without delay of any legal
 The duration of processing of personal data by the contractor will not exceed the period referred to in Article II.24.2. Upon expiry of this period, the contractor shall, at the choice of the controller, return, without any undue delay in a commonly agreed format, all personal data processed on behalf of the controller and the copies thereof or shall effectively delete all personal data unless Union or national law requires a longer storage of personal data. 
 
 For the purpose of Article II.10, if part or all of the processing of personal data is subcontracted to a third party, the contractor shall pass on the obligations referred to in Articles I.9.2 and II.9.2 in writing to those parties, including subcontractors. At the request of the contracting authority, the contractor shall provide a document providing evidence of this commitment. 
+
+20 
 

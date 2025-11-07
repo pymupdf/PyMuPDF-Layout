@@ -1,18 +1,20 @@
 6 
 
+**==> picture [209 x 205] intentionally omitted <==**
+
 FIG. 4: An ordered list of the Eigenvalues for our cluster covariance matrix. 
 
 Before we invert C ij in Eqn. 12, we note that the values of C ij are estimated to limited resolution, 
 
-
-
-**==> formula [156 x 25] intentionally omitted <==**
+**==> formula [156 x 38] intentionally omitted <==**
 
 and therefore, if N jk is small, or there are degeneracies within C ij , the inversion will be affected. This problem can be eliminated by performing a Single Value Decomposition (SVD) of the matrix, 
 
 **==> formula [160 x 16] intentionally omitted <==**
 
-where U and V are orthogonal matrices that span the range and the null space of C ij and D kl = λ[2] δ kl , a diagonal matrix with singular values along the diagonal. In doing the SVD, we select the dominant modes to contribute to the χ[2] by requiring that λ[2] > �2/N jk . In Figure 4, we rank the eigenvalues (λ i ) for the increasing eigenmodes and see a “kink” in the distribution which we interpret as indicating a transition in the signal–to–noise of the eigenmodes, i.e., only the first ten modes contain most of the signal, while higher-ordered modes are dominated by noise. We therefore remove eigenmodes beyond this kink (with λ i < 0.01) where the eigenvalues start to flatten out. 
+where U and V are orthogonal matrices that span the range and the null space of C ij and D kl = λ[2] δ kl , a diagonal matrix with singular values along the diagonal. In doing the SVD, we select the dominant modes to contribute to the χ[2] by requiring that λ[2] > �2/N jk . 
+
+In Figure 4, we rank the eigenvalues (λ i ) for the increasing eigenmodes and see a “kink” in the distribution which we interpret as indicating a transition in the signal–to–noise of the eigenmodes, i.e., only the first ten modes contain most of the signal, while higher-ordered modes are dominated by noise. We therefore remove eigenmodes beyond this kink (with λ i < 0.01) where the eigenvalues start to flatten out. 
 
 ## A. Statistical determination of large scale flow 
 
@@ -24,7 +26,7 @@ In Figure 5, we provide the best fit parameters b and v p for the C4 correlation
 
 We propose above that v p is a complementary parameter for reporting such peculiar velocity measurements. The parameter g Θ , which is equivalent to fσ 8 , is not determined precisely without the prior information of A S . But when we report our measurement with v p , there is no uncertainty due to other cosmological parameters which are not determined accurately, as it is equivalent to g Θ[∗] determined statistically from redshift space distortion. The observed value v p at a given redshift is not only independent of bias but also independent of normalisation. 
 
-## B. Reconstruction of matter density field from v p 
+- B. Reconstruction of matter density field from v p 
 
 We convert v p measurement into g Θ using A s from WMAP5 (g Θ : coherent growth factor of peculiar velocity, and it is equivalent to fσ 8 in other parameterizations). With the evolution of g Θ known, dynamics of perturbations are reconstructed to provide the history of Ψ through the Euler equation. In most theoretical models, the time variation of v p is minimal at these low redshifts discussed here for the C4 sample (z ≃ 0.1), which allows us to ignore the time-derivative part in Eq. 9. Therefore, it is straightforward to transform the coherent evolution of Θ into the coherent evolution of Ψ. If we assume no anisotropic stress, then it is easy to convert to the coherent evolution of Φ, g Φ . 
 

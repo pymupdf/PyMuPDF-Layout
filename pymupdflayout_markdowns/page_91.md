@@ -2,9 +2,7 @@
 
 ## A N N U A L M E E T I N G 
 
-The annual meeting of shareholders will be held on 
-
-Thursday, April 24, 2003, in Corning, NY. A formal notice of the meeting together with a proxy statement will be mailed to shareholders on or about March 12, 2003. The proxy statement can also be accessed electronically through the Investor Relations category of the Corning home page on the Internet at www.corning.com. A summary report of the proceedings at the annual meeting will be available without charge upon written request to Ms. Denise A. Hauselt, Secretary and Assistant General Counsel, Corning Incorporated, HQ-E2-10, Corning, NY 14831. 
+The annual meeting of shareholders will be held on Thursday, April 24, 2003, in Corning, NY. A formal notice of the meeting together with a proxy statement will be mailed to shareholders on or about March 12, 2003. The proxy statement can also be accessed electronically through the Investor Relations category of the Corning home page on the Internet at www.corning.com. A summary report of the proceedings at the annual meeting will be available without charge upon written request to Ms. Denise A. Hauselt, Secretary and Assistant General Counsel, Corning Incorporated, HQ-E2-10, Corning, NY 14831. 
 
 ## A D D I T I O N A L I N F O R M AT I O N 
 
@@ -26,9 +24,11 @@ Computershare Investor Services LLC P.O. Box A-3504 Chicago, IL 60690-3504 Telep
 
 Report change of address to Computershare Investor Services at the above address. 
 
-## I N D E P E N D E N T A C C O U N TA N T S 
+I N D E P E N D E N T A C C O U N TA N T S PricewaterhouseCoopers LLP 1301 Avenue of the Americas New York, NY 10019 
 
-PricewaterhouseCoopers LLP 1301 Avenue of the Americas New York, NY 10019 
+**Corning Incorporated** 
+
+One Riverfront Plaza Corning, NY 14831-0001 607 974 9000 www.corning.com 
 
 “ Sa fe  Ha rbor”  St a t e m e nt  unde r t he  Pri vate Se c uri t i e s  Li t i ga t i on R e form  Ac t  of 1995 The statements in this annual report that are not historical facts or information are forward-looking statements. These forward-looking statements involve risks and uncertainties that may cause the outcome to be materially different. Such risks and uncertainties include, but are not limited to: 
 
@@ -90,7 +90,7 @@ Corning is an equal opportunity employer. Printed in USA
 
 © Corning Incorporated 2003 
 
-## **Corning Incorporated** 
+**==> picture [92 x 73] intentionally omitted <==**
 
-One Riverfront Plaza Corning, NY 14831-0001 607 974 9000 www.corning.com 02BR24601EN 
+02BR24601EN 
 

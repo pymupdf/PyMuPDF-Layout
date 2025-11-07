@@ -12,11 +12,17 @@
 
 - ( _d_ ) for the imposition of restrictions upon the movement or residence within Botswana of public officers; or 
 
-( _e_ ) for the removal of a person from Botswana to be tried outside Botswana for a criminal offence or to undergo imprisonment in some other country in execution of the sentence of a court in respect of a criminal offence under the law in force in Botswana of which he or she has been convicted. 
+- ( _e_ ) for the removal of a person from Botswana to be tried outside Botswana for a criminal offence or to undergo imprisonment in some other country in execution of the sentence of a court in respect of a criminal offence under the law in force in Botswana of which he or she has been convicted. 
 
-(4) If any person whose freedom of movement has been restricted by order under such a provision as is referred to in subsection (3)( _a_ ) of this section (other than a restriction which is applicable to persons generally or to general classes of persons) so requests at any time during the period of that restriction not earlier than six months after the order was made or six months after he or she last made such request, as the case may be, his or her case shall be reviewed by an independent and impartial tribunal presided over by a person, qualified to be enrolled as an advocate in Botswana, appointed by the Chief Justice. 
+(4) If any person whose freedom of movement has been restricted by order under such a 
 
-(5) On any review by a tribunal in pursuance of this section of the case of a person whose freedom of movement has been restricted, the tribunal may make recommendations, concerning the necessity or expediency of continuing the restriction to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations. **15. Protection from discrimination on the grounds of race, etc.** 
+provision as is referred to in subsection (3)( _a_ ) of this section (other than a restriction which is applicable to persons generally or to general classes of persons) so requests at any time during the period of that restriction not earlier than six months after the order was made or six months after he or she last made such request, as the case may be, his or her case shall be reviewed by an independent and impartial tribunal presided over by a person, qualified to be enrolled as an advocate in Botswana, appointed by the Chief Justice. 
+
+(5) On any review by a tribunal in pursuance of this section of the case of a person whose 
+
+freedom of movement has been restricted, the tribunal may make recommendations, concerning the necessity or expediency of continuing the restriction to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations. 
+
+**15. Protection from discrimination on the grounds of race, etc.** 
 
 (1) Subject to the provisions of subsections (4), (5) and (7) of this section, no law shall make any provision that is discriminatory either of itself or in its effect. 
 
@@ -28,7 +34,11 @@
 
 provision- 
 
-- ( _a_ ) for the appropriation of public revenues or other public funds; ( _b_ ) with respect to persons who are not citizens of Botswana; 
+- ( _a_ ) for the appropriation of public revenues or other public funds; 
+
+- ( _b_ ) with respect to persons who are not citizens of Botswana; 
 
 - ( _c_ ) with respect to adoption, marriage, divorce, burial, devolution of property on death or other matters of personal law; 
+
+**Copyright Government of Botswana** 
 

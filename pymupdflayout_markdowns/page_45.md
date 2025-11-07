@@ -14,43 +14,41 @@
 
 - ( _g_ ) is disqualified for election to the National Assembly by virtue of provision made in pursuance of section 62 (2) of this Constitution. 
 
-(3) For the purposes of this section, two or more terms of imprisonment that are required to be served consecutively shall be regarded as a single term of imprisonment for the aggregate period of those terms, and no account shall be taken of a sentence of imprisonment imposed as 
+   - (3) For the purposes of this section, two or more terms of imprisonment that are required to 
 
-an alternative to or in default of the payment of a fine. 
+be served consecutively shall be regarded as a single term of imprisonment for the aggregate 
 
-(4) A Member of the _Ntlo ya Dikgosi_ shall not, while he or she is such a Member, 
+period of those terms, and no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine. 
 
-participate in party politics, but active participation in politics prior to being a Member of the _Ntlo ya Dikgosi_ shall not bar any person from being such a Member. **80. Oath of allegiance** 
+      - (4) A Member of the _Ntlo ya Dikgosi_ shall not, while he or she is such a Member, 
+
+- participate in party politics, but active participation in politics prior to being a Member of the _Ntlo ya Dikgosi_ shall not bar any person from being such a Member. **80. Oath of allegiance** 
 
 - Every Member of the _Ntlo ya Dikgosi_ shall, before taking his or her seat therein, take and 
 
-- subscribe before the _Ntlo ya Dikgosi_ the oath of allegiance. 
-
-- **81. Secretary to** _**Ntlo ya Dikgosi**_ 
-
-- There shall be a Secretary to the _Ntlo ya Dikgosi_ whose office shall be an office in the 
+- subscribe before the _Ntlo ya Dikgosi_ the oath of allegiance. **81. Secretary to** _**Ntlo ya Dikgosi**_ There shall be a Secretary to the _Ntlo ya Dikgosi_ whose office shall be an office in the 
 
 - public service. 
 
-- **82. Tenure of office of Members of** _**Ntlo ya Dikgosi**_ (1) A Member of the _Ntlo ya Dikgosi_ shall vacate his or her seat in the _Ntlo ya Dikgosi_ — 
+1. **82. Tenure of office of Members of** _**Ntlo ya Dikgosi**_ (1) A Member of the _Ntlo ya Dikgosi_ shall vacate his or her seat in the _Ntlo ya Dikgosi_ — 
 
-- ( _a_ ) upon expiration of a period of five years from the date upon which he or she takes the oath of allegiance under section 80 of this Constitution; 
+   - ( _a_ ) upon expiration of a period of five years from the date upon which he or she takes the oath of allegiance under section 80 of this Constitution; 
 
-- ( _b_ ) if, having been designated or selected to the _Ntlo ya Dikgosi_ as such, he or she ceases to 
+   - ( _b_ ) if, having been designated or selected to the _Ntlo ya Dikgosi_ as such, he or she ceases to be a person for the time being performing the functions of the office of _Kgosi_ ; 
 
-- be a person for the time being performing the functions of the office of _Kgosi_ ; 
+   - ( _c_ ) if he or she ceases to be qualified for membership of the _Ntlo ya Dikgosi_ in terms of section 79; 
 
-- ( _c_ ) if he or she ceases to be qualified for membership of the _Ntlo ya Dikgosi_ in terms of section 79; 
+   - ( _d_ ) if he or she participates in party politics; or 
 
-- ( _d_ ) if he or she participates in party politics; or 
-
-- ( _e_ ) upon the dissolution of Parliament, 
+   - ( _e_ ) upon the dissolution of Parliament, 
 
 whichever occurs first. 
 
-(2) A member of the _Ntlo ya Dikgosi_ shall be eligible for reselection, redesignation or 
+- (2) A member of the _Ntlo ya Dikgosi_ shall be eligible for reselection, redesignation or 
 
-reappointment, as the case may be, to the _Ntlo ya Dikgosi_ . 
+- reappointment, as the case may be, to the _Ntlo ya Dikgosi_ . 
 
-- **83. Rules of Procedure of** _**Ntlo ya Dikgosi**_ 
+1. **83. Rules of Procedure of** _**Ntlo ya Dikgosi**_ 
+
+**Copyright Government of Botswana** 
 

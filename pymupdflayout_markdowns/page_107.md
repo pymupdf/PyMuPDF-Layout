@@ -12,3 +12,7 @@ To support continued innovation throughout the company, we made significant inve
 
 expand high-potential product portfolios As growth prospects accelerate for our Foodservice and ethnic foods businesses, we are expanding our portfolio of products in both sectors. Our Foodservice business offers a growing selection of branded products, including the highly popular _café h_ family 
 
+**==> picture [517 x 217] intentionally omitted <==**
+
+2004 Annual Report 3 
+

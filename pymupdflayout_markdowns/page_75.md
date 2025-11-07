@@ -22,27 +22,27 @@ BARSKA reserves the right to modify or discontinue, without prior notice to you,
 
 If warranty problems arise, or if you need assistance in using your microscope contact: 
 
-BARSKA 
-
-Customer Service Department Tel. (909) 445-8168 Fax. (909) 445-8169 e-mail: service@barska.com 
-
-Monday-Friday 8:30AM-5:30PM PST 
+BARSKA Customer Service Department Tel. (909) 445-8168 Fax. (909) 445-8169 e-mail: service@barska.com Monday-Friday 8:30AM-5:30PM PST 
 
 NOTE: This warranty is valid to U.S.A. customers who have purchased this product from an authorized BARSKA dealer in the U.S.A. 
 
+**==> picture [191 x 34] intentionally omitted <==**
+
+©2015 BARSKA Optics Printed in China 4-15 
+
+855 Towne Center Drive Pomona, CA 91767 Tel: 888-666-6769 Fax: 909.445.8169 **www.barska.com** 
+
+**==> picture [191 x 34] intentionally omitted <==**
+
+**==> picture [345 x 12] intentionally omitted <==**
+
 ## **MICROSCOPE USER MANUAL** 
 
-**MODEL AY11238 MODEL AY11228** 40X,100X,400X 20X,40X COMPOUND MONOCULAR STEREO BINOCULAR 
+**==> picture [66 x 113] intentionally omitted <==**
 
-**MODEL AY11240** 40X,100X,400X COMPOUND MONOCULAR 
+**==> picture [59 x 116] intentionally omitted <==**
 
-**MODEL AY11230** 20X,40X STEREO TRINOCULAR 
+**==> picture [84 x 115] intentionally omitted <==**
 
-**MODEL AY11232** 7X-45X STEREO ZOOM 
-
-855 Towne Center Drive Pomona, CA 91767 ©2015 BARSKA Optics Tel: 888-666-6769 Fax: 909.445.8169 Printed in China 4-15 **www.barska.com** 
-
-**MODEL AY11236** 40X,100X,400X,1000X COMPOUND 
-
-**MODEL AY11234** 7X-45X ZOOM STEREO TRINOCULAR 
+**==> picture [345 x 314] intentionally omitted <==**
 

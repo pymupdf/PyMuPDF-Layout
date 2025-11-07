@@ -8,9 +8,9 @@
 
 **==> picture [200 x 193] intentionally omitted <==**
 
--continued **-CH9** 
-
 -continued 
+
+-continued **-CH9** 
 
 **==> picture [59 x 98] intentionally omitted <==**
 
@@ -20,7 +20,7 @@
 
 **==> picture [15 x 10] intentionally omitted <==**
 
-<Other Components> 
+## <Other Components> 
 
 **[0317]** The composition of the present invention may further contain a photo-acid generator, a basic compound, a surfactant, a solvent, a dye, a photo-base generator, an antioxidant, a solvent and the like. These components are described below. 
 

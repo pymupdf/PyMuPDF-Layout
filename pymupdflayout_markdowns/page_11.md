@@ -1,6 +1,6 @@
 21 
 
-## **Appendix C: On the parametrization of the trade-off curve** 
+**Appendix C: On the parametrization of the trade-off curve** 
 
 **Lemma 11** _λ parametrizes all points on the CQ and CE trade-off curves with the possible exception of those lying on segments of constant slope._ 
 
@@ -12,15 +12,15 @@ Consider the function _f λ_ ( _N_ ) where
 
 For any 0 _≤ t ≤_ 1, we have _f λ_ ( _N_ ) = _C_ ( _t_ ) + _λQ_ ( _t_ ) if and only if 
 
-**==> formula [194 x 10] intentionally omitted <==**
+**==> formula [194 x 11] intentionally omitted <==**
 
 for all 0 _≤ s ≤_ 1. Perhaps more instructively, if _s < t_ and _Q_ ( _s_ ) _̸_ = _Q_ ( _t_ ), this inequality can be written as 
 
-**==> formula [84 x 24] intentionally omitted <==**
+**==> formula [84 x 25] intentionally omitted <==**
 
 because of the monotonicity of the functions _C_ and _Q_ . Likewise, when _s > t_ , it has the form 
 
-**==> formula [87 x 24] intentionally omitted <==**
+**==> formula [87 x 25] intentionally omitted <==**
 
 If ( _C_ ( _t_ ) _, Q_ ( _t_ )) is a point on the graph at which the derivative is not constant, then setting _−λ_ to be the slope of the graph will lead to Eq. (C1) being satisfied. If the graph is not differentiable at ( _C_ ( _t_ ) _, Q_ ( _t_ )), then the slope must drop discontinuously at that point. Setting _−λ_ to any value in the gap will again lead to the condition being satisfied. 
 
@@ -58,9 +58,7 @@ The first equality follows from entropic manipulations. The inequality follows b
 
 _where ψ_ 0 _[AA][′] and ψ_ 1 _[AA][′] are pure states, defined as follows for µ ∈_ [0 _,_ 1 _/_ 2] _:_ 
 
-**==> formula [230 x 17] intentionally omitted <==**
-
-**==> formula [230 x 17] intentionally omitted <==**
+**==> formula [230 x 42] intentionally omitted <==**
 
 **Proof.** We assume without loss of generality that the dephasing basis is the computational basis. Consider a 
 

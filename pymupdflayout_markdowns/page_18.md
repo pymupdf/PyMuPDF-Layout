@@ -14,7 +14,7 @@ For this purpose, we look at the temperature dependence of the rotation angle of
 
 In a previous study, where the magnetic properties of Ho thin films were investigated by MC simulations of a Heisenberg model with easy-plane single-ion anisotropy and six out-of-plane coupling constants (as obtained by experimental neutron scattering measurements[16] ) on a HCP lattice[14,15] , it was found that for thicknesses comparable with the helical pitch the phase diagram landscape is quite different from what we find here. Indeed, for n = 9 − 16, three different magnetic phases could be sin- 
 
-**==> picture [207 x 144] intentionally omitted <==**
+**==> picture [207 x 146] intentionally omitted <==**
 
 FIG. 9: ∆ϕ l for a BCT lattice and n = 12, when the six coupling constants set employed in Ref. 14,15 (see text) is used. The temperature range has been chosen around T C (n) (error bars lye within point size). 
 
