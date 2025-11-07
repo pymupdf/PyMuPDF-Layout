@@ -32,37 +32,29 @@ This has been achieved by focusing on ‘basin excellence’. This means becomin
 
 **2004 EXPLORATION EXPENDITURE BY CATEGORY** 
 
+**2004 EXPLORATION EXPENDITURE BY REGION** 
+
+**==> picture [65 x 82] intentionally omitted <==**
+
 - Drilling $63.6 million 
 
-- Geoscience and other 
-
-- $37.5 million 
+- Geoscience and other $37.5 million 
 
 - Seismic $17.2 million 
 
 - New ventures $7.3 million 
 
+- Offshore Australia $32.6 million Onshore Australia $23.4 million South East Asia $41.4 million United States $28.2 million 
+
 An example of this is the strong position Santos has created in the Kutei Basin, with interests in three neighbouring production sharing contracts: Popodi, Donggala and Papalang. 
+
+2004 also marked the year that Santos drilled its first operated deep water wells – a significant achievement for a company that had its beginnings in a desert environment. 
 
 ## **KUTEI BASIN** 
 
-**2004 EXPLORATION EXPENDITURE BY REGION** 
+**==> picture [249 x 274] intentionally omitted <==**
 
-- Offshore Australia 
+16 
 
-- $32.6 million 
-
-- Onshore Australia 
-
-- $23.4 million 
-
-- South East Asia 
-
-- $41.4 million 
-
-- United States 
-
-- $28.2 million 
-
-2004 also marked the year that Santos drilled its first operated deep water wells – a significant achievement for a company that had its beginnings in a desert environment. 
+Annual Report 2004 
 

@@ -1,6 +1,6 @@
 possible à l'intention réelle des parties qui sous-tend la disposition illégale, invalide ou inapplicable. Le remplacement de cette disposition doit se faire conformément à l'article II.11. Le CC doit être interprété comme s'il contenait la disposition de substitution depuis son entrée en vigueur. 
 
-## **II.4 F OURNITURE DES SERVICES** 
+**II.4 F OURNITURE DES SERVICES** 
 
 - **II.4.1** La signature du CC ne garantit pas d'achat réel. Le pouvoir adjudicateur n'est lié que par les _bons de commande_ exécutant le CC. 
 
@@ -14,17 +14,27 @@ possible à l'intention réelle des parties qui sous-tend la disposition illéga
 
 - **II.4.4** C'est au seul contractant qu'il incombe de prendre les mesures nécessaires pour obtenir tout permis ou toute licence nécessaires à l' _exécution du CC_ en vertu du droit belge. 
 
-- **II.4.5** Sauf indication contraire, tous les délais stipulés dans le CC sont calculés en jours civils[7] . 
-
-- **II.4.6** Le contractant ne doit pas se présenter comme un représentant du pouvoir adjudicateur et doit informer les tiers qu'il ne fait pas partie de la fonction publique européenne. 
+- **II.4.5** Sauf indication contraire, tous les délais stipulés dans le CC sont calculés en jours civils[7] . **II.4.6** Le contractant ne doit pas se présenter comme un représentant du pouvoir adjudicateur et doit informer les tiers qu'il ne fait pas partie de la fonction publique européenne. 
 
 - **II.4.7** Le contractant est responsable du _personnel_ qui exécute les services et exerce son autorité sur son _personnel_ sans interférence du pouvoir adjudicateur. Le contractant doit informer son _personnel_ : 
 
-- a) qu'il ne peut accepter d'instructions directes de la part du pouvoir adjudicateur; et 
+   - a) qu'il ne peut accepter d'instructions directes de la part du pouvoir adjudicateur; et 
 
 - b) que sa participation à la fourniture des services ne débouche pas sur un emploi auprès du pouvoir adjudicateur ou sur une relation contractuelle avec ce dernier. 
 
 - **II.4.8** Le contractant doit veiller à ce que le _personnel_ exécutant le CC ainsi que le _personnel_ de remplacement futur possèdent les qualifications et l'expérience professionnelles requises 
 
-**4** JO L 94 du 28.3.2014, p. 65. **5** Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, JO L 119 du 4.5.2016, p. 1. **6** Règlement (UE) 2018/1725 du Parlement européen et du Conseil du 23 octobre 2018 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les institutions, organes et organismes de l'Union et à la libre circulation de ces données, et abrogeant le règlement (CE) n° 45/2001 et la décision n° 1247/2002/CE, JO L 295 du 21.11.2018, p. 39. **7** Si l'indication des délais se fait en jours ouvrables, veuillez tenir compte de la différence entre le calendrier des institutions européennes et le calendrier national. 
+> **4** JO L 94 du 28.3.2014, p. 65. 
+
+> **5** Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, JO L 119 du 4.5.2016, p. 1. 
+
+> **6** Règlement (UE) 2018/1725 du Parlement européen et du Conseil du 23 octobre 2018 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les institutions, organes et organismes de l'Union et à la libre circulation de ces données, et abrogeant le règlement (CE) n° 45/2001 et la décision n° 1247/2002/CE, JO L 295 du 21.11.2018, p. 39. 
+
+> . 
+
+> **7** Si l'indication des délais se fait en jours ouvrables, veuillez tenir compte de la différence entre le calendrier des institutions européennes et le calendrier national. 
+
+14 
+
+**FR** 
 

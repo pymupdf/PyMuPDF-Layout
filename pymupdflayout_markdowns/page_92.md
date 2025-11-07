@@ -1,6 +1,6 @@
 Creating Opportunities 
 
-## DELIVERING ON THE EXPLORATION STRATEGY 
+DELIVERING ON THE EXPLORATION STRATEGY 
 
 Exploration is a key growth driver for Santos and success with the drill bit is vital to adding value for Santos shareholders. During the past four years Santos has been working to build exploration opportunities by: 
 
@@ -30,9 +30,13 @@ Santos discovered gas in the United States at the Torres 1A onshore well, which 
 
 Other wells in the offshore Otway Basin included the deep water Amrit 1 well, which was plugged and abandoned after failing to intersect economic hydrocarbons, and Callister 1 which was also plugged and abandoned with gas shows. 
 
+**==> picture [120 x 120] intentionally omitted <==**
+
 **‘2004 was a great year for our explorers. We started drilling one of the most exciting portfolios in our industry and our success to date shows that our strategy of basin excellence is delivering.’** 
 
 **JACQUES GOUADAIN** Vice President Geoscience and New Ventures 
 
 **Float-off of Jack Bates rig prior to deep water drilling operations, offshore Otway Basin, Victoria.** 
+
+Annual Report 2004 15 
 

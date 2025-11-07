@@ -6,9 +6,9 @@ S T A T U T O R Y  I N S T R U M E N T S
 
 The Air Navigation (Restriction of Flying) (Royal St George’s Golf Course) Regulations 2021 
 
-|Made|-|-|-|-|12th|May|2021|
+|_Made_|_-_|_-_|_-_|_-_|_12th_|_ May_|_  2021_|
 |---|---|---|---|---|---|---|---|
-|_Coming_|_into_|_force_|_-_|_-_|_11th_|_July_|_2021_|
+|_Coming_|_ into_|_  force_|_-_|_-_|_11th_|_ July_|_  2021_|
 
 
 
@@ -28,19 +28,19 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 **3.** —(1) Subject to paragraph (2), between 0400 hours and 2100 hours on each of the nine days beginning on 11th July 2021 and ending on 19th July 2021 no aircraft is to fly below 2,000 feet above mean sea level within the area bounded by a circle having a radius of 1.07 nautical miles whose centre is at 521628N 0012201E. 
 
-(2) Paragraph (1) does not apply to any aircraft— 
+   - (2) Paragraph (1) does not apply to any aircraft— 
 
 - (a) operating by or on behalf of the— 
 
-- (i) National Police Air Service, 
+      - (i) National Police Air Service, 
 
-- (ii) Helicopter Emergency Services, or 
+      - (ii) Helicopter Emergency Services, or 
 
-- (iii) Maritime and Coastguard Agency, or 
+      - (iii) Maritime and Coastguard Agency, or 
 
 - (b) operating with the permission of Kent Police. 
 
-( **a** ) S.I. 2016/765, to which there are amendments not relevant to these Regulations. 
+> ( **a** ) S.I. 2016/765, to which there are amendments not relevant to these Regulations. 
 
-( **b** ) Co-ordinated Universal Time (UTC) is one hour behind British Summer Time (BST). 
+> ( **b** ) Co-ordinated Universal Time (UTC) is one hour behind British Summer Time (BST). 
 

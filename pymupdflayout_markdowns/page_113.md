@@ -6,51 +6,65 @@
 
 lb instead of 2-vinyl-1,3-dioxolane of Chemical Formula la, to obtain the compound represented by Chemical Formula 7 (yield: 55%). 
 
-Polyacrolein thus obtained (20 g), ethane-1,2-diol (150 g), toluene-p-sulfonic acid (1 g) and benzene (200 g) were placed in a 1000-ml round-bottomed flask, and the reaction was performed under reflux with a Dean and Stark water separator attached to the flask, until no more water was generated. After the reaction was completed, the product was precipitated from distilled water, to obtain pure compound represented by following Chemical Formula 6a (yield: 45%). 
-
 separator attached to the flask, until no more water was 5 
 
-**==> picture [72 x 10] intentionally omitted <==**
+Polyacrolein thus obtained (20 g), ethane-1,2-diol (150 g), toluene-p-sulfonic acid (1 g) and benzene (200 g) were placed in a 1000-ml round-bottomed flask, and the reaction was performed under reflux with a Dean and Stark water separator attached to the flask, until no more water was generated. After the reaction was completed, the product was precipitated from distilled water, to obtain pure compound represented by following Chemical Formula 6a (yield: 45%). 
 
-10 15 20 25 30 35 40 45 50 55 60 65 
+10 
 
 <Chemical Formula 6a> 
 
-**==> picture [67 x 9] intentionally omitted <==**
+15 
 
-~ 0 0 
-
-u 
-
-**==> picture [35 x 22] intentionally omitted <==**
-
-As the reaction catalyst, an acid such as trifluoromethanesulfonic acid, hydrochloric acid or boron trifluoride-etherate may be used instead of toluene-p-sulfonic acid. As a reaction solvent, a non-carbonyl solvent such as tetrahydrofuran may be used instead of benzene. 
+**==> picture [85 x 55] intentionally omitted <==**
 
 sulfonic acid, hydrochloric acid or boron trifluoride-etherate 20 
 
+**==> picture [185 x 159] intentionally omitted <==**
+
 ## EXAMPLE 5 
 
-In a 250-ml flask, 2-vinyl-1,3-dioxolane (0.3 mole) of Chemical Formula la, maleic anhydride (0.1 mole), **AIBN** (0.8 g) and tetrahydrofuran ( 41 g) were placed, and the mixture was reacted at 65° C. under nitrogen or argon atmosphere for 8 hours. After the polymerization was completed, the polymers were precipitated from ethyl ether, and dried in vacuo to obtain pure compound of Chemical Formula 8 (yield: 80%). 
+As the reaction catalyst, an acid such as trifluoromethanesulfonic acid, hydrochloric acid or boron trifluoride-etherate may be used instead of toluene-p-sulfonic acid. As a reaction solvent, a non-carbonyl solvent such as tetrahydrofuran may be used instead of benzene. 
 
 ## EXAMPLE 2 
 
 25 Chemical Formula la, maleic anhydride (0.1 mole), **AIBN** 
 
-The procedure according to Example I was repeated but using propane-1,2-diol (20 g) instead of ethane-1,2-diol, to obtain the compound represented by Chemical Formula 7a 
+> The procedure according to Example I was repeated but 
 
-(yield: 45%). 
+> using propane-1,2-diol (20 g) instead of ethane-1,2-diol, to 
+
+> obtain the compound represented by Chemical Formula 7a (yield: 45%). 
 
 30 and dried in vacuo to obtain pure compound of Chemical 
 
 <Chemical Formula 7a> 
 
+> In a 250-ml flask, 2-vinyl-1,3-dioxolane (0.3 mole) of Chemical Formula la, maleic anhydride (0.1 mole), **AIBN** (0.8 g) and tetrahydrofuran ( 41 g) were placed, and the 
+
+> mixture was reacted at 65° C. under nitrogen or argon 
+
+> atmosphere for 8 hours. After the polymerization was completed, the polymers were precipitated from ethyl ether, and dried in vacuo to obtain pure compound of Chemical Formula 8 (yield: 80%). 
+
 **As** a polymerization initiator, conventional radical polymerization initiators such as lauryl peroxide may be used instead of **AIBN** (yield: 40% ). 
+
+35 
+
+40 
 
 ## EXAMPLE 3 
 
-In a 100 ml flask, 2-vinyl-1,3-dioxolane (0.1 mole) of 
+45 
 
-Chemical Formula la, acrylic acid (0.06 mole), tetrahydrofuran (20 g) and AIBN (0.2 g) were placed, and the mixture was reacted at 65° C. under nitrogen or argon atmosphere for 8 hours. After the polymerization was completed, the polymers were precipitated from distilled water or ethyl ether, to obtain the compound of Chemical Formula 6 (yield: 60%). 
+In a 100 ml flask, 2-vinyl-1,3-dioxolane (0.1 mole) of Chemical Formula la, acrylic acid (0.06 mole), tetrahydrofuran (20 g) and AIBN (0.2 g) were placed, and the mixture was reacted at 65° C. under nitrogen or argon atmosphere for 8 hours. After the polymerization was completed, the polymers were precipitated from distilled water or ethyl ether, to obtain the compound of Chemical Formula 6 (yield: 60%). 
+
+<Chemical Formula la> 50 
+
+55 
+
+60 
+
+**==> picture [197 x 99] intentionally omitted <==**
 
 **==> picture [34 x 22] intentionally omitted <==**
 
@@ -58,15 +72,11 @@ Chemical Formula la, acrylic acid (0.06 mole), tetrahydrofuran (20 g) and AIBN (
 
 The procedure according to Example 5 was repeated but using 2-vinyl-1,3-dioxane (0.3 mole) of Chemical Formula lb instead of 2-vinyl-1,3-dioxolane of Chemical Formula la, to obtain the compound represented by Chemical Formula 9 (yield: 42%). 
 
-**==> picture [85 x 14] intentionally omitted <==**
-
-**==> picture [48 x 99] intentionally omitted <==**
-
-<Chemical Formula 6> 
-
-<Chemical Formula 9> 
+**==> picture [67 x 9] intentionally omitted <==**
 
 ## EXAMPLE 4 
 
 The procedure according to Example 3 was repeated but using 2-vinyl-1,3-dioxane (0.1 mole) of Chemical Formula 
+
+65 
 

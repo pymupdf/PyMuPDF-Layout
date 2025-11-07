@@ -2,9 +2,7 @@
 
 KABALAN GASPARD 
 
-a k is defined to be a (k mod p) for all k /∈{0, ..., p − 1} (a p−1 = 0, trivially). And so p−2 p−2 � (a p−k − a 1 )ζ[k] = u = ζ[−][t] u = � (a k+t − a (p−1)+t )ζ[k] by 1 and therefore, since this repk=0 k=0 
-
-resentation is unique, we get 
+a k is defined to be a (k mod p) for all k /∈{0, ..., p − 1} (a p−1 = 0, trivially). And so p−2 p−2 � (a p−k − a 1 )ζ[k] = u = ζ[−][t] u = � (a k+t − a (p−1)+t )ζ[k] by 1 and therefore, since this repk=0 k=0 resentation is unique, we get 
 
 **==> formula [357 x 21] intentionally omitted <==**
 

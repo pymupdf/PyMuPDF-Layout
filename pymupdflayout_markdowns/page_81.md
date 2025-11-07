@@ -1,28 +1,22 @@
 ## **INDEX** 
 
-|INDEX|Col2|
-|---|---|
-|Maintenance............................................|1|
-|ModelAY11240/ModelAY11238..................|2-5|
-|ModelAY11228/ModelAY11232..................|6-9|
-|ModelAY11230/ModelAY11234..................|10-13|
-|ModelAY11236........................................|14-18|
+Maintenance............................................ 1 Model AY11240/Model AY11238.................. 2-5 Model AY11228/Model AY11232.................. 6-9 Model AY11230/Model AY11234.................. 10-13 Model AY11236........................................ 14-18 Warranty Information................................ 
 
-
-
-Warranty Information................................ Back Cover 
+Back Cover 
 
 ## **IMPORTANT NOTES** 
 
-Congratulations on your purchase of this high quality BARSKA microscope. With proper care, this microscope will provide many years of use. Please read the following instructions before operating this instrument. 
+- Congratulations on your purchase of this high quality BARSKA microscope. With proper care, this microscope will provide many years of use. Please read the following instructions before operating this instrument. 
 
-- 1. Do not attempt to disassemble the instrument. This product has been carefully assembled at the factory and should only be examined by a factory-trained technician. 
+- 1. Do not attempt to disassemble the instrument. This product has 
+
+- been carefully assembled at the factory and should only be examined by a factory-trained technician. 
 
 - 2. This instrument should only be used in an environment with an indoor temperature range of 32[o] F to 104[o] F. 
 
 - 3. Do not use this instrument in an environment with a lot of dust. 
 
-## **Cover the instrument when not in use.** 
+**Cover the instrument when not in use.** 
 
 - 4. Do not subject the instrument to shock. 
 
@@ -38,19 +32,17 @@ Proper care and storage of this instrument is essential. Please read the followi
 
 - gently wipe with lens cleaning tissue and a mixture of alcohol 
 
-- and diethyl ether. Depending on weather conditions, the 
+- and diethyl ether. Depending on weather conditions, the following are the recommended mixture ratios: 
 
-- following are the recommended mixture ratios: 
+- Wet weather: 1:2 
 
-Wet weather: 1:2 
-
-Dry Weather: 1:1 
+- Dry Weather: 1:1 
 
 - 4. After use, cover the instrument with the plastic dust cover. 
 
 - 5. If instrument is to be stored for an extended period of time, remove the eyepiece and oculars and store in a moisture-proof container. 
 
-## **MODEL AY11240/AY11238** 
+**MODEL AY11240/AY11238** 
 
 **==> picture [346 x 237] intentionally omitted <==**
 
@@ -61,4 +53,8 @@ BARSKA Model AY11240 and Model AY11238 are designed for biological studies such 
 ## **CONSTRUCTION** 
 
 BARSKA Model AY11240 is a fixed tube type. For comfortable observation, the arm can be easily tilted at any angle from 90[o] vertical to 45[o] level. It is also equipped with a coarse adjustment and fine adjustment as well as a space limiter to protect the objective from contacting and damaging the specimen. BARSKA Model AY11238 features a monocular tube that is slanted at a 45[o] angle. The head rotates 360[o] . The Eyepiece Set Screw prevents the eyepiece from falling out of the tube. 
+
+**2** 
+
+**1** 
 

@@ -1,5 +1,3 @@
-
-
 ## **RADIO AIDS TO NAVIGATION** 
 
 On VFR Charts, information about radio aids to navigation (NAVAID) are boxed, as illustrated. Duplication of data is avoided. When two or more radio aids in a general area have the same name with different frequencies, Tactical Air Navigation (TACAN) channel numbers, or identification letters, and no misinterpretation can result, the name of the radio aid may be indicated only once within the identification box. Very High Frequency/Ultra High Frequency (VHF/UHF) NAVAID names and identification boxes (shown in blue) take precedence. Only those items that differ (e.g., frequency, Morse Code) are repeated in the box in the appropriate color. The choice of separate or combined boxes is made in each case on the basis of economy of space and clear identification of the radio aids. 
@@ -9,6 +7,8 @@ A NAVAID that is physically located on an airport may not always be represented 
 The type of NAVAID will be identified by: "VOR," (VHF Omni-Directional Range) "VORTAC" (VOR Tactical Aircraft Control), "VOR-DME," (VOR-Distance Measuring Equipment) or “DME” (Distance Measuring Equipment) positioned on and breaking the top line of the NAVAID box. 
 
 DMEs are shown without the compass rose. 
+
+**==> picture [130 x 129] intentionally omitted <==**
 
 ## **AIRPORTS** 
 
@@ -35,4 +35,6 @@ Fuel Available:
 Fuel availability indicated by use of tick marks around the basic airport symbol. Consult Chart Supplement for details and availability. 
 
 Other airports with or without fuel: 
+
+15 
 

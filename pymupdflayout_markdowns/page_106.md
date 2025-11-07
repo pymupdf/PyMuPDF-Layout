@@ -4,11 +4,9 @@ The Board Guidelines prescribe that the Board is to meet at least eight times a 
 
 Executive management attend Board and Committee meetings, at which they report to Directors within their respective areas of responsibility. This assists the Board in maintaining its understanding of the Company’s business and assessing the executive management team. Where appropriate, advisors to the Company attend meetings of the Board and of its Committees. 
 
-**2.3 Composition of the Board** 
+**2.3 Composition of the Board** The composition of the Board is determined in accordance with the Company’s Constitution and the Board Guidelines which, among other things, require that: 
 
-The composition of the Board is determined in accordance with the Company’s Constitution and the Board Guidelines which, among other things, require that: 
-
-- • the Board is to comprise a minimum of five and a maximum of ten Directors (exclusive of the CEO); 
+• the Board is to comprise a minimum of five and a maximum of ten Directors (exclusive of the CEO); 
 
 - • the Board should comprise a substantial majority of independent, non-executive Directors; 
 
@@ -22,7 +20,9 @@ Currently, the Board comprises eight non-executive Directors and one executive D
 
 Generally, the Board considers a Director to be independent if he or she is not a member of management and is free of any business or other relationship that could materially interfere with, or could reasonably be 
 
-perceived to materially interfere with, the Director’s ability to act in the best interests of the Company. The Board will assess the materiality of any given relationship that may affect independence on a case by case basis and has adopted materiality guidelines to assist in that assessment. Under these guidelines, the following interests are regarded as material in the absence of any mitigating factors: 
+perceived to materially interfere with, the Director’s ability to act in the best interests of the Company. The Board will assess the materiality of any given relationship that may affect independence on a case by case basis and has adopted 
+
+materiality guidelines to assist in that assessment. Under these guidelines, the following interests are regarded as material in the absence of any mitigating factors: 
 
 - • a holding of 5% or more of the Company’s voting shares or a direct association with an entity that holds more than 5% of the Company’s voting shares; 
 
@@ -36,13 +36,13 @@ The names and details of the experience, qualifications, special
 
 responsibilities, and term of office of each Director of the Company are set out on page 41 of this Annual Report. Details of each Director’s attendance at Board and Committee Meetings and their shareholdings are also set out on page 47 of this Annual Report. 
 
-**2.4 Nomination Committee** 
-
-The role, responsibilities and membership requirements of the Nomination Committee are documented in the Board Guidelines and in a separate Charter, approved by the Board. 
+**2.4 Nomination Committee** The role, responsibilities and membership requirements of the Nomination Committee are documented in the Board Guidelines and in a separate Charter, approved by the Board. 
 
 Under the Board Guidelines, it is the responsibility of the Nomination Committee to devise the criteria for, and review membership of, and nominations to, the Board. The primary criteria adopted in selection of suitable Board candidates is their capacity to contribute to the ongoing development of the Company having regard to the location and nature of the Company’s significant business interests and to the candidates’ age and experience by reference to the attributes of existing Board members. 
 
 When a Board vacancy exists or where it is considered that the Board would benefit from the services of a new Director with particular skills, the Nomination Committee has responsibility for proposing candidates for consideration by the Board and, where appropriate, engages the services of external consultants. 
 
 Prior to appointment, each Director is provided with a letter of appointment which encloses a copy of the Company’s Constitution and of the relevant policies. Additionally, the expectations of the Board in 
+
+30 Annual Report 2004 
 

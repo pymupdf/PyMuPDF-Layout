@@ -16,6 +16,8 @@ Feb. 13, 2020
 
 **[0043]** In the present specification, the weight-average molecular weight (Mw), the number-average molecular weight (Mn), and the dispersity (also referred to as a molecular weight distribution) (Mw/Mn) of a resin are defined as values in terms of polystyrene by means of gel permeation chromatography (GPC) measurement (solvent: tetrahydrofuran, flow amount (amount of a sample injected): 10 µL, columns: TSK gel Multipore HXL-M manufactured by Tosoh Corporation, column temperature: 40° C., flow rate: 1.0 mL/min, detector: differential refractive index detector) using a GPC apparatus (HLC-8120 GPC manufactured by Tosoh Corporation). **[0044]** 1 A is lx10-[10 ] m. 
 
+**[0045]** 
+
 **[0045]** «Photosensitive Composition for EUV Light» **[0046]** The photosensitive composition for EUV light of an embodiment of the present invention (hereinafter also referred to as a "resist composition") satisfies Conditions 1 and 2 which will be described later. A reason why a desired effect is obtained by satisfying these conditions is shown below. 
 
 **[0047]** EUV light has a wavelength of 13.5 nm, which is a shorter wavelength than that of ArF (wavelength of 193 nm) light or the like, and therefore, the EUV light has a smaller number of photons upon exposure with the same sensitivity. With this, an effect of "photon shot noise" that the number of photos is statistically non-uniform is significant and deterioration in LER is caused. In order to reduce the photon shot noise, a method in which an exposure dose is increased to cause an increase in the number of incident photons is available, but the method is a trade-off with a demand for high sensitivity. Further, a method in which the thickness of a resist film is increased to cause an increase in the number of absorbed photons is also available, but it causes a reduction in a resolution. 
@@ -24,9 +26,9 @@ Feb. 13, 2020
 
 composition is made into a thin film. As a result, a Z-factor which is total performance of a resolution, a line edge roughness (LER), and a sensitivity is improved, and also, generation of pattern collapse is suppressed. 
 
-**[0049]** The resist composition satisfies Condition 1. As described above, in a case where the A value defined in Condition 1 is high, the absorption efficiency of EUV light of the resist film formed with the resist composition is increased. The A value represents the absorption efficiency of EUV light of the resist film in terms of a mass ratio. 
+**[0049]** The resist composition satisfies Condition 1. As described above, in a case where the A value defined in Condition 1 is high, the absorption efficiency of EUV light of the resist film formed with the resist composition is increased. The A value represents the absorption efficiency 
 
-**[0050]** Condition 1: The A value determined by Formula (1) is 0.14 or more. 
+of EUV light of the resist film in terms of a mass ratio. **[0050]** Condition 1: The A value determined by Formula (1) is 0.14 or more. 
 
 A~([H]x0.04+[C]x 1.0+[N]x2.1 +[O]x30.6+[F]x50. 6+ [S]x 1.5+[I]x39 .5)/([H]x 1 +[C]x 12+[N]x 14+[O]x 16+[F]x19+[S]x32+[I]x127) Formula (1): 
 

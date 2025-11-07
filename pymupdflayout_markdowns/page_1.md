@@ -6,9 +6,7 @@ be formulated for the general SINR regime as follows:
 
 Note that the numerator and denominator in (12) are posynomials and minimizing a ratio between two posynomials is referred to be a truly non-convex NP hard intractable problem known as complimentary GP. However, this problem can be transformed into GP by letting the denominator K f (p) = p n,k,l h n,k,l + σ[2] + I n,l =[�][L] l=1 � k=1[u][n,k,l][(][p][)][ and approximating the denominator][ f][(][p][)] with a monomial using the arithmetic/geometric mean inequality as follows: 
 
-s n,k,l u n,k,l (p) 
-
-**==> formula [339 x 38] intentionally omitted <==**
+**==> formula [339 x 44] intentionally omitted <==**
 
 where s n,k,l =[u][n,k,l] f (p 0[(][p] )[0][)][. Thus, the problem can be solved by extending the single condensation] method presented in [14] for multi-cell scenario. The details of centralized scheme A are presented in Algorithm 2. 
 
@@ -18,5 +16,7 @@ The initial allocation phase has a complexity of O(KN[2] ) which is the same as 
 
 The complexity of Phase II is difficult to determine, however, it can be measured in terms of the degree of difficulty (DoD) that in turn relies on the number of constraints and variables associated with the GP [15]. Since we are dealing with LK power constraints and LKN power variables, the total computational complexity of centralized scheme A is O(KN[2] + NKLM) + DoD(LKN). Apparently it seems that implementing centralized GP/successive GP based schemes may not 
 
-March 19, 2018 DRAFT 
+March 19, 2018 
+
+DRAFT 
 

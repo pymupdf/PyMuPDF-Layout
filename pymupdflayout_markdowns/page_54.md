@@ -1,3 +1,5 @@
+**==> picture [165 x 43] intentionally omitted <==**
+
 ## **2.4 Ways to submit a tender: how can economic operators organise themselves to submit a tender?** 
 
 Economic operators can submit a tender either as a sole tenderer or as a group of tenderers. In either case subcontracting is permitted. 
@@ -20,5 +22,7 @@ The joint tender must clearly indicate the role and tasks of each member and of 
 
 Changes in the composition of the group during the procurement procedure (after the submission deadline and before contract signature) shall lead to rejection of the tender except in case of: 
 
-9 References to _tenderer_ or _tenderers_ in this document shall be understood as covering both sole tenderers and groups of economic operators submitting a joint tender. 
+> 9 References to _tenderer_ or _tenderers_ in this document shall be understood as covering both sole tenderers and groups of economic operators submitting a joint tender. 
+
+13 
 

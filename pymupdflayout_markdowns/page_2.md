@@ -1,10 +1,6 @@
-
-
 # Semiconducting-enriched single wall carbon nanotube networks applied to field effect transistors 
 
-N. Izard, S. Kazaoui[∗] , K. Hata, T. Okazaki, T. Saito, S. Iijima, and N. Minami 
-
-National Institute of Advanced Industrial Science and Technology (AIST) 
+N. Izard, S. Kazaoui[∗] , K. Hata, T. Okazaki, T. Saito, S. Iijima, and N. Minami National Institute of Advanced Industrial Science and Technology (AIST) 
 
 1-1-1 Higashi, Tsukuba, Ibaraki, 305-8565 Japan 
 
@@ -18,7 +14,7 @@ In recent years, several approaches to extract s- SWNTs from nanotube powders we
 
 In this letter, we report on the electronic properties of FET consisting of semiconducting-enriched single wall carbon nanotubes, without detectable traces of metallic nanotubes and impurities, with in our detection limits. This unprecedented achievement is made possible by ultracentrifugation (250,000g), sonication and filtration of solutions composed of SWNT powders with polyfluorene as extracting agent in toluene. Evidences are gathered by optical absorption, Raman and electrical measurements (see Fig.1). We shall demonstrate that such s- 
 
-**==> picture [210 x 272] intentionally omitted <==**
+**==> picture [355 x 284] intentionally omitted <==**
 
 FIG. 1: (Color online): (a) shows the optical absorption spectra and (b) the Raman spectra at 514.5 nm of L, M and S samples . (c) displays the transfer characteristic, I D vs V G for V DS =-14V of FET devices made of sample M and S. 
 

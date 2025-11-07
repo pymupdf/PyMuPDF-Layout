@@ -4,7 +4,7 @@ Contract number: [ _complete_ ]
 
 The contractor must bear all costs and risks involved in delivering the supplies to the place of delivery. 
 
-## (c) Consignment note 
+- (c) Consignment note 
 
 Each delivery must be accompanied by a consignment note in duplicate, duly signed and dated by the contractor or its carrier, giving the contract number and particulars of the supplies delivered. One copy of the consignment note must be countersigned by the contracting authority and returned to the contractor or to its carrier. 
 
@@ -35,4 +35,6 @@ The supplies delivered must:
 - (e) be packaged according to the usual method for supplies of the same type or, failing this, in a way designed to preserve and protect them. 
 
 ## **II.4.11 Remedy** 
+
+14 
 

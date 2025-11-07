@@ -8,11 +8,15 @@ guilty of such an offence by the court trying an election petition or on the gro
 
 - ( _a_ ) upon the dissolution of Parliament; 
 
-- ( _b_ ) if he or she is absent from the sittings of the Assembly for such period and in such circumstances as may be prescribed in the rules of procedure of the Assembly; 
+- ( _b_ ) if he or she is absent from the sittings of the Assembly for such period and in such 
+
+- circumstances as may be prescribed in the rules of procedure of the Assembly; 
 
 - ( _c_ ) subject to the provisions of subsections (2) to (3) of this section, if any circumstances arise that, if he or she were not a Member of the Assembly, would cause him or her to be disqualified for election thereto. 
 
-(2) If circumstances such as are referred to in paragraph ( _c_ ) of the preceding subsection arise in relation to a Member of the Assembly by virtue of the fact that he or she is declared insolvent, adjudged to be of unsound mind, sentenced to death or imprisonment, or convicted of an election offence and it is open to the Member to appeal against the decision (either with the leave of the court or other authority or without such leave), he or she shall forthwith cease to perform his or her functions as a Member of the Assembly but, subject to the next following subsection, he or she shall not vacate his or her seat until the expiration of a period of 30 days thereafter: 
+(2) If circumstances such as are referred to in paragraph ( _c_ ) of the preceding subsection arise in relation to a Member of the Assembly by virtue of the fact that he or she is declared insolvent, adjudged to be of unsound mind, sentenced to death or imprisonment, or convicted of an election offence and it is open to the Member to appeal against the decision (either with the leave of the court or other authority or without such leave), he or she shall forthwith cease to perform his or her functions as a Member of the Assembly but, subject to the next following subsection, he or she shall not vacate his or her seat until the expiration of a period of 30 days 
+
+thereafter: 
 
 Provided that the Speaker may, at the request of the Member, from time to time extend that period for further periods of 30 days to enable the Member to pursue an appeal against the decision, so, however, that extensions of time exceeding in the aggregate 150 days shall not be given without the approval of the Assembly signified by resolution. 
 
@@ -22,21 +26,21 @@ Provided that the Speaker may, at the request of the Member, from time to time e
 
 **69. Determination of questions as to membership of National Assembly** 
 
-(1) The High Court shall have jurisdiction to hear and determine any question whether- 
+   - (1) The High Court shall have jurisdiction to hear and determine any question whether- 
 
 - ( _a_ ) any person has been validly elected as an Elected Member of the National Assembly or the seat of any such Member has become vacant; 
 
 - ( _b_ ) any person has been validly elected as Speaker of the Assembly or, having been so elected, has vacated the office of Speaker. 
 
-(2) Any question whether any person has been validly elected as a Specially Elected 
+(2) Any question whether any person has been validly elected as a Specially Elected Member of the National Assembly or whether the seat of any such Member has become vacant shall be determined by the Speaker. 
 
-Member of the National Assembly or whether the seat of any such Member has become vacant shall be determined by the Speaker. 
-
-- (3) Parliament may make provision with respect to- 
+(3) Parliament may make provision with respect to- 
 
 - ( _a_ ) the persons who may apply to the High Court for the determination of any question under this section; 
 
 - ( _b_ ) the circumstances and manner in which the conditions upon which any such application may be made; and 
 
 - ( _c_ ) the powers, practice and procedure of the High Court in relation to any such application. 
+
+**Copyright Government of Botswana** 
 

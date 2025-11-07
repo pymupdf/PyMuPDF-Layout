@@ -4,29 +4,29 @@
 
 Let us consider the non-Hermitian FFA model defined by the following relations for the energy dispersion E(k) and spectral coupling v(k) 
 
-
+**==> picture [9 x 1] intentionally omitted <==**
 
 **==> formula [222 x 24] intentionally omitted <==**
 
 where κ 0 , κ a are two real-valued positive constants and 0 ≤ k ≤ π. The Hermitian limit of this model, attained by assuming Im(E a ) = 0, is a special case of the FFA model previously investigated in Ref.[36], which is exactly solvable (see also [29]). Note that the continuous spectrum of H spans the band (E 1 , E 2 ), with E 2 = −E 1 = 2κ 0 . The density of states for this model is given by 
 
-**==> formula [235 x 49] intentionally omitted <==**
+**==> formula [235 x 46] intentionally omitted <==**
 
 which shows van-Hove singularities at the band edges, whereas the positive spectral function V (E), defined by V (E) = ρ(E)|v(E)|[2] , reads 
-
-
 
 **==> formula [236 x 46] intentionally omitted <==**
 
 which is non-singular. Substitution of Eq.(49) into Eq.(11) yields the following expression for the self-energy Σ(z) [46] 
 
-**==> formula [197 x 34] intentionally omitted <==**
+**==> formula [18 x 13] intentionally omitted <==**
+
+**==> formula [197 x 27] intentionally omitted <==**
 
 and thus [see Eq.(12)] 
 
+**==> formula [19 x 11] intentionally omitted <==**
 
-
-**==> formula [239 x 74] intentionally omitted <==**
+**==> formula [226 x 74] intentionally omitted <==**
 
 The condition for the non-Hermitian Hamiltonian to possess a real-valued spectrum (i.e. to avoid complex-valued energies arising from bound states outside the continuum) is derived in Appendix B. Precisely, let ξ 1,2 be the two roots of the second-order algebraic equation 
 
@@ -43,8 +43,6 @@ FIG. 2: Domains of non-existence of bound states for the Hamiltonian H in the (I
 **==> formula [174 x 18] intentionally omitted <==**
 
 Let us now consider the occurrence of spectral singularities. According to Eqs.(19) and (20) and using Eqs.(49) and (51), a spectral singularity at energy E = E 0 , inside the interval (−2κ 0 , 2κ 0 ), is found provided that the following two equations are simultaneously satisfied 
-
-
 
 **==> formula [195 x 64] intentionally omitted <==**
 

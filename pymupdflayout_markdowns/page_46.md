@@ -1,5 +1,7 @@
 General Administrative and Submission Clauses 
 
+**==> picture [155 x 74] intentionally omitted <==**
+
 ## **3.4. Physical or virtual data rooms** 
 
 The `Terms of Reference`, **point 1.2** may provide for a **physical** or **virtual data room,** if required by the subject matter of the procurement, subject to the Tenderer’s prior signature of confidentiality and non-disclosure agreements. 
@@ -8,9 +10,7 @@ The `Terms of Reference`, **point 1.2** may provide for a **physical** or **virt
 
 - b) Where a **virtual data room** is used, it will be made available upon specific request by the Tenderer to access all existing and necessary technical or confidential data that Tenderers may find useful for preparing the technical and financial offer. The virtual data room is the computerized online platform and will be accessible to the Tenderers who register online and sign the Undertaking of confidentiality and Non-disclosure. Once the Tenderer has signed such Undertaking of confidentiality and Non-disclosure and sent back to the following address CS-procurement@eib.org the Tenderer will be provided by return with a link and granted access to the virtual data room. The information in the virtual data room is provided to the Tenderer solely and exclusively for the purpose of preparing a Tender. The information cannot be used totally or partially, directly or indirectly, for any other purpose, unless the EIB gives its prior written authorisation. The Tenderers are not authorised to copy, print or distribute none of the documents/data/drawings or any other information from virtual data room. 
 
-## **3.5.** 
-
-## **Clarification following the submission of tenders** 
+## **3.5. Clarification following the submission of tenders** 
 
 Where information or documentation contained in a tender is or appears to be incomplete or erroneous or where specific documents are missing, EIB may request the Tenderer concerned to submit, supplement, clarify or complete the relevant information or documentation within an appropriate lime limit. EIB shall ensure that such requests are made in full compliance with the principles of equal treatment and transparency. 
 
@@ -22,5 +22,7 @@ Only in the case of a negotiated procedure, competitive dialogue or competitive 
 
 If foreseen in the ‘Terms of Reference’ and in accordance with the objective criteria defined therein, Tenderers having passed the exclusion and selection stage, may be invited to make an oral 
 
-Last updated: June 2020 
+**==> picture [47 x 23] intentionally omitted <==**
+
+Last updated: June 2020 Page 6 of 21 
 

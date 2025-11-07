@@ -1,10 +1,11 @@
-|6 -monthly|Renewedpre-financingpaymentsandinterim|9<br><amount>|
-|---|---|---|
-||**payments**||
-|**<****_Month_**|**Forecastbalance**|<_amount_><br>10|
-|**_number_>**|||
-||**Total**|<_MaximumContract_|
-|||_Value_>|
+|**6-monthly**|**Renewed**|** pre-financing payments and interim**|** pre-financing payments and interim**|<_amount_><br>9|
+|---|---|---|---|---|
+||**payments**||||
+|**<****_Month_**|**Forecast balance**|||<_amount_><br>10|
+|**_number_> **|||||
+||||||
+||**Total**|||<_Maximum Contract_|
+|||||_Value_>|
 
 
 
@@ -18,7 +19,7 @@ The aggregate amount of the advance and interim invoices issued by the Consultan
 
 Any written communication relating to this Contract between the Contracting Authority and the Consultant must state the Contract title and identification number, and must be sent by post, fax, e-mail or by hand to the addresses identified in accordance with Articles 5.3 and 7.8 of the General Conditions. 
 
-## **(9) Law and language of the Contract** 
+- **(9) Law and language of the Contract** 
 
 - 9.1 This Contract and any dispute or claim arising out or in connection with it shall be governed by the laws of the Grand Duchy of Luxembourg. 
 
@@ -40,5 +41,9 @@ No duties, levies or taxes, including VAT, which may be payable in the beneficia
 
 - 9 Balance of first pre-financing payment and forecast balance 
 
-10  10% of the maximum contract value 
+> 10  10% of the maximum contract value 
+
+AA-000799-002_TACONT 
+
+Page 3 of 7 
 

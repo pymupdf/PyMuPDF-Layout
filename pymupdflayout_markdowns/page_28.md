@@ -4,16 +4,16 @@ The turbojet engine usually has a strong preference fot high RPM to produce low 
 
 Altitude is one factor which strongly affects the performance of the turbojet engine. An increase in altitude produces a decrease in density and pressure and, if below the tropopause, a decrease in temperature. If a typical nonaftcrbutning turbojet engine is operated at a constant RPM and true airspeed, the vatiation of thtust and specific fuel consumption with altitude can be approximated from figure 221. The variation of density in the standard atmosphere is shown by the values of density ratio at vatious altitudes. Typical values of the density ratio at specific altitudes are as follows: 
 
-|ws:|Col2|Col3|Col4|
+|ws:||||
 |---|---|---|---|
-|Altitude,ft.:||Dews@ra#ie|Dews@ra#ie|
-|scaleeel.............................|scaleeel.............................|scaleeel.............................|Loo0|
+|Altitude, ft.:||Dews@ ra#ie||
+|scaleeel . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|||Loo0|
 |5,ooo..<br>:.<br>.|||.a617|
 |lO,coo..............................|||.7385|
 |.?2#XQ.|||.4976|
-|35,cao...............|..|....|.3099|
-|40,oal.....|||.2462|
-|~,OUO..<br>.<br>.|||.lS32|
+|35,cao . . . . . . . . . . . . . . .|. .|. . . .|.3099|
+|40,oal.. . . .|||.2462|
+|~,OUO. .<br>. <br>.|||.lS32|
 
 
 
@@ -21,17 +21,20 @@ Altitude is one factor which strongly affects the performance of the turbojet en
 
 If the fixed geometry engine is operated at a constant V (TAS) in subsonic flight and constant N (RPM) the inlet velocity, inlet ram, and compressor pressure ratio are essentially constant with altitude. An increase in altitude then causes the engine air mass flow to decrease in a manner very nearly identical to the altitude density ratio. Of coutsc, this decrease in mass flow will produce a significant e&ct on the output thrust of the engine. Actually, the variation of thrust with altitude is not quite as severe as the density variation because favorable decreases in temperature occut. The decrease in inlet air temperature will provide a relatively greater combustion gas &ergy and allow a greater jet velocity. The increase in jet velocity somewhat offsets the decrease in mass flow. Of course, an increase in altitude provides lower temperatures below the tropopause. Above the tropopause, no further favorable decrease in temperature takes place so a more rapid variation of thrust will take place. The approximate variation of thrust with altitude is represented by figure 2.11 and some typical values at specific altitudes ate as follows : 
 
-|es place so a more rapid variation of thrust take place. The approximate variation hrust with altitude is represented by figure 1 and some typical values at specific alti- es ate as follows :|Col2|
+|RIrio ofTbrvrtat dri14<br>Altitude, ft. :<br>( <br>) <br>Thi<br>ti I,‘ bwl<br>Scalevel.............................<br>1.m|RIrio ofTbrvrtat dri14<br>Altitude, ft. :<br>( <br>) <br>Thi<br>ti I,‘ bwl<br>Scalevel.............................<br>1.m|
 |---|---|
-|RIrioofTbrvrtatdri14<br>Altitude,ft.:<br>(<br>)<br>Thi<br>tiI,‘bwl<br>Scalevel.............................<br>1.m|RIrioofTbrvrtatdri14<br>Altitude,ft.:<br>(<br>)<br>Thi<br>tiI,‘bwl<br>Scalevel.............................<br>1.m|
 |5,ooo................................|,888|
 |lO,ooo...............................|.785|
 |2o,ooo...............................|,604|
 |35,Mx)...............................|.392|
 |40,Ko.|.315|
-|=Jo,ocQ._._..,...._....._,.,.__.,.....|.180|
+|=Jo,ocQ ._._..,...._....._,.,.__.,.....|.180|
 
 
 
-Since the change in density with altitude is quite rapid at low altitude turbojet takeoff petformance wil1 Abe greatly affected at high altitude. Also note that the thrust at 35,000 ft. is approximately 39 percent of the sea level value. The thrust added by the afterburner of a turbojet engine is not affected so greatly by altitude as the basic engine thrust. The use of afterburner may provide a thrust increase of 50 percent at low altitude or as much as 100 percent at high altitude. 
+Since the change in density with altitude is quite rapid at low altitude turbojet takeoff petformance wil1 Abe greatly affected at high altitude. Also note that the thrust at 35,000 ft. is approximately 39 percent of the sea level value. 
+
+The thrust added by the afterburner of a turbojet engine is not affected so greatly by altitude as the basic engine thrust. The use of afterburner may provide a thrust increase of 50 percent at low altitude or as much as 100 percent at high altitude. 
+
+119 
 

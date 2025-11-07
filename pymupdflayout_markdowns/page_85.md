@@ -20,12 +20,12 @@
 
 ## **Objective Specifications** 
 
-|Classification|Optical<br>System|Magnification|Numerical<br>Aperture|Working<br>Distance|
+|**Classification**|**Optical**<br>**System**|**Magnification**|**Numerical**<br>**Aperture**|**Working**<br>**Distance**|
 |---|---|---|---|---|
-|Achromatic<br>Objective|Dry|4xAdjustable<br>Focus|0.1|37.42mm|
-|Achromatic<br>Objective|Dry|10x|0.25|7.14mm|
-|Achromatic<br>Objective|Dry|40xSpring<br>Adjustable<br>Focus|0.65|0.57mm|
-|Achromatic<br>Objective|Oil<br>Immer-<br>sion|100xSpring<br>Adjustable<br>Focus|1.25|0.18mm|
+|Achromatic<br>Objective|Dry|4x Adjustable<br>Focus|0.1|37.42mm|
+||Dry|10x|0.25|7.14mm|
+||Dry|40x Spring<br>Adjustable<br>Focus|0.65|0.57mm|
+||Oil<br>Immer-<br>sion|100x Spring<br>Adjustable<br>Focus|1.25|0.18mm|
 
 
 
@@ -33,42 +33,42 @@ Note: For oil immersion, please use the index of refraction 1.515 oil
 
 ## **Eyepiece Specifications** 
 
-|Classification|Magnification|FieldofView(FOV)<br>Diameter|
+|**Classification**|**Magnification**|**Field of View (FOV)**<br>**Diameter**|
 |---|---|---|
-|PlainField<br>Eyepiece|10x|18mm|
+|Plain Field<br>Eyepiece|10x|18mm|
 
 
 
 ## **Total Magnification** 
 
-|Magnification Eyepiece<br>Objective|10x|
+|**Objective**<br>**Magnification**<br>**Eyepiece**|10x|
 |---|---|
 |4x|40x|
 |10x|100x|
-|40x(s)|400x|
-|100x(oil,s)|1000x|
+|40x (s)|400x|
+|100x (oil,s)|1000x|
 
 
 
 ## **PARTS LIST** 
 
-|Name|Col2|Qty|
+||**Name**|**Qty**|
 |---|---|---|
-|MicroscopeStand|MicroscopeStand|1|
-|Achromatic<br>Objective|4x(parfocaldistanceadjustable)|1|
-|Achromatic<br>Objective|10x|1|
-|Achromatic<br>Objective|40x(s)(parfocaldistanceadjustable)|1|
-|Achromatic<br>Objective|100x(oil,s)(parfocaldistanceadjustable)|1|
-|10xWideFieldEyepiecew/Pointer|10xWideFieldEyepiecew/Pointer|2|
-|AbbeCondenserNA1.25|AbbeCondenserNA1.25|1|
-|PlasticDustCover|PlasticDustCover|1|
-|Spare6V20WHalogenBulb|Spare6V20WHalogenBulb|1|
-|LensCleaningTissue|LensCleaningTissue|1|
-|CedarOil|CedarOil|1|
-|1AFuse(spare)|1AFuse(spare)|1|
-|Specification|Specification|1|
-|InspectionCertificate|InspectionCertificate|1|
-|PackingList|PackingList|1|
+|Microscope Stand||1|
+|Achromatic<br>Objective|4x (parfocal distance adjustable)|1|
+||10x|1|
+||40x (s) (parfocal distance adjustable)|1|
+||100x (oil,s) (parfocal distance adjustable)|1|
+|10x Wide Field Eyepiece w/Pointer||2|
+|Abbe Condenser NA1.25||1|
+|Plastic Dust Cover||1|
+|Spare 6V20W Halogen Bulb||1|
+|Lens Cleaning Tissue||1|
+|Cedar Oil||1|
+|1A Fuse (spare)||1|
+|Specification||1|
+|Inspection Certificate||1|
+|Packing List||1|
 
 
 
@@ -78,11 +78,17 @@ Note: For oil immersion, please use the index of refraction 1.515 oil
 
 - 2. Attach 4x, 10x and 40x objectives by screwing into revolving turret. Tighten and secure to maximum finger pressure only. 
 
-- 3. Place the specimen on the stage and secure with spring clips. NOTE: The cover glass must face upward (the thinner glass is the cover glass), otherwise when the 40x objective is used the specimen cannot be observed. Observation is best when the thickness of the cover glass is 0.1-1.1mm and the cover glass is 0.17mm. 
+- 3. Place the specimen on the stage and secure with spring clips. 
 
 thickness of the cover glass is 0.1-1.1mm and the cover glass 
+
+- NOTE: The cover glass must face upward (the thinner glass is the cover glass), otherwise when the 40x objective is used the specimen cannot be observed. Observation is best when the thickness of the cover glass is 0.1-1.1mm and the cover glass is 0.17mm. 
 
 - 4. Plug power cord into an electrical outlet. Turn microscope lamp ON. 
 
 - 5. Observe the specimen using the lowest magnification objective first. The 10x objective provides a larger field of view making it easier to search the specimen. 
+
+**15** 
+
+**16** 
 

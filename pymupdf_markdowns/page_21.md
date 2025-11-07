@@ -1,154 +1,38 @@
-Now I present the constrained optimization procedure to compute the sharp lower bound under MTR. I
+Now I present the constrained optimization procedure to compute the sharp lower bound under MTR. I pay particular attention to the special case where _a k_ +1 _− a k_ = _δ_ for each integer _k_ at the optimum. In this case, the lower bound reduces to 
 
+**==> formula [351 x 32] intentionally omitted <==**
 
-pay particular attention to the special case where _a_ _k_ +1 _−_ _a_ _k_ = _δ_ for each integer _k_ at the optimum. In this
+and computation of (B.1) poses a simple one-dimensional optimization problem. 
 
+Let 
 
-case, the lower bound reduces to
+**==> formula [268 x 32] intentionally omitted <==**
 
+and 
 
+**==> formula [310 x 32] intentionally omitted <==**
 
-sup
-0 _≤y≤δ_
+where _y[∗] ∈_ arg max � _∞k_ = _−∞_[max (] _[F]_[1][ (] _[y]_[ + (] _[k]_[ + 1)] _[ δ]_[)] _[ −][F]_[0][ (] _[y]_[ +] _[ kδ]_[)] _[ ,]_[ 0) and] _[ K]_[ is a nonnegative integer.] 0 _≤y≤δ_ 
 
+**Step 1.** Compute _V_ ( _δ_ ) _._ 
 
+**Step 2.** To further reduce computational costs, set _K_ to be a nonnegative integer satisfying _|V_ ( _δ_ ) _− V K_ ( _δ_ ) _| < ε_ for small _ε >_ 0 _._[24] 
 
-_∞_
-� max ( _F_ 1 ( _y_ + ( _k_ + 1) _δ_ ) _−_ _F_ 0 ( _y_ + _kδ_ ) _,_ 0) _,_ (B.1)
+**Step 3.** For _J_ = _K_ , solve the following optimization problem: 
 
+**==> formula [335 x 33] intentionally omitted <==**
 
-_k_ = _−∞_
+where 
 
+**==> formula [340 x 78] intentionally omitted <==**
 
+**Step 4.** Repeat Step 3 for _J_ = _K_ + 1 _, . . . ,_ 2 _K._[25] 
 
-and computation of (B.1) poses a simple one-dimensional optimization problem.
+It is not straightforward to solve the problem (B.2) numerically in Step 3; the function max _{x,_ 0 _}_ is nondifferentiable. Furthermore in practice, marginal distribution functions are often estimated in a complicated 
 
+> 24 I put _ε_ = 10 _−_ 5 for the implementation in Section 4 and Section 5. 
 
-Let
+> 25 By Lemma B.1, I considered _J_ = _K, K_ + 1 _, . . . ,_ 2 _K_ for the sequence _{a k }[J] k_ = _−J_[and compared the values of local maxima] achieved by _{a k }[J] k_ = _−J_[with] _[ V][K]_[ (] _[δ]_[)] 
 
-
-
-_V_ ( _δ_ ) = sup
-0 _≤y≤δ_
-
-
-
-_∞_
-� max ( _F_ 1 ( _y_ + ( _k_ + 1) _δ_ ) _−_ _F_ 0 ( _y_ + _kδ_ ) _,_ 0) _,_
-
-
-_k_ = _−∞_
-
-
-
-and
-
-
-
-_V_ _K_ ( _δ_ ) = max
-_y∈{y_ _[∗]_ + _kδ}_ _[∞]_ _k_ = _−∞_
-
-
-
-_K_
-� max ( _F_ 1 ( _y_ + ( _k_ + 1) _δ_ ) _−_ _F_ 0 ( _y_ + _kδ_ ) _,_ 0) _,_
-
-
-_k_ = _−K_
-
-
-
-where _y_ _[∗]_ _∈_ arg max
-0 _≤y≤δ_
-
-
-
-_∞_
-� _k_ = _−∞_ [max (] _[F]_ [1] [ (] _[y]_ [ + (] _[k]_ [ + 1)] _[ δ]_ [)] _[ −]_ _[F]_ [0] [ (] _[y]_ [ +] _[ kδ]_ [)] _[,]_ [ 0) and] _[ K]_ [ is a nonnegative integer.]
-
-
-
-**Step 1.** Compute _V_ ( _δ_ ) _._
-
-
-**Step 2.** To further reduce computational costs, set _K_ to be a nonnegative integer satisfying _|V_ ( _δ_ ) _−_ _V_ _K_ ( _δ_ ) _| <_
-
-
-_ε_ for small _ε >_ 0 _._ [24]
-
-
-**Step 3.** For _J_ = _K_, solve the following optimization problem:
-
-
-
-sup
-_{a_ _k_ _}_ _[J]_ _k_ = _−J_ _[∈S]_ _δ_ _[J,K]_ ( _y_ �)
-
-
-
-_J_
-� max _{F_ 1 ( _a_ _k_ +1 ) _−_ _F_ 0 ( _a_ _k_ ) _,_ 0 _},_ (B.2)
-
-
-_k_ = _−J_
-
-
-
-where
-
-
-
-
-
-
-_,_
-
-
-
-
-
-_S_ _δ_ _[J,K]_ ( _y_ ) =
-
-
-
-
-
-
-
-_{a_ _k_ _}_ _[J]_ _k_ = _−J_ [;] _[ a]_ _[J]_ _[ ≤]_ _[y]_ [ +] _[ Kδ, a]_ _[−][J]_ _[ ≥]_ _[y][ −]_ _[Kδ,]_ [ 0] _[ ≤]_ _[a]_ _[k]_ [+1] _[ −]_ _[a]_ _[k]_ _[ ≤]_ _[δ,]_
-
-
-_δ < a_ _k_ +2 _−_ _a_ _k_ for each integer _k_
-
-
-
-�
-_y_ = arg max
-_y∈{y_ _[∗]_ + _kδ}_ _[∞]_ _k_ = _−∞_
-
-
-
-_K_
-� max ( _F_ 1 ( _y_ + ( _k_ + 1) _δ_ ) _−_ _F_ 0 ( _y_ + _kδ_ ) _,_ 0) _._
-
-
-_k_ = _−K_
-
-
-
-**Step 4.** Repeat Step 3 for _J_ = _K_ + 1 _, . . .,_ 2 _K._ [25]
-
-
-It is not straightforward to solve the problem (B.2) numerically in Step 3; the function max _{x,_ 0 _}_ is non
-
-differentiable. Furthermore in practice, marginal distribution functions are often estimated in a complicated
-
-
-24 I put _ε_ = 10 _−_ 5 for the implementation in Section 4 and Section 5.
-25 By Lemma B.1, I considered _J_ = _K, K_ + 1 _, . . .,_ 2 _K_ for the sequence _{a_ _k_ _}_ _[J]_ _k_ = _−J_ [and compared the values of local maxima]
-achieved by _{a_ _k_ _}_ _[J]_ _k_ = _−J_ [with] _[ V]_ _[K]_ [ (] _[δ]_ [)]
-
-
-74
-
+74 
 

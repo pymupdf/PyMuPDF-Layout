@@ -18,5 +18,9 @@ If you get an error message in Excel you might not get much help from the progra
 
 An invalid cell reference error message occurs when a spreadsheet formula contains incorrect cell references. 
 
+**==> picture [151 x 117] intentionally omitted <==**
+
 In above example, if you click on the cell that contains the #REF! error, you will see that the cell reference within the cell has been replaced with #REF!. Therefore, in order to fix this error, you need to re-enter the correct cell references into your formula. 
+
+**Page 7** � 
 

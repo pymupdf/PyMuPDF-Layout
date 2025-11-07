@@ -1,10 +1,12 @@
 10 
 
-- web text sources for conversational speech language modeling using class-dependent mixtures,” in _Proc. HLT/NAACL_ , 2003, pp. 7–9. 
+   - web text sources for conversational speech language modeling using class-dependent mixtures,” in _Proc. HLT/NAACL_ , 2003, pp. 7–9. 
 
 - [5] S. Schwarm, I. Bulyko, and M. Ostendorf, “Adaptive language modeling with varied sources to cover new vocabulary items,” _IEEE Trans. Speech and Audio_ , vol. 12, no. 3, pp. 334–342, 2004. 
 
-- [6] I. Bulyko, M. Ostendorf, M. Siu, T. Ng, A. Stocke, and C. Ozgur, “Web resources for language modeling in conversational speech recognition,” _ACM Transactions on Speech and Language Processing_ , vol. 5, no. 1, pp. 1–xx, 2007. 
+- [6] I. Bulyko, M. Ostendorf, M. Siu, T. Ng, A. Stocke, and C. Ozgur, “Web resources for language modeling in conversational speech recognition,” 
+
+   - _ACM Transactions on Speech and Language Processing_ , vol. 5, no. 1, pp. 1–xx, 2007. 
 
 - [7] A. Sethy, P. Georgiou, and S. Narayanan, “Building topic-specific language models from webdata using competitive models,” in _Proc. Interspeech_ , 2005, pp. 1293–1296. 
 
@@ -22,7 +24,9 @@
 
 - [14] P. F. Brown, V. J. D. Pietra, P. V. deSouza, J. C. Lai, and R. L. Mercer, “Class-based n-gram models of natural language,” _Computational Linguistics_ , vol. 18, no. 4, pp. 467–479, 1992. 
 
-- [15] R. Iyer and M. Ostendorf, “Transforming out-of-domain estimates to improve in-domain language models,” in _Proc. Eurospeech_ , vol. 4, 1997, pp. 1975–1978. 
+- [15] R. Iyer and M. Ostendorf, “Transforming out-of-domain estimates to improve in-domain language models,” in _Proc. Eurospeech_ , vol. 4, 1997, 
+
+   - pp. 1975–1978. 
 
 - [16] A. Stolcke, “SRILM – an extensible language modeling toolkit,” in _Proc. ICSLP_ , 2002, pp. 901–904. 
 

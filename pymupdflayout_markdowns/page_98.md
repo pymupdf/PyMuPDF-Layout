@@ -26,5 +26,9 @@ The acquisition of these Victorian gas interests strengthens Santos’ domestic 
 
 Late in the year, Santos sold its 18.02% share in the Carpentaria Gas Pipeline between Ballera and Mount Isa in Queensland to Australian Pipeline Trust for $59 million, resulting in a $21 million after-tax profit that was booked in the 2004 financial year. 
 
-**BRANTAS PSC** 
+## **BRANTAS PSC** 
+
+**==> picture [253 x 273] intentionally omitted <==**
+
+Annual Report 2004 23 
 

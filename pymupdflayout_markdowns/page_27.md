@@ -6,12 +6,12 @@ S T A T U T O R Y  I N S T R U M E N T S
 
 # **PROTECTION OF VULNERABLE ADULTS, ENGLAND AND WALES** 
 
-The Safeguarding Vulnerable Groups Act 2006 (Regulated Activities) (Coronavirus) Order 2020 
+# The Safeguarding Vulnerable Groups Act 2006 (Regulated Activities) (Coronavirus) Order 2020 
 
-|Made|- -|-|-|at157pm on17thApril2020<br>. . .|
+|_Made_|_-_<br>_-_|_-_|_-_|_at 1.57 p.m. on 17th April 2020_|
 |---|---|---|---|---|
-|_LaidbeforeParliament_|_LaidbeforeParliament_|_LaidbeforeParliament_||_at3.30p.m.on17thApril2020_|
-|_Coming_|_intoforce_|_-_|_-_|_at1.57p.m.on17thApril2020_|
+|_Laid before Parliament_||||_at 3.30 p.m. on 17th April 2020_|
+|_Coming_|_ into force_|_   -_|_- _|_at 1.57 p.m. on 17th April 2020_|
 
 
 
@@ -29,13 +29,13 @@ The Secretary of State for Health and Social Care makes the following Order in e
 
 **2.** —(1) Removing saliva or mucus from the mouth or nose of an individual where that is being done for the purpose of testing the presence of coronavirus in that individual, is not to be treated as a regulated activity. 
 
-- (2) Paragraph (1) applies to testing carried out by the following persons — 
+(2) Paragraph (1) applies to testing carried out by the following persons — 
 
 - (a) members of Her Majesty’s Forces; 
 
-- (b) employees of The Boots Company plc, company number 00027657; and 
+(b) employees of The Boots Company plc, company number 00027657; and 
 
-( **a** ) 2006 c.47. 
+> ( **a** ) 2006 c.47. 
 
-( **b** ) 2020 c.7. 
+> ( **b** ) 2020 c.7. 
 

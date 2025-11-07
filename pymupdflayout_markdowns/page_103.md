@@ -1,5 +1,7 @@
 ## Risk Management 
 
+**==> picture [49 x 49] intentionally omitted <==**
+
 ## **Basic Approach** 
 
 As risks in the financial services increase in diversity and complexity, risk management—identifying, measuring, and controlling risk—has never been more important in the management of a financial holding company. 
@@ -22,5 +24,7 @@ Top management plays an active role in determining SMFG’s Groupwide basic poli
 
 ## ■ **SMFG’s Risk Management System** 
 
-**==> picture [478 x 245] intentionally omitted <==**
+**==> picture [496 x 260] intentionally omitted <==**
+
+32 **SMFG** 2011 
 

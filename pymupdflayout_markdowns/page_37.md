@@ -1,5 +1,3 @@
-
-
 ## **AIRSPACE INFORMATION (Continued)** 
 
 ## **Enroute Chart Examples** 
@@ -8,9 +6,9 @@
 
 ## **Reference Number** 
 
-## **5** 
-
 ## **Description** 
+
+## **5** 
 
 ## **MEA VHF and RNAV Example** 
 
@@ -18,7 +16,9 @@ MEA for aircraft utilizing VHF NAVAID of 15000’ MEA for aircraft utilizing RNA
 
 MOCA of 13300’ 
 
-**==> picture [11 x 23] intentionally omitted <==**
+**==> picture [21 x 23] intentionally omitted <==**
+
+**==> picture [181 x 163] intentionally omitted <==**
 
 ## **MCA and MTA Example at a NAVAID** 
 
@@ -33,4 +33,6 @@ Aircraft traveling E on V520 and turning to V330 on a W heading must turn at alt
 Aircraft traveling E on V330 and turning to V520 on a W heading must turn at altitude of 16000’ or higher 
 
 Aircraft traveling NW on V328 and turning to V465 on a SW heading must turn at altitude of 15100’ or higher. 
+
+80 
 

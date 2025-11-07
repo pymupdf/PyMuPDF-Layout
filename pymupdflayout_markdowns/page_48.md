@@ -28,3 +28,7 @@ Aux fins de l'article II.10, si tout ou partie du traitement des données à car
 
 - **II.10.4** Le pouvoir adjudicateur peut demander au contractant de remplacer un sous-traitant se trouvant dans une des situations visées aux points d) et e) de l'article II.18.1. 
 
+20 
+
+**FR** 
+
