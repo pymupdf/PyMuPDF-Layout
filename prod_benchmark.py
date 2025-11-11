@@ -32,66 +32,8 @@ def setup_logging(verbose=False):
 # STEP 1: PDF ANNOTATION EXTRACTION
 # ==============================================================================
 
-def words_in_single_highlight(words, quads, tolerance=2.0):
-    """Return list of words covered by highlight quads for ONE specific annotation."""
-    result = []
-    
-    for w in words:
-        wrect = fitz.Rect(w[:4])
-        expanded_wrect = wrect + (-tolerance, -tolerance, tolerance, tolerance)
-        word_center = fitz.Point((wrect.x0 + wrect.x1) / 2, (wrect.y0 + wrect.y1) / 2)
-        
-        word_matches = False
-        for quad in quads:
-            try:
-                quad_obj = fitz.Quad(quad)
-                qrect = quad_obj.rect
-                expanded_qrect = qrect + (-tolerance, -tolerance, tolerance, tolerance)
-                
-                conditions = [
-                    qrect.intersects(wrect),
-                    expanded_qrect.intersects(wrect),
-                    qrect.contains(word_center),
-                    any(qrect.contains(fitz.Point(x, y)) for x, y in [
-                        (wrect.x0, wrect.y0), (wrect.x1, wrect.y0),
-                        (wrect.x0, wrect.y1), (wrect.x1, wrect.y1)
-                    ]),
-                    quad_obj.contains(word_center),
-                    (wrect & qrect).get_area() > 0.1 * wrect.get_area()
-                ]
-                
-                if any(conditions):
-                    word_matches = True
-                    break
-                    
-            except Exception:
-                qrect = fitz.Quad(quad).rect
-                if qrect.intersects(wrect):
-                    word_matches = True
-                    break
-        
-        if word_matches:
-            result.append(w)
-                
-    return result
 
-
-def get_single_highlight_text_alternative(page, quads):
-    """Alternative text extraction method for ONE specific annotation."""
-    try:
-        texts = []
-        for quad in quads:
-            qrect = fitz.Quad(quad).rect
-            expanded_rect = qrect + (-1, -1, 1, 1)
-            clip_text = page.get_textbox(expanded_rect)
-            if clip_text.strip():
-                texts.append(clip_text.strip())
-        return " ".join(texts)
-    except:
-        return ""
-
-
-def extract_highlighted_text_improved(pdf_path, logger):
+def extract_highlighted_text(pdf_path, logger):
     """
     Extract highlighted text from PDFs with annotations.
     Returns list of annotation dictionaries.
@@ -107,58 +49,39 @@ def extract_highlighted_text_improved(pdf_path, logger):
         )
     else:
         pdf_files = [pdf_path]
-
+    
     logger.info(f"Found {len(pdf_files)} PDF(s) to process")
-
     json_output = []
-
+    
     for idx, file_path in enumerate(pdf_files, start=1):
         logger.info(f"Processing PDF {idx}/{len(pdf_files)}: {file_path}")
         doc = fitz.open(file_path)
-        page = doc[0] 
-        page_words = page.get_text("words")
-        page_source = ""
+        page = doc[0]
         
-        # First: find source for this page
-        page_annotations = list(page.annots())  
-        for annot in page_annotations:
+        # Find source annotation for this page
+        page_source = ""
+        for annot in page.annots():
             content = annot.info.get('content', '').strip()
             if 'source' in content.lower():
                 page_source = content
                 break
         
-        # Process annotations
-        for annot in page_annotations:
+        # Process highlight annotations
+        for annot in page.annots():
             content = annot.info.get('content', '').strip()
             
             # Skip source annotations
             if 'source' in content.lower():
                 continue
             
-            # Check for pattern (1.1, 1.2, etc.)
+            # Check for pattern (1.1, 1.2, etc.) and highlight type
             match = re.match(r'^(\d+\.\d+)', content)
             if match and annot.type[0] == 8:  # Highlight annotation
                 key = match.group(1)
+                final_text = page.get_text(clip=annot.rect, sort=True).strip()
                 
-                # Get vertices for THIS annotation only
-                verts = annot.vertices
-                if not verts:
-                    continue
-                
-                # Create quads for THIS annotation only
-                this_annotation_quads = [verts[i:i+4] for i in range(0, len(verts), 4)]
-                
-                # Extract text using ONLY this annotation's quads
-                # Method 1: Word-based extraction
-                matching_words = words_in_single_highlight(page_words, this_annotation_quads)
-                matching_words.sort(key=lambda w: (round(w[1], 1), w[0]))
-                text1 = " ".join(w[4] for w in matching_words).strip()
-                
-                # Method 2: Direct text extraction
-                text2 = get_single_highlight_text_alternative(page, this_annotation_quads)
-                
-                # Use the better text
-                final_text = text2 if len(text2) > len(text1) else text1
+                # Clean the extracted text
+                final_text = ' '.join(final_text.split())  # Remove \n and extra spaces
                 
                 if final_text:
                     json_output.append({
@@ -169,16 +92,14 @@ def extract_highlighted_text_improved(pdf_path, logger):
                         },
                         'source': page_source
                     })
-
+        
         doc.close()
-
+    
     # Sort by page and annotation key
     json_output.sort(key=lambda x: (x['page_number'], float(x['annotation']['key'])))
-    
     logger.info(f"Extracted {len(json_output)} annotations")
+    
     return json_output
-
-
 # ==============================================================================
 # STEP 2: COMBINE ANNOTATIONS WITH OCR
 # ==============================================================================
@@ -551,7 +472,7 @@ def main():
         logger.info("\n" + "="*70)
         logger.info("STEP 1: Extracting PDF annotations")
         logger.info("="*70)
-        annotations = extract_highlighted_text_improved(args.pdf_path, logger)
+        annotations = extract_highlighted_text(args.pdf_path, logger)
         
         # Save intermediate result
         with open(args.annotations_output, 'w', encoding='utf-8') as f:
