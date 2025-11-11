@@ -2,9 +2,9 @@ _EC - FWC services Dec 2018_
 
 _Contract no: [complete]_ 
 
-**==> picture [44 x 31] intentionally omitted <==**
-
 **==> picture [106 x 69] intentionally omitted <==**
+
+**==> picture [44 x 31] intentionally omitted <==**
 
 If moral rights on parts of the _results_ protected by copyright may exist, the contractor must obtain the consent of _creators_ regarding the granting or waiver of the relevant moral rights in accordance with the applicable legal provisions and be ready to provide documentary evidence upon request. 
 

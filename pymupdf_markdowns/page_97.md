@@ -1,37 +1,61 @@
-## **NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS** 
+**NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS**
 
-## **NOTE 7 – INCOME TAX EXPENSE continued** 
-
-|**2014**<br>**2013**<br>**Year ended 31 December**<br>**US$’000**<br>**US$’000**<br>c) Unused tax losses and temporary differences for which<br>no deferred tax asset has been recognised at 30%<br>2,685<br>             170<br>d) Deferred tax charged directly to equity:<br>-         Equity raising costs<br>1,147<br>             665<br>-         Currency translation adjustment<br>(268)<br>-|**2014**<br>**2013**<br>**Year ended 31 December**<br>**US$’000**<br>**US$’000**<br>c) Unused tax losses and temporary differences for which<br>no deferred tax asset has been recognised at 30%<br>2,685<br>             170<br>d) Deferred tax charged directly to equity:<br>-         Equity raising costs<br>1,147<br>             665<br>-         Currency translation adjustment<br>(268)<br>-|**2014**<br>**2013**<br>**Year ended 31 December**<br>**US$’000**<br>**US$’000**<br>c) Unused tax losses and temporary differences for which<br>no deferred tax asset has been recognised at 30%<br>2,685<br>             170<br>d) Deferred tax charged directly to equity:<br>-         Equity raising costs<br>1,147<br>             665<br>-         Currency translation adjustment<br>(268)<br>-|
-|---|---|---|
-|1)||The Oklahoma US state tax jurisdiction computes income taxes on a direct accounting basis.  A significant|
-|||portion of the 2014 impairment related to this jurisdiction resulting in a deferred tax benefit of $3,044|
-|||creating deferred tax assets, of which $2,064 were unrecognized.|
+**NOTE 7 – INCOME TAX EXPENSE continued**
 
 
+**2014** **2013**
 
-- 2) The change in apportioned state tax rates in US controlled entities is a result of the Company disposing of its property in Colorado (income tax rate of 4.63%) (2013: North Dakota with income tax rate of 4.53%) through a tax deferred sale and reinvesting the property in Texas (margin tax rate of 1%).  As the Texas margin tax computation is similar in nature to an income tax computation, it is treated as an income tax for financial reporting purposes. 
+**Year ended 31 December** **US$’000** **US$’000**
 
-- 3) This income tax benefit results from the election to consolidate certain Australian subsidiaries for income tax purposes effective 1 January 2014, making previously unrecognized deferred tax assets of one of these Australian subsidiaries available for utilization against future income of the consolidated Australian entities. These deferred tax assets were previously unrecognized due to the lack of evidence of future taxable income for these Australian subsidiaries on a stand-alone basis. 
+c) Unused tax losses and temporary differences for which
+no deferred tax asset has been recognised at 30% 2,685 170
 
-## **NOTE 8 – KEY MANAGEMENT PERSONNEL COMPENSATION** 
+d) Deferred tax charged directly to equity:
 
-|**a) **|**Names and positions held of Consolidated Group key management personnel in office at any time during**|**Names and positions held of Consolidated Group key management personnel in office at any time during**|
-|---|---|---|
-||**thefinancial period are:**||
-||Mr M Hannell|Chairman Non-executive|
-||Mr E McCrady|Managing Director and Chief Executive Officer|
-||Mr D Hannes|Director – Non-executive|
-||Mr N Martin|Director – Non-executive|
-||Mr W Holcombe|Director – Non-executive|
-||Ms C Anderson|Chief Financial Officer|
-||Ms G Ford|Vice President of Exploration and Development|
+       -   Equity raising costs 1,147 665
 
+      -   Currency translation adjustment (268)       
+
+2) The change in apportioned state tax rates in US controlled entities is a result of the Company disposing of
+its property in Colorado (income tax rate of 4.63%) (2013: North Dakota with income tax rate of 4.53%)
+through a tax deferred sale and reinvesting the property in Texas (margin tax rate of 1%). As the Texas
+margin tax computation is similar in nature to an income tax computation, it is treated as an income tax for
+financial reporting purposes.
 
 
-Based on her increased responsibilities due to the Company’s growth, Ms. Ford was deemed to be a KMP during the 2014 fiscal year. Prior to that time, Ms. Ford was not considered to be KMP 
+3) This income tax benefit results from the election to consolidate certain Australian subsidiaries for income
+tax purposes effective 1 January 2014, making previously unrecognized deferred tax assets of one of these
+Australian subsidiaries available for utilization against future income of the consolidated Australian entities.
+These deferred tax assets were previously unrecognized due to the lack of evidence of future taxable
 
-Other than Directors and Officers of the Company listed above, there are no additional key management personnel. 
+income for these Australian subsidiaries on a stand-alone basis.
 
-- 77 - 
+**NOTE 8 – KEY MANAGEMENT PERSONNEL COMPENSATION**
+
+
+**a)** **Names and positions held of Consolidated** **Group key management personnel in office at any time during**
+**the financial period are:**
+
+Mr M Hannell Chairman Non-executive
+
+Mr E McCrady Managing Director and Chief Executive Officer
+
+Mr D Hannes Director – Non-executive
+
+Mr N Martin Director – Non-executive
+
+Mr W Holcombe Director – Non-executive
+
+Ms C Anderson Chief Financial Officer
+
+Ms G Ford Vice President of Exploration and Development
+
+Based on her increased responsibilities due to the Company’s growth, Ms. Ford was deemed to be a KMP
+during the 2014 fiscal year. Prior to that time, Ms. Ford was not considered to be KMP
+
+Other than Directors and Officers of the Company listed above, there are no additional key management
+personnel.
+
+
+                               - 77 
 

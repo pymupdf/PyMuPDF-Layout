@@ -4,11 +4,11 @@ be formulated for the general SINR regime as follows:
 
 **==> formula [375 x 86] intentionally omitted <==**
 
-Note that the numerator and denominator in (12) are posynomials and minimizing a ratio between two posynomials is referred to be a truly non-convex NP hard intractable problem known as complimentary GP. However, this problem can be transformed into GP by letting the denominator K f (p) = p n,k,l h n,k,l + σ[2] + I n,l =[�][L] l=1 � k=1[u][n,k,l][(][p][)][ and approximating the denominator][ f][(][p][)] with a monomial using the arithmetic/geometric mean inequality as follows: 
+Note that the numerator and denominator in (12) are posynomials and minimizing a ratio between two posynomials is referred to be a truly non-convex NP hard intractable problem known as complimentary GP. However, this problem can be transformed into GP by letting the denominator K f (p) = pn,k,lhn,k,l + σ[2] + In,l =[�][L] l=1 �k=1[u][n,k,l][(][p][)][ and approximating the denominator][ f][(][p][)] with a monomial using the arithmetic/geometric mean inequality as follows: 
 
 **==> formula [339 x 44] intentionally omitted <==**
 
-where s n,k,l =[u][n,k,l] f (p 0[(][p] )[0][)][. Thus, the problem can be solved by extending the single condensation] method presented in [14] for multi-cell scenario. The details of centralized scheme A are presented in Algorithm 2. 
+where sn,k,l =[u][n,k,l] f (p0[(][p] )[0][)][. Thus, the problem can be solved by extending the single condensation] method presented in [14] for multi-cell scenario. The details of centralized scheme A are presented in Algorithm 2. 
 
 ## _B. Centralized Scheme A: Complexity Analysis_ 
 

@@ -24,6 +24,8 @@ Betriebsspannung der ersten integrierten Schaltung, wobei die Spannungsregelungs
 
 1. **23.** Maschinenlesbares Medium, das Anweisungen bereitstellt, die bei Ausführung durch eine Maschine bewirken, dass die Maschine Operationen durchführt, umfassend: 
 
+Detektieren (402) eines Ereignisses, um eine integrierte Schaltung eines Computersystems in einen höheren Performance-Zustand zu versetzen, wobei die integrierte Schaltung mehrere Performance-Zustände aufweist einschließlich eines ersten Performance-Zustandes, eines zweiten Performance-Zustands, der höher als der erste Performance-Zustand ist, und eines dritten Performance-Zustandes, der höher als der zweite Performance-Zustand ist, und Bestimmen (404), ob das Ereignis ein vom Benutzer eingeleitetes Ereignis oder ein von Software eingeleitetes Ereignis ist; wenn das Ereignis ein vom Benutzer eingelei- 
+
 5 
 
 10 
@@ -39,6 +41,12 @@ Betriebsspannung der ersten integrierten Schaltung, wobei die Spannungsregelungs
 35 
 
 40 
+
+45 
+
+50 
+
+55 
 
 tetes Ereignis ist, direktes Versetzen (406) der integrierten Schaltung aus dem ersten Performance-Zustand in den dritten Performance-Zustand auf Basis des Detektierens des Benutzerereignisses, 
 
@@ -57,14 +65,6 @@ wenn das Ereignis ein von Software eingeleitetes Ereignis ist, Versetzen (408) d
 Betreiben der integrierten Schaltung im dritten Performance-Zustand für einen vorübergehenden Zeitraum. 
 
 **27.** Maschinenlesbares Medium nach einem der Ansprüche 23 bis 26, ferner umfassend Anweisungen, die bei Ausführung durch die Maschine bewirken, dass die Maschine die weiteren Operationen durchführt, umfassend: 
-
-Detektieren (402) eines Ereignisses, um eine integrierte Schaltung eines Computersystems in einen höheren Performance-Zustand zu versetzen, wobei die integrierte Schaltung mehrere Performance-Zustände aufweist einschließlich eines ersten Performance-Zustandes, eines zweiten Performance-Zustands, der höher als der erste Performance-Zustand ist, und eines dritten Performance-Zustandes, der höher als der zweite Performance-Zustand ist, und Bestimmen (404), ob das Ereignis ein vom Benutzer eingeleitetes Ereignis oder ein von Software eingeleitetes Ereignis ist; wenn das Ereignis ein vom Benutzer eingelei- 
-
-45 
-
-50 
-
-55 
 
 Ändern des Performance-Zustands der integrierten Schaltung durch Ändern der Anzahl von Prozessoren zum Managen der Verarbeitungslast. 
 

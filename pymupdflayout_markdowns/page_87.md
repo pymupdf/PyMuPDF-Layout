@@ -1,8 +1,8 @@
+**==> picture [142 x 143] intentionally omitted <==**
+
 The Company re c o rded an $800,000 write-down of certain ATM hard w a re assets associated with the p u rchase of the Budapest Bank ATM network in May 2000 and the Service Bank ATM network in M a rch 1999 (see Note 10 to the Consolidated Financial Statements – Asset Write Down). In addition, the Company re c o rded a one-time gain in its Central European Sub-segment of $1.2 million. The gain is related to a change in Hungarian law that eliminates a major portion of the Company’s liability for import taxes on ATM hard w a re to the Hungarian government. The gain is included as an element of direct operating costs. 
 
 The operating expenses for the Central European Sub-segment totaled $21.7 million for the year ended December 31, 2000 as compared to $20.7 million for the year ended December 31, 1999, an i n c rease of 5%. The increase in operating expenses is largely the result of an increase in the number of ATMs operated by the Company from 1,203 at December 31, 1999 to 1,391 at December 31, 2000, and increased transaction volumes. 
-
-**==> picture [142 x 143] intentionally omitted <==**
 
 The operating expenses for the We s t e rn European Sub-segment totaled $18.9 million for the year ended December 31, 2000 as compared to $16.5 million for the year ended December 31, 1999, an increase of 15%. The increase in operating expenses is largely the result of an increase in the number of ATMs operated by the Company from 621 at December 31, 1999 to 787 at December 31, 2000, and increased transaction volumes. 
 

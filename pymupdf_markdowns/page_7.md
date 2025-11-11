@@ -1,56 +1,170 @@
-7 
+where
 
-where 
 
-**==> formula [199 x 28] intentionally omitted <==**
+and
 
-**==> formula [210 x 55] intentionally omitted <==**
 
-self energy correction, 
 
-**==> formula [208 x 40] intentionally omitted <==**
+A = [(][x] 3 [2] [+][ y] 2 [2][)][d][|][x][2] 3 [+ (][y][3] [−] [y][1][)][2][|][d] (A9)
 
-where C is an integration constant. The singular part of Eq. (A15) is given by Eq. (24). 
+(x [2] 3 [+ (][y][2][ −] [y][1][)][2][)][d][(][x][2] 3 [+][ y] 3 [2][)][d][,]
 
-and 
 
-**==> formula [209 x 27] intentionally omitted <==**
 
-We write 
+B = [[(][x][3][ −] [x][1][)][2][ + (][y][2][ −] [y][1][)][2][]][d]
 
-**==> formula [237 x 11] intentionally omitted <==**
+(x3 − x1) [2][d]
 
-It is apparent form Eq. (A12) that the leading singularity originates from the first term, (A − 1)BC ≈ A − 1 ≈ −2d(y 1 − 0)(y 3 − y 2 ). Introducing new variables as in the Sec. III and integrating over x i s we obtain 
 
-**==> formula [227 x 62] intentionally omitted <==**
 
-## Appendix B: Leading singularities at the shadow mass shell, ω ∼ k y to the fourth order. 
+× [[(][x][3][ −] [x][1][)][2][ + (][y][3][ −] [y][2][)][2][]][d] (A10)
 
-In this appendix we evaluate the singular contributions to the Green function at the shadow mass shell, ω ∼ k y to fourth order in the coupling constant. We start with the expression (A1) introduced in App. A 1. In contrast to the discussion in App. A 1 we anticipate the singularity at ω = k y to come from the region y 2 ≫ x 2 , and introduce new variables accordingly, x 2 = ξy 2 , y 1 = ηy 2 . Performing integration over y 2 we obtain 
+[(y3 − y1) [2] + (x3 − x1) [2] ] [d][,]
 
-**==> formula [246 x 63] intentionally omitted <==**
 
-Here again, the integrals are divergent on the upper limit. Similarly to the previous section we differentiate it once with respect to the variable α introduced in Eq. (14) in order to isolate the leading logarithmic singularity, 
 
-**==> formula [229 x 62] intentionally omitted <==**
+7
 
-The remaining integrals are easily evaluated. The subsequent integration over α restores the singularity in the 
 
-We notice that the singularity at ω ∼ k y comes from the region of small ξ. Therefore we keep only the first term in the square brackets in Eq. (B1). After performing remaining integrations over ξ i s we obtain 
+self energy correction,
 
-**==> formula [222 x 26] intentionally omitted <==**
 
-We stress that contrary to the mass shell singularities discussed in App. A, where it was important to compute the self-energy, at the shadow mass shell it is enough to consider the Green function itself. 
+Σ [(6)] =2d [−][i(][Ja][d][)][6][Γ(1][ −] [2][d][)Γ][2][(2][ −] [2][d][)]
 
-**==> picture [184 x 2] intentionally omitted <==**
+(−i(ω − ky)) [5][−][6][d]
 
-- [1] Ar. Abanov, A. V. Chubukov and J. Schmalian, Adv. Phys. 52, 119 (2003) and references therein. 
+× (log α + C), (A15)
 
-- [2] S. Sachdev, M. A. Metlitski, Y. Qi and C. Xu, arXiv: 0907.3732 and references therein. 
 
-- [3] M. Khodas and A. M. Tsvelik, arXiv:0910.3967. 
+where C is an integration constant. The singular part of
+Eq. (A15) is given by Eq. (24).
 
-- [4] N. Doiron-Leyraud et.al., Nature (London) 447, 565 (2007). 
 
-- [5] E. A. Yelland et.al., Phys. Rev. Lett. 100, 047003 (2008). [6] S. Sachdev, arXiv:0907.0008. 
+Appendix B: Leading singularities at the shadow
+mass shell, ω ∼ ky to the fourth order.
+
+
+
+1 [+][ y] 1 [2][|][d][|][x][2] 1 [+ (][y][2][ −] [y][1][)][2][|][d]
+C = [|][x][2] . (A11)
+
+|x1| [2][d] |y2 [2] [+][ x][2] 1 [|][d]
+
+
+
+We write
+
+
+ABC −B −C +1 = (A− 1)BC +(B −1)(C −1) . (A12)
+
+
+Σ [(6)] = 2di [(][Ja][d][)][6][Γ(5][ −] [6][d][)]
+
+(−i(ω − ky)) [5][−][6][d]
+
+
+
+∞
+Σ [(4)] =i(Ja [d] ) [4]
+�0
+
+
+
+∞ 1
+
+dξ
+0 �0
+
+
+
+
+[(−i((ω − ky) + (ω − kx)ξ)] [3][−][4][d]
+
+
+
+1
+
+Γ(3 − 4d)η [−][2][d] (1 − η) [−][2][d]
+dη
+0 [(−i((ω − k ) + (ω − k )ξ)] [3]
+
+
+
+∞
+
+×
+�0
+
+
+
+3
+
+ξ1 [1][−][2][d] ξ2 [−][2][d] ξ3 [1][−][2][d]
+i�=1 dξi (α + ξ1 + ξ2 + ξ3) [5][−][6][d][ .] (A13)
+
+
+
+2 2 d 2 2 d
+× |(1 − η) + ξ | |η + ξ | − 1 . (B1)
+� |1 + ξ [2] | [d] |ξ| [2][d] �
+
+
+
+
+
+∂Σ [(6)]
+
+
+
+Σ [(6)]
+
+= −2diα [−][1][ (][Ja][d][)][6][Γ(6][ −] [6][d][)]
+∂α − ω − k [5][−][6][d]
+
+
+
+(−i(ω − ky)) [5][−][6][d]
+
+
+
+Σ [(4)] = [i(][Ja][d][)][4][Γ(1] (−i( [ −] ω − [2][d][)Γ(2] kx)) [3][ −][−][4][2][d][d][)][α][2][−][2][d] . (B2)
+
+
+[4] N. Doiron-Leyraud et.al., Nature (London) 447, 565
+(2007).
+
+[5] E. A. Yelland et.al., Phys. Rev. Lett. 100, 047003 (2008).
+
+[[6] S. Sachdev, arXiv:0907.0008.](http://arxiv.org/abs/0907.0008)
+
+
+
+∞
+
+×
+�0
+
+
+
+3
+
+ξ1 [1][−][2][d] ξ2 [−][2][d] ξ3 [1][−][2][d]
+
+� dξi (A14)
+
+i=1 (1 + ξ1 + ξ2 + ξ3) [6][−][6][d][ .]
+
+
+
+The remaining integrals are easily evaluated. The subsequent integration over α restores the singularity in the
+
+
+[1] Ar. Abanov, A. V. Chubukov and J. Schmalian, Adv.
+Phys. 52, 119 (2003) and references therein.
+
+[2] S. Sachdev, M. A. Metlitski, Y. Qi and C. Xu, arXiv:
+0907.3732 and references therein.
+
+[[3] M. Khodas and A. M. Tsvelik, arXiv:0910.3967.](http://arxiv.org/abs/0910.3967)
+
 

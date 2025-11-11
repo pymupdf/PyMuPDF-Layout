@@ -1,96 +1,173 @@
-**==> picture [233 x 16] intentionally omitted <==**
+(71) Applicant: **FUJIFILM Corporation,** Tokyo (JP)
 
-US009423690B2 
 
-# c12) **United States Patent** 
+(73) Assignee: **FUJIFILM Corporation,** Tokyo (JP)
 
-# **Takizawa et al.** 
 
-# (IO) **Patent No.: US 9,423,690 B2** 
+( *) Notice: Subject to any disclaimer, the term of this
+patent is extended or adjusted under 35
+U.S.C. 154(b) by 0 days.
 
-# (45) **Date of Patent: Aug. 23, 2016** 
 
-# (54) **PATTERN FORMING METHOD, ELECTRON BEAM-SENSITIVE OR EXTREME ULTRAVIOLET RAY-SENSITIVE RESIN COMPOSITION, RESIST FILM, AND METHOD FOR MANUFACTURING ELECTRONIC DEVICE, AND ELECTRONIC DEVICE USING THE SAME** 
+(21) Appl. No.: **14/625,897**
 
-- (71) Applicant: **FUJIFILM Corporation,** Tokyo (JP) 
 
-- (72) Inventors: **Hiroo Takizawa,** Shizuoka (JP); **Shuji Hirano,** Shizuoka (JP); **Natsumi Yokokawa,** Shizuoka (JP); **Wataru Nihashi,** Shizuoka (JP) 
 
-- (73) Assignee: **FUJIFILM Corporation,** Tokyo (JP) 
+**I 1111111111111111** **11111** **1111111111** **1111111111 111111111111111** **111111111111111111**
+US009423690B2
+## (IO) Patent No.: US 9,423,690 B2
 
-- ( *) Notice: Subject to any disclaimer, the term of this patent is extended or adjusted under 35 U.S.C. 154(b) by 0 days. 
+(45) **Date** **of Patent:** **Aug. 23, 2016**
 
-- (21) Appl. No.: **14/625,897** 
 
-- (22) Filed: **Feb. 19, 2015** 
+(56) **References Cited**
 
-## (65) **Prior Publication Data** 
 
-> US 2015/0168834 Al Jun. 18, 2015 
+U.S. PATENT DOCUMENTS
 
-## **Related U.S. Application Data** 
 
-- (63) Continuation of application No. PCT/JP2013/072485, filed on Aug. 16, 2013. 
+8,252,504 B2     - 8/2012 Harada et al. ............. 430/270.1
+8,426,115 B2     - 4/2013 Hatakeyama et al. ........ 430/312
 
-## (30) **Foreign Application Priority Data** 
 
-**==> picture [211 x 23] intentionally omitted <==**
+(Continued)
 
-- (51) **Int. Cl.** 
 
-**==> picture [122 x 33] intentionally omitted <==**
+FOREIGN PATENT DOCUMENTS
 
-(Continued) 
 
-- (52) **U.S. Cl.** CPC ........... _**G03F 710388**_ (2013.01); _**C08F 141185**_ (2013.01); _**C08F 16110**_ (2013.01); _**C08F 24100**_ (2013.01); _**C08F 220118**_ (2013.01); _**C08F**_ 
 
-- _**220120**_ (2013.01); _**C08F 220126**_ (2013.01); _**G03F** 710045_ (2013.01); _**G03F** 710046_ 
+JP
 
-- (2013.01); _**G03F** 710392_ (2013.01); _**G03F**_ 
+JP
 
-- _710397_ (2013.01); _**G03F** 712002_ (2013.01); _**G03F** 712037_ (2013.01); _**G03F** 71325_ (2013.01); 
 
-(Continued) 
 
-- (58) **Field of Classification Search** CPC .... G03F 7/038; G03F 7/0388; G03F 7/0392; G03F 7/32; G03F 7/40; C08F 220/18; 
+2001-201854 A 7/2001
 
-- C08F 220/12; C08F 220/20; C08F 220/26; H0lL 21/0271; H01L 21/0273; H0lL 21/0274 
+2005-091712 A 4/2005
 
-- USPC ............ 430/270.1, 322, 325, 329, 434, 435, 430/913, 914; 526/320, 326 
 
-- See application file for complete search history. 
+(Continued)
 
-## (56) **References Cited** 
 
-## U.S. PATENT DOCUMENTS 
+OTHER PUBLICATIONS
 
-**==> picture [198 x 23] intentionally omitted <==**
 
-(Continued) 
 
-## FOREIGN PATENT DOCUMENTS 
+(22) Filed:
 
-**==> picture [140 x 19] intentionally omitted <==**
 
-(Continued) 
+(65)
 
-## OTHER PUBLICATIONS 
 
-Search Report dated Nov. 12, 2013, issued by the International Searching Authority in counterpart International Application No. PCT/JP2013/072485. 
 
-(Continued) 
+**Feb. 19, 2015**
 
-_Primary Examiner_ - Amanda C Walke 
 
-(74) _Attorney, Agent, or Firm_ - Sughrue Mion, PLLC 
+**Prior Publication Data**
 
-## (57) **ABSTRACT** 
 
-There is provided a pattern forming method, including: (a) forming a film by using an electron beam-sensitive or extreme ultraviolet ray-sensitive resin composition containing a resin (A) having a repeating unit represented by Formula (1-0) and a repeating unit represented by Formula (1-2); (b) exposing the film by using an electron beam or extreme ultraviolet ray; and ( c) developing the exposed film by using a developer containing an organic solvent to form a negative pattern, wherein a content of the repeating unit represented by Formula (1-0) is 45 mo!% or more based on a whole repeating units in the resin (A). 
 
-**==> picture [16 x 9] intentionally omitted <==**
+US 2015/0168834 Al Jun. 18, 2015
 
-**==> picture [16 x 9] intentionally omitted <==**
 
-## **14 Claims, No Drawings** 
+**Related U.S. Application Data**
+
+
+(63) Continuation of application No.
+PCT/JP2013/072485, filed on Aug. 16, 2013.
+
+
+(30) **Foreign Application Priority Data**
+
+
+Aug. 20, 2012 (JP) ................................. 2012-181892
+Mar. 15, 2013 (JP) ................................. 2013-054401
+
+
+
+(51)
+
+
+(52)
+
+
+(58)
+
+
+
+**Int. Cl.**
+
+_**G03F**_ _**71004**_
+
+_**G03F**_ _**71038**_
+
+_**C08F 220118**_
+
+
+**U.S. Cl.**
+
+
+
+CPC ........... _**G03F 710388**_ (2013.01); _**C08F 141185**_
+(2013.01); _**C08F 16110**_ (2013.01); _**C08F 24100**_
+(2013.01); _**C08F 220118**_ (2013.01); _**C08F**_
+_**220120**_ (2013.01); _**C08F 220126**_ (2013.01);
+_**G03F**_ _710045_ (2013.01); _**G03F**_ _710046_
+(2013.01); _**G03F**_ _710392_ (2013.01); _**G03F**_
+_710397_ (2013.01); _**G03F**_ _712002_ (2013.01);
+_**G03F**_ _712037_ (2013.01); _**G03F**_ _71325_
+(2013.01);
+
+(Continued)
+
+
+**Field** **of Classification Search**
+
+CPC .... G03F 7/038; G03F 7/0388; G03F 7/0392;
+G03F 7/32; G03F 7/40; C08F 220/18;
+C08F 220/12; C08F 220/20; C08F 220/26;
+H0lL 21/0271; H01L 21/0273; H0lL
+
+21/0274
+
+USPC ............ 430/270.1, 322, 325, 329, 434, 435,
+430/913, 914; 526/320, 326
+See application file for complete search history.
+
+
+
+(2006.01)
+(2006.01)
+(2006.01)
+
+(Continued)
+
+
+
+Search Report dated Nov. 12, 2013, issued by the International
+
+Searching Authority in counterpart International Application No.
+
+PCT/JP2013/072485.
+
+(Continued)
+
+
+_Primary Examiner_ - Amanda C Walke
+(74) _Attorney, Agent,_ _or Firm_ - Sughrue Mion, PLLC
+
+
+(57) **ABSTRACT**
+
+
+(1-0)
+
+
+(1-2)
+
+
+**14 Claims, No Drawings**
+
 

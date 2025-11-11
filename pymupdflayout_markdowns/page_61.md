@@ -1,6 +1,6 @@
 possible à l'intention réelle des parties qui sous-tend la disposition illégale, invalide ou inapplicable. Le remplacement de cette disposition doit se faire conformément à l'article II.11. Le CC doit être interprété comme s'il contenait la disposition de substitution depuis son entrée en vigueur. 
 
-**II.4 F OURNITURE DES SERVICES** 
+**II.4 FOURNITURE DES SERVICES** 
 
 - **II.4.1** La signature du CC ne garantit pas d'achat réel. Le pouvoir adjudicateur n'est lié que par les _bons de commande_ exécutant le CC. 
 

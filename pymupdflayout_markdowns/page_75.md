@@ -28,9 +28,9 @@ NOTE: This warranty is valid to U.S.A. customers who have purchased this product
 
 **==> picture [191 x 34] intentionally omitted <==**
 
-©2015 BARSKA Optics Printed in China 4-15 
-
 855 Towne Center Drive Pomona, CA 91767 Tel: 888-666-6769 Fax: 909.445.8169 **www.barska.com** 
+
+©2015 BARSKA Optics Printed in China 4-15 
 
 **==> picture [191 x 34] intentionally omitted <==**
 
@@ -38,11 +38,11 @@ NOTE: This warranty is valid to U.S.A. customers who have purchased this product
 
 ## **MICROSCOPE USER MANUAL** 
 
-**==> picture [66 x 113] intentionally omitted <==**
-
 **==> picture [59 x 116] intentionally omitted <==**
 
 **==> picture [84 x 115] intentionally omitted <==**
+
+**==> picture [66 x 113] intentionally omitted <==**
 
 **==> picture [345 x 314] intentionally omitted <==**
 

@@ -6,6 +6,10 @@
 
 -continued 
 
+**==> picture [46 x 76] intentionally omitted <==**
+
+0 6 
+
 -continued 
 
 **==> picture [104 x 12] intentionally omitted <==**
@@ -18,9 +22,5 @@
 
 **==> picture [14 x 10] intentionally omitted <==**
 
-**==> picture [46 x 76] intentionally omitted <==**
-
 **==> picture [14 x 9] intentionally omitted <==**
-
-0 6 
 

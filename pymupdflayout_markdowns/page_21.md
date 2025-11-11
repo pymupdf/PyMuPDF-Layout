@@ -1,4 +1,4 @@
-Now I present the constrained optimization procedure to compute the sharp lower bound under MTR. I pay particular attention to the special case where _a k_ +1 _− a k_ = _δ_ for each integer _k_ at the optimum. In this case, the lower bound reduces to 
+Now I present the constrained optimization procedure to compute the sharp lower bound under MTR. I pay particular attention to the special case where _ak_ +1 _− ak_ = _δ_ for each integer _k_ at the optimum. In this case, the lower bound reduces to 
 
 **==> formula [351 x 32] intentionally omitted <==**
 
@@ -16,7 +16,7 @@ where _y[∗] ∈_ arg max � _∞k_ = _−∞_[max (] _[F]_[1][ (] _[y]_[ + (]
 
 **Step 1.** Compute _V_ ( _δ_ ) _._ 
 
-**Step 2.** To further reduce computational costs, set _K_ to be a nonnegative integer satisfying _|V_ ( _δ_ ) _− V K_ ( _δ_ ) _| < ε_ for small _ε >_ 0 _._[24] 
+**Step 2.** To further reduce computational costs, set _K_ to be a nonnegative integer satisfying _|V_ ( _δ_ ) _− VK_ ( _δ_ ) _| < ε_ for small _ε >_ 0 _._[24] 
 
 **Step 3.** For _J_ = _K_ , solve the following optimization problem: 
 
@@ -30,9 +30,9 @@ where
 
 It is not straightforward to solve the problem (B.2) numerically in Step 3; the function max _{x,_ 0 _}_ is nondifferentiable. Furthermore in practice, marginal distribution functions are often estimated in a complicated 
 
-> 24 I put _ε_ = 10 _−_ 5 for the implementation in Section 4 and Section 5. 
+> 24I put _ε_ = 10 _−_ 5 for the implementation in Section 4 and Section 5. 
 
-> 25 By Lemma B.1, I considered _J_ = _K, K_ + 1 _, . . . ,_ 2 _K_ for the sequence _{a k }[J] k_ = _−J_[and compared the values of local maxima] achieved by _{a k }[J] k_ = _−J_[with] _[ V][K]_[ (] _[δ]_[)] 
+> 25By Lemma B.1, I considered _J_ = _K, K_ + 1 _, . . . ,_ 2 _K_ for the sequence _{ak}[J] k_ = _−J_[and compared the values of local maxima] achieved by _{ak}[J] k_ = _−J_[with] _[ V][K]_[ (] _[δ]_[)] 
 
 74 
 

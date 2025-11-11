@@ -1,18 +1,63 @@
-**==> picture [476 x 198] intentionally omitted <==**
+Figure 2: Concave treatment response and convex treatment response
 
-Figure 2: Concave treatment response and convex treatment response 
 
-_Concavity and convexity of the treatment response function imply_ Pr � _tY_ 00 _−−tW W[≥][Y] t_ 1[1] _−[−] t[Y]_ 0[0] _[, Y]_[1] _[ ≥][Y]_[0] _[ ≥][W]_ � = 1 _and_ Pr � _tY_ 00 _−−tW W[≥][Y] t_ 1[1] _[−] −t[Y]_ 0[0] _[, Y]_[1] _[ ≥][Y]_[0] _[ ≥][W]_ � = 1 _, respectively, where t d is a level of input for each treatment status d ∈{_ 0 _,_ 1 _} while t W is a level of input without the treatment and t W < t_ 0 _< t_ 1 _. Given W_ = _w, concavity and convexity of the treatment response function restrict the support of_ ( _Y_ 0 _, Y_ 1 ) _to the region below the straight line Y_ 1 = _[t] t_[1] 0 _[−] −[t] t[W] W[Y]_[0] _[ −] tt_ 01 _−−tt W_ 0 _[w][ and above the straight line][ Y]_[1][ =] _[ Y]_[0] _[, and to the region above two] straight lines Y_ 1 = _[t] t_[1] 0 _[−] −[t] t[W] W[Y]_[0] _[ −] t[t]_ 0[1] _−[−] t[t] W_[0] _[w][ and][ Y]_[1][ =] _[ Y]_[0] _[,][ respectively, as shown in Figures 1(b) and (c).]_ 
+_Concavity and convexity of the treatment response function imply_ Pr � _tY_ 00 _−−tWW_ _[≥]_ _[Y]_ _t_ 1 [1] _−_ _[−]_ _t_ _[Y]_ 0 [0] _[, Y]_ [1] _[ ≥]_ _[Y]_ [0] _[ ≥]_ _[W]_ � = 1
 
-**Example 3** _(Roy Model) In the Roy model, individuals self-select into treatment when their benefits from the treatment are greater than nonpecuniary costs for treatment participation. The extended Roy model assumes that the nonpecuniary cost is deterministic with the following selection equation:_ 
+_and_ Pr � _tY_ 00 _−−tWW_ _[≥]_ _[Y]_ _t_ 1 [1] _[−]_ _−t_ _[Y]_ 0 [0] _[, Y]_ [1] _[ ≥]_ _[Y]_ [0] _[ ≥]_ _[W]_ � = 1 _, respectively, where td is a level of input for each treatment_
 
-**==> formula [120 x 12] intentionally omitted <==**
 
-_where µ C_ ( _Z_ ) _represents nonpecuniary costs with a vector of observables Z. Then treated_ ( _D_ = 1) _and untreated people_ ( _D_ = 0) _are the observed groups satisfying support restrictions {Y_ 1 _− Y_ 0 _≥ µ C_ ( _Z_ ) _} and {Y_ 1 _− Y_ 0 _< µ C_ ( _Z_ ) _}, respectively._ 
+_status d ∈{_ 0 _,_ 1 _} while tW is a level of input without the treatment and tW < t_ 0 _< t_ 1 _._ _Given W_ = _w,_
 
-**Example 4** _(DTE conditional on Potential Outcomes) The conditional DTE for the unobservable subgroup whose potential outcomes belong to a certain set C is written as_ 
 
-Pr _{Y_ 1 _− Y_ 0 _≤ δ|_ ( _Y_ 0 _, Y_ 1 ) _∈ C} ._ 
+_concavity and convexity of the treatment response function restrict the support of_ ( _Y_ 0 _, Y_ 1) _to the region below_
 
-8 
+
+_the straight line Y_ 1 = _[t]_ _t_ [1] 0 _[−]_ _−_ _[t]_ _t_ _[W]_ _W_ _[Y]_ [0] _[ −]_ _tt_ 01 _−−ttW_ 0 _[w][ and above the straight line][ Y]_ [1][ =] _[ Y]_ [0] _[, and to the region above two]_
+
+
+
+_straight lines Y_ 1 = _[t]_ [1] _[−]_ _−_ _[t][W]_
+
+
+
+
+[1] _[−]_ [0]
+
+_t_ 0 _−tW_ _[w][ and][ Y]_ [1][ =] _[ Y]_ [0] _[,][ respectively, as shown in Figures 1(b) and (c).]_
+
+
+
+
+_[t]_ _t_ [1] 0 _[−]_ _−_ _[t]_ _t_ _[W]_ _W_ _[Y]_ [0] _[ −]_ _t_ _[t]_ 0 [1] _−_ _[−]_ _t_ _[t]_ _W_ [0]
+
+
+
+**Example 3** _(Roy Model) In the Roy model, individuals self-select into treatment when their benefits from the_
+
+
+_treatment are greater than nonpecuniary costs for treatment participation. The extended Roy model assumes_
+
+
+_that the nonpecuniary cost is deterministic with the following selection equation:_
+
+
+_D_ = **1** _{Y_ 1 _−_ _Y_ 0 _≥_ _µC_ ( _Z_ ) _},_
+
+
+_where µC_ ( _Z_ ) _represents nonpecuniary costs with a vector of observables Z._ _Then treated_ ( _D_ = 1) _and_
+
+_untreated people_ ( _D_ = 0) _are the observed groups satisfying support restrictions {Y_ 1 _−_ _Y_ 0 _≥_ _µC_ ( _Z_ ) _} and_
+
+
+**Example 4** _(DTE conditional on Potential Outcomes) The conditional DTE for the unobservable subgroup_
+
+
+_whose potential outcomes belong to a certain set C is written as_
+
+
+Pr _{Y_ 1 _−_ _Y_ 0 _≤_ _δ|_ ( _Y_ 0 _, Y_ 1) _∈_ _C} ._
+
+
+8
+
 

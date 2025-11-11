@@ -6,19 +6,19 @@
 
 ## **Reference Number** 
 
-## **Description** 
-
 ## **5** 
+
+**==> picture [21 x 23] intentionally omitted <==**
+
+**==> picture [181 x 163] intentionally omitted <==**
+
+## **Description** 
 
 ## **MEA VHF and RNAV Example** 
 
 MEA for aircraft utilizing VHF NAVAID of 15000’ MEA for aircraft utilizing RNAV of 13300’ 
 
 MOCA of 13300’ 
-
-**==> picture [21 x 23] intentionally omitted <==**
-
-**==> picture [181 x 163] intentionally omitted <==**
 
 ## **MCA and MTA Example at a NAVAID** 
 

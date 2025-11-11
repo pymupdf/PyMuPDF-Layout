@@ -6,12 +6,6 @@ where
 
 **==> formula [210 x 55] intentionally omitted <==**
 
-self energy correction, 
-
-**==> formula [208 x 40] intentionally omitted <==**
-
-where C is an integration constant. The singular part of Eq. (A15) is given by Eq. (24). 
-
 and 
 
 **==> formula [209 x 27] intentionally omitted <==**
@@ -20,15 +14,9 @@ We write
 
 **==> formula [237 x 11] intentionally omitted <==**
 
-It is apparent form Eq. (A12) that the leading singularity originates from the first term, (A − 1)BC ≈ A − 1 ≈ −2d(y 1 − 0)(y 3 − y 2 ). Introducing new variables as in the Sec. III and integrating over x i s we obtain 
+It is apparent form Eq. (A12) that the leading singularity originates from the first term, (A − 1)BC ≈ A − 1 ≈ −2d(y1 − 0)(y3 − y2). Introducing new variables as in the Sec. III and integrating over xis we obtain 
 
 **==> formula [227 x 62] intentionally omitted <==**
-
-## Appendix B: Leading singularities at the shadow mass shell, ω ∼ k y to the fourth order. 
-
-In this appendix we evaluate the singular contributions to the Green function at the shadow mass shell, ω ∼ k y to fourth order in the coupling constant. We start with the expression (A1) introduced in App. A 1. In contrast to the discussion in App. A 1 we anticipate the singularity at ω = k y to come from the region y 2 ≫ x 2 , and introduce new variables accordingly, x 2 = ξy 2 , y 1 = ηy 2 . Performing integration over y 2 we obtain 
-
-**==> formula [246 x 63] intentionally omitted <==**
 
 Here again, the integrals are divergent on the upper limit. Similarly to the previous section we differentiate it once with respect to the variable α introduced in Eq. (14) in order to isolate the leading logarithmic singularity, 
 
@@ -36,7 +24,19 @@ Here again, the integrals are divergent on the upper limit. Similarly to the pre
 
 The remaining integrals are easily evaluated. The subsequent integration over α restores the singularity in the 
 
-We notice that the singularity at ω ∼ k y comes from the region of small ξ. Therefore we keep only the first term in the square brackets in Eq. (B1). After performing remaining integrations over ξ i s we obtain 
+self energy correction, 
+
+**==> formula [208 x 40] intentionally omitted <==**
+
+where C is an integration constant. The singular part of Eq. (A15) is given by Eq. (24). 
+
+## Appendix B: Leading singularities at the shadow mass shell, ω ∼ ky to the fourth order. 
+
+In this appendix we evaluate the singular contributions to the Green function at the shadow mass shell, ω ∼ ky to fourth order in the coupling constant. We start with the expression (A1) introduced in App. A 1. In contrast to the discussion in App. A 1 we anticipate the singularity at ω = ky to come from the region y2 ≫ x2, and introduce new variables accordingly, x2 = ξy2, y1 = ηy2. Performing integration over y2 we obtain 
+
+**==> formula [246 x 63] intentionally omitted <==**
+
+We notice that the singularity at ω ∼ ky comes from the region of small ξ. Therefore we keep only the first term in the square brackets in Eq. (B1). After performing remaining integrations over ξis we obtain 
 
 **==> formula [222 x 26] intentionally omitted <==**
 

@@ -16,9 +16,9 @@ Appendix B presents the procedure used to compute the sharp lower bound under MT
 
 **==> formula [285 x 55] intentionally omitted <==**
 
-It is innocuous to assume that _{a k }[∞] k_ = _−∞_[satisfies] _[ a][k]_[+2] _[ −][a][k][ > δ]_[ for each integer] _[ k]_[.] 
+It is innocuous to assume that _{ak}[∞] k_ = _−∞_[satisfies] _[ a][k]_[+2] _[ −][a][k][ > δ]_[ for each integer] _[ k]_[.] 
 
-**Proof.** I will show that for any sequence _{a k }[∞] k_ = _−∞[∈A][δ]_[ satisfying] _[ a][k]_[+2] _[ −][a][k][ ≤][δ]_[ for some integer] _[ k,]_[ one] can construct _{_ � _a k }[∞] k_ = _−∞[∈A][δ]_[ with][ �] _[a][k]_[+2] _[ −]_[�] _[a][k][ > δ]_[ for each integer] _[ k]_[ and] 
+**Proof.** I will show that for any sequence _{ak}[∞] k_ = _−∞[∈A][δ]_[ satisfying] _[ a][k]_[+2] _[ −][a][k][ ≤][δ]_[ for some integer] _[ k,]_[ one] can construct _{_ � _ak}[∞] k_ = _−∞[∈A][δ]_[ with][ �] _[a][k]_[+2] _[ −]_[�] _[a][k][ > δ]_[ for each integer] _[ k]_[ and] 
 
 **==> formula [320 x 32] intentionally omitted <==**
 

@@ -1,30 +1,145 @@
-## Risk Management 
+# Risk Management
 
-**==> picture [49 x 49] intentionally omitted <==**
+**Basic Approach**
 
-## **Basic Approach** 
 
-As risks in the financial services increase in diversity and complexity, risk management—identifying, measuring, and controlling risk—has never been more important in the management of a financial holding company. 
+As risks in the financial services increase in diversity and complexity,
 
-SMFG has encapsulated the basic principles to be employed in risk management in the manual entitled _Regulations on Risk Management_ . In the manual, we have specified the basic policies for risk management: 1) Set forth SMFG’s Groupwide basic policies for risk management after specifying the categories of risk to which these policies apply; 2) Provide all necessary guidance to Group companies to enable them to follow the basic risk management policies set forth by SMFG and set up their own appropriate risk management systems; and 3) Monitor the implementation of risk management by all Group companies to ensure that their practices meet the relevant standards. 
+risk management—identifying, measuring, and controlling risk—has
 
-## **(1) Types of Risk to Be Managed** 
+never been more important in the management of a financial holding
 
-At SMFG, we classify risk into the following categories: (1) credit risk, (2) market risk, (3) liquidity risk and (4) operational risk (including processing risk and system risk). In addition, we provide individually tailored guidance to help Group companies identify categories of risk that need to be addressed. Risk categories are constantly reviewed, and new categories may be added in response to changes in the operating environment. The Corporate Risk Management Department works with the Corporate Planning Department to comprehensively and systematically manage all these categories of risk across the entire Group. 
+company.
 
-## **(2)  Fundamental Principles and Basic Policies for Risk Management** 
+SMFG has encapsulated the basic principles to be employed
 
-SMFG’s Groupwide basic policies for risk management stipulate the fundamental principles for risk management that must be followed, and spell out risk management procedures from various perspectives. These include managing risk on a consolidated accounting basis, managing risk using quantification methods, ensuring consistency with business strategies, setting up a system of checks and balances, contingency planning for emergencies and serious situations, and verifying preparedness to handle all conceivable risk situations. In addition, there are specific operational policies for implementing appropriate management of risk by all Group companies. 
+in risk management in the manual entitled _Regulations on Risk_
 
-Under SMFG’s Groupwide basic policies for risk management, all Group companies periodically carry out reviews of the basic management policies for each risk category, or whenever deemed necessary, thus ensuring that the policies followed at any time are the most appropriate. The management of SMFG constantly monitors the conduct of risk management at Group companies, providing guidance when necessary. 
+_Management_ . In the manual, we have specified the basic policies
 
-## **Risk Management System** 
+for risk management: 1) Set forth SMFG’s Groupwide basic policies
 
-Top management plays an active role in determining SMFG’s Groupwide basic policies for risk management. The system works as follows: The basic policies for risk management are determined by the Management Committee before being authorized by the Board. The Management Committee, the designated board members, and the relevant risk management departments perform risk management according to the basic policies. 
+for risk management after specifying the categories of risk to which
 
-## ■ **SMFG’s Risk Management System** 
+these policies apply; 2) Provide all necessary guidance to Group
 
-**==> picture [496 x 260] intentionally omitted <==**
+companies to enable them to follow the basic risk management
 
-32 **SMFG** 2011 
+policies set forth by SMFG and set up their own appropriate risk
+
+management systems; and 3) Monitor the implementation of risk
+
+management by all Group companies to ensure that their practices
+
+meet the relevant standards.
+
+
+- **SMFG’s Risk Management System**
+
+
+
+Under SMFG’s Groupwide basic policies for risk management,
+
+all Group companies periodically carry out reviews of the basic
+
+management policies for each risk category, or whenever deemed
+
+necessary, thus ensuring that the policies followed at any time
+
+are the most appropriate. The management of SMFG constantly
+
+monitors the conduct of risk management at Group companies,
+
+providing guidance when necessary.
+
+
+**Risk Management System**
+
+Top management plays an active role in determining SMFG’s
+
+Groupwide basic policies for risk management. The system works
+
+as follows: The basic policies for risk management are determined
+
+by the Management Committee before being authorized by the
+
+Board. The Management Committee, the designated board mem
+bers, and the relevant risk management departments perform risk
+
+management according to the basic policies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|CreditRisk<br>Corporate Risk Market Risk<br>Management<br>Liquidity Risk<br>Dept<br>.<br>OperationalRisk|CreditRisk|
+|---|---|
+|General Affairs Dept.|Processing Risk|
+|IT Planning Dept.|System Risk|
+
+
+|Risk<br>Man age-<br>mentUnit|C Plr ae nd nit n& I Dnv ee ps tt .ment Credit Risk<br>i g|Col3|Col4|
+|---|---|---|---|
+|Risk<br>Manage-<br>ment Unit|Corporate Risk<br>Management<br>Dept.|Market Risk|Settle-<br>ment<br>Risk|
+|Risk<br>Manage-<br>ment Unit|Corporate Risk<br>Management<br>Dept.|Liquidity Risk|Liquidity Risk|
+|Risk<br>Manage-<br>ment Unit|Corporate Risk<br>Management<br>Dept.|Operational Risk|Operational Risk|
+|Operations Planning Dept.|Operations Planning Dept.|Processing Risk||
+|IT Planning Dept.|IT Planning Dept.|System Risk||
+|Other Risks<br>Other Departments|Other Risks<br>Other Departments|Other Risks<br>Other Departments|Other Risks<br>Other Departments|
+
+
+|Col1|Col2|
+|---|---|
+|SMFG<br>Management Committee<br>Corporate Risk<br>Management<br>Dept.<br>Designated Board Members<br>Board of Directors<br>Corporate Planning Dept./<br>Corporate Risk<br>Management Dept.<br>Corporate Auditors<br>External Audit<br>Audit Dept.<br>Corporate-wide<br>Risk Management<br>General Affairs Dept.<br>IT Planning Dept.<br>Credit Risk<br>Market Risk<br>Liquidity Risk<br>Processing Risk<br>System Risk<br>Operational Risk|SMFG<br>Management Committee<br>Corporate Risk<br>Management<br>Dept.<br>Designated Board Members<br>Board of Directors<br>Corporate Planning Dept./<br>Corporate Risk<br>Management Dept.<br>Corporate Auditors<br>External Audit<br>Audit Dept.<br>Corporate-wide<br>Risk Management<br>General Affairs Dept.<br>IT Planning Dept.<br>Credit Risk<br>Market Risk<br>Liquidity Risk<br>Processing Risk<br>System Risk<br>Operational Risk|
+
+
+## 32 SMFG 2011
+
 
