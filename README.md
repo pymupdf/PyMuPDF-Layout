@@ -51,8 +51,6 @@ This benchmark was used to generate a comparative analysis of modern PDF extract
 * PyMuPDF4LLM
 * Pymupdf-Layout
 * Google Gemini (multimodal)
-* ChatGPT-5 (multimodal)
-
 ---
 
 
