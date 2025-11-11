@@ -1,10 +1,8 @@
+## 
+
 ## **AIRSPACE INFORMATION (Continued)** 
 
 ## **Special Flight Rules Area (SFRA)** 
-
-## **Flight Restricted Zone (FRZ) Relating to National Security** 
-
-## 
 
 ## **Special Use Airspace** 
 
@@ -15,6 +13,8 @@
 Appropriate boxed note as required shown adjacent to area. 
 
 Inside the FAR Part 93 boundary area, the cross hatching is at a 45 degree angle. The hypsometric tint shall be masked within the area around the yellow city tint when applicable (should not be confused with white glacier tint). 
+
+## **Flight Restricted Zone (FRZ) Relating to National Security** 
 
 **==> picture [107 x 48] intentionally omitted <==**
 

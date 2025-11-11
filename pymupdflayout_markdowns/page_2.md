@@ -16,7 +16,7 @@ In this letter, we report on the electronic properties of FET consisting of semi
 
 **==> picture [355 x 284] intentionally omitted <==**
 
-FIG. 1: (Color online): (a) shows the optical absorption spectra and (b) the Raman spectra at 514.5 nm of L, M and S samples . (c) displays the transfer characteristic, I D vs V G for V DS =-14V of FET devices made of sample M and S. 
+FIG. 1: (Color online): (a) shows the optical absorption spectra and (b) the Raman spectra at 514.5 nm of L, M and S samples . (c) displays the transfer characteristic, ID vs VG for VDS=-14V of FET devices made of sample M and S. 
 
 SWNTs realize high-performances FET devices compare to networks/thin films of SWNTs and solution processable polymers/organic materials.[1,6,16] 
 

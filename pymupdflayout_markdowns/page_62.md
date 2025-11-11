@@ -1,6 +1,6 @@
 **==> picture [165 x 43] intentionally omitted <==**
 
-## **4. F ORM AND CONTENT OF THE TENDER** 
+## **4. FORM AND CONTENT OF THE TENDER** 
 
 ## **4.1. Form of the tender: how to submit the tender?** 
 

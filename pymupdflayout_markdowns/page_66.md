@@ -6,11 +6,11 @@
 
 ## **Model AY11234** 
 
+## **SELECTING OBJECTIVE MAGNIFICATION** 
+
 ## **FOCUSING** 
 
-- 1. Turn the focusing knob away or toward 
-
-## **SELECTING OBJECTIVE MAGNIFICATION** 
+   - 1. Turn the focusing knob away or toward 
 
 - 1. There are two objectives. The lower 
 
@@ -18,33 +18,33 @@ you until a clear image is viewed.
 
 - magnification objective has a greater depth of field and view. 
 
-- 2. If the image is unclear, adjust the height of the elevator up or down, then turn the focusing knob again. 
-
-## **ZOOM MAGNIFICATION** 
+   - 2. If the image is unclear, adjust the height of the elevator up or down, then turn the focusing knob again. 
 
 - 2. In order to observe the specimen easily use the lower magnification objective first. Then, by rotating the case, the magnification can be changed. 
+
+## **ZOOM MAGNIFICATION** 
 
 - 1. Turn the zoom magnification knob to the desired magnification and field of 
 
 - view. 
 
-- 2. In most situations, it is recommended that you focus at the lowest 
-
 ## **CHANGING THE INTERPUPILLARY DISTANCE** 
+
+   - 2. In most situations, it is recommended that you focus at the lowest 
 
 - 1. The distance between the observer's 
 
+   - magnification, then move to a higher magnification and re-focus as 
+
 - pupils is the interpupillary distance. 
-
-- magnification, then move to a higher magnification and re-focus as 
-
-- necessary. 
-
-at the same time, the diopter ring may 
 
 - 2. To adjust the interpupillary distance rotate the prism caps until both eyes coincide with the image in the eyepiece. 
 
+- necessary. 
+
 - 3. If the image is not clear to both eyes at the same time, the diopter ring may need adjustment. 
+
+at the same time, the diopter ring may 
 
 ## **FOCUSING** 
 
@@ -52,23 +52,25 @@ at the same time, the diopter ring may
 
 - 1. Remove the lens protective cover. 
 
-- 2. Place the specimen on the working stage. 
-
    - 1. To adjust the eyepiece for viewing with or without eyeglasses and for differences in acuity between the right and left eyes, follow the following steps: 
 
-   - a. Observe an image through the left eyepiece and bring a specific point 
-
-   - into focus using the focus knob. 
+- 2. Place the specimen on the working stage. 
 
 - 3. Focus the specimen with the left eye first while turning the focus knob until the image appears clear and sharp. 4. Rotate the right eyepiece ring until the images in each eyepiece coincide and are sharp and clear. 
+
+- a. Observe an image through the left eyepiece and bring a specific point 
+
+- into focus using the focus knob. 
+
+- b. By turning the diopter ring adjustment for the left eyepiece, bring the same point into sharp focus. 
 
 ## **CHANGING THE BULB** 
 
 - 1. Disconnect the power cord. 
 
-   - b. By turning the diopter ring adjustment for the left eyepiece, bring the same point into sharp focus. 
-
 - 2. When the bulb is cool, remove the 
+
+   - c.Then bring the same point into focus through the right eyepiece by turning the right diopter ring. d.With more than one viewer, each viewer should note their own diopter ring position for the left and right eyepieces, then before viewing set the diopter ring adjustments to that setting. 
 
 - oblique illuminator cap and remove the halogen bulb with cap. 
 
@@ -78,8 +80,6 @@ at the same time, the diopter ring may
 
 - replace the halogen lamp or fluorescent lamp of transmitted illuminator. 
 
-- c.Then bring the same point into focus through the right eyepiece by turning the right diopter ring. d.With more than one viewer, each viewer should note their own diopter ring position for the left and right eyepieces, then before viewing set the diopter ring adjustments to that setting. 
-
 ## **USING THE VERTICAL TUBE -** 
 
 ## **CHANGING THE BULB** 
@@ -88,11 +88,11 @@ at the same time, the diopter ring may
 
    - 1. Disconnect the power cord from the electrical outlet. 
 
-   - 2. When the bulb is cool, remove the 
-
 - 1. The vertical tube can be used for instructional viewing or to photograph 
 
 - the image with a digital camera or a micro TV unit 
+
+- 2. When the bulb is cool, remove the 
 
 - oblique illuminator cap and remove the halogen bulb with cap. 
 

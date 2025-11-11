@@ -12,17 +12,7 @@ frequency regulation logic to change an operating frequency of the first integra
 
 1. **14.** The apparatus of claim 10, further comprising: 
 
-5 
-
-10 
-
-determining (404) whether the event is a userinitiated event or a software-initiated event; if the event is a user-initiated event directly transitioning (406) the integrated circuit from the first state of performance to the third state of performance based upon detecting the user event, if the event is a software-initiated event transitioning (408) the integrated circuit from the first state of performance to the second state of performance. 
-
 voltage regulation logic to change an operating voltage of the first integrated circuit, the voltage regulation logic to receive a signal from the program. 
-
-15 
-
-**24.** The machine-readable medium of claim 23, further comprising instructions which, when executed by the machine, cause the machine to perform the further operations comprising: 
 
 1. **15.** The apparatus of claim 10, wherein the instructions reside in a Basic Input Output System. 
 
@@ -40,6 +30,16 @@ voltage regulation logic to change an operating voltage of the first integrated 
 
 1. **22.** The apparatus of claim 10, wherein the program to transition the first integrated circuit to a next higher state of performance based upon an occurrence of a non-user event increases utilization of the first integrated circuit over a preset threshold. 
 
+1. **23.** A machine-readable medium that provides instructions, which when executed by a machine, cause the machine to perform operations comprising: 
+
+detecting (402) an event to transition an integrated circuit of a computing system to a higher state of performance, the integrated circuit having multiple states of performance including a first state of performance, a second state of performance higher than the first state of performance, and a third state of performance higher than the second state of performance; and 
+
+5 
+
+10 
+
+15 
+
 20 
 
 25 
@@ -51,6 +51,14 @@ voltage regulation logic to change an operating voltage of the first integrated 
 40 
 
 45 
+
+50 
+
+55 
+
+determining (404) whether the event is a userinitiated event or a software-initiated event; if the event is a user-initiated event directly transitioning (406) the integrated circuit from the first state of performance to the third state of performance based upon detecting the user event, if the event is a software-initiated event transitioning (408) the integrated circuit from the first state of performance to the second state of performance. 
+
+**24.** The machine-readable medium of claim 23, further comprising instructions which, when executed by the machine, cause the machine to perform the further operations comprising: 
 
 changing an operating frequency of the integrated circuit to change the state of performance of the integrated circuit. 
 
@@ -65,14 +73,6 @@ operating the integrated circuit at the third state of performance for a transie
 1. **27.** The machine-readable medium of one of claims 23 to 26, further comprising instructions which, when executed by the machine, cause the machine to perform the further operations comprising: 
 
 changing the state of performance of the integrated circuit by changing an amount of processors to manage the processing load. 
-
-1. **23.** A machine-readable medium that provides instructions, which when executed by a machine, cause the machine to perform operations comprising: 
-
-detecting (402) an event to transition an integrated circuit of a computing system to a higher state of performance, the integrated circuit having multiple states of performance including a first state of performance, a second state of performance higher than the first state of performance, and a third state of performance higher than the second state of performance; and 
-
-50 
-
-55 
 
 ## **Patentansprüche** 
 

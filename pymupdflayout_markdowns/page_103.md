@@ -1,6 +1,6 @@
-## Risk Management 
-
 **==> picture [49 x 49] intentionally omitted <==**
+
+## Risk Management 
 
 ## **Basic Approach** 
 

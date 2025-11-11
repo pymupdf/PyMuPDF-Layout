@@ -4,6 +4,8 @@ Runway declared distance information when available will be indicated by and is 
 
 ## **Runway Lights** 
 
+**==> picture [117 x 204] intentionally omitted <==**
+
 Notes regarding approach lighting systems are shown at the bottom of the sketch box. Runway lights (HIRL) (MIRL) (LIRL) (TDZL)(TDZ/CL) shall be indicated by a note, e.g. HIRL Rwy 9-27. 
 
 Other approach lighting is shown on the airport sketch as a symbol on the side of the runway where they are actually located. Symbols that are shown in negative indicate pilot-controlled lighting. 
@@ -13,8 +15,6 @@ Runway centerline lights (CL) are installed on some precision approach runways t
 Runway centerline lights will be indicated by a note only when paired with TDZL, e.g., TDZ/CL Rwys 6 and 24. 
 
 ## **Time/Distance Table** 
-
-**==> picture [117 x 204] intentionally omitted <==**
 
 When applicable, a Time/Distance Table is provided below the airport sketch. The table provides the distance and time that is required from the final approach fix to the missed approach point for select groundspeeds. 
 

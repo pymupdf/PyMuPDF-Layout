@@ -1,38 +1,51 @@
-## **AIRSPACE INFORMATION (Continued)** 
+**AIRSPACE INFORMATION (Continued)**
 
-## **Enroute Chart Examples** 
 
-## **Low Enroute Chart (Continued)** 
+**Enroute Chart Examples**
 
-## **Reference Number** 
 
-## **Description** 
+**Low Enroute Chart (Continued)**
 
-## **5** 
 
-## **MEA VHF and RNAV Example** 
+**Reference Number**
 
-MEA for aircraft utilizing VHF NAVAID of 15000’ MEA for aircraft utilizing RNAV of 13300’ 
+## **5**
 
-MOCA of 13300’ 
+# **6**
 
-**==> picture [21 x 23] intentionally omitted <==**
 
-**==> picture [181 x 163] intentionally omitted <==**
 
-## **MCA and MTA Example at a NAVAID** 
+**Description**
 
-MCA for aircraft traveling West along V520 to cross JAC at 15200’ MCA for aircraft traveling West along V330 to cross JAC at 13400’ 
 
-MTA for aircraft crossing over and turning at JAC: 
+**MEA VHF and RNAV Example**
 
-Aircraft traveling NE on V465 and turning to V330 on a W heading or turning to V520 on a W heading must turn at altitude of 16000’ or higher 
 
-Aircraft traveling E on V520 and turning to V330 on a W heading must turn at altitude of 14200’ 
+MEA for aircraft utilizing VHF NAVAID of 15000’
+MEA for aircraft utilizing RNAV of 13300’
 
-Aircraft traveling E on V330 and turning to V520 on a W heading must turn at altitude of 16000’ or higher 
 
-Aircraft traveling NW on V328 and turning to V465 on a SW heading must turn at altitude of 15100’ or higher. 
+MOCA of 13300’
 
-80 
+
+**MCA and MTA Example at a NAVAID**
+
+
+MTA for aircraft crossing over and turning at JAC:
+
+
+Aircraft traveling E on V520 and turning to V330 on a W heading
+must turn at altitude of 14200’
+
+
+Aircraft traveling E on V330 and turning to V520 on a W heading
+must turn at altitude of 16000’ or higher
+
+
+Aircraft traveling NW on V328 and turning to V465 on a SW heading must turn at altitude of 15100’ or higher.
+
+
+
+80
+
 

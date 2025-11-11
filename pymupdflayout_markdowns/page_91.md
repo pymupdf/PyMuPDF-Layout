@@ -16,11 +16,11 @@ Investment analysts who need additional information may contact Mr. Kenneth C. S
 
 Corning Incorporated common stock is listed on the New York Stock Exchange and the SWX Swiss Exchange. In addition, it is traded on the Boston, Midwest, Pacific and Philadelphia stock exchanges. Common stock options are traded on the Chicago Board Options Exchange. The abbreviated ticker symbol for Corning Incorporated is “GLW.” 
 
-## T RANSFER A GENT AND R EGISTRAR 
+## TRANSFER AGENT AND REGISTRAR 
 
 Computershare Investor Services LLC P.O. Box A-3504 Chicago, IL 60690-3504 Telephone: 800.255.0461 Website: www.computershare.com 
 
-## C HANGE OF A DDRESS 
+## CHANGE OF ADDRESS 
 
 Report change of address to Computershare Investor Services at the above address. 
 

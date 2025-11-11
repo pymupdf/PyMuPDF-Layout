@@ -4,7 +4,7 @@ Figure 3: Efficiency results for two contrived model structures: varying sized b
 
 ## **Random Effects Model** 
 
-In the random effects model (Table 1), automated blocking generates an MCMC algorithm identical to the Informed Blocking algorithm (blocking each _α i_ , _β i_ pair), which produces a tenfold improvement in Efficiency over the most efficient static algorithm – for this model, All Scalar sampling. The cut height _h_ = 0 _._ 1 indicates that only the _α i_ , _β i_ pairs exhibit posterior correlations above 0.9. The Informed Cross-Level algorithm requires a substantially longer Runtime and produces a high ESS, which results in nearly identical Efficiency as the efficiently blocked Auto Blocking algorithm. 
+In the random effects model (Table 1), automated blocking generates an MCMC algorithm identical to the Informed Blocking algorithm (blocking each _αi_ , _βi_ pair), which produces a tenfold improvement in Efficiency over the most efficient static algorithm – for this model, All Scalar sampling. The cut height _h_ = 0 _._ 1 indicates that only the _αi_ , _βi_ pairs exhibit posterior correlations above 0.9. The Informed Cross-Level algorithm requires a substantially longer Runtime and produces a high ESS, which results in nearly identical Efficiency as the efficiently blocked Auto Blocking algorithm. 
 
 ## **Auto-Regressive Model** 
 

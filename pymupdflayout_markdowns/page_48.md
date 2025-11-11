@@ -18,7 +18,7 @@ La durée du traitement des données à caractère personnel par le contractant 
 
 Aux fins de l'article II.10, si tout ou partie du traitement des données à caractère personnel est soustraité à un tiers, le contractant transmet par écrit à ces parties, y compris aux sous-traitants, les obligations visées aux articles I.9.2 et II.9.2. À la demande du pouvoir adjudicateur, le contractant doit fournir un document attestant de cet engagement. 
 
-**II.10 S OUS - TRAITANCE** 
+**II.10 SOUS-TRAITANCE** 
 
 - **II.10.1** Le contractant ne peut sous-traiter ni confier l'exécution du CC à des tiers autres que ceux déjà mentionnés dans son offre sans autorisation écrite préalable du pouvoir adjudicateur. 
 

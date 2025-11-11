@@ -18,9 +18,9 @@ A leading provider of communications and entertainment products and services tha
 
 Majority of revenue and cash flow is generated from wireless and broadband services, the fastest growing segments of the telecommunications industry. 
 
-**STRONG FRANCHISES AND POWERFUL BRANDS** 
-
 **==> picture [117 x 21] intentionally omitted <==**
+
+**STRONG FRANCHISES AND POWERFUL BRANDS** 
 
 **==> picture [315 x 51] intentionally omitted <==**
 
@@ -28,9 +28,9 @@ Majority of revenue and cash flow is generated from wireless and broadband servi
 
 **==> picture [140 x 50] intentionally omitted <==**
 
-**FINANCIAL STRENGTH AND FLEXIBILITY** 
-
 **==> picture [120 x 21] intentionally omitted <==**
+
+**FINANCIAL STRENGTH AND FLEXIBILITY** 
 
 **==> picture [324 x 60] intentionally omitted <==**
 

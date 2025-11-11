@@ -1,6 +1,6 @@
-(19) 
-
 **==> picture [152 x 25] intentionally omitted <==**
+
+(19) 
 
 **==> picture [101 x 52] intentionally omitted <==**
 
@@ -10,10 +10,6 @@
 
 - (43) Veröffentlichungstag: **07.04.2021 Patentblatt 2021/14** 
 
-- (21) Anmeldenummer: **19200966.0** 
-
-- (22) Anmeldetag: **02.10.2019** 
-
 - (51) Int Cl.: 
 
 |**_B26D 1/16 _**|**_(2006.01)_**<br>**_B26D 1/18 (2006.01)_**|
@@ -22,6 +18,10 @@
 |**_B23Q 17/09 (2006.01)_**||
 
 
+
+- (21) Anmeldenummer: **19200966.0** 
+
+- (22) Anmeldetag: **02.10.2019** 
 
 - (84) Benannte Vertragsstaaten: 
 

@@ -4,11 +4,11 @@ On VFR Charts, information about radio aids to navigation (NAVAID) are boxed, as
 
 A NAVAID that is physically located on an airport may not always be represented as a typical NAVAID symbol. A small open circle indicates the NAVAID location when collocated with an airport icon. 
 
+**==> picture [130 x 129] intentionally omitted <==**
+
 The type of NAVAID will be identified by: "VOR," (VHF Omni-Directional Range) "VORTAC" (VOR Tactical Aircraft Control), "VOR-DME," (VOR-Distance Measuring Equipment) or “DME” (Distance Measuring Equipment) positioned on and breaking the top line of the NAVAID box. 
 
 DMEs are shown without the compass rose. 
-
-**==> picture [130 x 129] intentionally omitted <==**
 
 ## **AIRPORTS** 
 

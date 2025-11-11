@@ -16,13 +16,13 @@ To implement this strategy, we will continue to drive down development costs by 
 
 Finally, our Company remains well positioned because of the hard and creative work put forth by our employees, board of directors, partners, contractors, and consultants. With prices low we have a new set of circumstances we can capitalize on to strengthen our business. Thanks to each and every one of you for your continued focus and passion to take the calculated risks needed for generating superior shareholder returns and building a stable, flourishing enterprise. 
 
-_Our shareholders will benefit from our exposure to some of the highest quality US shale acreage and production in the Eagle Ford along with our leading cost structure and strong balance sheet._ 
-
 Sincerely, 
 
 **==> picture [130 x 33] intentionally omitted <==**
 
-**E RIC M C C RADY** _Managing Director & CEO_ 
+**ERIC MCCRADY** _Managing Director & CEO_ 
+
+_Our shareholders will benefit from our exposure to some of the highest quality US shale acreage and production in the Eagle Ford along with our leading cost structure and strong balance sheet._ 
 
 **5** 
 

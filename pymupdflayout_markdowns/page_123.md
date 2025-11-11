@@ -8,6 +8,16 @@ une deuxième zone précurseur (16, 116, 316) espacée de la première, le deuxi
 
 création d’un premier différentiel de pression entre la zone d’isolation et la première zone précurseur et d’un deuxième différentiel de pression entre la zone d’isolation et la deuxième zone précurseur, les différentiels de pression étant suffisants pour empêcher la migration des premier et deuxième gaz précurseurs hors des première et deuxième zones précurseurs respectives et le mélange des premier et deuxième gaz précurseurs dans une des zones, ce qui empêche les réactions à l’intérieur des zones entre les quantités non-adsorbées des premier et deuxième gaz précurseurs. 
 
+1. **13.** Le procédé de la revendication 12, qui suppose également de guider le substrat dans une troisième zone précurseur (190) dans laquelle un troisième gaz précurseur différent du deuxième est introduit. 
+
+1. **14.** Le procédé de n’importe laquelle des revendications 12 ou 13, dans lequel la création des différentiels de pression suppose d’injecter le gaz inerte dans les passages. 
+
+1. **15.** Le procédé de n’importe laquelle des revendications 12 à 14, dans lequel le guidage du substrat en navette entre les première et deuxième zones précurseurs suppose de faire avancer continuellement le substrat sur un trajet de transport ondulé. 
+
+1. **16.** Le procédé de n’importe laquelle des revendications 12 à 15, qui suppose également d’ajuster une longueur d’au moins certains des transits dans la première zone précurseur. 
+
+1. **17.** Le procédé de n’importe laquelle des revendications 
+
 5 
 
 10 
@@ -22,35 +32,25 @@ création d’un premier différentiel de pression entre la zone d’isolation e
 
 35 
 
-12 à 16, qui suppose également de faire sortir un flux de premier gaz précurseur de la première zone précurseur et de piéger au moins une partie du premier gaz précurseur ainsi évacué. 
-
-   1. **18.** Le procédé de la revendication 17, qui suppose également de recycler le premier gaz précurseur piégé dans la première zone précurseur. 
-
-   1. **19.** Le procédé de n’importe laquelle des revendications 12 à 18, qui suppose également de chauffer au moins une des première et deuxième zones précurseurs. 
-
-   1. **20.** Le procédé de n’importe laquelle des revendications 12 à 19, qui suppose également de chauffer le substrat. 
-
-   1. **21.** Le procédé de n’importe laquelle des revendications 12 à 20, qui suppose également d’introduire un radical dans au moins une des zones précurseurs. 
-
-   1. **22.** Le procédé de n’importe laquelle des revendications 12 à 21, dans lequel la première zone précurseur, la deuxième zone précurseur et la zone d’isolation fonctionnent aux pressions atmosphériques approximativement. 
-
-1. **13.** Le procédé de la revendication 12, qui suppose également de guider le substrat dans une troisième zone précurseur (190) dans laquelle un troisième gaz précurseur différent du deuxième est introduit. 
-
 40 
-
-1. **14.** Le procédé de n’importe laquelle des revendications 12 ou 13, dans lequel la création des différentiels de pression suppose d’injecter le gaz inerte dans les passages. 
 
 45 
 
-1. **15.** Le procédé de n’importe laquelle des revendications 12 à 14, dans lequel le guidage du substrat en navette entre les première et deuxième zones précurseurs suppose de faire avancer continuellement le substrat sur un trajet de transport ondulé. 
-
 50 
-
-1. **16.** Le procédé de n’importe laquelle des revendications 12 à 15, qui suppose également d’ajuster une longueur d’au moins certains des transits dans la première zone précurseur. 
 
 55 
 
-1. **17.** Le procédé de n’importe laquelle des revendications 
+12 à 16, qui suppose également de faire sortir un flux de premier gaz précurseur de la première zone précurseur et de piéger au moins une partie du premier gaz précurseur ainsi évacué. 
+
+1. **18.** Le procédé de la revendication 17, qui suppose également de recycler le premier gaz précurseur piégé dans la première zone précurseur. 
+
+1. **19.** Le procédé de n’importe laquelle des revendications 12 à 18, qui suppose également de chauffer au moins une des première et deuxième zones précurseurs. 
+
+1. **20.** Le procédé de n’importe laquelle des revendications 12 à 19, qui suppose également de chauffer le substrat. 
+
+1. **21.** Le procédé de n’importe laquelle des revendications 12 à 20, qui suppose également d’introduire un radical dans au moins une des zones précurseurs. 
+
+1. **22.** Le procédé de n’importe laquelle des revendications 12 à 21, dans lequel la première zone précurseur, la deuxième zone précurseur et la zone d’isolation fonctionnent aux pressions atmosphériques approximativement. 
 
 **15** 
 

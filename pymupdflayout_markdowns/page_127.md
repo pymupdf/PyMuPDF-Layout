@@ -8,10 +8,6 @@
 
 **==> picture [20 x 10] intentionally omitted <==**
 
-**==> picture [14 x 10] intentionally omitted <==**
-
-**==> picture [16 x 10] intentionally omitted <==**
-
 311A[3 ] 
 
 250A[3 ] 
@@ -30,13 +26,17 @@
 
 **[0292]** More specifically, the photoacid generator is preferably a compound represented by General Formula **(ZI)** or General Formula **(ZII).** 
 
+**==> picture [14 x 10] intentionally omitted <==**
+
+**==> picture [16 x 10] intentionally omitted <==**
+
 **[0293]** In General Formula **(ZI),** 
 
-**[0294]** R 201 , R 202 , and R 203 each independently represent an organic group. 
+**[0294]** R201 , R202 , and R203 each independently represent an organic group. 
 
-**[0295]** The number of carbon atoms of the organic group as each of R 201 , R 202 , and R 203 is preferably **1** to 30, and more preferably **1** to 20. 
+**[0295]** The number of carbon atoms of the organic group as each of R201 , R202 , and R203 is preferably **1** to 30, and more preferably **1** to 20. 
 
-**[0296]** Furthermore, two ofR 201 to R 203 may be bonded to each other to form a ring structure, and the ring may include an oxygen atom, a sulfur atom, an ester bond, an amide bond, or a carbonyl group, and examples of the group formed by the bonding of two of R 201 to R 203 include an alkylene group (for example, a butylene group and a pentylene group). 
+**[0296]** Furthermore, two ofR201 to R203 may be bonded to each other to form a ring structure, and the ring may include an oxygen atom, a sulfur atom, an ester bond, an amide bond, or a carbonyl group, and examples of the group formed by the bonding of two of R201 to R203 include an alkylene group (for example, a butylene group and a pentylene group). 
 
 > **[0297] z-** represents a non-nucleophilic anion (anion having a remarkably low ability of causing a nucleophilic reaction). 
 

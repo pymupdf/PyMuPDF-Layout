@@ -26,7 +26,7 @@ US009423690B2
 
 ## (65) **Prior Publication Data** 
 
-> US 2015/0168834 Al Jun. 18, 2015 
+US 2015/0168834 Al Jun. 18, 2015 
 
 ## **Related U.S. Application Data** 
 

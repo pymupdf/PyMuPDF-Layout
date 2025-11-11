@@ -8,7 +8,7 @@ US 7,851,130 B2
 
 In formula (F2), Rx represents a hydrogen atom, a halogen atom, or an alkyl group having from 1 to 4 carbon atoms. As preferred substituents that the alkyl group represented by Rx may have, a hydroxyl group and a halogen atom are exemplified. 
 
-> Fa represents a single bond or a straight chain or branched alkylene group, and preferably a single bond. 
+Fa represents a single bond or a straight chain or branched alkylene group, and preferably a single bond. 
 
 > Fb represents a monocyclic or polycyclic hydrocarbon group. 
 
@@ -16,17 +16,17 @@ Fe represents a single bond or a straight chain or branched alkylene group, and 
 
 F 1 represents a group represented by formula (F 1). 
 
-P 1 represents from 1 to 3. 
+P1 represents from 1 to 3. 
 
 As the cyclic hydrocarbon group represented by Fb, a cyclopentyl group, a cyclohexyl group, or a norbomyl group is preferred. 
 
 The specific examples of the repeating units having the structure represented by formula (Fl) are shown below. 
 
+**==> picture [130 x 219] intentionally omitted <==**
+
 CF3 6~ 
 
 **==> picture [28 x 42] intentionally omitted <==**
-
-**==> picture [130 x 219] intentionally omitted <==**
 
 The alicyclic hydrocarbon-based acid-decomposable resin in the invention can contain various kinds of repeating structural units, besides the above repeating structural units, for the purpose of the adjustments of dry etching resistance, aptitude for standard developing solutions, adhesion to a substrate, resist profile, and further, general requisite performances of resists, e.g., resolution, heat resistance and sensitivity. 
 
@@ -46,17 +46,17 @@ carbon-based acid-decomposable resin, in particular the following performances, 
 
 (6) Dry etching resistance. 
 
-15[[from acrylic esters, methacrylic esters, acrylamides, meth-]] 
-
 The examples of such monomers include compounds having one addition polymerizable unsaturated bond selected[[from acrylic esters, methacrylic esters, acrylamides, meth-]] acryl-amides, ally! compounds, vinyl ethers, vinyl esters, etc. 
+
+15[[from acrylic esters, methacrylic esters, acrylamides, meth-]] 
 
 In addition to the aforementioned compounds, addition polymerizable unsaturated compounds copolymerizable with the monomers corresponding to the above various repeating 
 
 20[structural units may be used for copolymerization. ] 
 
-25 sion to a substrate, and resist profile, in addition, general 
-
 In the alicyclic hydrocarbon-based acid-decomposable resin, the molar ratio of the content of each repeating structural unit is arbitrarily set to adjust dry etching resistance, aptitude for standard developing solutions of a resist, adhesion to a substrate, and resist profile, in addition, general requisite performances of a resist, e.g., resolution, heat resistance and sensitivity. 
+
+25 sion to a substrate, and resist profile, in addition, general 
 
 As preferred embodiments of the alicyclic hydrocarbonbased acid-decomposable resin in the invention, the follow- 
 
@@ -72,23 +72,23 @@ As preferred embodiments of the alicyclic hydrocarbonbased acid-decomposable res
 
 (II-AB), a maleic anhydride derivative structure and a (meth) acrylate structure (a hybrid type). 
 
-45 posable group is preferably from 10 to 60 mo! % in all the 
-
 In the alicyclic hydrocarbon-based acid-decomposable resin, the content of a repeating unit having an acid-decomposable group is preferably from 10 to 60 mo! % in all the repeating structural units, more preferably from 20 to 50 mo! %, and still more preferably from 25 to 40 mo! %. 
 
-50 containing the alicyclic hydrocarbon represented by any of 
+45 posable group is preferably from 10 to 60 mo! % in all the 
 
-In the alicyclic hydrocarbon-based acid-decomposable resin, the content of a repeating unit having a partial structure containing the alicyclic hydrocarbon represented by any of formulae (pl) to (p V) is preferably from 25 to 70 mo! % in all the repeating structural units, more preferably from 35 to 65 mo! %, and still more preferably from 40 to 60 mo! %. 
+In the alicyclic hydrocarbon-based acid-decomposable resin, the content of a repeating unit having a partial structure containing the alicyclic hydrocarbon represented by any by any any of formulae (pl) to (p V) is preferably from 25 to 70 mo! % in all the repeating structural units, more preferably from 35 to 65 mo! %, and still more preferably from 40 to 60 mo! %. 
 
-55 resin, the content of a repeating unit represented by formula 
+50 containing the alicyclic hydrocarbon represented by any by any any of 
 
-In the alicyclic hydrocarbon-based acid-decomposable resin, the content of a repeating unit represented by formula (II-AB) is preferably from 10 to 60 mo!% in the total repeating structural units, more preferably from 15 to 55 mo!%, and still more preferably from 20 to 50 mo!%. 
+In the alicyclic hydrocarbon-based acid-decomposable resin, the content of a repeating unit represented by formula of a repeating unit represented by formula a repeating unit represented by formula (II-AB) is preferably from 10 to 60 mo!% in the total repeating structural units, more preferably from 15 to 55 mo!%, and still more preferably from 20 to 50 mo!%. 
 
-60 preferably from 10 to 70 mo! % in all the repeating structural 
+55 resin, the content of a repeating unit represented by formula of a repeating unit represented by formula a repeating unit represented by formula 
 
-The content of the repeating unit having a lactone group is preferably from 10 to 70 mo! % in all the repeating structural units, more preferably from 20 to 60 mo! %, and still more preferably from 25 to 60 mo! %. 
+The content of the repeating unit having a lactone group is preferably from 10 to 70 mo! % in all the repeating structural in all the repeating structural all the repeating structural units, more preferably from 20 to 60 mo! %, and still more preferably from 25 to 60 mo! %. 
 
-65 erably from 1 to 40 mo!% in all the repeating structural units, 
+60 preferably from 10 to 70 mo! % in all the repeating structural in all the repeating structural all the repeating structural 
 
-The content of the repeating unit having the alicyclic hydrocarbon structure substituted with a polar group is preferably from 1 to 40 mo!% in all the repeating structural units, more preferably from 5 to 30 mo!%, and still more preferably from 5 to 20 mo! %. 
+The content of the repeating unit having the alicyclic hydrocarbon structure substituted with a polar group is preferably from 1 to 40 mo!% in all the repeating structural units, mo!% in all the repeating structural units, in all the repeating structural units, more preferably from 5 to 30 mo!%, and still more preferably from 5 to 20 mo! %. 
+
+65 erably from 1 to 40 mo!% in all the repeating structural units, mo!% in all the repeating structural units, in all the repeating structural units, 
 

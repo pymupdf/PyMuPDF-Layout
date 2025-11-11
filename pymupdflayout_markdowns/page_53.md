@@ -1,8 +1,8 @@
 **==> picture [165 x 43] intentionally omitted <==**
 
-**==> picture [96 x 164] intentionally omitted <==**
-
 2) Copies of the profit and loss accounts for the last two years for which accounts have been closed from each concerned involved entity. If, for any valid reason, an economic operator is unable to provide the copies of the profit and loss accounts, it may prove its economic and financial capacity by any other document, which the _Contracting Authority_ considers appropriate. The contracting authority must at least be notified of the reason and its justification. The _Contracting Authority_ reserves the right to request any other document enabling it to verify the economic operator’s economic and financial capacity. 
+
+**==> picture [96 x 164] intentionally omitted <==**
 
 **→ All of the above specified evidence of economic and financial capacity must be provided with the tender.** 
 

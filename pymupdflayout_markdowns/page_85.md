@@ -80,9 +80,9 @@ Note: For oil immersion, please use the index of refraction 1.515 oil
 
 - 3. Place the specimen on the stage and secure with spring clips. 
 
-thickness of the cover glass is 0.1-1.1mm and the cover glass 
-
 - NOTE: The cover glass must face upward (the thinner glass is the cover glass), otherwise when the 40x objective is used the specimen cannot be observed. Observation is best when the thickness of the cover glass is 0.1-1.1mm and the cover glass is 0.17mm. 
+
+thickness of the cover glass is 0.1-1.1mm and the cover glass 
 
 - 4. Plug power cord into an electrical outlet. Turn microscope lamp ON. 
 

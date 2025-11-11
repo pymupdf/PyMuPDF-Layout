@@ -8,7 +8,7 @@ Let us consider the non-Hermitian FFA model defined by the following relations f
 
 **==> formula [222 x 24] intentionally omitted <==**
 
-where κ 0 , κ a are two real-valued positive constants and 0 ≤ k ≤ π. The Hermitian limit of this model, attained by assuming Im(E a ) = 0, is a special case of the FFA model previously investigated in Ref.[36], which is exactly solvable (see also [29]). Note that the continuous spectrum of H spans the band (E 1 , E 2 ), with E 2 = −E 1 = 2κ 0 . The density of states for this model is given by 
+where κ0, κa are two real-valued positive constants and 0 ≤ k ≤ π. The Hermitian limit of this model, attained by assuming Im(Ea) = 0, is a special case of the FFA model previously investigated in Ref.[36], which is exactly solvable (see also [29]). Note that the continuous spectrum of H spans the band (E1, E2), with E2 = −E1 = 2κ0. The density of states for this model is given by 
 
 **==> formula [235 x 46] intentionally omitted <==**
 
@@ -24,27 +24,27 @@ which is non-singular. Substitution of Eq.(49) into Eq.(11) yields the following
 
 and thus [see Eq.(12)] 
 
-**==> formula [19 x 11] intentionally omitted <==**
-
 **==> formula [226 x 74] intentionally omitted <==**
 
-The condition for the non-Hermitian Hamiltonian to possess a real-valued spectrum (i.e. to avoid complex-valued energies arising from bound states outside the continuum) is derived in Appendix B. Precisely, let ξ 1,2 be the two roots of the second-order algebraic equation 
+**==> formula [19 x 11] intentionally omitted <==**
+
+The condition for the non-Hermitian Hamiltonian to possess a real-valued spectrum (i.e. to avoid complex-valued energies arising from bound states outside the continuum) is derived in Appendix B. Precisely, let ξ1,2 be the two roots of the second-order algebraic equation 
 
 **==> formula [189 x 25] intentionally omitted <==**
 
-Then the Hamiltonian H has a real-valued energy spectrum if and only if |ξ 1,2 | ≤ 1. Figure 2 shows the domain in the plane (Im(E a )/κ 0 , κ a /κ 0 ) where H has a purely continuous energy spectrum for a few increasing values of the ratio |Re(E a )/κ 0 |. The domain lies in the sector 
+Then the Hamiltonian H has a real-valued energy spectrum if and only if |ξ1,2| ≤ 1. Figure 2 shows the domain in the plane (Im(Ea)/κ0, κa/κ0) where H has a purely continuous energy spectrum for a few increasing values of the ratio |Re(Ea)/κ0|. The domain lies in the sector 
 
 **==> picture [221 x 235] intentionally omitted <==**
 
-FIG. 2: Domains of non-existence of bound states for the Hamiltonian H in the (Im(E a )/κ 0 , κ a /κ 0 ) plane (shaded regions) for increasing values of the ratio |Re(E a )|/κ 0 . For a non-Hermitian Hamiltonian, i.e. Im(E a ) ̸= 0, in the shaded regions the energy spectrum of H is real-valued and purely continuous. Spectral singularities occur at the boundary of the shaded regions. 
+FIG. 2: Domains of non-existence of bound states for the Hamiltonian H in the (Im(Ea)/κ0, κa/κ0) plane (shaded regions) for increasing values of the ratio |Re(Ea)|/κ0. For a non-Hermitian Hamiltonian, i.e. Im(Ea) ̸= 0, in the shaded regions the energy spectrum of H is real-valued and purely continuous. Spectral singularities occur at the boundary of the shaded regions. 
 
-κ a /κ 0 ≤ √2 and shrinks toward Im(E a )/κ 0 = κ a /κ 0 = 0 as |Re(E a )/κ 0 | → 2[−] . For |Re(E a )/κ 0 | ≤ 2, bound states do exist for any value of κ a /κ 0 and Im(E a )/κ 0 . The wider domain is attained for Re(E a ) = 0. In particular, for Re(E a ) = 0 and κ a /κ 0 = √2, from Eq.(52) it follows that H has a real-valued energy spectrum provided that 
+κa/κ0 ≤ √2 and shrinks toward Im(Ea)/κ0 = κa/κ0 = 0 as |Re(Ea)/κ0| → 2[−] . For |Re(Ea)/κ0| ≤ 2, bound states do exist for any value of κa/κ0 and Im(Ea)/κ0. The wider domain is attained for Re(Ea) = 0. In particular, for Re(Ea) = 0 and κa/κ0 = √2, from Eq.(52) it follows that H has a real-valued energy spectrum provided that 
 
 **==> formula [174 x 18] intentionally omitted <==**
 
-Let us now consider the occurrence of spectral singularities. According to Eqs.(19) and (20) and using Eqs.(49) and (51), a spectral singularity at energy E = E 0 , inside the interval (−2κ 0 , 2κ 0 ), is found provided that the following two equations are simultaneously satisfied 
+Let us now consider the occurrence of spectral singularities. According to Eqs.(19) and (20) and using Eqs.(49) and (51), a spectral singularity at energy E = E0, inside the interval (−2κ0, 2κ0), is found provided that the following two equations are simultaneously satisfied 
 
 **==> formula [195 x 64] intentionally omitted <==**
 
-For arbitrarily given values of E a , κ a and κ 0 , the above conditions are generally not satisfied [nowhere for E 0 in the range (−2κ 0 , 2κ 0 )], i.e. the non-Hermitian FFA Hamiltonian is generally diagonalizable. Spectral singularities appear solely when a constraint among Re(E a )/κ 0 , Im(E a )/κ 0 and κ a /κ 0 is satisfied. Let us first assume κ a /κ 0 strictly smaller that √2. In this case, a single spectral singularity, at the energy E 0 = 
+For arbitrarily given values of Ea, κa and κ0, the above conditions are generally not satisfied [nowhere for E0 in the range (−2κ0, 2κ0)], i.e. the non-Hermitian FFA Hamiltonian is generally diagonalizable. Spectral singularities appear solely when a constraint among Re(Ea)/κ0, Im(Ea)/κ0 and κa/κ0 is satisfied. Let us first assume κa/κ0 strictly smaller that √2. In this case, a single spectral singularity, at the energy E0 = 
 

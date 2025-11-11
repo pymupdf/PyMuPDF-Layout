@@ -8,17 +8,17 @@
 
 **==> picture [200 x 193] intentionally omitted <==**
 
--continued 
-
--continued **-CH9** 
-
-**==> picture [59 x 98] intentionally omitted <==**
-
 **==> picture [66 x 167] intentionally omitted <==**
+
+**==> picture [15 x 10] intentionally omitted <==**
 
 **==> picture [14 x 10] intentionally omitted <==**
 
-**==> picture [15 x 10] intentionally omitted <==**
+-continued **-CH9** 
+
+-continued 
+
+**==> picture [59 x 98] intentionally omitted <==**
 
 ## <Other Components> 
 

@@ -8,9 +8,9 @@ W
 
 hile credit is used for electronic transactions in Western Europe and North America, the model is quite different in many “cash-based” economies around the world. And that’s where Euronet continues to look for new opportunities – particularly in the emerging markets of Central Europe, the Middle East, Africa, Asia-Pacific, Latin America and the Caribbean. 
 
-**The Promise of Emerging Markets** _Expanding Poland’s Payment Infrastructure_ 
-
 **==> picture [108 x 101] intentionally omitted <==**
+
+**The Promise of Emerging Markets** _Expanding Poland’s Payment Infrastructure_ 
 
 Although bank card use is just starting in these markets, the demand for non-cash payment is gaining momentum. The foundation for this marketplace is rapidly taking shape with greater technology support, well-designed infrastructure and rapidly growing networks, as well as a critical mass of users. So the shift to new electronic payment channels is on, and the number of electronic financial transactions has grown tremendously. 
 

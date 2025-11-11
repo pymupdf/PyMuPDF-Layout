@@ -1,10 +1,10 @@
 _Contract no: [complete]_ 
 
+**==> picture [106 x 69] intentionally omitted <==**
+
 _EC - FWC services Dec 2018_ 
 
 **==> picture [44 x 31] intentionally omitted <==**
-
-**==> picture [106 x 69] intentionally omitted <==**
 
 - d) a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing; 
 

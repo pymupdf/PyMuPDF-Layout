@@ -6,11 +6,11 @@
 
 **Proof.** We prove the lemma for the case of the CQ tradeoff curve. The proof for the CE trade-off curve is similar. Let ( _C_ ( _t_ ) _, Q_ ( _t_ )) for 0 _≤ t ≤_ 1 be a parametrization of the trade-off curve with _C_ (0) equal to the classical capacity and _Q_ (1) equal to the quantum capacity. The function _C_ ( _t_ ) is monotonically decreasing and the function _Q_ ( _t_ ) is monotonically increasing. The graph of the trade-off curve is convex and, therefore, has one-sided directional derivatives at all points [70]. It is also monotonically decreasing. 
 
-Consider the function _f λ_ ( _N_ ) where 
+Consider the function _fλ_ ( _N_ ) where 
 
 **==> formula [187 x 12] intentionally omitted <==**
 
-For any 0 _≤ t ≤_ 1, we have _f λ_ ( _N_ ) = _C_ ( _t_ ) + _λQ_ ( _t_ ) if and only if 
+For any 0 _≤ t ≤_ 1, we have _fλ_ ( _N_ ) = _C_ ( _t_ ) + _λQ_ ( _t_ ) if and only if 
 
 **==> formula [194 x 11] intentionally omitted <==**
 
@@ -40,7 +40,7 @@ _where_
 
 **==> formula [207 x 52] intentionally omitted <==**
 
-_U N[A][′][→][BE] is an isometric extension of N , ϕ[A] x[′]_ = ∆( _ϕ[A] x[′]_[) = ∆(] _[φ][A] x[′]_[)] _[, and]_[ ∆] _[is the completely dephasing] channel._ 
+_UN[A][′][→][BE] is an isometric extension of N , ϕ[A] x[′]_ = ∆( _ϕ[A] x[′]_[) = ∆(] _[φ][A] x[′]_[)] _[, and]_[ ∆] _[is the completely dephasing] channel._ 
 
 **Proof.** The proof of this lemma is similar to the proof of Lemma 9 in Ref. [71]. Consider another classicalquantum state _σ_ in addition to the two presented in the statement of the theorem: 
 

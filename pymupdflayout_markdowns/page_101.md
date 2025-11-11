@@ -38,13 +38,13 @@ This has been achieved by focusing on ‘basin excellence’. This means becomin
 
 - Drilling $63.6 million 
 
+   - Offshore Australia $32.6 million Onshore Australia $23.4 million South East Asia $41.4 million United States $28.2 million 
+
 - Geoscience and other $37.5 million 
 
 - Seismic $17.2 million 
 
 - New ventures $7.3 million 
-
-- Offshore Australia $32.6 million Onshore Australia $23.4 million South East Asia $41.4 million United States $28.2 million 
 
 An example of this is the strong position Santos has created in the Kutei Basin, with interests in three neighbouring production sharing contracts: Popodi, Donggala and Papalang. 
 

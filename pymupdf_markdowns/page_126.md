@@ -1,70 +1,131 @@
-**==> picture [233 x 14] intentionally omitted <==**
+( *) Notice: Subject to any disclaimer, the term ofthis
+patent is extended or adjusted under 35
+U.S.C. 154(b) by 42 days.
 
-US007851130B2 
 
-# c12) **United States Patent** 
+This patent is subject to a terminal disclaimer.
 
-# **Kawanishi et al.** 
 
-# (IO) **Patent No.: US 7,851,130 B2** 
+(21) Appl. No.: **11/857,645**
 
-# (45) **Date of Patent: *Dec. 14, 2010** 
 
-# (54) **PHOTOSENSITIVE COMPOSITION, COMPOUND FOR USE IN THE PHOTOSENSITIVE COMPOSITION, AND PATTERN-FORMING METHOD USING THE PHOTOSENSITIVE COMPOSITION** 
 
-- (75) Inventors: **Yasutomo Kawanishi,** Ashigarakami-gun (JP); **Kenji Wada,** Haibara-gun (JP) 
+(22) Filed:
 
-- (73) Assignee: **FUJIFILM Corporation,** Tokyo (JP) 
 
-- ( *) Notice: Subject to any disclaimer, the term ofthis patent is extended or adjusted under 35 U.S.C. 154(b) by 42 days. 
+(65)
 
-   - This patent is subject to a terminal disclaimer. 
 
-- (21) Appl. No.: **11/857,645** 
 
-- (22) Filed: **Sep.19,2007** 
+**Sep.19,2007**
 
-## (65) **Prior Publication Data** 
 
-US 2008/0081288 Al Apr. 3, 2008 
+**Prior Publication Data**
 
-## (30) **Foreign Application Priority Data** 
 
-Sep. 19, 2006 (JP) ............................. 2006-253381 
 
-- (51) **Int. Cl.** 
+US 2008/0081288 Al Apr. 3, 2008
 
-**==> picture [116 x 52] intentionally omitted <==**
 
-- (52) **U.S. Cl.** .................... **430/270.1;** 430/922; 430/325; 430/326; 430/942; 430/966; 549/26; 549/16; 549/17; 549/20 
+(30) **Foreign Application Priority Data**
 
-- (58) **Field of Classification Search** ....................... None See application file for complete search history. 
 
-- (56) **References Cited** 
+Sep. 19, 2006 (JP) ............................. 2006-253381
 
-**==> picture [112 x 12] intentionally omitted <==**
 
-**==> picture [217 x 57] intentionally omitted <==**
 
-**==> picture [141 x 116] intentionally omitted <==**
+(51)
 
-## OTHER PUBLICATIONS 
 
-Machine-assisted English translation of JP2006-276759 provided by JPO.* 
+(52)
 
-* cited by examiner 
 
-_Primary Examiner-Sin_ J. Lee 
+(58)
 
-(74) _Attorney, Agent, or Firm-Sughrue_ Mion, PLLC 
 
-(57) **ABSTRACT** 
+(56)
 
-A photosensitive composition includes (A) a compound represented by the following formula (I): 
 
-**==> picture [144 x 16] intentionally omitted <==**
 
-wherein R[1 ] to R[13 ] each independently represents a hydrogen atom or a substituent, Z represents a single bond or a divalent linking group, and x- represents an anion containing a proton acceptor functional group. 
+**Int. Cl.**
 
-## **16 Claims, 1 Drawing Sheet** 
+_**G03F**_ _71038_ (2006.01)
+_**G03F**_ _71039_ (2006.01)
+_**G03F**_ _7120_ (2006.01)
+_**G03F**_ _7130_ (2006.01)
+_**C07D**_ _497100_ (2006.01)
+**U.S. Cl.** .................... **430/270.1;** 430/922; 430/325;
+430/326; 430/942; 430/966; 549/26; 549/16;
+549/17; 549/20
+
+**Field of Classification Search** ....................... None
+
+See application file for complete search history.
+
+
+**References Cited**
+
+
+U.S. PATENT DOCUMENTS
+
+
+
+
+
+
+
+**I 1111111111111111** **11111** **1111111111** **111111111111111** **11111** **11111** **111111111111111111**
+US007851130B2
+## (IO) Patent No.: US 7,851,130 B2
+
+(45) **Date of Patent:** ***Dec. 14, 2010**
+
+
+EP 1 693 705 A2 * 8/2006
+
+EP 1 703 326 A2 * 9/2006
+
+EP 1 767 991 A2 * 3/2007
+
+JP 6-41221 A 2/1994
+
+JP 2000-122291 **A** 4/2000
+
+JP 3173368 B2 3/2001
+
+JP 2001-114825 A 4/2001
+
+JP 2001-206917 **A** 7/2001
+
+JP 2002-323768 **A** 11/2002
+
+JP 2003-149800 **A** 5/2003
+
+JP 3549592 B2 4/2004
+
+JP 2006-276759   - 10/2006
+
+
+OTHER PUBLICATIONS
+
+
+  - cited by examiner
+
+
+(57) **ABSTRACT**
+
+
+(I)
+RI!
+
+
+**16 Claims, 1 Drawing Sheet**
+
+
+
+FOREIGN PATENT DOCUMENTS
+
+
+EP 1480078 Al 5/2004
+
 
