@@ -366,6 +366,7 @@ def analyze_results(scores_df, mapping_file, score_columns, min_score_threshold,
     filtered_df = merged_df.dropna(subset=score_columns).copy()
     # Exclude specified folders (e.g., 'test' folders)
     filtered_df = filtered_df[~filtered_df["Folder"].isin(excluded_folders)]
+    filtered_df.to_csv("benchmark_granular.csv", index=False)
     # Keep only rows where at least one method found a close match
     filtered_df = filtered_df[filtered_df[score_columns].min(axis=1) < min_score_threshold]
 
@@ -456,7 +457,7 @@ def main():
     # Define folder info for benchmarking
     folder_info = [
         ('reducto_markdowns', 'reducto'),
-        ('pymupdf_markdowns', 'pymupdf'),
+        ('pymupdf_markdowns', 'pymupdf4llm'),
         ('llamaparse_markdowns', 'llamaparse'),
         ('datalab_markdowns', 'datalab'),
         ('gemini_markdowns', 'gemini'),
