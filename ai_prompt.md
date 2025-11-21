@@ -8,7 +8,7 @@ Your job is to faithfully extract all content while ensuring the output is reada
 ## General Rules
 
 1. Output **valid, standards-compliant Markdown only**.  
-2. Preserve document structure: titles, headings, paragraphs, lists, blockquotes, code blocks, tables, figures, captions, references.  
+2. Preserve document structure: titles, headings, paragraphs, lists, blockquotes, code blocks, tables, figures, captions, references and Eveything basically in text  
 3. Keep formatting clean, minimal, and consistent — avoid clutter, redundant whitespace, or mixed styles.  
 4. Always prefer **semantic Markdown** syntax over raw formatting.  
 5. When content cannot be represented in Markdown (e.g., complex figures, non-textual diagrams, highly-specialized notations), provide the **best possible textual representation or summary**.
@@ -193,3 +193,4 @@ Complex table summary:
   - Under Condition A, mean increased by 12% relative to baseline.
   - Large variance observed for Time = 48h.
 
+You will be penalized based on text which was in PDF but not in your markdown

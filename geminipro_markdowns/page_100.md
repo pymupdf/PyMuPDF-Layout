@@ -2,7 +2,7 @@ As oil prices started to tumble, we reacted swiftly. In early November 2014, we 
 
 Because of our position as a low cost operator with a clean balance sheet, the Company remains in a strong position to not only survive, but also to add both short and long-term shareholder value during the pendency of this downturn in market prices.
 
-### Forward Strategy
+## Forward Strategy
 
 As dire as the oil markets may appear today, they do remain very efficient in reacting swiftly to changing prices. Logic would dictate that the highest cost barrel would be the first off the market, but many of these high cost barrels come from long lead time projects that have significant sunk costs so are comparatively slow to react. US shale plays, for the most part, are not the marginal cost barrel but, because of the short lead times, are often the quickest to react.
 
@@ -20,5 +20,9 @@ Finally, our Company remains well positioned because of the hard and creative wo
 
 Sincerely,
 
-ERIC MCCRADY  
+![Signature of Eric McCrady](signature-eric-mccrady.png)
+
+**ERIC MCCRADY**  
 Managing Director & CEO
+
+5

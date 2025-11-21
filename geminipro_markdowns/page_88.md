@@ -1,11 +1,15 @@
-## Projects Report
+28  
+Projects Report
 
-![Map of the Nueva Esperanza Project in Chile](placeholder-map.png)
+![Map of Chile showing the location of the Nueva Esperanza Project](map-chile-nueva-esperanza.png)
 
-**Map Summary:** The image displays a map of Chile, highlighting the location of the Nueva Esperanza project in the northern region. The project is situated near major cities such as Copiapo, Antofagasta, Chañaral, and La Serena. The map also shows Chile's geographical context with neighboring countries Peru, Bolivia, and Argentina.
+**Figure (Summary):** A geographical map of Chile illustrating the location of the **Nueva Esperanza** project. The project is situated in Northern Chile, inland from **Copiapó** and **Chañaral**, north of **La Serena** and **Santiago**. The map indicates coordinates between 20°S and 50°S and labels neighboring countries **Peru**, **Bolivia**, and **Argentina**.
+
+---
 
 # Nueva Esperanza Project
-*Chile*
+
+**Chile**
 
 ## Summary
 
@@ -18,5 +22,9 @@ A feasibility study for a decision to mine the Arqueros portion of Nueva Esperan
 Environmental approvals to commence construction and mining at Nueva Esperanza were granted in July 2013 for the original Arqueros project. Work is underway to modify and update the environmental assessment to incorporate the heap leach process.
 
 ---
+
+**www.kingsgate.com.au**
+
+## References
 
 [^1]: Equivalence is based on gold/silver price ratio of 60. Gold equivalence = gold content plus (silver content divided by 60), whereas Silver equivalent silver content plus (gold content multiplied by 60).

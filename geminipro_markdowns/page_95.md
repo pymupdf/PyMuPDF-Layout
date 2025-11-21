@@ -1,6 +1,8 @@
-![Image of a modern university building with trees in the foreground.](building.png)
+![Photograph of the Australian School of Petroleum building](australian-school-of-petroleum.png)
 
-Santos is investing in the future of Australia's petroleum industry through the funding of the Australian School of Petroleum at the University of Adelaide.
+**Caption:** Santos is investing in the future of Australia’s petroleum industry through the funding of the Australian School of Petroleum at the University of Adelaide.
+
+---
 
 be working in business operations with a lean and efficient corporate and services group.
 
@@ -10,13 +12,13 @@ With the exception of a small number of project teams, all non-award based posit
 
 The need to develop a culture that supports the newly designed business processes was another of the major outcomes of the change program. A Santos-wide culture change program led by employees is currently underway.
 
-This long-term program is designed to ensure that the way employees work together enhances Santos' ability to be successful.
+This long-term program is designed to ensure that the way employees work together enhances Santos’ ability to be successful.
 
-One of the first tasks undertaken was a voluntary employee survey to identify the gaps between the existing culture and the desired culture. The outcomes of the survey will assist in the development of programs and activities that will better align work practices with Santos' strategic goals.
+One of the first tasks undertaken was a voluntary employee survey to identify the gaps between the existing culture and the desired culture. The outcomes of the survey will assist in the development of programs and activities that will better align work practices with Santos’ strategic goals.
 
 ### TRAINING AND DEVELOPING PEOPLE
 
-Making sure training and development supports current and future business requirements, and provides opportunities for people to develop their skills to achieve optimum performance, are key aspects of Santos' human resources strategy.
+Making sure training and development supports current and future business requirements, and provides opportunities for people to develop their skills to achieve optimum performance, are key aspects of Santos’ human resources strategy.
 
 Santos has a number of long-term projects underway which will optimise the substantial investment the Company makes in training people. Importantly, these projects will deliver programs that are targeted to meet business and individual needs and to support culture change initiatives.
 
@@ -40,19 +42,15 @@ There was a substantial reduction in the volume of hydrocarbons released to the 
 
 Santos released its Greenhouse Policy in 2004 to drive performance improvements in this area through reducing emissions and producing oil and gas more efficiently.
 
-Santos' Greenhouse Policy is being rolled out across the organisation through cross-functional greenhouse gas teams that have the right skill sets and responsibilities to progress this initiative. These teams will manage Greenhouse Policy and regulation, carbon management and trading opportunities, and energy efficiency. A key internal driver for emissions reduction will be the promotion of energy efficiency.
+Santos’ Greenhouse Policy is being rolled out across the organisation through cross-functional greenhouse gas teams that have the right skill sets and responsibilities to progress this initiative. These teams will manage Greenhouse Policy and regulation, carbon management and trading opportunities, and energy efficiency. A key internal driver for emissions reduction will be the promotion of energy efficiency.
 
 Santos is committed to achieving effective emission reduction targets, to the pursuit of energy efficiency strategies and to the identification and implementation
 
-### OIL SPILL VOLUMES
+---
 
-![Line chart showing oil spill volumes from 2001 to 2004](oil-spill-volumes.png)
+![Chart: Oil Spill Volumes](oil-spill-volumes.png)
 
-**Figure (summary):** A line chart titled "OIL SPILL VOLUMES" displays the volume of oil spills in cubic meters (m³) from 2001 ('01) to 2004 ('04).
--   **Y-axis:** Volume in m³, from 0 to 2000.
--   **X-axis:** Years '01, '02, '03, '04.
--   **Data Points:**
-    -   '01: Approximately 500 m³
-    -   '02: Approximately 500 m³
-    -   '03: A sharp spike to approximately 1800 m³, labeled "Lytton oil spill effect".
-    -   '04: A sharp decrease to less than 100 m³.
+**Figure: OIL SPILL VOLUMES ($m^3$)**
+- **X-axis:** Years 2001, 2002, 2003, 2004
+- **Y-axis:** Volume in cubic metres ($0 - 2000$)
+- **Trend:** The volume remains relatively low (~400 $m^3$) in '01 and '02. There is a significant spike in 2003 reaching nearly 2000 $m^3$, annotated as "Lytton oil spill effect." The volume drops drastically in 2004 to near zero (referenced in text as 83 $m^3$).

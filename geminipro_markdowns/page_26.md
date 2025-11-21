@@ -9,35 +9,9 @@ Shadow NAVAID boxes indicate Flight Service Station (FSS) locations. Frequencies
 Certain FSSs provide Local Airport Advisory (LAA) on 123.6.
 
 Frequencies transmit and receive except those followed by R and T:
-- R - Receive Only
-- T - Transmit Only
 
----
-
-#### LOW CHARTS
-
-![Diagram examples for Low Charts](placeholder-low-charts.png)
-
-**Diagram Summaries (Low Charts):**
-
-*   **Stand Alone FSS:** A shadowed box contains the name "DAYTON DAY" with the frequency "122.55" listed above it.
-*   **Stand Alone FSS Associated with an Airport:** A shadowed box shows "MIAMI MIA" with frequency "122.3". A line connects this to an airport symbol. Associated airport information is displayed nearby: "MON Miami Exec (TMB) D\* 10 L 60 (A) 124.0".
-*   **Part-time FSS:** A shadowed box shows "PALMER PAQ" with frequencies "123.6 122.4". A note specifies its hours of operation: "FSS VOICE AVAILABLE 1700-0300Z MON-FRI, 1500-0630Z SAT, 1800-0400Z SUN. OTHER TIMES CONTACT KENAI FSS".
-*   **Stand Alone FSS within Canadian Airspace:** A shadowed box shows "VICTORIA HARBOUR" with frequency "122.2". A note below indicates "FSS AVAILABLE 1345-0530Z‡".
-
----
-
-#### HIGH CHARTS
-
-![Diagram examples for High Charts](placeholder-high-charts.png)
-
-**Diagram Summaries (High Charts):**
-
-*   **Stand Alone FSS:** A shadowed box contains the name "HARBOR HBR".
-*   **Stand Alone FSS Associated with an Airport:** A shadowed box shows "MIAMI MIA" with frequency "122.55". A line connects this to an airport symbol with the text "MON Miami Exec (TMB)".
-*   **Stand Alone FSS within Canadian Airspace:** A shadowed box shows "VICTORIA HARBOUR" with frequency "122.2".
-
----
+*   **R** - Receive Only
+*   **T** - Transmit Only
 
 ### Remote Communications Outlet (RCO)
 
@@ -45,22 +19,31 @@ Thin line NAVAID boxes without frequencies and controlling FSS name indicate no 
 
 In Canada, a "D" after the frequency indicates a dial-up remote communications outlet.
 
-![Diagram examples for RCOs](placeholder-rco-charts.png)
+---
 
-**Diagram Summaries:**
+## Chart Symbology Summary
 
-*   **Stand Alone RCO:**
-    *   A thin-line box shows "MONTGOMERY CO 122.4".
-    *   A thin-line box shows "LEESBURG 122.6 122.2".
-*   **RCO Associated/Co-located with an Airport:**
-    *   (Low Chart Example) A thin-line box shows "MIAMI 122.65 122.2 122.1R", connected to an airport symbol with details: "FORT MYERS Page Fld (FMY) D\* 17 L 64 (A) 123.725".
-    *   (High Chart Example) A thin-line box shows "BURLINGTON 122.4", connected to an airport symbol with details: "GLENS FALLS Floyd Bennett Meml (GFL)".
+The following table summarizes the visual representations for Low and High Altitude Charts regarding FSS, RCO, and AWOS/ASOS stations.
+
+| Feature Type | Low Charts Symbol | High Charts Symbol |
+| :--- | :--- | :--- |
+| **Stand Alone FSS** | **Shadow Box**<br>Example: `DAYTON DAY` (freq 122.55) | **Shadow Box (Tab style)**<br>Example: `HARBOR HBR` |
+| **Stand Alone FSS Associated with an Airport** | **Shadow Box with Airport Symbol**<br>Example: `MIAMI MIA` (122.3)<br>Includes Green Airport Icon & MON text. | **Shadow Box with Airport Symbol**<br>Example: `MIAMI MIA` (122.55)<br>Includes Green Airport Icon & MON text. |
+| **Part-time FSS** | **Shadow Box with Remarks**<br>Example: `PALMER PAQ` (123.6 122.4)<br>Text: "FSS VOICE AVAILABLE 1700-0300Z‡ MON-FRI..." | *(Not shown)* |
+| **Stand Alone FSS within Canadian Airspace** | **Heavy Border Box**<br>Example: `VICTORIA HARBOUR` | **Heavy Border Box**<br>Example: `VICTORIA HARBOUR` (122.2) |
+| **Stand Alone RCO** | **Thin Line Box**<br>Example: `LEESBURG` (122.6 122.2) | **Thin Line Box**<br>Example: `MONTGOMERY CO` (122.4) |
+| **RCO Associated/Co-located with an Airport** | **Thin Line Box linked to Airport**<br>Example: `MIAMI` (122.65 122.2 122.1R)<br>Linked to Fort Myers (Page Fld) Airport | **Thin Line Box linked to Airport**<br>Example: `BURLINGTON` (122.4)<br>Linked to GLENS FALLS (Floyd Bennett Meml) Airport |
 
 ### Stand Alone AWOS & ASOS
 
-![Diagram examples for AWOS & ASOS](placeholder-awos-asos.png)
+![Figure: AWOS and ASOS Chart Symbols](placeholder-awos-asos.png)
 
-**Diagram Summaries:**
+**Summary of visual:**
+*   **Low Charts:** Example shows `BOONE AWOS-3PT 118.525 BNW` connected to a small circle location.
+*   **High Charts:** Example shows `STAMPEDE PASS ASOS 135.275 SMP` connected to a small circle location.
 
-*   An information box for an AWOS facility: "BOONE AWOS-3PT 118.525 BNW".
-*   An information box for an ASOS facility: "STAMPEDE PASS ASOS 135.275 SMP".
+---
+
+*Footer:*
+74
+FAA Chart Users’ Guide - IFR Enroute Symbology
