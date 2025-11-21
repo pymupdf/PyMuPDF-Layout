@@ -1,5 +1,5 @@
 
-import fitz  # PyMuPDF
+import pymupdf  # PyMuPDF
 import re
 import json
 import os
@@ -55,7 +55,7 @@ def extract_highlighted_text(pdf_path, logger):
     
     for idx, file_path in enumerate(pdf_files, start=1):
         logger.info(f"Processing PDF {idx}/{len(pdf_files)}: {file_path}")
-        doc = fitz.open(file_path)
+        doc = pymupdf.open(file_path)
         page = doc[0]
         
         # Find source annotation for this page
@@ -76,10 +76,12 @@ def extract_highlighted_text(pdf_path, logger):
             
             # Check for pattern (1.1, 1.2, etc.) and highlight type
             match = re.match(r'^(\d+\.\d+)', content)
-            if match and annot.type[0] == 8:  # Highlight annotation
+            if match and annot.type[1] == 'Highlight':  # Highlight annotation
                 key = match.group(1)
-                final_text = page.get_text(clip=annot.rect, sort=True).strip()
                 
+                # Expand by 10 pixels on all sides to fully capture the annotation text
+                final_text = page.get_text("text", clip=annot.rect, sort=True).strip()
+
                 # Clean the extracted text
                 final_text = ' '.join(final_text.split())  # Remove \n and extra spaces
                 
@@ -232,7 +234,8 @@ def extract_and_clean_by_page(data, logger):
                         order_num = 0
                     
                     # Clean the text
-                    text = spell(text)  # Apply autocorrect
+                    # text = spell(text)  # Apply autocorrect, note this auto corrects badly! e.g. field -> fiend
+
                     cleaned_text = clean(
                         text,
                         lower=False,
@@ -366,6 +369,7 @@ def analyze_results(scores_df, mapping_file, score_columns, min_score_threshold,
     filtered_df = merged_df.dropna(subset=score_columns).copy()
     # Exclude specified folders (e.g., 'test' folders)
     filtered_df = filtered_df[~filtered_df["Folder"].isin(excluded_folders)]
+    filtered_df.to_csv("benchmark_granular.csv", index=False)
     # Keep only rows where at least one method found a close match
     filtered_df = filtered_df[filtered_df[score_columns].min(axis=1) < min_score_threshold]
 
@@ -456,7 +460,7 @@ def main():
     # Define folder info for benchmarking
     folder_info = [
         ('reducto_markdowns', 'reducto'),
-        ('pymupdf_markdowns', 'pymupdf'),
+        ('pymupdf_markdowns', 'pymupdf4llm'),
         ('llamaparse_markdowns', 'llamaparse'),
         ('datalab_markdowns', 'datalab'),
         ('gemini_markdowns', 'gemini'),
