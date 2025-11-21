@@ -4,21 +4,21 @@ We continue to look for ways to reduce our commodity exposure. We have aggressiv
 
 ## areas of attention
 
-### innovate more
-Innovation is a top priority for us because it creates competitive advantage and builds brand equity. Fiscal 2004 was a fertile period for new ideas in every aspect of our business. We installed high-volume, high-pressure food processing systems to explore new horizons in food safety. Beginning mid-year, *Hormel* chili varieties were first in their product category to offer Tetra Recart carton packaging – an innovation that provides consumers with a more convenient package and adds excitement to a long established category. Other new convenience product launches include *SPAM* Singles and *Jennie-O Turkey Store* Oven Ready Turkey, a fool-proof, whole frozen turkey that’s pre-seasoned, ready to go directly from freezer to oven, and is ready to eat in about three and one-half hours. Less dramatic packaging improvements have significantly boosted sales of our *Hormel* microwave meals by revising packaging to draw attention to the convenient bowl rather than the box.
+**innovate more** Innovation is a top priority for us because it creates competitive advantage and builds brand equity. Fiscal 2004 was a fertile period for new ideas in every aspect of our business. We installed high-volume, high-pressure food processing systems to explore new horizons in food safety. Beginning mid-year, *Hormel* chili varieties were first in their product category to offer Tetra Recart carton packaging – an innovation that provides consumers with a more convenient package and adds excitement to a long established category. Other new convenience product launches include *SPAM* Singles and *Jennie-O Turkey Store* Oven Ready Turkey, a fool-proof, whole frozen turkey that’s pre-seasoned, ready to go directly from freezer to oven, and is ready to eat in about three and one-half hours. Less dramatic packaging improvements have significantly boosted sales of our *Hormel* microwave meals by revising packaging to draw attention to the convenient bowl rather than the box.
 
 To support continued innovation throughout the company, we made significant investments in new and expanded R&D facilities in 2004. Jennie-O Turkey Store, Inc. opened a new R&D facility and we expanded the R&D facility at our corporate campus. Our total R&D spending was up 21 percent in 2004 compared to fiscal 2003.
 
-### expand high-potential product portfolios
-As growth prospects accelerate for our Foodservice and ethnic foods businesses, we are expanding our portfolio of products in both sectors. Our Foodservice business offers a growing selection of branded products, including the highly popular *café h* family.
+**expand high-potential product portfolios** As growth prospects accelerate for our Foodservice and ethnic foods businesses, we are expanding our portfolio of products in both sectors. Our Foodservice business offers a growing selection of branded products, including the highly popular *café h* family.
 
-![Financial performance charts from 2000 to 2004](financial-charts.png)
+![Figure: Financial Performance Charts (2000–2004)](financial-charts-2004.png)
 
-**Financial Charts (summary):** Four bar charts illustrate consistent growth from fiscal year 2000 to 2004 across key financial metrics. All charts show an upward trend, with the bar for 2004 being the highest in each series.
+**Figure Summary: Financial Performance (2000–2004)**
 
-| Metric | 2004 Value | Unit | CAGR |
+The figure presents four bar charts detailing the company's financial growth over a five-year period. Key metrics for fiscal year 2004 and Compound Annual Growth Rates (CAGR) are highlighted:
+
+| Metric | 2004 Value | CAGR | Description of Trend |
 | :--- | :--- | :--- | :--- |
-| net sales | $4.8 | Billions | 8.3% |
-| net earnings | $231.7 | Millions | 8.0% |
-| net earnings per share | $1.65 | Dollars | 8.3% |
-| annual dividend | $0.45 | Dollars | 6.5% |
+| **Net Sales** | $4.8 Billion | 8.3% | Consistent growth from 2000 to 2004. |
+| **Net Earnings** | $231.7 Million | 8.0% | General upward trend with a slight dip in 2002, peaking in 2004. |
+| **Net Earnings per Share** | $1.65 | 8.3% | Follows the net earnings trend; dip in 2002, strong recovery to peak in 2004. |
+| **Annual Dividend** | $.45 | 6.5% | Steady year-over-year increase from 2000 to 2004. |

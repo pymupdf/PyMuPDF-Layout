@@ -1,10 +1,10 @@
-| | Renewed pre-financing payments and interim payments | |
-|---|---|---|
-| 6-monthly | Renewed pre-financing payments and interim payments | `<amount>`[^9] |
-| `<Month number>` | Forecast balance | `<amount>`[^10] |
-| **Total** | | **<Maximum Contract Value>** |
+| | | |
+| :--- | :--- | :--- |
+| **6-monthly** | **Renewed pre-financing payments and interim payments** | `<amount>`[^9] |
+| **<Month number>** | **Forecast balance** | `<amount>`[^10] |
+| | **Total** | `<Maximum Contract Value>` |
 
-The actual amounts payable after the first pre-financing payment will vary. They must be based on the Consultant's invoice accompanied by an interim progress report and an expenditure verification report subject to approval of those reports in accordance with Article 27 in the General Conditions.
+The actual amounts payable after the first pre-financing payment will vary. They must be based on the Consultant’s invoice accompanied by an interim progress report and an expenditure verification report subject to approval of those reports in accordance with Article 27 in the General Conditions.
 
 The aggregate amount of the advance and interim invoices issued by the Consultant to the Contracting Authority shall not exceed 90% of the Maximum Contract Value. Should an invoice be issued for an amount exceeding 90% of the Maximum Contract Value, the Contracting Authority shall only pay outstanding amount due up to 90% of the Maximum Contract Value.
 
@@ -33,8 +33,6 @@ No duties, levies or taxes, including VAT, which may be payable in the beneficia
 11.2 The Consultant must take the necessary measures to ensure the visibility of the funding source of the Contract. Such measures must be in accordance with the applicable rules on visibility, as specified in Annex II – Terms of Reference.
 
 11.3 The following provisions shall amend or supplement the General Conditions:
-
----
 
 [^9]: Balance of first pre-financing payment and forecast balance
 [^10]: 10% of the maximum contract value

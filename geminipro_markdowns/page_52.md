@@ -1,5 +1,8 @@
-EC - FWC services Dec 2018
-Contract no: [complete]
+![European Agency for Safety and Health at Work](placeholder-logo-left.png)  
+*EC - FWC services Dec 2018*  
+**Contract no: [complete]**
+
+![European Union Flag](placeholder-logo-right.png)
 
 ---
 
@@ -11,11 +14,11 @@ If natural persons appear in a *result* or their voice or any other private elem
 
 ### II.13.9. Copyright notice for pre-existing rights
 
-When the contractor retains *pre-existing rights* on parts of the *results*, reference must be inserted to that effect when the *result* is used as set out in Article 1.10.1, with the following disclaimer: '© — year — European Union. All rights reserved. Certain parts are licensed under conditions to the EU', or with any other equivalent disclaimer as the contracting authority may consider best appropriate, or as the parties may agree on a case-by-case basis. This does not apply where inserting such reference would be impossible, notably for practical reasons.
+When the contractor retains *pre-existing rights* on parts of the *results*, reference must be inserted to that effect when the *result* is used as set out in Article I.10.1, with the following disclaimer: ‘© — year — European Union. All rights reserved. Certain parts are licensed under conditions to the EU’, or with any other equivalent disclaimer as the contracting authority may consider best appropriate, or as the parties may agree on a case-by-case basis. This does not apply where inserting such reference would be impossible, notably for practical reasons.
 
 ### II.13.10. Visibility of Union funding and disclaimer
 
-When making use of the *results*, the contractor must declare that they have been produced under a contract with the Union and that the opinions expressed are those of the contractor only and do not represent the contracting authority's official position. The contracting authority may waive this obligation in writing or provide the text of the disclaimer.
+When making use of the *results*, the contractor must declare that they have been produced under a contract with the Union and that the opinions expressed are those of the contractor only and do not represent the contracting authority’s official position. The contracting authority may waive this obligation in writing or provide the text of the disclaimer.
 
 ## II.14. FORCE MAJEURE
 
@@ -37,4 +40,4 @@ $$
 
 where:
 
-- **V** is the price of the relevant purchase or deliverable or *result*;
+*V* is the price of the relevant purchase or deliverable or *result*;

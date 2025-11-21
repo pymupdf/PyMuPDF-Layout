@@ -1,5 +1,10 @@
-## Creating Opportunities
+```markdown
+---
+title: Creating Opportunities - Delivering on the Exploration Strategy
+source: Santos Annual Report 2004, Page 15
+---
 
+# Creating Opportunities
 # DELIVERING ON THE EXPLORATION STRATEGY
 
 Exploration is a key growth driver for Santos and success with the drill bit is vital to adding value for Santos shareholders. During the past four years Santos has been working to build exploration opportunities by:
@@ -8,9 +13,9 @@ Exploration is a key growth driver for Santos and success with the drill bit is 
 *   adding material exploration prospects
 *   drilling wildcat exploration wells.
 
-### SUCCESS RATE OF 44% IN 2004
+## SUCCESS RATE OF 44% IN 2004
 
-Santos' 2004 exploration effort produced good results, as the Company high graded its exploration acreage and started drilling one of the most exciting portfolios in the industry.
+Santos’ 2004 exploration effort produced good results, as the Company high graded its exploration acreage and started drilling one of the most exciting portfolios in the industry.
 
 Santos discovered hydrocarbons in seven of the sixteen wildcat wells that were drilled, achieving an impressive success rate of 44%.
 
@@ -28,10 +33,21 @@ Santos discovered gas in the United States at the Torres 1A onshore well, which 
 
 Other wells in the offshore Otway Basin included the deep water Amrit 1 well, which was plugged and abandoned after failing to intersect economic hydrocarbons, and Callister 1 which was also plugged and abandoned with gas shows.
 
-> '2004 was a great year for our explorers. We started drilling one of the most exciting portfolios in our industry and our success to date shows that our strategy of basin excellence is delivering.'
->
-> **JACQUES GOUADAIN**  
-> Vice President  
-> Geoscience and New Ventures
+---
 
-![Float-off of Jack Bates rig prior to deep water drilling operations, offshore Otway Basin, Victoria.](figure-1.png)
+![Portrait of Jacques Gouadain](jacques-gouadain.png)
+
+> ‘2004 was a great year for our explorers. We started drilling one of the most exciting portfolios in our industry and our success to date shows that our strategy of basin excellence is delivering.’
+
+**JACQUES GOUADAIN**  
+Vice President  
+Geoscience and New Ventures
+
+---
+
+![Float-off of Jack Bates rig prior to deep water drilling operations, offshore Otway Basin, Victoria.](jack-bates-rig.png)
+
+**Float-off of Jack Bates rig prior to deep water drilling operations, offshore Otway Basin, Victoria.**
+
+*Santos Annual Report 2004 | 15*
+```
