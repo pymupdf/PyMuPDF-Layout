@@ -35,7 +35,7 @@ for index, pdf_file in enumerate(pdf_files):
     sample_pdf = client.files.upload(file=str(pdf_file))
 
     response = client.models.generate_content(
-    model="gemini-2.5-pro",
+    model="gemini-3-pro-preview",
     contents=[MASTER_PROMPT, sample_pdf],
 )
     with open(markdown_folder / f"{pdf_file.stem}.md", "w", encoding="utf-8") as f:

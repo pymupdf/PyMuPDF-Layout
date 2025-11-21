@@ -27,6 +27,8 @@
 2. Loosen the retention screw, then rotate the adjustment ring to change the length of the vertical tube.
 3. Make sure that both the images in
 
+---
+
 ## Model AY11234
 
 ### FOCUSING
@@ -40,10 +42,10 @@
 
 ### DIOPTER RING ADJUSTMENT
 1. To adjust the eyepiece for viewing with or without eyeglasses and for differences in acuity between the right and left eyes, follow the following steps:
-   a. Observe an image through the left eyepiece and bring a specific point into focus using the focus knob.
-   b. By turning the diopter ring adjustment for the left eyepiece, bring the same point into sharp focus.
-   c. Then bring the same point into focus through the right eyepiece by turning the right diopter ring.
-   d. With more than one viewer, each viewer should note their own diopter ring position for the left and right eyepieces, then before viewing set the diopter ring adjustments to that setting.
+    a. Observe an image through the left eyepiece and bring a specific point into focus using the focus knob.
+    b. By turning the diopter ring adjustment for the left eyepiece, bring the same point into sharp focus.
+    c. Then bring the same point into focus through the right eyepiece by turning the right diopter ring.
+    d. With more than one viewer, each viewer should note their own diopter ring position for the left and right eyepieces, then before viewing set the diopter ring adjustments to that setting.
 
 ### CHANGING THE BULB
 1. Disconnect the power cord from the electrical outlet.
@@ -51,29 +53,32 @@
 3. Replace with a new halogen bulb.
 4. Open the window in the base plate and replace the halogen lamp or fluorescent lamp of transmitted illuminator.
 
+---
+
 # MODEL AY11236
 
-![Diagram of Model AY11236 Microscope with labeled parts](model-ay11236.png)
+![Figure: Model AY11236 Microscope Diagram](model-ay11236-diagram.png)
 
-**Figure: Model AY11236 (summary)**
-A diagram of the microscope with the following parts labeled:
-- Interpupillary Slide Adjustment
-- Eyepiece
-- Rotating Head
-- Revolving Turret
-- Objectives
-- Stage
-- Condenser Focusing Knob
-- Lamp On/Off Switch
-- Lamp
-- Stand
-- Coarse Adjustment Knob
-- Fine Adjustment Knob
-- Stage Clip Adjustment
-- Power Cord
+**Figure (summary):** A diagram of the Model AY11236 microscope labeling the following components:
+*   Eyepiece
+*   Interpupillary Slide Adjustment
+*   Rotating Head
+*   Revolving Turret
+*   Stand
+*   Objectives
+*   Stage
+*   Condenser Focusing Knob
+*   Lamp On/Off Switch
+*   Coarse Adjustment Knob
+*   Fine Adjustment Knob
+*   Stage Clip Adjustment
+*   Power Cord
+*   Lamp
 
 ## MICROSCOPE USAGE
+
 BARSKA Model AY11236 is a powerful fixed power compound microscope designed for biological studies such as specimen examination. It can also be used for examining bacteria and for general clinical and medical studies and other scientific uses.
 
 ## CONSTRUCTION
+
 BARSKA Model AY11236 is a fixed power compound microscope. It is constructed with two optical paths at the same angle. It is equipped with transmitted illumination. By using this instrument, the user can observe specimens at magnification from 40x to 1000x by selecting the desired objective lens. Coarse and fine focus adjustments provide accuracy and image detail. The rotating head allows the user to position the eyepieces for maximum viewing comfort and easy access to all adjustment knobs.

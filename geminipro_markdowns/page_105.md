@@ -1,7 +1,7 @@
-## PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) BY ACTIVITY
+### PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) BY ACTIVITY
 
-| | Sales gas (incl. ethane)<br>PJ | Crude oil<br>mmbbl | Condensate<br>mmbbl | LPG<br>000 tonnes | Total<br>mmboe |
-|:---|---:|---:|---:|---:|---:|
+| | Sales gas (incl. ethane) PJ | Crude oil mmbbl | Condensate mmbbl | LPG 000 tonnes | Total mmboe |
+| :--- | :---: | :---: | :---: | :---: | :---: |
 | Reserves year end 2003 | 2,670 | 102 | 48 | 3,605 | 636 |
 | Production | -190 | -10 | -3 | -159 | -47 |
 | Additions | 157 | 1 | 0 | 24 | 29 |
@@ -9,13 +9,11 @@
 | Revisions | 126 | -21 | 3 | -45 | 3 |
 | **Estimated reserves year end 2004** | **2,873** | **74** | **49** | **3,523** | **643** |
 
----
-
-## PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) YEAR END 2004 BY AREA
+### PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) YEAR END 2004 BY AREA
 **(mmboe)**
 
-| Area | Sales gas (incl. ethane)<br>PJ | Crude oil<br>mmbbl | Condensate<br>mmbbl | LPG<br>000 tonnes | Total<br>mmboe |
-|:---|---:|---:|---:|---:|---:|
+| Area | Sales gas (incl. ethane) PJ | Crude oil mmbbl | Condensate mmbbl | LPG 000 tonnes | Total mmboe |
+| :--- | :---: | :---: | :---: | :---: | :---: |
 | Cooper Basin | 1,051 | 24 | 15 | 1,842 | 233 |
 | Onshore Northern Territory | 147 | 1 | 1 | 0 | 27 |
 | Offshore Northern Territory | 310 | 1 | 27 | 1,507 | 92 |
@@ -27,16 +25,14 @@
 | USA | 40 | 0 | 1 | 0 | 8 |
 | **Total** | **2,873** | **74** | **49** | **3,523** | **643** |
 
----
-
-## RESERVES (SANTOS SHARE)
+### RESERVES (SANTOS SHARE)
 **(mmboe)**
 
 | | Year end 2003 | Production | Revisions | Additions | Acq/Divest | Year end 2004 |
-|:---|---:|---:|---:|---:|---:|---:|
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | Proven (1P) | 338 | -47 | 26 | 19 | 12 | 348 |
 | Proven plus Probable (2P) | 636 | -47 | 3 | 29 | 22 | 643 |
-| Contingent Resources (Best Estimate) | 1,450 | - | -4 | -13 | 10 | 1,443* |
+| Contingent Resources (Best Estimate) | 1,450 | - | -4 | -13 | 10 | 1,443 * |
 
 \* Contingent resources excludes any contribution from Jeruk which was still under evaluation at year end.
 
@@ -50,4 +46,7 @@ Reserves are defined as those quantities of petroleum which are anticipated to b
 
 ### EXTERNALLY REVIEWED BOOKING PROCESS
 
-Santos' reserves processes and procedures were reviewed by independent expert, Gaffney, Cline & Associates, and found to be 'appropriate to providing robust estimates of Santos' reserve position in accordance with international industry practice'.
+Santos’ reserves processes and procedures were reviewed by independent expert, Gaffney, Cline & Associates, and found to be ‘appropriate to providing robust estimates of Santos’ reserve position in accordance with international industry practice’.
+
+---
+**Santos** Annual Report 2004 | 25

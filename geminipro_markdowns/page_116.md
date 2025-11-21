@@ -1,4 +1,4 @@
-US 9,423,690 B2
+**US 9,423,690 B2**
 
 # PATTERN FORMING METHOD, ELECTRON BEAM-SENSITIVE OR EXTREME ULTRAVIOLET RAY-SENSITIVE RESIN COMPOSITION, RESIST FILM, AND METHOD FOR MANUFACTURING ELECTRONIC DEVICE, AND ELECTRONIC DEVICE USING THE SAME
 
@@ -30,8 +30,10 @@ An object of the present invention is to provide a pattern forming method, an el
 
 The present invention is as follows.
 
-1.  [1] A pattern forming method, including:
-    *   (a) forming a film by using an electron beam-sensitive or extreme ultraviolet ray-sensitive resin composition containing a resin (A) having a repeating unit represented by Formula (1-0) and a repeating unit represented by Formula (1-2);
-    *   (b) exposing the film by using an electron beam or extreme ultraviolet ray; and
-    *   (c) developing the exposed film by using a developer containing an organic solvent to form a negative pattern,
-    wherein a content of the repeating unit represented by Formula (1-0) is 45 mol % or more based on a whole repeating units in the resin (A):
+**[1]** A pattern forming method, including:
+
+*   (a) forming a film by using an electron beam-sensitive or extreme ultraviolet ray-sensitive resin composition containing a resin (A) having a repeating unit represented by Formula (1-0) and a repeating unit represented by Formula (1-2);
+*   (b) exposing the film by using an electron beam or extreme ultraviolet ray; and
+*   (c) developing the exposed film by using a developer containing an organic solvent to form a negative pattern,
+
+wherein a content of the repeating unit represented by Formula (1-0) is 45 mol % or more based on a whole repeating units in the resin (A):
