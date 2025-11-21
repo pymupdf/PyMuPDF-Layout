@@ -1,34 +1,50 @@
-# BARSKA MICROSCOPE USER MANUAL
-
-![BARSKA Logo](placeholder-barska-logo.png)
-
+---
+title: Barska Microscope User Manual
+date: 2015-04-15
 ---
 
-## Models Covered
+# MICROSCOPE USER MANUAL
 
-![Various BARSKA microscope models](placeholder-microscope-models.png)
+![Barska Logo](barska-logo-placeholder.png)
 
-*   **MODEL AY11240**
-    40X, 100X, 400X
-    COMPOUND MONOCULAR
-*   **MODEL AY11238**
-    40X, 100X, 400X
-    COMPOUND MONOCULAR
-*   **MODEL AY11228**
-    20X, 40X
-    STEREO BINOCULAR
-*   **MODEL AY11232**
-    7X-45X
-    STEREO ZOOM
-*   **MODEL AY11230**
-    20X, 40X
-    STEREO TRINOCULAR
-*   **MODEL AY11236**
-    40X, 100X, 400X, 1000X
-    COMPOUND
-*   **MODEL AY11234**
-    7X-45X
-    ZOOM STEREO TRINOCULAR
+## Product Lineup
+
+The following microscope models are covered in this manual:
+
+![Model AY11240](placeholder-AY11240.png)
+**MODEL AY11240**
+40X, 100X, 400X
+COMPOUND MONOCULAR
+
+![Model AY11238](placeholder-AY11238.png)
+**MODEL AY11238**
+40X, 100X, 400X
+COMPOUND MONOCULAR
+
+![Model AY11228](placeholder-AY11228.png)
+**MODEL AY11228**
+20X, 40X
+STEREO BINOCULAR
+
+![Model AY11232](placeholder-AY11232.png)
+**MODEL AY11232**
+7X-45X
+STEREO ZOOM
+
+![Model AY11230](placeholder-AY11230.png)
+**MODEL AY11230**
+20X, 40X
+STEREO TRINOCULAR
+
+![Model AY11236](placeholder-AY11236.png)
+**MODEL AY11236**
+40X, 100X, 400X, 1000X
+COMPOUND
+
+![Model AY11234](placeholder-AY11234.png)
+**MODEL AY11234**
+7X-45X
+ZOOM STEREO TRINOCULAR
 
 ---
 
@@ -46,7 +62,7 @@ BARSKA shall use reasonable efforts to repair or replace any microscope covered 
 
 This warranty shall be void and of no force of effect in the event a covered product has been modified in design or function, or subjected to abuse, misuse, mishandling or unauthorized repair. Further, product malfunction or deterioration due to normal wear is not covered by this warranty.
 
-BARSKA DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, WHETHER OF MERCHANTABILITY OF FITNESS FOR A PARTICULAR USE, EXCEPT AS EXPRESSLY SET FORTH HEREIN. THE SOLE OBLIGATION OF BARSKA UNDER THIS LIMITED WARRANTY SHALL BE TO REPAIR OR REPLACE THE COVERED PRODUCT, IN ACCORDANCE WITH THE TERMS SET FORTH HEREIN. BARSKA EXPRESSLY DISCLAIMS ANY LOST PROFITS, GENERAL, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHICH MAY RESULT FROM BREACH OF ANY WARRANTY, OR ARISING OUT OF THE USE OR INABILITY TO USE ANY BARSKA PRODUCT. ANY WARRANTIES WHICH ARE IMPLIED AND WHICH CANNOT BE DISCLAIMED SHALL BE LIMITED IN DURATION TO A TERM OF ONE YEAR FROM THE DATE OF ORIGINAL RETAIL PURCHASE.
+> BARSKA DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, WHETHER OF MERCHANTABILITY OF FITNESS FOR A PARTICULAR USE, EXCEPT AS EXPRESSLY SET FORTH HEREIN. THE SOLE OBLIGATION OF BARSKA UNDER THIS LIMITED WARRANTY SHALL BE TO REPAIR OR REPLACE THE COVERED PRODUCT, IN ACCORDANCE WITH THE TERMS SET FORTH HEREIN. BARSKA EXPRESSLY DISCLAIMS ANY LOST PROFITS, GENERAL, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHICH MAY RESULT FROM BREACH OF ANY WARRANTY, OR ARISING OUT OF THE USE OR INABILITY TO USE ANY BARSKA PRODUCT. ANY WARRANTIES WHICH ARE IMPLIED AND WHICH CANNOT BE DISCLAIMED SHALL BE LIMITED IN DURATION TO A TERM OF ONE YEAR FROM THE DATE OF ORIGINAL RETAIL PURCHASE.
 
 Some states do not allow the exclusion or limitation of incidental or consequential damages or limitation on how long an implied warranty lasts, so the above limitations and exclusions may not apply to you.
 
@@ -62,17 +78,18 @@ Tel. (909) 445-8168
 Fax. (909) 445-8169  
 e-mail: service@barska.com
 
-Monday-Friday 8:30AM-5:30PM PST
+**Monday-Friday 8:30AM-5:30PM PST**
 
 **NOTE:** This warranty is valid to U.S.A. customers who have purchased this product from an authorized BARSKA dealer in the U.S.A.
 
 ---
 
+### Contact Information
+
 **BARSKA®**  
 855 Towne Center Drive Pomona, CA 91767  
-Tel: 888-666-6769 Fax: 909.445.8169  
-www.barska.com
+Tel: 888-666-6769  
+Fax: 909.445.8169  
+[www.barska.com](http://www.barska.com)
 
-©2015 BARSKA Optics  
-Printed in China  
-4-15
+<small>©2015 BARSKA Optics | Printed in China | 4-15</small>

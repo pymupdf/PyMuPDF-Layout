@@ -1,9 +1,6 @@
-**ECHA**
-EUROPEAN CHEMICALS AGENCY
-
 services for which these capacities are required (i.e. the latter will assume the role of subcontractors).
 
-> Relying on the capacities of other entities is only necessary when the capacity of the tenderer is not sufficient to fulfil the required minimum levels of capacity. Abstract commitments that other entities will put resources at the disposal of the tenderer will be disregarded.
+> ☝️ Relying on the capacities of other entities is only necessary when the capacity of the tenderer is not sufficient to fulfil the required minimum levels of capacity. Abstract commitments that other entities will put resources at the disposal of the tenderer will be disregarded.
 
 ## 2.5. Tender submission: how many tenders may an economic operator submit?
 

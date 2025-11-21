@@ -1,36 +1,36 @@
-![Formula F2](formula-F2.png)
+# US 7,851,130 B2
 
-**Formula (F2) (summary):** A chemical structure of a repeating polymer unit. The backbone is `(-CH2-C(Rx)-)`. The second carbon atom of the backbone is double-bonded to an oxygen and single-bonded to an oxygen, forming an ester group. This ester links to a side chain represented by `-O-Fa-Fb-(-Fc-F1)p1`.
+$$
+\text{(F2)}
+$$
 
-(F2)
+![Chemical Formula F2](formula-f2.png)
 
-In formula (F2), Rx represents a hydrogen atom, a halogen atom, or an alkyl group having from 1 to 4 carbon atoms. As preferred substituents that the alkyl group represented by Rx may have, a hydroxyl group and a halogen atom are exemplified.
+**Formula F2 (summary):** The structure shows a repeating polymer unit. The backbone consists of $-\ce{CH2}-\ce{C}(Rx)-$. Attached to the carbon is a carbonyl group $\ce{C=O}$, which is connected to an oxygen atom, followed by the chain $-Fa-Fb-Fc-F_1$. The entire unit repeats $p1$ times.
 
-Fa represents a single bond or a straight chain or branched alkylene group, and preferably a single bond.
+In formula (F2), $Rx$ represents a hydrogen atom, a halogen atom, or an alkyl group having from 1 to 4 carbon atoms. As preferred substituents that the alkyl group represented by $Rx$ may have, a hydroxyl group and a halogen atom are exemplified.
 
-Fb represents a monocyclic or polycyclic hydrocarbon group.
+$Fa$ represents a single bond or a straight chain or branched alkylene group, and preferably a single bond.
 
-Fc represents a single bond or a straight chain or branched alkylene group, and preferably a single bond or a methylene group.
+$Fb$ represents a monocyclic or polycyclic hydrocarbon group.
 
-F₁ represents a group represented by formula (F1).
+$Fc$ represents a single bond or a straight chain or branched alkylene group, and preferably a single bond or a methylene group.
 
-P₁ represents from 1 to 3.
+$F_1$ represents a group represented by formula (F1).
 
-As the cyclic hydrocarbon group represented by Fb, a cyclopentyl group, a cyclohexyl group, or a norbornyl group is preferred.
+$P_1$ represents from 1 to 3.
+
+As the cyclic hydrocarbon group represented by $Fb$, a cyclopentyl group, a cyclohexyl group, or a norbornyl group is preferred.
 
 The specific examples of the repeating units having the structure represented by formula (F1) are shown below.
 
-![Example 1 of Formula F1](formula-F1-ex1.png)
+![Specific repeating unit examples](chemical-structures.png)
 
-**Figure 1 (summary):** A polymer repeating unit with a `(-CH2-C(H)-)` backbone. The side chain is a norbornyl group attached via an ester linkage, and the norbornyl group has a `-CH2-C(CF3)2-OH` substituent.
-
-![Example 2 of Formula F1](formula-F1-ex2.png)
-
-**Figure 2 (summary):** A polymer repeating unit with a `(-CH2-C(CH3)-)` backbone. The side chain is a norbornyl group attached via an ester linkage, and the norbornyl group has a `-CH2-C(CF3)2-OH` substituent.
-
-![Example 3 of Formula F1](formula-F1-ex3.png)
-
-**Figure 3 (summary):** A polymer repeating unit with a `(-CH2-C(H)-)` backbone. The side chain is a norbornyl group attached via an ester linkage, and the norbornyl group has a `-C(CF3)2-OH` substituent directly attached to the ring.
+**Chemical Structures (summary):**
+Three chemical structures are depicted showing specific examples of the repeating units:
+1. A polymer unit with a norbornyl-like cage structure containing a hydroxyl group and a $\ce{CF3}$ group.
+2. A methacrylate-derived unit with a pendant cyclic structure substituted with $\ce{OH}$ and $\ce{CF3}$.
+3. A similar cyclic structure attached via a different linkage, containing $\ce{CF3}$ and $\ce{OH}$ groups.
 
 The alicyclic hydrocarbon-based acid-decomposable resin in the invention can contain various kinds of repeating structural units, besides the above repeating structural units, for the purpose of the adjustments of dry etching resistance, aptitude for standard developing solutions, adhesion to a substrate, resist profile, and further, general requisite performances of resists, e.g., resolution, heat resistance and sensitivity.
 
@@ -45,7 +45,7 @@ By containing such various repeating structural units, fine adjustment of perfor
 5. Adhesion of an unexposed area to a substrate, and
 6. Dry etching resistance.
 
-The examples of such monomers include compounds having one addition polymerizable unsaturated bond selected from acrylic esters, methacrylic esters, acrylamides, methacryl-amides, allyl compounds, vinyl ethers, vinyl esters, etc.
+The examples of such monomers include compounds having one addition polymerizable unsaturated bond selected from acrylic esters, methacrylic esters, acrylamides, methacrylamides, allyl compounds, vinyl ethers, vinyl esters, etc.
 
 In addition to the aforementioned compounds, addition polymerizable unsaturated compounds copolymerizable with the monomers corresponding to the above various repeating structural units may be used for copolymerization.
 

@@ -324,11 +324,12 @@ def generate_raw_scores(ground_truth_data, folder_info, logger):
                         md_content = f.read()
                     
                     # The score is the normalized distance; lower is better.
-                    _, score = find_best_match_and_normalized_distance(needle_text, md_content)
+                    best_match, score = find_best_match_and_normalized_distance(needle_text, md_content)
                 except FileNotFoundError:
                     score = None
                 
                 row[col_name] = score
+                row[f"{col_name}_best_match"] = best_match
             
             all_results.append(row)
 

@@ -1,53 +1,89 @@
-## Production Growth
-Average mmcfe per day for year
+2010 ANNUAL REPORT | 3
 
-![Bar chart showing Production Growth from 2000 to 2010.](figure-1.png)
+### Production Growth
+**Average mmcfe per day for year**
 
-**Figure 1 (summary):** This bar chart illustrates a consistent and strong increase in Chesapeake's average daily production, measured in million cubic feet equivalent (mmcfe), for each year from 2000 to 2010.
+![Chart: Production Growth](chart-production-growth.png)
 
-## Proved Reserve Growth
-Bcfe at end of year
+**Summary:**
+*   **Type:** Bar Chart (Years 00–10)
+*   **Trend:** Consistent upward growth from approximately 400 mmcfe/day in 2000 to over 2,500 mmcfe/day in 2010.
 
-![Bar chart showing Proved Reserve Growth from 2000 to 2010.](figure-2.png)
+### Proved Reserve Growth
+**Bcfe at end of year**
 
-**Figure 2 (summary):** This bar chart shows significant year-over-year growth in the company's proved reserves, measured in billion cubic feet equivalent (Bcfe), from 2000 to 2010. The rate of growth appears to accelerate in the latter half of the decade.
+![Chart: Proved Reserve Growth](chart-proved-reserve-growth.png)
 
-## Total Resource Base Growth*
-Bcfe at end of year
+**Summary:**
+*   **Type:** Bar Chart (Years 00–10)
+*   **Trend:** Consistent upward growth from roughly 2,000 Bcfe in 2000 to roughly 17,000 Bcfe in 2010.
 
-![Bar chart showing Total Resource Base Growth from 2000 to 2010.](figure-3.png)
+### Total Resource Base Growth*
+**Bcfe at end of year**
 
-**Figure 3 (summary):** This bar chart displays dramatic growth in the total resource base, measured in Bcfe, from 2000 to 2010. The growth is particularly pronounced from 2005 onwards.
-*Proved and unrisked, unproved reserves
+![Chart: Total Resource Base Growth](chart-total-resource-base-growth.png)
 
----
-
-## Chesapeake's Stock Price
-
-![Combination bar and line chart showing Chesapeake's stock price and Henry Hub natural gas price from Dec 2000 to Dec 2010.](figure-4.png)
-
-**Figure 4 (summary):** This combination chart compares Chesapeake's Stock Price at Month End (blue and green bars, left axis in $) with the Henry Hub Natural Gas Spot Price at Month End (orange line, right axis in $/mcf) from December 2000 to December 2010. The chart highlights the volatility of both the stock and the commodity price, with notable peaks around 2008.
-
----
-
-## Chesapeake’s Five-Year and Ten-Year Common Stock Performance
-
-The graphs below compare the performance of our common stock to the S&P 500 Stock Index and a group of peer companies for the past five and 10 years. The graph on the left assumes an investment of $100 on December 31, 2004 and the reinvestment of all dividends. The graph on the right assumes an investment of $100 on December 31, 1999 and the reinvestment of all dividends. The graphs show the value of the investment at the end of each year.
-
-### FIVE-YEAR PERFORMANCE
-As of December 31
-
-![Line chart showing Five-Year Performance of CHK vs. Peer Group and S&P 500.](figure-5.png)
-
-**Figure 5 (summary):** This line chart tracks the value of a $100 investment from the end of 2005 to the end of 2010. It compares the performance of Chesapeake (CHK), a 2010 Peer Group(1), and the S&P 500. The chart shows high volatility for CHK and the peer group, with a significant peak in 2007-2008 followed by a sharp decline.
-
-### TEN-YEAR PERFORMANCE
-As of December 31
-
-![Line chart showing Ten-Year Performance of CHK vs. Peer Group and S&P 500.](figure-6.png)
-
-**Figure 6 (summary):** This line chart tracks the value of a $100 investment from the end of 2000 to the end of 2010. It compares the performance of Chesapeake (CHK), a 2010 Peer Group(1), and the S&P 500. Over the decade, CHK stock shows substantial growth, significantly outperforming both the peer group and the S&P 500, despite its volatility.
+**Summary:**
+*   **Type:** Bar Chart (Years 00–10)
+*   **Trend:** Exponential-like growth. Starts near 0 in 2000, rising steadily until a significant jump between 2009 and 2010, ending near 300,000 Bcfe.
+*   **Note:** *Proved and unrisked, unproved reserves
 
 ---
 
-(1) The 2010 peer group is comprised of Anadarko Petroleum Corp., Apache Corp., Devon Energy Corp., Encana Corp. and EOG Resources, Inc. XTO Energy, Inc. was not included in the 2010 peer group due to its acquisition by Exxon Mobil Corp.
+### Chesapeake’s Stock Price
+
+![Chart: Chesapeake’s Stock Price vs Natural Gas Spot Price](chart-stock-price.png)
+
+**Legend:**
+*   **Blue Bars:** Chesapeake’s Stock Price at Month End (Left Axis: $0 – $70)
+*   **Orange Line:** Henry Hub Natural Gas Spot Price at Month End (Right Axis: $0 – $17.50/mcf)
+*   **X-Axis:** December 2000 – December 2010
+
+**Summary:**
+The chart displays the correlation between Chesapeake's stock price and Henry Hub natural gas prices over a decade.
+*   **Stock Price (CHK):** Shows volatility with a major peak in mid-2008 (reaching ~$70) before a sharp decline in late 2008, followed by a recovery and stabilization around the $20–$30 range through 2010.
+*   **Natural Gas Price:** Follows a somewhat similar volatility pattern, with significant spikes in roughly 2003, 2005, and a major peak in 2008 (reaching ~$13/mcf), followed by a decline.
+
+---
+
+### Chesapeake’s Five-Year and Ten-Year Common Stock Performance
+
+The graphs below compare the performance of our common stock to the S&P 500 Stock Index and a group of peer companies for the past five and 10 years. The graph on the left assumes an investment of \$100 on December 31, 2004 and the reinvestment of all dividends. The graph on the right assumes an investment of \$100 on December 31, 1999 and the reinvestment of all dividends. The graphs show the value of the investment at the end of each year.
+
+#### FIVE-YEAR PERFORMANCE
+**As of December 31**
+
+![Chart: Five-Year Performance](chart-five-year-performance.png)
+
+**Legend:**
+*   — CHK (Green)
+*   — 2010 Peer Group [1] (Orange)
+*   — S&P 500 (Blue)
+
+**Summary:**
+Starting at $100 in 2005:
+*   **CHK:** Rises initially, peaks in 2007, drops sharply in 2008 below the starting value, and recovers slightly to end just below $100 in 2010.
+*   **Peer Group:** Performs best overall, ending the period significantly higher than $100 (approx $150).
+*   **S&P 500:** Shows moderate growth, ending slightly above $100.
+
+#### TEN-YEAR PERFORMANCE
+**As of December 31**
+
+![Chart: Ten-Year Performance](chart-ten-year-performance.png)
+
+**Legend:**
+*   — CHK (Green)
+*   — 2010 Peer Group [1] (Orange)
+*   — S&P 500 (Blue)
+
+**Summary:**
+Starting at $100 in 2000:
+*   **CHK:** Shows dramatic growth peaking in 2008 (approx $400), followed by a drop, ending near $280 in 2010.
+*   **Peer Group:** Shows consistent strong growth, ending slightly above $300 in 2010.
+*   **S&P 500:** Remains relatively flat near the $100 baseline throughout the decade.
+
+---
+
+## References
+
+[1] The 2010 peer group is comprised of Anadarko Petroleum Corp., Apache Corp., Devon Energy Corp., Encana Corp. and EOG Resources, Inc. XTO Energy, Inc. was not included in the 2010 peer group due to its acquisition by Exxon Mobil Corp.
