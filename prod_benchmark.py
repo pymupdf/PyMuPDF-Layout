@@ -1,5 +1,5 @@
 
-import fitz  # PyMuPDF
+import pymupdf  # PyMuPDF
 import re
 import json
 import os
@@ -55,7 +55,7 @@ def extract_highlighted_text(pdf_path, logger):
     
     for idx, file_path in enumerate(pdf_files, start=1):
         logger.info(f"Processing PDF {idx}/{len(pdf_files)}: {file_path}")
-        doc = fitz.open(file_path)
+        doc = pymupdf.open(file_path)
         page = doc[0]
         
         # Find source annotation for this page
@@ -76,10 +76,12 @@ def extract_highlighted_text(pdf_path, logger):
             
             # Check for pattern (1.1, 1.2, etc.) and highlight type
             match = re.match(r'^(\d+\.\d+)', content)
-            if match and annot.type[0] == 8:  # Highlight annotation
+            if match and annot.type[1] == 'Highlight':  # Highlight annotation
                 key = match.group(1)
-                final_text = page.get_text(clip=annot.rect, sort=True).strip()
                 
+                # Extract text within the annotation rectangle
+                final_text = page.get_text("text", clip=annot.rect, sort=True).strip()
+
                 # Clean the extracted text
                 final_text = ' '.join(final_text.split())  # Remove \n and extra spaces
                 
@@ -207,7 +209,7 @@ def extract_and_clean_by_page(data, logger):
     """
     logger.info("Cleaning and processing text")
     
-    spell = Speller(only_replacements=True)
+    # spell = Speller(only_replacements=True)
     result = []
     
     for item in data:
@@ -230,19 +232,27 @@ def extract_and_clean_by_page(data, logger):
                         order_num = int(key.split('_')[2])
                     except (IndexError, ValueError):
                         order_num = 0
-                    
+
+                    cleaned_text = text
+
+                    # Note: we don't want to do this as it autocorrects & cleans to give false positives,
+                    # See examples here: https://pypi.org/project/cleantext/ - we don;t want to try to guess words
+                    # Cleaning here also means that foreign languages characters and words are replaced by English characters & words
+                    '''
                     # Clean the text
-                    text = spell(text)  # Apply autocorrect
+                    text = spell(text)  # Apply autocorrect, note this auto corrects badly! e.g. field -> fiend
+            
                     cleaned_text = clean(
                         text,
                         lower=False,
                         normalize_whitespace=True,
-                        fix_unicode=True,
+                        fix_unicode=False,
                         strip_lines=True,
                         no_line_breaks=True,
                         lang="en"
                     )
-                    
+                    '''
+              
                     if cleaned_text.strip():
                         annotation_pairs.append((order_num, cleaned_text.strip()))
             
@@ -259,7 +269,7 @@ def extract_and_clean_by_page(data, logger):
                         ocr_text,
                         lower=False,
                         normalize_whitespace=True,
-                        fix_unicode=True,
+                        fix_unicode=False,
                         strip_lines=True,
                         no_line_breaks=True,
                         lang="en"
@@ -366,6 +376,7 @@ def analyze_results(scores_df, mapping_file, score_columns, min_score_threshold,
     filtered_df = merged_df.dropna(subset=score_columns).copy()
     # Exclude specified folders (e.g., 'test' folders)
     filtered_df = filtered_df[~filtered_df["Folder"].isin(excluded_folders)]
+    filtered_df.to_csv("benchmark_granular.csv", index=False)
     # Keep only rows where at least one method found a close match
     filtered_df = filtered_df[filtered_df[score_columns].min(axis=1) < min_score_threshold]
 
@@ -456,7 +467,7 @@ def main():
     # Define folder info for benchmarking
     folder_info = [
         ('reducto_markdowns', 'reducto'),
-        ('pymupdf_markdowns', 'pymupdf'),
+        ('pymupdf_markdowns', 'pymupdf4llm'),
         ('llamaparse_markdowns', 'llamaparse'),
         ('datalab_markdowns', 'datalab'),
         ('gemini_markdowns', 'gemini'),
@@ -499,7 +510,7 @@ def main():
         
         # Save intermediate result
         with open(args.cleaned_output, 'w', encoding='utf-8') as f:
-            json.dump(cleaned_data, f, indent=2)
+            json.dump(cleaned_data, f, ensure_ascii=False, indent=2) # don't escape unicode, ensure ascii
         logger.info(f"Saved cleaned data to: {args.cleaned_output}")
         
         # STEP 4: Run benchmarks
