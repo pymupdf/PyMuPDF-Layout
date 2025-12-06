@@ -2735,137 +2735,6 @@ Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanla
 Abkommen für T‑DAB Wiesbaden 1995 und Maastricht 2002 und für DVB‑T Chester 1997, sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992). Angaben für die jeweils frequenzabhängige Mindestnutzfeldstärke sind für TV-analog der ITU‑R BT.417 zu entnehmen, Angaben für den Betrieb eines Kanals im Band II in analoger Übertragungstechnik (UKWTonrundfunk) sind dem Abkommen Genf 1984 zu entnehmen, Angaben für den Betrieb eines T‑DAB-Kanals dem Abkommen Wiesbaden 1995 (Pkt. 2.2.3, Tabelle 1, Position „Medianwert der Mindestfeldstärke“) und Angaben für den Betrieb eines DVB‑T-Kanals dem Abkommen Chester 1997 (Tabelle A.1.50, Position „Medianwert für die minimale äquivalente Feldstärke“). In Gleichwellennetzen werden theoretische Versorgungsflächen verschiedener Sender nicht mehrfach veranschlagt. 
 
 Auf der Basis der oben genannten Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10°-Schritt eine Entfernung r vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jeden der 36 10°-Schritte ein Flächenelement A berechnet werden:",29,laws_sample
-29,1,"Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern. i i l d f b i f d b i k fü d b i d f hl Quadratkilometern. Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind. ü S d di i h i Gl i h ll b i b d i d i l 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind. Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.",False,0.29346904156064463,"ment A berechnet werden:
-
-\( A=\frac{\pi r^{2}}{36} \)
-
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.
-Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
-
-Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2013
-
-| Nr.   | Funkdienst/<br />Funkanwendung   |    | Nu",0.8625954198473282,"Ein Service des Bundesministeriums der Justiz und für Verbraucherschutz
-sowie des Bundesamts für Justiz ‒ www.gesetze-im-internet.de
-
-
-Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-|Nr<br>.|Funkdienst/<br>Funkanwendung|Nutzergruppen|Bezugseinheit|Jahresbeitragje<br>Bezugseinheit<br>(inEuro)|Col6|
-|---|---|---|---|---|---|
-|Nr.|Funkdienst/<br>Funkanwendung|Nutzergruppen|Bezugseinheit|TKG|EMVG|
-|1|2|3|4|5|6|
-|1.<br>1.1<br>1.2<br>1.3<br>1.4<br>1.5|Öffentlicher<br>Mobilfunk|GSM<br>(entfällt)<br>Funkruf<br>(entfällt)<br>UMTS|je angefangene 100 kHz<br>Bandbreite<br>Frequenz<br>je angefangene 100 kHz<br>Bandbreite|1265,73<br>16848,29<br>1673,71|90,69<br>770,85<br>453,21|
-|2.<br>2.1<br>2.1.1<br>2.1.2<br>2.1.3<br>2.1.4<br>2.1.5<br>2.1.6|Rundfunkdienst<br>Ton-Rundfunk|LW<br>MW<br>KW<br>digitale MW<br>digitale LW<br>digitale KW|Frequenz<br>Frequenz<br>Frequenz<br>Frequenz<br>Frequenz<br>Frequenz|0,00<br>0,00<br>0,32<br>0,00<br>0,00<br>0,00|4486,94<br>2714,34<br>111,94<br>0,00<br>0,00<br>1783,41|
-
-
-
-                                - Seite 41 von 78 
-
-",0.28498727735368956," 10°-Schritte ein Flächenelement A berechnet werden:
-
-$$
-A = \frac{\pi r^2}{36}
-$$
-
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.  
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.  
-Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
-
-Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2013
-
-| Nr.   | Funkdienst",0.29346904156064463,"
-
-$$A = \frac{\pi r^2}{36}$$
-
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Ouadratkilometern.
-
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.
-
-Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
-
-| Nr.   | Funkdienst/<br>Funkanwendung | Nutzergruppen | Bezugseinheit                        | Jahresbeitrag je<br>Bezugseinheit<br>(in",0.2917726887192536," 10°-Schritte ein Flächenelement A berechnet werden:
-
-$$
-A = \frac{\pi r^2}{36}
-$$
-
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern. Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind. Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
-
-## Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2013
-
-**Table: Frequenznutz",0.2917726887192536," A berechnet werden:
-
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.
-
-Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
-
-## Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2013
-
-| Nr.   | Nutzergruppen   | Bezugseinheit                     | Jahresbeitrag je ",0.2900763358778626,"
-$$
-A = \frac{\pi r^2}{36}
-$$
-
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen $r$, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.
-
-Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
-
-## Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2013
-
-| Nr. | Funkdienst/ Funkanwendung | Nutzergruppen | Bezugseinheit | Ja",0.2900763358778626,"r 36 10°-Schritte ein Flächenelement A berechnet werden:
-
-$$A = \frac{\pi r^2}{36}$$
-
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern.
-
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.
-
-Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
-
-## Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2013
-
-| Nr.<br/>1 | Fun",0.29346904156064463,"ritte ein Flächenelement A berechnet werden:
-
-$$A = \frac{\pi r^2}{36}$$
-
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Ouadratkilometern.
-
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind.
-
-Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels
-
-Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
-
-| Nr.   | Funkdienst/<br>Funkanwendung | Nutzergruppen | Bezugseinheit                      ",0.2883799830364716,"lement A berechnet werden: 
-
-**==> picture [36 x 22] intentionally omitted <==**
-
-Durch Addition der 36 Flächenelemente ergibt sich die theoretische Versorgungsfläche einer Sendeanlage in Quadratkilometern. 
-
-Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU‑R P.370 für 50 % Zeit‑ und 50 % Ortswahrscheinlichkeit. Die Geländerauigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in dem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen r, die kleiner sind als 10 km, werden die Ausbreitungskurven verwendet, die zurzeit auch in den Anlagen 1a und 2a der Richtlinie 176 TR 22 bzw. der Richtlinie 5 R 22 zu finden sind. Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren die Summenfeldstärke des Netzes berechnet. Die theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird. 
-
-Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2013 
-
-|Nr.|Funkdienst/<br>Fu",29,laws_sample
 30,0,"Chapter II; sections 30 to 44 inclusive, 47 to 51 inclusive, and 56; sections 77 to 79 inclusive and section 85; Chapter VII; or sections 117 to 120 inclusive and section 127 in its application to any of the provisions mentioned in this paragraph; (b) sections 57, 63 to 66 inclusive, 86 to 89 inclusive, 90(2) and (3), 91(2), (3), (4) and (5), and 92; Chapter VI; and section 127 in its application to any of the provisions mentioned in this paragraph, a Bill for an Act of Parliament under this section shall not be passed by the National Assembly unless- (i) the final voting on the Bill in the Assembly takes place not less than three months after the previous voting thereon in the Assembly; and",False,0.022857142857142857,"ter II; sections 30 to 44 inclusive, 47 to 51 inclusive, and 56; sections 77 to 79 inclusive and section 85; Chapter VII; or sections 117 to 120 inclusive and section 127 in its application to any of the provisions mentioned in this paragraph;
 
 	(b) sections 57, 63 to 66 inclusive, 86 to 89 inclusive, 90(2) and (3), 91(2), (3), (4) and (5), and 92; Chapter VI; and section 127 in its application to any of the provisions mentioned in this paragraph,
@@ -4120,40 +3989,6 @@ par la sécurité sociale et à leur assujettissement à la taxe sur la valeur a
 
 
 **II.4.4** C'est au seul contractant qu'il incombe de prendre les mesures nécessaires pour obtenir t",0.004807692307692308,"Le contractant doit satisfaire aux exigences minimales prévues dans le cahier des charges. Cela comprend le respect des obligations applicables en vertu de la législation environnementale et sociale et de la législation du travail établies par le droit de l'Union, le droit national et les conventions collectives ou par les dispositions législatives internationales dans le domaine environnemental et social et dans le domaine du travail énumérées à l'annexe X de la directive 2014/24/UE⁴, ainsi que le respect des obligations en matière de protection des données découlant des règlements (UE) 2016/679⁵ et (UE) 2018/1725⁶.",0.04487179487179487,"contractant doit satisfaire aux exigences minimales prévues dans le cahier des charges. Cela comprend le respect des obligations applicables en vertu de la législation environnementale et sociale et de la législation du travail établies par le droit de l'Union, le droit national et les conventions collectives ou par les dispositions législatives internationales dans le domaine environnemental et social et dans le domaine du travail énumérées à l'annexe  $X$  de la directive  $2014/24/UE^4$ , ainsi que le respect des obligations en matière de protection des données découlant des règlements (UE)  $2016/679^5$  et (UE) ",0.019230769230769232,"contractant doit satisfaire aux exigences minimales prévues dans le cahier des charges. Cela comprend le respect des obligations applicables en vertu de la législation environnementale et sociale et de la législation du travail établies par le droit de l'Union, le droit national et les conventions collectives ou par les dispositions législatives internationales dans le domaine environnemental et social et dans le domaine du travail énumérées à l'annexe X de la directive 2014/24/UE [4], ainsi que le respect des obligations en matière de protection des données découlant des règlements (UE) 2016/679 [5] et (UE) 2018/172",0.07371794871794872,"ontractant doit satisfaire aux exigences minimales prévues dans le cahier des charges. Cela comprend le respect des obligations applicables en vertu de la législation environnementale et sociale et de la législation du travail établies par le droit de l'Union, le droit national et les conventions collectives ou par les dispositions législatives internationales  dans  le  domaine  environnemental  et  social  et  dans  le  domaine  du  travail énumérées à l'annexe X de la directive 2014/24/UE 4 , ainsi que le respect des obligations en matière  de  protection  des  données  découlant  des  règlements  (UE)  2016/679 5",0.019230769230769232," contractant doit satisfaire aux exigences minimales prévues dans le cahier des charges. Cela comprend le respect des obligations applicables en vertu de la législation environnementale et sociale et de la législation du travail établies par le droit de l'Union, le droit national et les conventions collectives ou par les dispositions législatives internationales dans le domaine environnemental et social et dans le domaine du travail énumérées à l'annexe X de la directive 2014/24/UE[^4], ainsi que le respect des obligations en matière de protection des données découlant des règlements (UE) 2016/679[^5] et (UE) 2018/17",0.05128205128205128," Le contractant doit satisfaire aux exigences minimales prévues dans le cahier des charges. Cela comprend le respect des obligations applicables en vertu de la législation environnementale et sociale et de la législation du travail établies par le droit de l'Union, le droit national et les conventions collectives ou par les dispositions législatives internationales dans le domaine environnemental et social et dans le domaine du travail énumérées à l'annexe X de la directive 2014/24/UE<sup>4</sup>, ainsi que le respect des obligations en matière de protection des données découlant des règlements (UE) 2016/679<sup>5</s",0.04487179487179487,"Le contractant doit satisfaire aux exigences minimales prévues dans le cahier des charges. Cela comprend le respect des obligations applicables en vertu de la législation environnementale et sociale et de la législation du travail établies par le droit de l'Union, le droit national et les conventions collectives ou par les dispositions législatives internationales dans le domaine environnemental et social et dans le domaine du travail énumérées à l'annexe  $X$  de la directive  $2014/24/UE^4$ , ainsi que le respect des obligations en matière de protection des données découlant des règlements (UE)  $2016/679^5$  et (U",0.03205128205128205,"actant doit satisfaire aux exigences minimales prévues dans le cahier des charges. Cela comprend le respect des obligations applicables en vertu de la législation environnementale et sociale et de la législation du travail établies par le droit de l'Union, le droit national et les conventions collectives ou par les dispositions législatives internationales dans le domaine environnemental et social et dans le domaine du travail énumérées à l'annexe X de la directive 2014/24/UE[4] , ainsi que le respect des obligations en matière de protection des données découlant des règlements (UE) 2016/679 **[5]** et (UE) 2018/1725",61,govt tenders
-62,0,"Each tenderer’s financial offer must be completely unambiguous and unconditional. Tenders which contain statements preventing an accurate and complete comparison of the tenders (e.g. “To be discussed”, “Depending on x”, etc.) or referring to external circumstances (such as an already existing but separate contract) will be disqualified.  Make sure you prepare and submit your electronic tender in e-Submission early enough to ensure it is received within the deadline specified under Heading IV.2.2 of the contract notice. A tender received after this deadline will be rejected.",False,0.4268502581755594,"Each tenderer's financial offer must be completely unambiguous and unconditional. Tenders which contain statements preventing an accurate and complete comparison of the tenders (e.g. ""To be discussed"", ""Depending on x"", etc.) or referring to external circumstances (such as an already existing but separate contract) will be disqualified.
-
-43
-
-=",0.7831325301204819,"n to tender letter and the e-Submission Quick Guide.
-
-
-**4.2** **Content of the tender: what documents to submit with the**
-
-**tender?**
-
-
-The documents to be submitted with the tender in e-Submission are listed in **section 6**
-
-
-The following requirements apply to the technical and financial offer (to be uploaded as
-Technical tender and Financial tender in e-Submission):
-
-
-  - _Technical offer._
-
-
-a) The technical proposal of the Tenderer shall be in free format and in accordance
-
-with the page limitation instructions provided **.**
-The technical offer must provide all the",0.41824440619621345,"Each tenderer’s financial offer must be completely unambiguous and unconditional. Tenders which contain statements preventing an accurate and complete comparison of the tenders (e.g. “To be discussed”, “Depending on x”, etc.) or referring to external circumstances (such as an already existing but separate contract) will be disqualified.
-",0.4268502581755594,"Each tenderer's financial offer must be completely unambiguous and unconditional. Tenders which contain statements preventing an accurate and complete comparison of the tenders (e.g. ""To be discussed"", ""Depending on x"", etc.) or referring to external circumstances (such as an already existing but separate contract) will be disqualified.",0.42512908777969016,"Each tenderer's financial offer must be completely unambiguous and unconditional. Tenders which contain statements preventing an accurate and complete comparison of the tenders (e.g. “To be discussed"", ""Depending on x"", etc.) or referring to external circumstances (such as an already existing but separate contract) will be disqualified.",0.46471600688468157,"Each  tenderer's  financial  offer  must  be  completely  unambiguous  and  unconditional. Tenders which contain statements preventing an accurate and complete comparison of the t enders  (e.g.  'To  be  discussed',  'Depending  on  x',  etc.)  or  referring  to  external circumstances (such as an already existing but separate contract) will be disqualified.",0.41824440619621345,"Each tenderer’s financial offer must be completely unambiguous and unconditional. Tenders which contain statements preventing an accurate and complete comparison of the tenders (e.g. “To be discussed”, “Depending on x”, etc.) or referring to external circumstances (such as an already existing but separate contract) will be disqualified.",0.4268502581755594,"Each tenderer's financial offer must be completely unambiguous and unconditional. Tenders which contain statements preventing an accurate and complete comparison of the tenders (e.g. ""To be discussed"", ""Depending on x"", etc.) or referring to external circumstances (such as an already existing but separate contract) will be disqualified.
-
-43
-",0.4268502581755594,"Each tenderer's financial offer must be completely unambiguous and unconditional. Tenders which contain statements preventing an accurate and complete comparison of the tenders (e.g. ""To be discussed"", ""Depending on x"", etc.) or referring to external circumstances (such as an already existing but separate contract) will be disqualified.",0.41480206540447506,"Each tenderer’s financial offer must be completely unambiguous and unconditional. Tenders which contain statements preventing an accurate and complete comparison of the tenders (e.g. “To be discussed”, “Depending on x”, etc.) or referring to external circumstances (such as an already existing but separate contract) will be disqualified. 
-
-43 
-
-",62,govt tenders
 63,0,"Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract.",False,0.0,"Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract.",0.00546448087431694,"Once the contract has entered into force, the prices indicated in the financial proposal of the
 successful Tenderer may only be revised under the conditions laid down in the contract.",0.0,"Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract.",0.0,"Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract.",0.0,"Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract.",0.14207650273224043,"contract  has  entered  into  force,  the  prices  indicated  in  the  financial  proposal  of  the successful Tenderer may only be revised under the conditions laid down in the contr",0.0,"Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract.",0.0,"Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract.",0.0,"Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract.",0.0,"Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract.",63,govt tenders
 64,0,"Tenderers must provide minimum 10 (and in any case no more than 20) contract references. Evidence must be provided in the form of a filled-in contract reference per project. For each contract reference the use of the templates provided in Annex 09 to this document is mandatory. Only references submitted on these forms will be considered. Tenderers who fail to provide a description, or who only provide generic content, which does not specifically describe the relevance of the contract reference with regard to the minimum level of capacity detailed above, will be considered as not having the technical and professional capacity to perform the contract. The references must concern at least 3 different clients. Departments, divisions, directorates, and other entities of a same body (including the same EU Institution) will be regarded as the same client. Each EU Institution (including an EU agency) is considered a different client. Under a framework contract (or framework contracts) with different specific contracts, a specific contract (alone or in combination with other specific contracts) can be used only once (i.e. it will be considered as a single reference). In case of a joint tender, the same reference contract cannot be submitted as a separate contract reference by different economic operators for the same tender. The Contracting Authority may request statements issued by the clients, public or private, as supporting documents for each contract reference. These documents should be ready to be provided within five working days of the Contracting Authority’s request. The contact persons for the customers indicated in the contract reference form may be contacted in the context of this call for tenders to crosscheck the validity of the information provided as evidence.",False,0.15971062882582082,"f a filled-in contract reference per project. For each contract<br />reference the use of the templates provided in Annex 09 to this<br />document is mandatory. Only references submitted on these forms will<br />be considered.<br /><br />Tenderers who fail to provide a description, or who only provide generic<br />content, which does not specifically describe the relevance of the<br />contract reference with regard to the minimum level of capacity<br />detailed above, will be considered as not having the technical and<br />professional capacity to perform the contract.<br /><br />The references must concern at least 3 different clients. Departments,<br />divisions, directorates, and other entities of a same body (including the<br />same EU Institution) will be regarded as the same client. Each EU<br />Institution (including an EU agency) is considered a different client.<br />Under a framework contract (or framework contracts) with different<br />specific contracts, a specific contract (alone or in combination with<br />other specific contracts) can be used only once (i.e. it will be considered<br />as a single reference). In case of a joint tender, the same reference<br />contract cannot be submitted as a separate contract reference by<br />different economic operators for the same tender.<br /><br />The Contracting Authority may request statements issued by the<br />clients, public or private, as supporting documents for each contract<br />reference. These documents should be ready to be provided within five<br />working days of the Contracting Authority's request. The contact<br />persons for the customers indicated in the contract reference form may<br />be contacted in the context of this call for tenders to crosscheck the<br />validity of the information provid",0.11352253756260434," Evidence must be provided in the<br>form of a filled-in contract reference per project. For each contract<br>reference the use of the templates provided in**Annex 09** to this<br>document is mandatory. Only references submitted on these forms will<br>be considered.<br>Tenderers who fail to provide a description, or who only provide generic<br>content, which does not specifically describe the relevance of the<br>contract reference with regard to the minimum level of capacity<br>detailed above, will be considered as not having the technical and<br>professional capacity to perform the contract.<br>The references must concern at least 3 different clients. Departments,<br>divisions, directorates, and other entities of a same body (including the<br>same EU Institution) will be regarded as the same client. Each EU<br>Institution (including an EU agency) is considered a different client.<br>Under a framework contract (or framework contracts) with different<br>specific contracts, a specific contract (alone or in combination with<br>other specific contracts) can be used only once (i.e. it will be considered<br>as a single reference). In case of a joint tender, the same reference<br>contract cannot be submitted as a separate contract reference by<br>different economic operators for the same tender.<br>The Contracting Authority may request**statements issued by the**<br>**clients**, public or private, as supporting documents for each contract<br>reference. These documents should be ready to be provided within five<br>working days of the Contracting Authority’s request. The contact<br>persons for the customers indicated in the contract reference form may<br>be contacted in the context of this call for tenders to crosscheck the<br>validity of the information provided as evidence.",0.04284919309961046,"and in any case no more than 20) contract references.** Evidence must be provided in the form of a filled-in contract reference per project. For each contract reference the use of the templates provided in **Annex 09** to this document is mandatory. Only references submitted on these forms will be considered.<br/><br/>Tenderers who fail to provide a description, or who only provide generic content, which does not specifically describe the relevance of the contract reference with regard to the minimum level of capacity detailed above, will be considered as not having the technical and professional capacity to perform the contract.<br/><br/>The references must concern at least 3 different clients. Departments, divisions, directorates, and other entities of a same body (including the same EU Institution) will be regarded as the same client. Each EU Institution (including an EU agency) is considered a different client. Under a framework contract (or framework contracts) with different specific contracts, a specific contract (alone or in combination with other specific contracts) can be used only once (i.e. it will be considered as a single reference). In case of a joint tender, the same reference contract cannot be submitted as a separate contract reference by different economic operators for the same tender.<br/><br/>The Contracting Authority may request **statements issued by the clients**, public or private, as supporting documents for each contract reference. These documents should be ready to be provided within five working days of the Contracting Authority’s request. The contact persons for the customers indicated in the contract reference form may be contacted in the context of this call for tenders to crosscheck the validity of the information provided as evidenc",0.34724540901502504,"eference<br>with regard to the minimum level of capacity<br>detailed above, will be considered as not having the technical and<br>professional capacity to perform the contract.                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -4191,122 +4026,6 @@ The Contracting Authority may request statements issued by the clients, public o
 **capacity** 
 
 • **T 2.1** : ISO 9001:2015 or equivalent (specify): for all the parts of the organisation(s) and all location(s) that ",64,govt tenders
-65,0,"It is the responsibility of each tenderer to ensure that the total amount of the tender inserted in the relevant field of the e-Submission application corresponds to the amount indicated in the uploaded financial offer. In case of discrepancies, only the amount indicated in the financial offer will be taken into account. The financial offer shall be: expressed in euro.cents. Tenderers from countries outside the euro zone have to quote their prices in euro as well. The price quoted may not be revised in line with exchange rate movements. It is for the tenderer to bear the risks or the benefits deriving from any variation. quoted free of all duties, taxes and other charges, i.e. also free of VAT. The tenderer may indicate the amount of VAT but it must be shown separately. Inclusive of all costs and expenses directly and indirectly connected with the services to be delivered under the FWC. No further costs will be paid by the contracting authority for travel expenses, missions, trainings, financial costs, or any other costs which the contractor may incur in the process of implementation of any specific contract at the normal places of delivery listed in Section 1.5 above, except if the specific service requirements indicate that any such costs may be invoiced separately, in accordance with Article I.5.3 of the draft FWC. The price structure document as referred to in Section 3.5 may be required by the Contracting Authority. Such price structure document shall explain in detail how tenderers have established their prices for the service. The price structure document should cover at least the following elements:",False,0.3733170134638923,"st be shown separately.
-
-The European Union Institutions are exempt from such charges in the EU under Articles 3 and 4 of the Protocol on the Privileges and Immunities of the European Union of 8 April 1965 annexed to the Treaty on the Functioning of the European Union. Exemption is granted to the Commission by the governments of the Member States, either through refunds upon presentation of documentary evidence or by direct exemption.
-
-For those countries where national legislation provides an exemption by means of a reimbursement, the amount of VAT must be shown separately. In case of doubt about the applicable VAT system, it is the tenderer's responsibility to contact his or her national authorities to clarify the way in which the European Union is exempt from VAT.
-
-Inclusive of all costs and expenses directly and indirectly connected with the services to be delivered under the FWC. No further costs will be paid by the contracting authority for travel expenses, missions, trainings, financial costs, or any other costs which the contractor may incur in the process of implementation of any specific contract at the normal places of delivery listed in Section 1.5 above, except if the specific service requirements indicate that any such costs may be invoiced separately, in accordance with Article I.5.3 of the draft FWC.
-
-The price structure document as referred to in Section 3.5 may be required by the Contracting Authority. Such price structure document shall explain in detail how tenderers have established their prices for the service. The price structure document should cover at least the following elements:
-",0.7227662178702571,"  
-  
-
-  
-
-i. the expenditure foreseen for staff (HR cost), with breakdown of cost demonstrating
-
-compliance of the prices with the laws of the country in which the services are to be
-performed, for minimum levels of staff remuneration, contributions to the social
-security, occupational safety and health standards, and/or other applicable schemes
-and standards;
-ii. all other elements that have been taken into account to formulate the financial offer
-
-and that cover all the non-HR costs arising from the technical aspects of the tender
-(including, but not limited to: reporting requirements, training, recruitment and
-replacement of staff with the appropriate qualification level, travelling arrangements –
-if applicable, FWC management, the potential liquidated damages/compensations
-foreseen in the service level agreement and/or other risk factors, company overheads,
-profit margin, etc.).
-
-
-The provisions on price revisions are provided in the Draft FWC.
-
-
-The prices provided in the Price Catalogue will become part of Annex II to the FWC.
-
-
-44
-
-
-",0.37209302325581395,"tely.
-
-> ☝ The European Union Institutions are exempt from such charges in the EU under Articles 3 and 4 of the Protocol on the Privileges and Immunities of the European Union of 8 April 1965 annexed to the Treaty on the Functioning of the European Union. Exemption is granted to the Commission by the governments of the Member States, either through refunds upon presentation of documentary evidence or by direct exemption.  
->  
-> For those countries where national legislation provides an exemption by means of a reimbursement, the amount of VAT must be shown separately. In case of doubt about the applicable VAT system, it is the tenderer's responsibility to contact his or her national authorities to clarify the way in which the European Union is exempt from VAT.
-
-* Inclusive of all costs and expenses directly and indirectly connected with the services to be delivered under the FWC. No further costs will be paid by the contracting authority for travel expenses, missions, trainings, financial costs, or any other costs which the contractor may incur in the process of implementation of any specific contract at the normal places of delivery listed in Section 1.5 above, except if the specific service requirements indicate that any such costs may be invoiced separately, in accordance with Article I.5.3 of the draft FWC.
-
-The **price structure** document as referred to in Section 3.5 may be required by the Contracting Authority. Such price structure document shall explain in detail how tenderers have established their prices for the service. The price structure document should cover at least the following elements:
-
-",0.37454100367197063,"own separately.
-
- The European Union Institutions are exempt from such charges in the EU under Articles 3 and 4 of the Protocol on the Privileges and Immunities of the European Union of 8 April 1965 annexed to the Treaty on the Functioning of the European Union. Exemption is granted to the Commission by the governments of the Member States, either through refunds upon presentation of documentary evidence or by direct exemption.
-
-For those countries where national legislation provides an exemption by means of a reimbursement, the amount of VAT must be shown separately. In case of doubt about the applicable VAT system, it is the tenderer's responsibility to contact his or her national authorities to clarify the way in which the European Union is exempt from VAT.
-
-• Inclusive of all costs and expenses directly and indirectly connected with the services to be delivered under the FWC. No further costs will be paid by the contracting authority for travel expenses, missions, trainings, financial costs, or any other costs which the contractor may incur in the process of implementation of any specific contract at the normal places of delivery listed in Section 1.5 above, except if the specific service requirements indicate that any such costs may be invoiced separately, in accordance with Article I.5.3 of the draft FWC.
-
-The **price structure** document as referred to in Section 3.5 may be required by the Contracting Authority. Such price structure document shall explain in detail how tenderers have established their prices for the service. The price structure document should cover at least the following elements:
-
-",0.37392900856793143,"n separately.
-
-> The European Union Institutions are exempt from such charges in the EU under Articles 3 and 4 of the Protocol on the Privileges and Immunities of the European Union of 8 April 1965 annexed to the Treaty on the Functioning of the European Union. Exemption is granted to the Commission by the governments of the Member States, either through refunds upon presentation of documentary evidence or by direct exemption.
-
-For those countries where national legislation provides an exemption by means of a reimbursement, the amount of VAT must be shown separately. In case of doubt about the applicable VAT system, it is the tenderer's responsibility to contact his or her national authorities to clarify the way in which the European Union is exempt from VAT.
-
-*   Inclusive of all costs and expenses directly and indirectly connected with the services to be delivered under the FWC. No further costs will be paid by the contracting authority for travel expenses, missions, trainings, financial costs, or any other costs which the contractor may incur in the process of implementation of any specific contract at the normal places of delivery listed in Section 1.5 above, except if the specific service requirements indicate that any such costs may be invoiced separately, in accordance with Article 1.5.3 of the draft FWC.
-
-The **price structure** document as referred to in Section 3.5 may be required by the Contracting Authority. Such price structure document shall explain in detail how tenderers have established their prices for the service. The price structure document should cover at least the following elements:
-",0.38372093023255816," charges in the EU under Articles 3 and 4 of the Protocol on the Privileges and Immunities of the European Union of 8 April 1965  annexed  to  the  Treaty  on  the  Functioning  of  the  European  Union.  Exemption  is granted to the Commission by the governments of the Member States, either through refunds upon presentation of documentary evidence or by direct exemption.
-
-For  those  countries  where  national  legislation  provides  an  exemption  by  means  of  a reimbursement, the amount of VAT must be shown separately. In case of doubt about the applicable  VAT  system,  it  is  the  tenderer's  responsibility  to  contact  his  or  her  national authorities to clarify the way in which the European Union is exempt from VAT.
-
-- Inclusive  of  all  costs  and  expenses  directly  and  indirectly  connected  with  the services  to  be  delivered  under  the  FWC.  No  further  costs  will  be  paid  by  the contracting authority for travel expenses, missions, trainings, financial costs, or any other costs which the contractor may incur in the process of implementation of any specific contract at the normal places of delivery listed in Section 1.5 above, except if the specific service requirements indicate that any such costs may be invoiced separately, in accordance with Article I.5.3 of the draft FWC.
-
-The price  structure document  as  referred  to  in  Section  3.5  may  be  required  by  the Contracting Authority. Such price structure document shall explain in detail how tenderers have established their prices for the service. The price structure document should cover at least the following elements:
-",0.37209302325581395,".
-
-> ☝️ **The European Union Institutions are exempt from such charges in the EU under Articles 3 and 4 of the Protocol on the Privileges and Immunities of the European Union of 8 April 1965 annexed to the Treaty on the Functioning of the European Union. Exemption is granted to the Commission by the governments of the Member States, either through refunds upon presentation of documentary evidence or by direct exemption.**
->
-> For those countries where national legislation provides an exemption by means of a reimbursement, the amount of VAT must be shown separately. In case of doubt about the applicable VAT system, it is the tenderer's responsibility to contact his or her national authorities to clarify the way in which the European Union is exempt from VAT.
-
-*   Inclusive of all costs and expenses directly and indirectly connected with the services to be delivered under the FWC. No further costs will be paid by the contracting authority for travel expenses, missions, trainings, financial costs, or any other costs which the contractor may incur in the process of implementation of any specific contract at the normal places of delivery listed in Section 1.5 above, except if the specific service requirements indicate that any such costs may be invoiced separately, in accordance with Article I.5.3 of the draft FWC.
-
-The **price structure** document as referred to in Section 3.5 may be required by the Contracting Authority. Such price structure document shall explain in detail how tenderers have established their prices for the service. The price structure document should cover at least the following elements:
-
-1",0.3733170134638923,"n separately.
-
-> ☝ The European Union Institutions are exempt from such charges in the EU under Articles 3 and 4 of the Protocol on the Privileges and Immunities of the European Union of 8 April 1965 annexed to the Treaty on the Functioning of the European Union. Exemption is granted to the Commission by the governments of the Member States, either through refunds upon presentation of documentary evidence or by direct exemption.
->
-> For those countries where national legislation provides an exemption by means of a reimbursement, the amount of VAT must be shown separately. In case of doubt about the applicable VAT system, it is the tenderer's responsibility to contact his or her national authorities to clarify the way in which the European Union is exempt from VAT.
-
-* Inclusive of all costs and expenses directly and indirectly connected with the services to be delivered under the FWC. No further costs will be paid by the contracting authority for travel expenses, missions, trainings, financial costs, or any other costs which the contractor may incur in the process of implementation of any specific contract at the normal places of delivery listed in Section 1.5 above, except if the specific service requirements indicate that any such costs may be invoiced separately, in accordance with Article I.5.3 of the draft FWC.
-
-The price structure document as referred to in Section 3.5 may be required by the Contracting Authority. Such price structure document shall explain in detail how tenderers have established their prices for the service. The price structure document should cover at least the following elements:
-
-",0.3671970624235006,"s, i.e. also free of VAT. The tenderer may indicate the amount of VAT but it must be shown separately.
-
- 3 and 4 of the Protocol on the Privileges and Immunities of the European Union of 8 April 1965 annexed to the Treaty on the Functioning of the European Union. Exemption is granted to the Commission by the governments of the Member States, either through refunds upon presentation of documentary evidence or by direct exemption.
-
-For those countries where national legislation provides an exemption by means of a reimbursement, the amount of VAT must be shown separately. In case of doubt about the applicable VAT system, it is the tenderer's responsibility to contact his or her national authorities to clarify the way in which the European Union is exempt from VAT.
-
- Inclusive of all costs and expenses directly and indirectly connected with the services to be delivered under the FWC. No further costs will be paid by the contracting authority for travel expenses, missions, trainings, financial costs, or any other costs which the contractor may incur in the process of implementation of any specific contract at the normal places of delivery listed in Section 1.5 above, except if the specific service requirements indicate that any such costs may be invoiced separately, in accordance with Article I.5.3 of the draft FWC.
-
-The **price structure** document as referred to in Section 3.5 may be required by the Contracting Authority. Such price structure document shall explain in detail how tenderers have established their prices for the service. The price structure document should cover at least the following elements:
-
-",0.3714810281517748,"ately. 
-
- The European Union Institutions are exempt from such charges in the EU under Articles 3 and 4 of the Protocol on the Privileges and Immunities of the European Union of 8 April 1965 annexed to the Treaty on the Functioning of the European Union. Exemption is granted to the Commission by the governments of the Member States, either through refunds upon presentation of documentary evidence or by direct exemption. 
-
-For those countries where national legislation provides an exemption by means of a reimbursement, the amount of VAT must be shown separately. In case of doubt about the applicable VAT system, it is the tenderer's responsibility to contact his or her national authorities to clarify the way in which the European Union is exempt from VAT. 
-
-- • Inclusive of all costs and expenses directly and indirectly connected with the services to be delivered under the FWC. No further costs will be paid by the contracting authority for travel expenses, missions, trainings, financial costs, or any other costs which the contractor may incur in the process of implementation of any specific contract at the normal places of delivery listed in Section 1.5 above, except if the specific service requirements indicate that any such costs may be invoiced separately, in accordance with Article I.5.3 of the draft FWC. 
-
-The **price structure** document as referred to in Section 3.5 may be required by the Contracting Authority. Such price structure document shall explain in detail how tenderers have established their prices for the service. The price structure document should cover at least the following elements: 
-
--",65,govt tenders
 65,1," The European Union Institutions are exempt from such charges in the EU under Articles 3 and 4 of the Protocol on the Privileges and Immunities of the European Union of 8 April 1965 annexed to the Treaty on the Functioning of the European Union. Exemption is granted to the Commission by the governments of the Member States, either through refunds upon presentation of documentary evidence or by direct exemption. For those countries where national legislation provides an exemption by means of a reimbursement, the amount of VAT must be shown separately. In case of doubt about the applicable VAT system, it is the tenderer's responsibility to contact his or her national authorities to clarify the way in which the European Union is exempt from VAT.",False,0.006640106241699867,"The European Union Institutions are exempt from such charges in the EU under Articles 3 and 4 of the Protocol on the Privileges and Immunities of the European Union of 8 April 1965 annexed to the Treaty on the Functioning of the European Union. Exemption is granted to the Commission by the governments of the Member States, either through refunds upon presentation of documentary evidence or by direct exemption.
 
 For those countries where national legislation provides an exemption by means of a reimbursement, the amount of VAT must be shown separately. In case of doubt about the applicable VAT system, it is the tenderer's responsibility to contact his or her national authorities to clarify the way in which the European Union is exempt from VAT.
@@ -5227,30 +4946,6 @@ BARSKA Model AY11236 is a fixed power compound microscope. It is constructed wit
 - Make sure that you focus on answering the question only include relevant information, and remember to present logical arguments in support of your answer.",0.04225352112676056,"h paragraph should contain one main thought or idea, and there should be a logical link between each paragraph and the next. 
 
 - • Make sure that you focus on answering the question – only include relevant information, and remember to present logical arguments in support of your answ",67,manuals_sample
-67,1,8. Proofread your assignment before handing it in. 8. Proofread your assignment before handing it in. Tip: read your answers out loud to make sure that they sound logical.,False,0.2631578947368421,"t logical arguments in support of your answer.
-
-8. Proofread your assignment before handing it in. Tip: read your answers out loud to make sure that they sound logical.
-
-9",0.8947368421052632,"Basic English Language Skills
-
-
-",0.26900584795321636," logical arguments in support of your answer.
-
-**8. Proofread your assignment before handing it in.** Tip: read your answers out loud to make sure that they sound logical.",0.2573099415204678,"ent logical arguments in support of your answer.
-
-8. Proofread your assignment before handing it in. Tip: read your answers out loud to make sure that they sound logical.
-",0.26900584795321636," logical arguments in support of your answer.
-
-8. **Proofread your assignment before handing it in.** Tip: read your answers out loud to make sure that they sound logical.",0.25146198830409355,"resent logical arguments in support of your answer.
-8. Proofread your assignment before handing it in. Tip: read your answers out loud to make sure that they sound logical",0.26900584795321636," logical arguments in support of your answer.
-
-8. **Proofread your assignment before handing it in.** Tip: read your answers out loud to make sure that they sound logical.",0.26900584795321636," logical arguments in support of your answer.
-
-8. **Proofread your assignment before handing it in.** Tip: read your answers out loud to make sure that they sound logical.",0.26900584795321636," logical arguments in support of your answer.
-
-8. **Proofread your assignment before handing it in.** Tip: read your answers out loud to make sure that they sound logical.",0.25146198830409355,"ent logical arguments in support of your answer. 
-
-8. Proofread your assignment before handing it in. Tip: read your answers out loud to make sure that they sound logical.",67,manuals_sample
 67,2,"9. Always keep a copy or electronic backup of your assignment. This way, you won’t have to start over if your computer crashes, or redo the whole assignment if the original goes missing.",False,0.016129032258064516,"9. Always keep a copy or electronic backup of your assignment.
 This way, you won't have to start over if your computer crashes, or
 redo the whole assignment if the original goes missing.",0.8978494623655914,"Basic English Language Skills
@@ -7575,48 +7270,6 @@ To activate encryption",0.0,Figure 12-10 Select the Control Enclosure on which y
 To activate encryption on",0.15384615384615385,apter 12. Encryption   613,0.5769230769230769,"page 617.
 
 **▼ Encryption ",0.15384615384615385,hapter 12. Encryption **61,84,manuals_sample
-84,6,"Licensed Functions Additional licenses are required to use certain system functions. For auditing purposes, retain the license agreement for proof of compliance. Additional licenses are required to use certain system functions. For auditing purposes, retain the license agreement for proof of compliance.",True,0.7105263157894737," Licensed Functions window
-
-3. The Encryption Licenses window displays information about your control enclosures. Right-click the enclosure on which you want to install an encryption license. This action opens a menu with two license activation options (Activate License Automatically and Activate Licens",0.7664473684210527,"# **12.3.3 Start activation process on a running system**
-
-To activate encryption on a running system, complete the following steps:
-
-
-2. Click **Encryption Licenses**, as shown in Figure 12-9.
-
-
-
-
-
-Chapter 12. Encryption **613**
-
-
-",0.631578947368421,"------------------------------------------------ |
-| Monitoring    | Licensed Functions | Additional licenses are required to use certain system functions. For auditing purposes, retain the license agreement for proof of compliance. |
-| Pools         |                    |                               ",0.4342105263157895," | Licensed Functions     | Additional licenses are required to use certain system functions. For auditing purposes, retain the license<br>agreement for proof of compliance. |
-| ŧ<br>Pools         | Update System          | Number of enclosures<br>10<br>External Virtualization:<br>Number of enclosures<b",0.75,"icensed Functions"" window is displayed. Within this window, the ""Encryption Licenses"" option is highlighted, indicating it should be clicked to proceed. The window also lists other licensed functions like External Virtualization, Remote Mirroring, and Compression, each showing a value of ""10 Number of e",0.7302631578947368,"Licensed Functions .
-2. Click Encryption Licenses , as shown in Figure 12-9.
-3. The Encryption Licenses window displays information about your control enclosures. Right-click the enclosure on which you want to install an encryption license. This action opens a menu with two license activation options ( ",0.7269736842105263,"he Licensed Functions window.  
-*(Summary: The screenshot shows the system dashboard with the navigation path Settings > System selected. The ""Licensed Functions"" panel is displayed, listing license counts for features like External Virtualization and Remote Mirroring. A button labeled ""Encryption Licen",0.4276315789473684,"icensed Functions**<br/>Additional licenses are required to use certain system functions. For auditing purposes, retain the license agreement for proof of compliance.<br/><br/>External Virtualization: 10 Number of enclosures<br/>Remote Mirroring: 10 Number of enclosures<br/>Compression: 10 Number of enc",0.4473684210526316,"ces |
-
-Licensed Functions
-
- Additional licenses are required to use certain system functions. For auditing purposes, retain the license agreement for proof of compliance.
- 
-
-| External Virtualization: | 10 Number of enclosures |
-|--------------------------|-------------------------|
-| Remote Mirroring: ",0.7730263157894737,"→ **Licensed Functions** . 
-
-- 2. Click **Encryption Licenses** , as shown in Figure 12-9. 
-
-**==> picture [397 x 226] intentionally omitted <==**
-
-_Figure 12-9   Expanding Encryption Licenses section on the Licensed Functions window_ 
-
-**==> picture [412 x 96] intentionally omitted <==**
-
-**==> picture",84,manuals_sample
 84,7,Encryption Licenses Add the license keys for the following enclosures,True,0.5652173913043478,"l encryption license activation for their chosen control enclosure.
 
 ",0.6231884057971014," encryption on a running system, complete the following steps:
@@ -7977,13 +7630,6 @@ reinforce t",0.0,Net profit / (loss) after income tax (‘000s),0.02272727272727
 90,3,"20,879",False,0.0,"20,879",0.8333333333333334," 2012,",0.0,"20,879",0.0,"20,879",0.0,"20,879",0.0,"20,879",0.0,"20,879",0.0,"20,879",0.16666666666666666,20.879,0.6666666666666666,"2012, ",90,finance_samples
 90,4,"75,006",False,0.0,"75,006",1.0,# **5,0.0,"75,006",0.0,"75,006",0.0,"75,006",0.0,"75,006",0.0,"75,006",0.0,"75,006",0.16666666666666666,75.006,0.8333333333333334, [505 ,90,finance_samples
 90,5,"(323,726)",False,0.0,"(323,726)",0.8888888888888888,"y 2012, t",0.0,"(323,726)",0.0,"(323,726)",0.0,"(323,726)",0.0,"(323,726)",0.0,"(323,726)",0.0,"(323,726)",0.0,"(323,726)",1.0,"2, the Gr",90,finance_samples
-90,6,KMP short term employee benefits How much can the executives earn under the STI Plan?,False,0.5176470588235295,"        |
-|-|-|
-| How much can the executives earn under the STI Plan?            | T",0.6941176470588235," from 1 July 2012, the Group implemented an STI Plan. The objectives of the STI Plan ",0.4823529411764706,"------------------ |
-| How much can the executives earn under the STI Plan?  | **Thre",0.7764705882352941, How much can the<br>executives earn under<br>the STI Plan?  | Threshold – Represents,0.6941176470588235," from 1 July 2012, the Group implemented an STI Plan. The objectives of the STI Plan ",0.6,"----------|
-| How much can the executives earn under the STI Plan?  | Threshold - Rep",0.36470588235294116," year commencing 1 July). |
-| **How much can the executives earn under the STI Plan?*",0.5058823529411764,"              |
-| How much can the executives earn under the STI Plan?  | **Threshold",0.7764705882352941, How much can the<br>executives earn under<br>the STI Plan?  | <b>Threshold</b> – Rep,0.7058823529411765,"e from 1 July 2012, the Group implemented an STI Plan. The objectives of the STI Plan",90,finance_samples
 90,7,"Threshold – Represents the minimum acceptable level of performance that needs to be achieved before any Individual Award would be payable in relation to that Performance Measure. p y Managing Director / CEO – up to 15% of TFR, COO & CFO – up to 12.5% of TFR, Other Key Management Personnel – up to 10% of TFR. Target – Represents a challenging but achievable level of performance relative to past and otherwise expected achievements. It will normally be the budget level for financial and other quantitative performance objectives. y g q p j Managing Director / CEO – up to 30% of TFR, COO & CFO – up to 25% of TFR, Other Key Management Personnel – up to 20% of TFR. Stretch (Maximum) – Represents a clearly outstanding level of performance which is evident to all as a very high level of achievement. Managing Director / CEO – up to 60% of TFR, COO & CFO – up to 50% of TFR, Other Key Management Personnel – up to 40% of TFR. (TFR - Total Fixed Remuneration)",False,0.029197080291970802,"          | Threshold – Represents the minimum acceptable level of performance that needs to be achieved before any Individual Award would be payable in relation to that Performance Measure. Managing Director / CEO – up to 15% of TFR, COO & CFO – up to 12.5% of TFR, Other Key Management Personnel – up to 10% of TFR. Target – Represents a challenging but achievable level of performance relative to past and otherwise expected achievements. It will normally be the budget level for financial and other quantitative performance objectives. Managing Director / CEO – up to 30% of TFR, COO & CFO – up to 25% of TFR, Other Key Management Personnel – up to 20% of TFR. Stretch (Maximum) – Represents a clearly outstanding level of performance which is evident to all as a very high level of achievement. Managing Director / CEO – up to 60% of TFR, COO & CFO – up to 50% of TFR, Other Key Management Personnel – up to 40% of TFR. (TFR - Total Fixed Remuneration)  ",0.7570385818561001,"# **52**
 
 Directors’ Report
@@ -10071,37 +9717,6 @@ of the grant of the patent:
 *",0.12903225806451613,(22) Date of filing: **26.03.20,0.25806451612903225,) **Date of filing:** 26.03.200,0.0967741935483871,"(22) Date of filing:
 
 26.03.200",0.12903225806451613,22) Date of filing:** 26.03.200,0.0,(22) Date of filing: 26.03.2007,0.12903225806451613,2) Date of filing: **26.03.2007,0.12903225806451613,(22) Date of filing: **26.03.20,108,patents
-108,5,(51) Int Cl.: C23C 16/455(2006.01) C23C 16/54(2006.01) H05B 33/10(2006.01),False,0.527027027027027," 26.03.2007
-
-			(51) Int Cl.:
-C23C 16/455 (2006.01) H05B 33/10 (2006.01)
-C",0.6351351351351351,"6.03.2007**
-
-
-
-**C23C 16/455** **[(2006.01)]** **H05B 33/10** **[(2006.01)",0.28378378378378377,"l.:**  
-C23C 16/455 (2006.01)  
-C23C 16/54 (2006.01)  
-H05B 33/10 (2006.01",0.2702702702702703,51) Int Cl.: **C23C 16/455(2006.01) H05B 33/10(2006.01) C23C 16/54(2006.01,0.47297297297297297,"(51) **Int Cl.:**
-*   *C23C 16/455* (2006.01)
-*   *H05B 33/10* (2006.01)
-*",0.4864864864864865,") Date of filing:
-
-26.03.2007
-
-C23C 16/455 (2006.01)
-
-H05B 33/10 (2006.01)",0.5,"2007
-
-**(51) Int Cl.:**  
-C23C 16/455 (2006.01)  
-H05B 33/10 (2006.01)  
-C",0.5135135135135135,"in 2011/17
-
-(51) Int Cl.: C23C 16/455 (2006.01) H05B 33/10 (2006.01) C23C ",0.47297297297297297,"
-(51) Int Cl.: C23C 16/455<sup>(2006.01)</sup> C23C 16/54<sup>(2006.01)</s",0.8648648648648649," - (86) International application number: **PCT/US2007/064961** 
-
-- (21) A",108,patents
 108,6,(54) ATOMIC LAYER DEPOSITION SYSTEM AND METHOD FOR COATING FLEXIBLE SUBSTRATES ATOMLAGENABSCHEIDUNGSSYSTEM UND VERFAHREN ZUR BESCHICHTUNG VON FLEXIBLEN SUBSTRATEN DISPOSITIF ET PROCEDE DE DEPOT EN COUCHES ATOMIQUES POUR REVETEMENT DE SUBSTRATS FLEXIBLES,False,0.05533596837944664," ATOMIC LAYER DEPOSITION SYSTEM AND METHOD FOR COATING FLEXIBLE SUBSTRATES
 ATOMLAGENABSCHIEIDUNGSSYSTEM UND VERFAHREN ZUR BESCHICHTUNG VON
 FLEXIBLEN SUBSTRATEN
@@ -10167,10 +9782,6 @@ Beaverton, Oregon 97006 (US",0.3387096774193548,"ventors:**
 • **DICKEY, Eric R.** Beaverton, Oregon 97006 (",0.22580645161290322," Inventors:<br>• DICKEY, Eric R.<br>Beaverton, Oregon 97006 (U",0.2903225806451613,"(72) Inventors: 
 
    - **• DICKEY, Eric R. Beaverton, Oregon 9",108,patents
-108,8,B1 008 000 2 EP,False,0.5333333333333333,"2 000 008 B1
-
-P",0.6666666666666666,11) EP 2 000 00,0.8666666666666667,"  
-10.12.2008  ",0.5333333333333333, 2 000 008 B1**,0.6666666666666666,EP 2 000 008 B1,0.7333333333333333, EP 2 000 008 B,0.7333333333333333,/10 (2006.01)  ,0.7333333333333333,10 (2006.01) C2,0.5333333333333333, 2 000 008 B1 $,0.6,2 000 008 B1** ,108,patents
 108,9,"Note: Within nine months of the publication of the mention of the grant of the European patent in the European Patent Bulletin, any person may give notice to the European Patent Office of opposition to that patent, in accordance with the Implementing Regulations. Notice of opposition shall not be deemed to have been filed until the opposition fee has been paid. (Art. 99(1) European Patent Convention).",False,0.0,"Note: Within nine months of the publication of the mention of the grant of the European patent in the European Patent Bulletin, any person may give notice to the European Patent Office of opposition to that patent, in accordance with the Implementing Regulations. Notice of opposition shall not be deemed to have been filed until the opposition fee has been paid. (Art. 99(1) European Patent Convention).",0.9158415841584159,"1) Application number: **07759411.7**
 
 
@@ -13468,10 +13079,6 @@ As these repeating structural units, the repeating structural units correspondin
 By containing such various repeating structural units, fine adjustment of performances required of the alicycl",0.005509641873278237,"The alicyclic hydrocarbon-based acid-decomposable resin in the invention can contain various kinds of repeating structural units, besides the above repeating structural units, for the purpose of the adjustments of dry etching resistance, aptitude for standard developing solutions, adhesion to a substrate, resist profile, and further, general requisite performances of resists, e.g., resolution, heat resistance and sensitivity. 
 
 As these repeating structural units, the repeating structural units corresponding to the monomers shown below can be exemplified, but the invention is not restricted thereto. By containing such various repeating structural units, fine adjustment of performances required of the alicyclic hydro-",125,patents
-125,3,67 68,False,0.8,o 65 ,0.6,"
-**68",0.8,"
-6. D",1.0,o 70 ,0.8," 67, ",0.6,67,1.0,"d
-6. ",0.4,   68,0.8,o 60 ,0.6,67** ,125,patents
 126,0,c12) United States Patent Kawanishi et al.,False,0.047619047619047616,"(12) United States Patent
 Kawanishi et al.",0.7380952380952381," the term ofthis
 patent is extended or adj",0.4523809523809524,"
@@ -13486,32 +13093,6 @@ patent is extended or adj",0.4523809523809524,"
 ## Kawanishi et al",0.38095238095238093,"nited States Patent** 
 
 # **Kawanishi et a",126,patents
-126,1,11111 111111111111111 111 US007851130B2,False,0.6410256410256411," EP 1480078 A1 5/2004
-
-
-
-US007851130B2
-",0.2564102564102564,"** **111111111111111111**
-US007851130B2",0.8717948717948718,"  
-**Patent No.:** US 7,851,130 B2  
-**",0.7948717948717948,"
-# (IO) **Patent No.: US 7,851,130 B2**",0.8205128205128205,"un, JP)""
-patent_no: ""US 7,851,130 B2""
-d",0.6923076923076923,"EP 1480078  Al 5/2004
-
-US007851130B2
-
-<",0.7948717948717948,"*
-
-**(10) Patent No.: US 7,851,130 B2**",0.6666666666666666,"
-
-US007851130B2",0.8461538461538461,"8 A1 $5/2004$
-
-### US 7,851,130 B2 (10)",0.7692307692307693,"onally omitted <==**
-
-US007851130B2 
-
-#",126,patents
 126,2,"(IO) Patent No.: US 7,851,130 B2",False,0.0625,"(10) Patent No.: US 7,851,130 B2",0.0,"(IO) Patent No.: US 7,851,130 B2",0.3125,"Patent No.:** US 7,851,130 B2  
 ",0.125,"(IO) **Patent No.: US 7,851,130 ",0.375,")""
 patent_no: ""US 7,851,130 B2""
@@ -13604,115 +13185,6 @@ G03F 7120
 - G03F 7/20",0.5409836065573771,"03F 7/039  | (2006.01) |
 | G03F 7/20   | (2006.01) |
 | G03F 7",0.8360655737704918,**430/270.1;** 430/922; 430/325; 430/326; 430/942; 430/966; 5,126,patents
-126,9,"References Cited U.S. PATENT DOCUMENTS 6,680,157 Bl 1/2004 Fedynyshyn 2006/0210919 Al * 9/2006 Mizutani et al. ......... 430/270.1 2007/0072117 Al* 3/2007 Mizutani et al. ......... 430/270.1",False,0.25263157894736843,"ry.
-
-(56) References Cited
-
-## U.S. PATENT DOCUMENTS
-
-6,680,157 B1 1/2004 Fedynyshyn
-2006/0210919 A1* 9/2006 Mizutani et al. 430/270.1
-2007/0072117 A1* 3/2007 Mizutani et al. 430/270.1
-
-FORE",0.8473684210526315,"97100_ (2006.01)
-**U.S. Cl.** .................... **430/270.1;** 430/922; 430/325;
-430/326; 430/942; 430/966; 549/26; 549/16;
-549/17; 549/20
-
-**Field of Classification Search** ............",0.5578947368421052,"|
-| 6,680,157 B1  | 1/2004| Fedynyshyn     |                 |
-| 2006/0210919 A1* | 9/2006 | Mizutani et al. | 430/270.1       |
-| 2007/0072117 A1* | 3/2007 | Mizutani et al. | 430/270.1    ",0.5526315789473685,"  |
-|-------------------|--|-----------------------------------|--|
-| 2006/0210919 Al * |  | 9/2006 Mizutani et al.  430/270.1 |  |
-| 2007/0072117 Al*  |  | 3/2007 Mizutani et al.  430/270.1",0.5526315789473685,"680,157   | B1   | 1/2004 | Fedynyshyn     |                |
-| 2006/0210919 | A1*  | 9/2006 | Mizutani et al. | 430/270.1      |
-| 2007/0072117 | A1*  | 3/2007 | Mizutani et al. | 430/270.1",0.5052631578947369," U.S. PATENT DOCUMENTS
-
-6,680,157  Bl
-
-2006/0210919  Al *
-
-2007/0072117  Al*
-
-1/2004
-
-Fedynyshyn
-
-9/2006
-
-Mizutani et al.
-
-.........  430/270.1
-
-3/2007
-
-Mizutani et al.
-
-.........  430/270.1",0.25263157894736843," PATENT DOCUMENTS**
-
-*   6,680,157 B1 — 1/2004 Fedynyshyn
-*   2006/0210919 A1\* — 9/2006 Mizutani et al. ......... 430/270.1
-*   2007/0072117 A1\* — 3/2007 Mizutani et al. ......... 430/270.",0.5473684210526316,"    |
-| ------------------ | ------ | --------------- | --------- |
-| 2006/0210919 A1 \* | 9/2006 | Mizutani et al. | 430/270.1 |
-| 2007/0072117 A1 \* | 3/2007 | Mizutani et al. | 430/270.1 ",0.5789473684210527,"       |
-|--------------|-----|--------|-----------------|-----------|
-| 2006/0210919 | A1* | 9/2006 | Mizutani et al. | 430/270.1 |
-| 2007/0072117 | A1* | 3/2007 | Mizutani et al. | 430/270",0.8263157894736842,"ep. 19, 2006 (JP) ............................. 2006-253381 
-
-- (51) **Int. Cl.** 
-
-**==> picture [116 x 52] intentionally omitted <==**
-
-- (52) **U.S. Cl.** .................... **430/270.1",126,patents
-126,10,FOREIGN PATENT DOCUMENTS EP 1480078 Al 5/2004 EP 1 693 705 A2 * 8/2006 EP 1 703 326 A2 * 9/2006 EP 1 767 991 A2 * 3/2007,False,0.775,"t: *Dec. 14, 2010
-
-| EP   | 1 693 705   | A2   | *   | 8/2006   |
-|-|-|-|-|-|
-| EP   | 1 703 326   | A2   |     | 9/2006",0.425,"te of Patent:** ***Dec. 14, 2010**
-
-
-EP 1 693 705 A2 * 8/2006
-
-EP 1 703 326 A2 * 9/2006
-
-EP 1 767 991 A2 * 3/2007
-
-JP 6-",0.5666666666666667,"--|--------|
-| EP      | 1 693 705 A2 | 8/2006 |
-| EP      | 1 703 326 A2 | 9/2006 |
-| EP      | 1 767 991 A2 | 3/2007 |",0.5833333333333334,"FOREIGN PATENT DOCUMENTS
-
-#### EP 1480078 Al 5/2004
-
-# (IO) **Patent No.: US 7,851,130 B2**
-
-## (45) **Date of Patent: \",0.65,"
-| EP   | 1 693 705   | A2 * | 8/2006   |
-| EP   | 1 703 326   | A2 * | 9/2006   |
-| EP   | 1 767 991   | A2 * | 3/2007 ",0.6083333333333333," FOREIGN PATENT DOCUMENTS
-
-## EP 1480078  Al 5/2004
-
-US007851130B2
-
-<!-- image -->
-
-- (IO) Patent No.:
-
-US 7,851,130 B2
-",0.4,"   EP 1 480 078 A1 — 5/2004
-*   EP 1 693 705 A2\* — 8/2006
-*   EP 1 703 326 A2\* — 9/2006
-*   EP 1 767 991 A2\* — 3/2007",0.6416666666666667," | - |
-| EP | 1 693 705 A2 \* | 8/2006  |   |
-| EP | 1 703 326 A2 \* | 9/2006  |   |
-| EP | 1 767 991 A2 \* | 3/2007  | ",0.675," 693 705 A2 * |  | 8/2006  |
-|----------------|--|---------|
-| 1 703 326 A2 * |  | 9/2006  |
-| 1 767 991 A2 * |  | 3/200",0.8416666666666667," Cl.** .................... **430/270.1;** 430/922; 430/325; 430/326; 430/942; 430/966; 549/26; 549/16; 549/17; 549/20 
-",126,patents
 126,11,"OTHER PUBLICATIONS Machine-assisted English translation of JP2006-276759 provided by JPO.* * cited by examiner Primary Examiner-Sin J. Lee (74) Attorney, Agent, or Firm-Sughrue Mion, PLLC",False,0.053475935828877004,"OTHER PUBLICATIONS
 
 Machine-assisted English translation of JP2006-276759 provided by JPO.*

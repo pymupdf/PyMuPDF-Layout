@@ -1,4 +1,3 @@
-
 import pymupdf  # PyMuPDF
 import re
 import json
@@ -219,6 +218,7 @@ def extract_and_clean_by_page(data, logger):
             
         page_number = item['page_number']
         cleaned_texts = []
+        is_ocr_flags = []
         
         # Extract and clean annotation texts (sorted by reading order)
         if 'annotations' in item:
@@ -258,7 +258,9 @@ def extract_and_clean_by_page(data, logger):
             
             # Sort annotations by reading order and add to cleaned_texts
             annotation_pairs.sort(key=lambda x: x[0])
-            cleaned_texts.extend([text for _, text in annotation_pairs])
+            for _, text in annotation_pairs:
+                cleaned_texts.append(text)
+                is_ocr_flags.append(False)  # Annotation text, not OCR
         
         # Extract and clean OCR texts
         if 'ocr_text' in item and isinstance(item['ocr_text'], list):
@@ -277,12 +279,14 @@ def extract_and_clean_by_page(data, logger):
                     
                     if cleaned_ocr.strip():
                         cleaned_texts.append(cleaned_ocr.strip())
+                        is_ocr_flags.append(True)  # OCR text
         
         # Only add pages that have text content
         if cleaned_texts:
             result.append({
                 'page_number': page_number,
-                'texts': cleaned_texts
+                'texts': cleaned_texts,
+                'is_ocr': is_ocr_flags
             })
     
     logger.info(f"Cleaned {len(result)} pages")
@@ -310,7 +314,7 @@ def generate_raw_scores(ground_truth_data, folder_info, logger):
 
     Returns:
         A pandas DataFrame containing the raw scores (normalized distances)
-        for each needle against each method.
+        for each needle against each method, including OCR flag.
     """
     all_results = []
     total_entries = len(ground_truth_data)
@@ -319,12 +323,14 @@ def generate_raw_scores(ground_truth_data, folder_info, logger):
     for index, ground_truth_entry in enumerate(ground_truth_data):
         logger.info(f"Processing page group {index + 1}/{total_entries}")
         page_number = ground_truth_entry['page_number']
+        is_ocr_list = ground_truth_entry.get('is_ocr', [])
 
         for needle_index, needle_text in enumerate(ground_truth_entry['texts']):
             row = {
                 'page_number': page_number,
                 'needle_index': needle_index,
-                'needle': needle_text
+                'needle': needle_text,
+                'OCR': is_ocr_list[needle_index] if needle_index < len(is_ocr_list) else False
             }
 
             for folder_name, col_name in folder_info:
@@ -337,6 +343,7 @@ def generate_raw_scores(ground_truth_data, folder_info, logger):
                     best_match, score = find_best_match_and_normalized_distance(needle_text, md_content)
                 except FileNotFoundError:
                     score = None
+                    best_match = None
                 
                 row[col_name] = score
                 row[f"{col_name}_best_match"] = best_match
@@ -379,6 +386,7 @@ def analyze_results(scores_df, mapping_file, score_columns, min_score_threshold,
     filtered_df.to_csv("benchmark_granular.csv", index=False)
     # Keep only rows where at least one method found a close match
     filtered_df = filtered_df[filtered_df[score_columns].min(axis=1) < min_score_threshold]
+    filtered_df.to_csv("benchmark_filtered.csv", index=False)
 
     if filtered_df.empty:
         logger.warning("No data left after filtering. Cannot generate report.")
