@@ -1,0 +1,63 @@
+## AIRSPACE INFORMATION (Continued)
+
+## Enroute Chart Examples
+
+## Low Enroute Chart (Continued)
+
+## Reference Number
+
+
+
+15000
+13300G 51
+*13300 OLNUE
+MEA GAP
+ΔΗ V465 Δ
+LUNDI 35 114 63
+
+| Field | Value |
+|---|---|
+| Top label | 122.05 |
+| Navaid name | JACKSON |
+| VOR frequency / ident | 115.4  JAC  101 |
+| Morse ident (graphic) | (morse code shown) |
+| Coordinates | N43°37.26'  W110°43.90' |
+| Fix / Procedure | CASPER (MCA) |
+
+Airway altitude restrictions:
+| Airway / Segment | Minimum Crossing / Altitude |
+|---|---|
+| V520 | 15200 W |
+| V330 | 13400 W |
+| V465 NE → V330 W or V520 W | 16000 |
+| V520 E → V330 W | 14200 |
+| V330 E → V520 W | 16000 |
+| V328 NW → V465 SW | 15100 |
+
+## Description
+
+## MEA VHF and RNAV Example
+
+MEA for aircraft utilizing VHF NAVAID of 15000’ MEA for aircraft utilizing RNAV of 13300’
+
+MOCA of 13300’
+
+## MCA and MTA Example at a NAVAID
+
+MCA for aircraft traveling West along V520 to cross JAC at 15200’ MCA for aircraft traveling West along V330 to cross JAC at 13400’
+
+MTA for aircraft crossing over and turning at JAC:
+
+Aircraft traveling NE on V465 and turning to V330 on a W heading or turning to V520 on a W heading must turn at altitude of 16000’ or higher
+
+Aircraft traveling E on V520 and turning to V330 on a W heading must turn at altitude of 14200’
+
+Aircraft traveling E on V330 and turning to V520 on a W heading must turn at altitude of 16000’ or higher
+
+Aircraft traveling NW on V328 and turning to V465 on a SW heading must turn at altitude of 15100’ or higher.
+
+00
+
+80
+
+FAA Chart Users’ Guide - IFR Enroute Symbology

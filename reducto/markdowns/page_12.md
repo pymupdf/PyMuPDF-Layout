@@ -1,0 +1,19 @@
+| Panel | Plot type | X-axis (range / labels) | Y-axis (range / labels) | Colorbar / Legend (range) | Key data / notes |
+|---|---:|---|---|---:|---|
+| A | Heatmap of 100 modularity-maximized partitions | Partitions identified using Louvain (1–100) | Node assignments (Node ID ticks at 20,40,60,80,100; ~100–110 nodes) | Community ID (discrete colors) | Shows 100 different partitions for one dFC instance (169 events); partition degeneracy (multiple community assignments across runs). |
+| B | Association matrix heatmap | Node ID (1–~100; ticks 20,40,60,80,100) | Node ID (same) | Association weight: 0 → 100 | Each element = # times two nodes assigned to same partition across 100 runs (range 0–100). Strong block structure visible. |
+| C | Matrix of z-score Rand indices between partitions | Partitions (1–100) | Partitions (1–100) | z-score Rand index: ~0 → 60 | Pairwise similarity of the 100 partitions; block structure indicates clusters of similar partitions. |
+| D | Scatterplot of mean z-score Rand index vs event count (one representative participant) | Mean z-score Rand index (~10 → ~80) | Number of events (~0 → ~1100) | (no colorbar) | Points cluster broadly; trend is positive (higher mean z-Rand associated with higher event count). |
+| E | Line/point plot of correlation coefficients across participants (N=80) | Subject ID (1–80) | Correlation coefficient (approx. -0.1 → 0.6) | (no colorbar) | Most participants show positive correlation between mean z-Rand and event count; only 4 of 80 participants have negative correlations. Mean/typical correlation visually ≈ 0.2–0.3. |
+
+Figure 5: Partition degeneracy and correlation with excursion count. (A) As an example, we show the set of 100 partitions obtained by maximizing modularity for a single instance of dFC (169 events). (B) The association matrix for this set of partitions. Each element in the association matrix counts the number of times that two nodes were assigned to the same partition. The node order is the same as in Figure 4. (C) Matrix of z-score Rand indices for all pairs of the 100 partitions shown in panel (A). (D) We show the scatterplot of mean z-score Rand index for each time point plotted against the event count, both calculated at the same time point, for one representative participant. (E) Correlation coefficients for z-score Rand index and event count plotted across participants. Note that of the 80 participants, only four exhibited negative correlations.
+
+The image shows network analysis results related to brain function.
+
+*   **Panel A:** Association matrices difference across all participants (Δij), showing change in co-assignment probability (color scale ranges from -0.10 to +0.10).
+*   **Panel B:** Statistically significant differences in co-assignment probabilities between excursion and non-excursion states.
+*   **Panel C:** Number of significant co-assignment changes for each node ordered by rank, colored by brain network: CONT (Control), DMN (Default Mode Network), DAN (Dorsal Attention Network), LIM (Limbic), VAN (Ventral Attention Network), SMN (Somatomotor Network), and VIS (Visual). Regions associated with DMN change the most.
+
+Figure 6: Default mode network dissociates during mass-excursions. A) Mean difference in association matrices constructed during non-mass excursions and excursions. B) Node pairs that were statistically more or less likely to be observed in the same community during nonexcursions compared to excursions. The network labels are taken from Yeo et al. (2011), with labels corresponding to networks for control (CONT), default mode (DMN), dorsal attention (DAN), limbic (LIM), ventral attention (VAN), somatomotor network (SMN), and visual (VIS). C) We sum the rows of the matrix in panel B) to identify regions that that consistently change their community co-assignments with other regions. The regions that change the most are predominantly regions associated with DMN.
+
+43
