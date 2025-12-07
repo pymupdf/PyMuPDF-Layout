@@ -8,11 +8,11 @@
 
 ### Class A
 
-**Open Area (White)**
+Open Area (White)
 
-**High Chart Only**
+*High Chart Only*
 
-**Controlled Airspace**
+*Controlled Airspace*
 
 That airspace from 18,000' MSL to and including FL 600, including the airspace overflying the waters within 12 NM of the coast of the contiguous United States and Alaska and designated offshore areas, excluding Santa Barbara Island, Farallon Island, the airspace south of latitude 25° 04'00" N, the Alaska peninsula west of longitude 160°00'00" W, and the airspace less than 1,500' AGL.
 
@@ -22,13 +22,13 @@ That airspace from 18,000' MSL to and including FL 450, including Santa Barbara 
 
 ### Class B
 
-**Screened Blue with a Solid Blue Outline**
+Screened Blue with a Solid Blue Outline
 
-**Example:**
+*Low Chart Only*
 
-**Low Chart Only**
+*Controlled Airspace*
 
-**Controlled Airspace**
+*Example:*
 
 That airspace from the surface to 10,000' MSL (unless otherwise designated) surrounding the nation's busiest airports. Each Class B airspace area is individually tailored and consists of a surface area and two or more layers.
 
@@ -36,14 +36,14 @@ That airspace from the surface to 10,000' MSL (unless otherwise designated) surr
 
 ### Mode C Area
 
-**A Solid Blue Outline**
+A Solid Blue Outline
 
-**Low Chart Only**
+*Low Chart Only*
 
-**Example:**
-
-**Controlled Airspace**
+*Controlled Airspace*
 
 That airspace within 30 NM of the primary airports of Class B airspace and within 10 NM of designated airports. Mode-C transponder equipment is required. (See FAR 91.215)
 
-See Chart example above.
+*Example:*
+
+*See Chart example above.*

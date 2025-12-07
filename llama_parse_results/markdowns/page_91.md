@@ -3,18 +3,23 @@
 # INVESTOR INFORMATION:
 
 ## ANNUAL MEETING
+
 The annual meeting of shareholders will be held on Thursday, April 24, 2003, in Corning, NY. A formal notice of the meeting together with a proxy statement will be mailed to shareholders on or about March 12, 2003. The proxy statement can also be accessed electronically through the Investor Relations category of the Corning home page on the Internet at www.corning.com. A summary report of the proceedings at the annual meeting will be available without charge upon written request to Ms. Denise A. Hauselt, Secretary and Assistant General Counsel, Corning Incorporated, HQ-E2-10, Corning, NY 14831.
 
 ## ADDITIONAL INFORMATION
+
 A copy of Corning's 2002 Annual Report on Form 10-K filed with the Securities and Exchange Commission is available upon written request to Ms. Denise A. Hauselt, Secretary and Assistant General Counsel, Corning Incorporated, HQ-E2-10, Corning, NY 14831. The Annual Report on Form 10-K can also be accessed electronically through the Investor Relations category of the home page on the Internet at: www.corning.com
 
 ## INVESTOR INFORMATION
+
 Investment analysts who need additional information may contact Mr. Kenneth C. Sofio, Manager of Investor Relations, Corning Incorporated, HQ-E2-25, Corning, NY 14831; Telephone 607.974.9000
 
 ## COMMON STOCK
+
 Corning Incorporated common stock is listed on the New York Stock Exchange and the SWX Swiss Exchange. In addition, it is traded on the Boston, Midwest, Pacific and Philadelphia stock exchanges. Common stock options are traded on the Chicago Board Options Exchange. The abbreviated ticker symbol for Corning Incorporated is "GLW."
 
 ## TRANSFER AGENT AND REGISTRAR
+
 Computershare Investor Services LLC
 P.O. Box A-3504
 Chicago, IL 60690-3504
@@ -22,14 +27,17 @@ Telephone: 800.255.0461
 Website: www.computershare.com
 
 ## CHANGE OF ADDRESS
+
 Report change of address to Computershare Investor Services at the above address.
 
 ## INDEPENDENT ACCOUNTANTS
+
 PricewaterhouseCoopers LLP
 1301 Avenue of the Americas
 New York, NY 10019
 
 ## "Safe Harbor" Statement under the Private Securities Litigation Reform Act of 1995
+
 The statements in this annual report that are not historical facts or information are forward-looking statements. These forward-looking statements involve risks and uncertainties that may cause the outcome to be materially different. Such risks and uncertainties include, but are not limited to:
 
 — global economic and political conditions,
@@ -66,11 +74,16 @@ Printed in USA
 
 © Corning Incorporated 2003
 
-Corning Incorporated     One Riverfront Plaza
-                         Corning, NY 14831-0001
-                         607 974 9000
-                         www.corning.com
-                         02BR24601EN
+----
+
+Corning Incorporated
+
+One Riverfront Plaza
+Corning, NY 14831-0001
+607 974 9000
+www.corning.com
+
+02BR24601EN
 
 CORNING
 Discovering Beyond Imagination

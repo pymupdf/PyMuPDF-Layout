@@ -1,5 +1,7 @@
 
 
+Santos Annual Report 2004 23
+
 # ENHANCING THE PORTFOLIO
 
 In 2004, Santos continued its normal business of actively managing its portfolio through the divestment of non-core assets and the acquisition of assets that fit well with existing Santos assets or can add to the ability of the Company to meet its strategic goals.
@@ -28,16 +30,24 @@ Late in the year, Santos sold its 18.02% share in the Carpentaria Gas Pipeline b
 
 ## BRANTAS PSC
 
-| Map Legend                                        | Description                       |
-| ------------------------------------------------- | --------------------------------- |
-| Santos acreage                                    | Areas operated by Santos          |
-| Santos acreage acquired through Novus acquisition | New Santos areas from acquisition |
-| Oil field                                         | Oil production areas              |
-| Gas field                                         | Gas production areas              |
-| Oil pipeline                                      | Oil transportation infrastructure |
-| Gas pipeline                                      | Gas transportation infrastructure |
+[Map showing the Brantas PSC area in Indonesia, depicting:
+- Bawean 1 PSC and Bawean Island in the north (with scale showing 0-50 kilometres)
+- Java Sea to the east
+- Sampang PSC in the central area
+- Madura Island with locations including Jeruk, Oyong, and Maleo
+- Madura Offshore PSC to the east
+- Surabaya on the mainland
+- Brantas PSC and Grati in the southern portion
+- East Java region
+- Nth Bali 1 PSC in the southeast near the Bali Sea
+- Bali island in the southeast
+- Kangean Islands in the far east
+- A small inset map showing the location within Indonesia
 
-
-Key locations shown: Bawean 1 PSC, Bawean Island, Sampang PSC, Madura Offshore PSC, Surabaya, Brantas PSC, Grail, East Java, Nth Bali 1 PSC, Java Sea, Kangean Islands, Madura Island, Jeruk, Oyong, Maleo, Bali Sea, Bali.
-
-Santos Annual Report 2004 - 23
+Legend:
+- Santos acreage (white boxes)
+- Santos acreage acquired through Novus acquisition (white boxes)
+- Oil field (black squares)
+- Gas field (gray squares)
+- Oil pipeline (solid lines)
+- Gas pipeline (dashed lines)]

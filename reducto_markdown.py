@@ -23,7 +23,7 @@ INPUT_DIR = Path("PDFs")
 FILES_TO_PARSE = list(INPUT_DIR.glob("*.pdf"))
 
 # --- Configuration for Output folders ---
-BASE_OUTPUT_DIR = Path("reducto")
+BASE_OUTPUT_DIR = Path("reducto_results")
 MARKDOWNS_DIR = BASE_OUTPUT_DIR / "markdowns"
 JSONL_OUTPUT = BASE_OUTPUT_DIR / "results.jsonl"
 

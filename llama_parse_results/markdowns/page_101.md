@@ -1,6 +1,6 @@
 
 
-16 Annual Report 2004
+16 Santos Annual Report 2004
 
 ## ACQUIRING NEW ACREAGE
 
@@ -16,17 +16,17 @@ The addition of the Donggala PSC gives Santos a particularly strong presence in 
 
 Other exploration acreage portfolio management and activities during 2004 included:
 
-* the award of exploration permit T/36P in the Sorell Basin, offshore Tasmania
+• the award of exploration permit T/36P in the Sorell Basin, offshore Tasmania
 
-* the addition of three new venture areas in the shallow waters of the Gulf of Mexico and onshore Montana and Texas, which significantly expands and diversifies the US exploration acreage and prospect inventory
+• the addition of three new venture areas in the shallow waters of the Gulf of Mexico and onshore Montana and Texas, which significantly expands and diversifies the US exploration acreage and prospect inventory
 
-* the farm-out of a 16.67% interest in the WA-264-P permit offshore Western Australia to Beach Petroleum
+• the farm-out of a 16.67% interest in the WA-264-P permit offshore Western Australia to Beach Petroleum
 
-* the farm-out of a 60% interest and operatorship of the NT/P61 permit in the Bonaparte Basin, offshore northern Australia to ConocoPhillips
+• the farm-out of a 60% interest and operatorship of the NT/P61 permit in the Bonaparte Basin, offshore northern Australia to ConocoPhillips
 
-* the farm-out of a 70% interest in the deep water exploration block, Nth Bali 1 PSC, offshore East Java Basin to Total and Mitsui
+• the farm-out of a 70% interest in the deep water exploration block, Nth Bali 1 PSC, offshore East Java Basin to Total and Mitsui
 
-* the farm-out of a 25% interest in the VIC P/51 block containing the Callister prospect to Mitsui & Co subsidiary Mitwell Energy Resources.
+• the farm-out of a 25% interest in the VIC P/51 block containing the Callister prospect to Mitsui & Co subsidiary Mitwell Energy Resources.
 
 These farm-outs continued the trend of risk-sharing with quality partners.
 
@@ -62,21 +62,35 @@ An example of this is the strong position Santos has created in the Kutei Basin,
 
 ## KUTEI BASIN
 
-The Kutei Basin is located in Kalimantan, Indonesia, featuring several key locations including:
+[Map of the Kutei Basin region in Indonesia showing:
 
-* Popodi PSC
-* Donggala PSC  
-* Papalang PSC
-* Major cities: Samarinda, Balikpapan, Bontang, Santan, Senipah
-* Geographic features: Makassar Strait, Apar Bay
-* Regional context: Sulawesi province to the east, Palu to the southeast
+Geographic features:
+- Kalimantan (main island)
+- Sulawesi (island to the east)
+- Makassar Strait (body of water)
+- Apor Bay
 
-The basin contains both oil and gas fields with associated pipeline infrastructure connecting the various facilities across the region.
+Cities/locations marked:
+- Bontang
+- Santan
+- Samarinda
+- Senipah
+- Balikpapan
+- Hiu Aman
+- Palu
 
-**Legend:**
-* Oil field
-* Gas field  
-* Oil pipeline
-* Gas pipeline
+Production Sharing Contracts (PSCs):
+- Popodi PSC
+- Donggala PSC
+- Papalang PSC
 
-Scale: 0 - 50 kilometres
+Scale: 0 to 50 kilometres
+
+Small inset map of Australia showing location of main map]
+
+| Legend      |                |
+| ----------- | -------------- |
+| ■ Oil field | — Oil pipeline |
+| ■ Gas field | — Gas pipeline |
+
+

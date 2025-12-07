@@ -29,7 +29,7 @@ Aux fins de l'article II.10, si tout ou partie du traitement des données à car
 Le contractant ne peut sous-traiter ni confier l'exécution du CC à des tiers autres que ceux déjà mentionnés dans son offre sans autorisation écrite préalable du pouvoir adjudicateur.
 
 ### II.10.2
-Même si le pouvoir adjudicateur autorise la sous-traitance, le contractant reste lié par ses obligations contractuelles et est le seul responsable de l'exécution du CC.
+Même si le pouvoir adjudicateur autorise la sous-traitance, le contractant reste lié par ses obligations contractuelles et est le seul responsable de l'*exécution du CC*.
 
 ### II.10.3
 Le contractant doit veiller à ce que le contrat de sous-traitance ne porte pas atteinte aux droits du pouvoir adjudicateur en vertu du CC, et notamment ceux visés aux articles II.8, II.13 et II.22.

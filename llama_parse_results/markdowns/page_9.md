@@ -1,30 +1,44 @@
 
 
+8
+
 where
 
-$$X = \begin{pmatrix}
+$$
+X = \begin{pmatrix}
 l_a - 302.1 \\
 R - 1.71 \\
 z_* - 1090.04
-\end{pmatrix}$$ (23)
+\end{pmatrix}
+\tag{23}
+$$
 
 and the inverse covariance matrix
 
-$$C_M^{-1} = \begin{pmatrix}
+$$
+C_M^{-1} = \begin{pmatrix}
 1.8 & 27.968 & -1.103 \\
 27.968 & 5667.577 & -92.263 \\
 -1.103 & -92.263 & 2.923
-\end{pmatrix}$$ (24)
+\end{pmatrix}
+\tag{24}
+$$
 
-The fourth set of observational data is 12 Hubble evolution data from [21] and [22], its χ<sub>H</sub><sup>2</sup> is defined as
+The fourth set of observational data is 12 Hubble evolution data from [21] and [22], its χ<sup>2</sup><sub>H</sub> is defined as
 
-$$\chi_H^2 = \sum_{i=1}^{12} \frac{[H(z_i) - H_{ob}(z_i)]^2}{\sigma_i^2}.$$ (25)
+$$
+\chi_H^2 = \sum_{i=1}^{12} \frac{[H(z_i) - H_{ob}(z_i)]^2}{\sigma_i^2}.
+\tag{25}
+$$
 
 Note that redshifts of these data fall in the region z ∈ (0, 1.75).
 
 In summary,
 
-$$\chi_{total}^2 = \chi_{sn}^2 + \chi_{cmb}^2 + \chi_{bao}^2 + \chi_H^2.$$ (26)
+$$
+\chi_{total}^2 = \tilde{\chi}_{sn}^2 + \chi_{cmb}^2 + \chi_{bao}^2 + \chi_H^2.
+\tag{26}
+$$
 
 ## IV. FITTING RESULTS
 
@@ -40,5 +54,3 @@ At first, we divide the whole region of redshift into 4 bins (i.e., m = 3), the 
 
 
 TABLE I: The best-fitted χ<sup>2</sup> of four data sets for Model I, CPL model and the ΛCDM model.
-
-8

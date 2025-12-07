@@ -1,5 +1,7 @@
 
 
+Copyright Government of Botswana
+
 ## 25. Staff
 ## 26. Class-child ratio
 
@@ -17,27 +19,27 @@
 
 (g) is disqualified for election to the National Assembly by virtue of provision made in pursuance of section 62 (2) of this Constitution.
 
-(3) For the purposes of this section, two or more terms of imprisonment that are required to be served consecutively shall be regarded as a single term of imprisonment for the aggregate period of those terms, and no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine.
+<ins>(3) For the purposes of this section, two or more terms of imprisonment that are required to be served consecutively shall be regarded as a single term of imprisonment for the aggregate period of those terms, and no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine.</ins>
 
-(4) A Member of the Ntlo ya Dikgosi shall not, while he or she is such a Member, participate in party politics, but active participation in politics prior to being a Member of the Ntlo ya Dikgosi shall not bar any person from being such a Member.
+<ins>(4) A Member of the *Ntlo ya Dikgosi* shall not, while he or she is such a Member, participate in party politics, but active participation in politics prior to being a Member of the *Ntlo ya Dikgosi* shall not bar any person from being such a Member.</ins>
 
 ## 80. Oath of allegiance
 
-Every Member of the Ntlo ya Dikgosi shall, before taking his or her seat therein, take and subscribe before the Ntlo ya Dikgosi the oath of allegiance.
+Every Member of the *Ntlo ya Dikgosi* shall, before taking his or her seat therein, take and subscribe before the *Ntlo ya Dikgosi* the oath of allegiance.
 
-## 81. Secretary to Ntlo ya Dikgosi
+## 81. Secretary to *Ntlo ya Dikgosi*
 
-There shall be a Secretary to the Ntlo ya Dikgosi whose office shall be an office in the public service.
+There shall be a Secretary to the *Ntlo ya Dikgosi* whose office shall be an office in the public service.
 
-## 82. Tenure of office of Members of Ntlo ya Dikgosi
+## 82. Tenure of office of Members of *Ntlo ya Dikgosi*
 
-(1) A Member of the Ntlo ya Dikgosi shall vacate his or her seat in the Ntlo ya Dikgosi—
+(1) A Member of the *Ntlo ya Dikgosi* shall vacate his or her seat in the *Ntlo ya Dikgosi*—
 
 (a) upon expiration of a period of five years from the date upon which he or she takes the oath of allegiance under section 80 of this Constitution;
 
-(b) if, having been designated or selected to the Ntlo ya Dikgosi as such, he or she ceases to be a person for the time being performing the functions of the office of Kgosi;
+(b) if, having been designated or selected to the *Ntlo ya Dikgosi* as such, he or she ceases to be a person for the time being performing the functions of the office of *Kgosi*;
 
-(c) if he or she ceases to be qualified for membership of the Ntlo ya Dikgosi in terms of section 79;
+(c) if he or she ceases to be qualified for membership of the *Ntlo ya Dikgosi* in terms of section 79;
 
 (d) if he or she participates in party politics; or
 
@@ -45,8 +47,6 @@ There shall be a Secretary to the Ntlo ya Dikgosi whose office shall be an offic
 
 whichever occurs first.
 
-(2) A member of the Ntlo ya Dikgosi shall be eligible for reselection, redesignation or reappointment, as the case may be, to the Ntlo ya Dikgosi.
+(2) A member of the *Ntlo ya Dikgosi* shall be eligible for reselection, redesignation or reappointment, as the case may be, to the *Ntlo ya Dikgosi*.
 
-## 83. Rules of Procedure of Ntlo ya Dikgosi
-
-Copyright Government of Botswana
+## 83. Rules of Procedure of *Ntlo ya Dikgosi*

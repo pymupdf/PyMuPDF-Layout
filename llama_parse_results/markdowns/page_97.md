@@ -4,7 +4,7 @@
 
 # NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
 
-## NOTE 7 – INCOME TAX EXPENSE continued
+## <ins>NOTE 7 – INCOME TAX EXPENSE continued</ins>
 
 | Year ended 31 December                                                                                        | 2014US000          | 2013US000    |
 | ------------------------------------------------------------------------------------------------------------- | -------------------- | -------------- |
@@ -18,17 +18,17 @@
 
 3) This income tax benefit results from the election to consolidate certain Australian subsidiaries for income tax purposes effective 1 January 2014, making previously unrecognized deferred tax assets of one of these Australian subsidiaries available for utilization against future income of the consolidated Australian entities. These deferred tax assets were previously unrecognized due to the lack of evidence of future taxable income for these Australian subsidiaries on a stand-alone basis.
 
-## NOTE 8 – KEY MANAGEMENT PERSONNEL COMPENSATION
+## <ins>NOTE 8 – KEY MANAGEMENT PERSONNEL COMPENSATION</ins>
 
-a) Names and positions held of Consolidated Group key management personnel in office at any time during the financial period are:
+**a) Names and positions held of Consolidated Group key management personnel in office at any time during the financial period are:**
 
-Mr M Hannell     Chairman Non-executive
-Mr E McCrady     Managing Director and Chief Executive Officer
-Mr D Hannes      Director – Non-executive
-Mr N Martin      Director – Non-executive
+Mr M Hannell Chairman Non-executive
+Mr E McCrady Managing Director and Chief Executive Officer
+Mr D Hannes Director – Non-executive
+Mr N Martin Director – Non-executive
 Mr W Holcombe Director – Non-executive
-Ms C Anderson    Chief Financial Officer
-Ms G Ford        Vice President of Exploration and Development
+Ms C Anderson Chief Financial Officer
+Ms G Ford Vice President of Exploration and Development
 
 Based on her increased responsibilities due to the Company's growth, Ms. Ford was deemed to be a KMP during the 2014 fiscal year. Prior to that time, Ms. Ford was not considered to be KMP
 

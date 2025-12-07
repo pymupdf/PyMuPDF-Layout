@@ -8,7 +8,11 @@ The benefit of using word classes is that the resulting language model can have 
 
 Our hypothesis is that the advantage in learning the word class assignments on the Twitter data, which solves the data sparsity problem, outweighs any performance penalty that is incurred due to domain mis-match. This differs from the traditional approach where the class assignments ($$w_i \in c_j$$) are learned from the same training text which is used to estimate the class transition probabilities ($$p(c_i|c_{i-1})$$) and the word probabilities ($$p(w_i|c_j)$$). Twitter data, in these experiments, refers to the concatenation of the text downloaded from Twitter with our in-domain data for the reasons described above. The experiments in Section IV-C will compare learning the class assignments on out-of-domain data (hybrid method) to the traditional approach (baseline).
 
-exclusively focused on the so-called limited language pack, which consists of only ten hours of recorded telephone conversations. Our experiments were conducted using the Bengali, Tamil, Turkish and Zulu languages. The languages that we selected for our experiments have the largest vocabulary sizes (See Table I) of the languages in the Babel program and thus suffer the most from the data sparsity problem. As a point of comparison, Tagalog, which was not used in our experiments, has one third as many vocabulary items as Tamil.
+## IV. EXPERIMENTS
+
+### A. Experimental Data
+
+The in-domain data used in the experiments in this paper comes from the IARPA Babel program.<sup>1</sup> This program focuses on keyword search for low-resource languages. The languages are low resource in the sense that they have fewer native speakers than the languages receiving the most attention from researchers and also in the sense that the provided training data is small in comparison to what is typically used. We exclusively focused on the so-called limited language pack, which consists of only ten hours of recorded telephone conversations. Our experiments were conducted using the Bengali, Tamil, Turkish and Zulu languages. The languages that we selected for our experiments have the largest vocabulary sizes (See Table I) of the languages in the Babel program and thus suffer the most from the data sparsity problem. As a point of comparison, Tagalog, which was not used in our experiments, has one third as many vocabulary items as Tamil.
 
 | TABLE ILANGUAGE VOCABULARY SIZE<br/>Language | TABLE ILANGUAGE VOCABULARY SIZE<br/>Types | TABLE ILANGUAGE VOCABULARY SIZE<br/>Tokens |
 | -------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
@@ -18,17 +22,11 @@ exclusively focused on the so-called limited language pack, which consists of on
 | Zulu                                         | 13,628                                    | 58,027                                     |
 
 
-## IV. EXPERIMENTS
-
-### A. Experimental Data
-
-The in-domain data used in the experiments in this paper comes from the IARPA Babel program.<sup>1</sup> This program focuses on keyword search for low-resource languages. The languages are low resource in the sense that they have fewer native speakers than the languages receiving the most attention from researchers and also in the sense that the provided training data is small in comparison to what is typically used. We
-
 ### B. N-gram Language Models
 
 We performed data collection and language model training experiments on the Bengali, Tamil, Turkish and Zulu languages. We were able to collect useful data for each of the four languages as seen in Table II. The data collection experiment was especially successful for Turkish and Bengali. For both of those languages the interpolation weight given to the Twitter LM was over 20% and the corresponding reduction in perplexity was more than 12%.
 
-| TABLE IITWITTER DATA COLLECTION EXPERIMENT RESULTS<br/>Lang. | TABLE IITWITTER DATA COLLECTION EXPERIMENT RESULTS<br/>Users | TABLE IITWITTER DATA COLLECTION EXPERIMENT RESULTS<br/>Lines | TABLE IITWITTER DATA COLLECTION EXPERIMENT RESULTS<br/>Δ PPL | TABLE IITWITTER DATA COLLECTION EXPERIMENT RESULTS<br/>Weight |
+| TABLE IITWITTER DATA COLLECTION EXPERIMENT RESULTS<br/>Lang. | TABLE IITWITTER DATA COLLECTION EXPERIMENT RESULTS<br/>Users | TABLE IITWITTER DATA COLLECTION EXPERIMENT RESULTS<br/>Lines | TABLE IITWITTER DATA COLLECTION EXPERIMENT RESULTS<br/>∆ PPL | TABLE IITWITTER DATA COLLECTION EXPERIMENT RESULTS<br/>Weight |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------- |
 | Bengali                                                      | 12k                                                          | 7.7M                                                         | 12.5%                                                        | .21                                                           |
 | Tamil                                                        | 13k                                                          | 4.7M                                                         | 7.5%                                                         | .18                                                           |

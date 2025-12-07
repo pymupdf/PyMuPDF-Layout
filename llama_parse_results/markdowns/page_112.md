@@ -1,13 +1,14 @@
 
 
 US 2012/0003590 A1                                                Jan. 5, 2012
-                                    100
+
+100
 
 [0480] Also, the pattern forming method of the present invention comprises a step of exposing and developing the resist film above.
 
 [0481] The composition of the present invention is typically used as follows. That is, the composition of the present invention is typically coated on a support such as substrate to form a film.
 
-[0482] The thickness of the film is preferably from 0.02 to 0.1 μm. The method for coating the composition on a substrate is preferably spin coating, and the spinning speed is preferably from 1,000 to 3,000 rpm.
+[0482] The thickness of the film is preferably from 0.02 to 0.1 µm. The method for coating the composition on a substrate is preferably spin coating, and the spinning speed is preferably from 1,000 to 3,000 rpm.
 
 [0483] For example, the composition is coated on such a substrate (e.g., silicon/silicon dioxide-coated substrate, silicon nitride and chromium-deposited quartz substrate) as used in the production of a precision integrated circuit device, an imprint mold or the like, by using a spinner, a coater or the like. Thereafter, the coating is dried to obtain an actinic ray-sensitive or radiation-sensitive film (hereinafter, sometimes referred to as a "resist film"). Incidentally, a known antireflection film may be previously provided by coating.
 
@@ -31,16 +32,18 @@ US 2012/0003590 A1                                                Jan. 5, 2012
 
 [0492] The present invention is described in greater detail below, but the contents of the present invention are not limited thereto.
 
-### <Resin>
+<Resin>
 
 [0493] Resins P-1 to P-48 illustrated above were synthesized as follows.
 
-#### Synthesis Example 1
-#### Resin P-14
+Synthesis Example 1
+
+Resin P-14
 
 [0494] Resin P-14 was synthesized according to the following scheme.
 
-| ![Chemical structure showing benzene ring with vinyl group and ester group]()<br/>(5) | → | ![Chemical structure showing benzene ring with vinyl group and OH group]()<br/>(6) | → | ![Chemical structure showing benzene ring with vinyl group and SO2F group]()<br/>(7) | → | ![Chemical structure showing benzene ring with vinyl group and SO3Na group]()<br/>(8) |
-| ------------------------------------------------------------------------------------- | - | ---------------------------------------------------------------------------------- | - | ------------------------------------------------------------------------------------ | - | ------------------------------------------------------------------------------------- |
-
-
+[Chemical synthesis scheme showing transformation of compound (5) to (6) to (7) to (8):
+- Compound (5): 4-vinylphenyl acetate with structure showing vinyl group attached to benzene ring with acetate ester group
+- Compound (6): 4-vinylphenol with structure showing vinyl group attached to benzene ring with hydroxyl group
+- Compound (7): 4-vinylphenyl perfluorobutanesulfonate with structure showing vinyl group attached to benzene ring with O-SO<sub>2</sub>-C<sub>4</sub>F<sub>9</sub> group
+- Compound (8): Sodium 4-vinylphenyl perfluorobutanesulfonate with structure showing vinyl group attached to benzene ring with O-SO<sub>2</sub>-C<sub>4</sub>F<sub>8</sub>-SO<sub>3</sub>Na group]

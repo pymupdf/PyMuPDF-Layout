@@ -1,5 +1,7 @@
 
 
+Copyright Government of Botswana
+
 25. Staff
 26. Class-child ratio
 
@@ -22,9 +24,10 @@ a Bill for an Act of Parliament under this section shall not be passed by the Na
 (b) references to the alteration of any provision of this Constitution include references to the amendment, modification or re-enactment, with or without modification, of that provision, the suspension or repeal of that provision and the making of a different provision in lieu thereof.
 
 # PART V
-## Summoning, Prorogation and Dissolution (ss 90-93)
 
-### 90. Sessions of Parliament
+*Summoning, Prorogation and Dissolution* **(ss 90-93)**
+
+## **90. Sessions of Parliament**
 
 (1) Each session of Parliament shall be held at such place within Botswana and shall commence at such time as the President may appoint.
 
@@ -32,7 +35,7 @@ a Bill for an Act of Parliament under this section shall not be passed by the Na
 
 (3) Whenever Parliament is dissolved a general election of the Elected Members of the Assembly shall be held within 60 days of the date of the dissolution and a session of Parliament shall be appointed to commence within 30 days of the date of that general election.
 
-### 91. Prorogation and dissolution of Parliament
+## **91. Prorogation and dissolution of Parliament**
 
 (1) The President may at any time prorogue Parliament.
 
@@ -45,5 +48,3 @@ a Bill for an Act of Parliament under this section shall not be passed by the Na
 Provided that the life of Parliament shall not be extended under this subsection for more than five years.
 
 (5) If, after a dissolution of Parliament and before the holding of the general election of the Elected Members of the National Assembly, the President considers that, owing to the existence
-
-Copyright Government of Botswana

@@ -1,12 +1,16 @@
 
 
-# Basic English Language Skills
+Basic English Language Skills
 
-## Compare the following examples:
+# Compare the following examples:
 
-### Example A
+## Example A
+
+[Email composition window showing:]
 
 **To:** assessor@obridgeacademy.co.za
+
+**Cc:**
 
 **Subject:** Enquiry regarding Assignment 1 for Safety Management 101
 
@@ -18,9 +22,13 @@ Kind regards
 [Name]
 [Student Number]
 
-### Example B
+## Example B
+
+[Email composition window showing:]
 
 **To:** assessor@obridgeacademy.co.za
+
+**Cc:**
 
 **Subject:** Enquiry regarding Assignment 1 for Safety Management 101
 

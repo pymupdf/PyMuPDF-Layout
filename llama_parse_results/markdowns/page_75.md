@@ -1,8 +1,10 @@
 
 
+BARSKA®
+
 # WARRANTY
 
-**BARSKA** warrants your microscope to be free from defects in materials and workmanship for one (1) year. BARSKA will repair or replace such product or part thereof which, upon inspection by BARSKA, is found to be defective in materials or workmanship. As a condition to the obligation of BARSKA to repair or replace such product, the product must be returned to BARSKA together with proof-of-purchase satisfactory to BARSKA.
+BARSKA warrants your microscope to be free from defects in materials and workmanship for one (1) year. BARSKA will repair or replace such product or part thereof which, upon inspection by BARSKA, is found to be defective in materials or workmanship. As a condition to the obligation of BARSKA to repair or replace such product, the product must be returned to BARSKA together with proof-of-purchase satisfactory to BARSKA.
 
 The Proper Return Merchandise Authorization Number (RMA) must be obtained from BARSKA in advance of return. Call BARSKA at (909) 445-8168 to receive the number to be displayed on the outside of your shipping container.
 
@@ -24,28 +26,50 @@ BARSKA reserves the right to modify or discontinue, without prior notice to you,
 
 If warranty problems arise, or if you need assistance in using your microscope contact:
 
-**BARSKA**  
-Customer Service Department  
-Tel. (909) 445-8168  
-Fax. (909) 445-8169  
+BARSKA
+Customer Service Department
+Tel. (909) 445-8168
+Fax. (909) 445-8169
 e-mail: service@barska.com
 
 Monday-Friday 8:30AM-5:30PM PST
 
-**NOTE:** This warranty is valid to U.S.A. customers who have purchased this product from an authorized BARSKA dealer in the U.S.A.
+NOTE: This warranty is valid to U.S.A. customers who have purchased this product from an authorized BARSKA dealer in the U.S.A.
 
 # MICROSCOPE USER MANUAL
 
-| **MODEL AY11240**<br/>40X,100X,400X<br/>COMPOUND MONOCULAR | **MODEL AY11238**<br/>40X,100X,400X<br/>COMPOUND MONOCULAR  | **MODEL AY11228**<br/>20X,40X<br/>STEREO BINOCULAR |
-| ---------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
-| **MODEL AY11232**<br/>7X-45X<br/>STEREO ZOOM               | **MODEL AY11230**<br/>20X,40X<br/>STEREO TRINOCULAR         |                                                    |
-| **MODEL AY11236**<br/>40X,100X,400X,1000X<br/>COMPOUND     | **MODEL AY11234**<br/>7X-45X<br/>ZOOM STEREO<br/>TRINOCULAR |                                                    |
+**MODEL AY11240**
+40X,100X,400X
+COMPOUND MONOCULAR
 
+**MODEL AY11238**
+40X,100X,400X
+COMPOUND MONOCULAR
 
-©2015 BARSKA Optics  
-Printed in China  
+**MODEL AY11228**
+20X,40X
+STEREO BINOCULAR
+
+**MODEL AY11232**
+7X-45X
+STEREO ZOOM
+
+**MODEL AY11230**
+20X,40X
+STEREO TRINOCULAR
+
+**MODEL AY11236**
+40X,100X,400X,1000X
+COMPOUND
+
+**MODEL AY11234**
+7X-45X
+ZOOM STEREO
+TRINOCULAR
+
+BARSKA®
+
+855 Towne Center Drive Pomona, CA 91767
+©2015 BARSKA Optics    Tel: 888-666-6769 Fax: 909.445.8169
+Printed in China    www.barska.com
 4-15
-
-855 Towne Center Drive Pomona, CA 91767  
-Tel: 888-666-6769 Fax: 909.445.8169  
-www.barska.com

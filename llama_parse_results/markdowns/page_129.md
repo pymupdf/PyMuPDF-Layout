@@ -1,7 +1,6 @@
 
-60
 
-Notes to Consolidated Financial Statements
+60 Notes to Consolidated Financial Statements
 
 At December 31, 2004, there is a $6 million valuation allowance provided on certain New Jersey state net operating loss carryforwards and other New Jersey state deferred tax assets because management believes these assets do not meet the "more likely than not" criteria for recognition under SFAS 109. Management believes all other deferred tax assets are more likely than not to be realized because of the future reversal of existing taxable temporary differences and expected future taxable income. Accordingly, there are no other valuation allowances provided at December 31, 2004.
 
@@ -13,8 +12,7 @@ If guidance is issued that indicates the planned repatriation qualifies for the 
 
 ## NOTE 10 — COMMITMENTS AND CONTINGENCIES
 
-### Leases.
-The Company leases real estate and various equipment under operating and, to a lesser extent, capital lease arrangements. Certain real estate leases provide for escalation of rent based upon a specified price index and/or based upon periodic appraisals.
+**Leases.** The Company leases real estate and various equipment under operating and, to a lesser extent, capital lease arrangements. Certain real estate leases provide for escalation of rent based upon a specified price index and/or based upon periodic appraisals.
 
 At December 31, 2004, the Company was obligated under non-cancelable operating leases and capital leases to make future minimum lease payments as follows:
 

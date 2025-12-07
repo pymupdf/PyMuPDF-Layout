@@ -1,14 +1,14 @@
 
 
-Santos Annual Report 2004 - 27
+Santos Annual Report 2004    27
+
+[Image: A modern multi-story building with orange/red facade and glass windows, with a tree in the foreground]
 
 Santos is investing in the future of Australia's petroleum industry through the funding of the Australian School of Petroleum at the University of Adelaide.
 
 be working in business operations with a lean and efficient corporate and services group.
 
-With the exception of a small number of project teams, all non-award based positions in the Company were declared vacant and a selection process commenced around a set of criteria designed to ensure that people with the right skills and the ability to successfully grow Santos were appointed.
-
-As is often the case with transformational change initiatives, not everyone was re-appointed and, as a result, the workforce was reduced by 9%.
+With the exception of a small number of project teams, all non-award based positions in the Company were declared vacant and a selection process commenced around a set of criteria designed to ensure that people with the right skills and the ability to successfully grow Santos were appointed. As is often the case with transformational change initiatives, not everyone was re-appointed and, as a result, the workforce was reduced by 9%.
 
 ## CULTURE CHANGE
 
@@ -34,7 +34,9 @@ As a finalist for this award Santos was recognised for its leadership role in br
 
 Santos trialled innovative waste management techniques during 2004 to reduce the volume of hydrocarbon waste generated from Cooper Basin operations. Preliminary results indicate that these waste volumes can be reduced to 3-5% of their original volume, which is a significant achievement.
 
-This technology will be implemented where possible across Santos operations. The long-term environmental and financial benefits of using this technology are expected to be considerable.
+This technology will be implemented where possible
+
+across Santos operations. The long-term environmental and financial benefits of using this technology are expected to be considerable.
 
 ## REDUCED OIL SPILLS
 
@@ -50,12 +52,14 @@ Santos is committed to achieving effective emission reduction targets, to the pu
 
 ## OIL SPILL VOLUMES
 
+m<sup>3</sup>
+
 | Year | Volume (m³) |
 | ---- | ----------- |
 | '01  | 500         |
-| '02  | 2000        |
-| '03  | 1500        |
+| '02  | 600         |
+| '03  | 2000        |
 | '04  | 83          |
 
 
-*Note: The spike in 2002 was due to the Lytton oil spill effect*
+Lytton oil spill effect

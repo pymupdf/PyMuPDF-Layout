@@ -1,8 +1,8 @@
 
 
-European Agency for Safety and Health at Work
+Contract no: [complete]
 
-Contract no: [complete]                                                EC - FWC services Dec 2018
+EC - FWC services Dec 2018
 
 ## I.6.3. Payment of the balance
 
@@ -11,11 +11,9 @@ The contractor (or leader in the case of a joint tender) must send an invoice fo
    * a list of all pre-existing rights to the results or parts of the results or a declaration stating that there are no such pre-existing rights, as provided for in Article II.13.4 (Annex IV);
    * relevant progress report or deliverable result, as stated in the specific contract.
 
-2. The contracting authority must approve the submitted documents or deliverables and pay within **60 days from receipt of the invoice**.
+2. The contracting authority must approve the submitted documents or deliverables and pay within **60 days from receipt of the invoice.**
 
-3. If the contracting authority has observations to make, it must send them to the contractor (or leader in the case of a joint tender) and suspend the time limit for payment in accordance with Article II.21.7.
-The contractor (or leader in the case of a joint tender) has fifteen days to submit additional information or corrections or a new version of the documents if the contracting authority requires it.
-
+3. If the contracting authority has observations to make, it must send them to the contractor (or leader in the case of a joint tender) and suspend the time limit for payment in accordance with Article II.21.7. The contractor (or leader in the case of a joint tender) has fifteen days to submit additional information or corrections or a new version of the documents if the contracting authority requires it.
 4. The contracting authority must give its approval and pay within the remainder of the time-limit indicated in point (2.) unless it rejects partially or fully the submitted documents or deliverables.
 
 ## I.6.4. Performance guarantee
@@ -30,19 +28,17 @@ Retention money guarantee is not applicable to this FWC.
 
 Payments must be made to the contractor's (or leader's in the case of a joint tender) bank account denominated in euro, identified as follows:
 
-| Name of bank:                             |   |
-| ----------------------------------------- | - |
-| Full address of branch:                   |   |
-| Exact denomination of account holder:     |   |
-| Full account number including bank codes: |   |
-| IBAN code:                                |   |
-
+> Name of bank:
+> Full address of branch:
+> Exact denomination of account holder:
+> Full account number including bank codes:
+> IBAN code:
 
 ## I.8. COMMUNICATION DETAILS
 
 For the purpose of this FWC, communications must be sent to the following addresses:
 
-**Contracting authority:**
+Contracting authority:
 European Agency for Safety and Health at Work
 Communication and Promotion Unit
 Santiago de Compostela, 12 – 5th floor

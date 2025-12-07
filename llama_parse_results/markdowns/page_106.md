@@ -1,6 +1,6 @@
 
 
-30    Annual Report 2004
+30 Annual Report 2004
 
 of, non-executive, independent Directors, except for the Environmental and Safety Committee, which includes the CEO as a member.
 
@@ -12,23 +12,23 @@ Executive management attend Board and Committee meetings, at which they report t
 
 The composition of the Board is determined in accordance with the Company's Constitution and the Board Guidelines which, among other things, require that:
 
-* the Board is to comprise a minimum of five and a maximum of ten Directors (exclusive of the CEO);
-
-* the Board should comprise a substantial majority of independent, non-executive Directors;
-
-* there should be a separation of the roles of Chairman and Chief Executive Officer of the Company; and
-
-* the Chairman of the Board should be an independent, non-executive Director.
+> * the Board is to comprise a minimum of five and a maximum of ten Directors (exclusive of the CEO);
+> 
+> * the Board should comprise a substantial majority of independent, non-executive Directors;
+> 
+> * there should be a separation of the roles of Chairman and Chief Executive Officer of the Company; and
+> 
+> * the Chairman of the Board should be an independent, non-executive Director.
 
 Under the Company's Constitution approximately one-third of Directors retire by rotation each year and Directors appointed during the year are required to submit themselves for election by shareholders at the Company's next Annual General Meeting. The Board Guidelines encourage Directors to retire at the first Annual General Meeting after reaching the age of 72 years and not seek re-appointment.
 
 Currently, the Board comprises eight non-executive Directors and one executive Director. The Board has adopted the definition set out in the ASX Best Practice Recommendations and as defined in the 2002 guidelines of the Investment and Financial Services Association Limited and considers all current non-executive Directors, including the Chairman, to be independent directors.
 
-Generally, the Board considers a Director to be independent if he or she is not a member of management and is free of any business or other relationship that could materially interfere with, or could reasonably be perceived to materially interfere with, the Director's ability to act in the best interests of the Company. The Board will assess the materiality of any given relationship that may affect independence on a case by case basis and has adopted materiality guidelines to assist in that assessment. Under these guidelines, the following interests are regarded as material in the absence of any mitigating factors:
-
-* a holding of 5% or more of the Company's voting shares or a direct association with an entity that holds more than 5% of the Company's voting shares;
-
-* an affiliation with an entity which accounts for 5% or more or the revenue or expense of the Company.
+> Generally, the Board considers a Director to be independent if he or she is not a member of management and is free of any business or other relationship that could materially interfere with, or could reasonably be perceived to materially interfere with, the Director's ability to act in the best interests of the Company. The Board will assess the materiality of any given relationship that may affect independence on a case by case basis and has adopted materiality guidelines to assist in that assessment. Under these guidelines, the following interests are regarded as material in the absence of any mitigating factors:
+> 
+> * a holding of 5% or more of the Company's voting shares or a direct association with an entity that holds more than 5% of the Company's voting shares;
+> 
+> * an affiliation with an entity which accounts for 5% or more or the revenue or expense of the Company.
 
 The Board has determined that there should not be any arbitrary length of tenure that should be considered to materially interfere with a Director's ability to act in the best interests of the Company, as it believes this assessment must be made on a case by case basis with reference to the length of service of all members of the Board.
 

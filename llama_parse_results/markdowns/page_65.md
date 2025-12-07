@@ -17,7 +17,6 @@ It is the responsibility of each tenderer to ensure that the total amount of the
 The **price structure** document as referred to in Section 3.5 may be required by the Contracting Authority. Such price structure document shall explain in detail how tenderers have established their prices for the service. The price structure document should cover at least the following elements:
 
 i. the expenditure foreseen for staff (HR cost), with breakdown of cost demonstrating compliance of the prices with the laws of the country in which the services are to be performed, for minimum levels of staff remuneration, contributions to the social security, occupational safety and health standards, and/or other applicable schemes and standards;
-
 ii. all other elements that have been taken into account to formulate the financial offer and that cover all the non-HR costs arising from the technical aspects of the tender (including, but not limited to: reporting requirements, training, recruitment and replacement of staff with the appropriate qualification level, travelling arrangements – if applicable, FWC management, the potential liquidated damages/compensations foreseen in the service level agreement and/or other risk factors, company overheads, profit margin, etc.).
 
 The provisions on price revisions are provided in the Draft FWC.

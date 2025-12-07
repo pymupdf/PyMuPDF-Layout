@@ -11,12 +11,16 @@ www.enisa.europa.eu
 
 **Title: Development & Support of Infrastructure & Services related to EU Cyber Crisis Cooperation**
 
-* Lot 1: Development of Material for Exercises, Challenges and Trainings
-* Lot 2: Provision of infrastructure for Operational Cooperation and exercises  
-* Lot 3: Audio-visual material development, Journalistic, Public Affairs and Back Office Support
+Lot 1: Development of Material for Exercises, Challenges and Trainings
 
-**Reference:** ENISA F-COD-20-T03  
-**Procurement procedure:** Open call for tender (with three (3) Lots)  
+Lot 2: Provision of infrastructure for Operational Cooperation and exercises
+
+Lot 3: Audio-visual material development, Journalistic, Public Affairs and Back Office Support
+
+**Reference:** ENISA F-COD-20-T03
+
+**Procurement procedure:** Open call for tender (with three (3) Lots)
+
 **Expiry date and time:** 13<sup>th</sup> March 2020 at 18:00 (CET) Central European time
 
 Dear Madam/Sir,
@@ -29,7 +33,7 @@ Economic operators interested in this contract are invited to submit a tender in
 
 ## 1. Submission of tenders.
 
-Tenders must be submitted exclusively via the electronic submission system (e-Submission) available from the above website<sup>2</sup> and accessible on the Funding and Tenders Opportunities portal (F&T portal)<sup>3</sup>. Tenders submitted in any other way (e.g. e-mail or by letter) will be disregarded.
+Tenders must be submitted exclusively via the electronic submission system (e-Submission) available from the above website<sup>2</sup> and accessible on the Funding and Tenders Opportunities portal (F&T portal)<sup>3</sup>, Tenders submitted in any other way (e.g. e-mail or by letter) will be disregarded.
 
 In order to submit a tender using e-Submission, economic operators (each member of the group in the case of a joint tender) will need to register in the European Commission's Participant Register - an online register of organisations participating in EU calls for tenders or proposals. On registering each organisation obtains a Participant Identification Code (PIC, 9-digit number) which acts as its
 
@@ -37,6 +41,7 @@ In order to submit a tender using e-Submission, economic operators (each member 
 
 <sup>1</sup> Subscription to the call for tender at the above link allows interested economic operators to receive e-mail notifications when new information or documents are published. Subscription is free of charge and does not involve any commitment to submit a tender.
 
-<sup>2</sup> For detailed instructions on how to submit a tender please consult the e-Submission Quick Guide available at: https://webgate.ec.europa.eu/digit/opsys/esubmission/assets/documents/manual/quickGuide_en.pdf. The supported browsers, file types, size of attachments and other system requirements can be consulted at: https://webgate.ec.europa.eu/fpfis/wikis/x/f6dqEg. In case of technical problems, please contact the e-Submission Helpdesk (see contact details in the e-Submission Quick Guide) as soon as possible.
+<sup>2</sup> For detailed instructions on how to submit a tender please consult the e-Submission Quick Guide available at: https://webgate.ec.europa.eu/digit/opsys/esubmission/assets/documents/manual/quickGuide_en.pdf.
+The supported browsers, file types, size of attachments and other system requirements can be consulted at: https://webgate.ec.europa.eu/fpfis/wikis/x/f6dqEg. In case of technical problems, please contact the e-Submission Helpdesk (see contact details in the e-Submission Quick Guide) as soon as possible.
 
 <sup>3</sup> https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home

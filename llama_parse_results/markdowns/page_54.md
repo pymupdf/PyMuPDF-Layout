@@ -1,7 +1,7 @@
 
 
-ECHA
-EUROPEAN CHEMICALS AGENCY
+# ECHA
+## EUROPEAN CHEMICALS AGENCY
 
 ## 2.4 Ways to submit a tender: how can economic operators organise themselves to submit a tender?
 
@@ -19,9 +19,9 @@ A joint tender is a situation where a tender is submitted by a group (with or wi
 
 All members of the group assume joint and several liability towards the *Contracting Authority* for the performance of the contract as a whole.
 
-Group members must appoint a *Group Leader* and a single point of contact authorised to act on their behalf in connection with the submission of the tender and all relevant questions, clarification requests, notifications, etc., that may be received during the evaluation, award and until the contact signature. The model power of attorney attached in **Annex 04** "Power of Attorney" is to be used.
+Group members must appoint a *Group Leader* and a single point of contact authorised to act on their behalf in connection with the submission of the tender and all relevant questions, clarification requests, notifications, etc., that may be received during the evaluation, award and until the contact signature. The model power of attorney attached in **Annex 04 "Power of Attorney"** is to be used.
 
-The joint tender must clearly indicate the role and tasks of each member and of the *Group Leader* who will act as the *Contracting Authority's* contact point for the contract's administrative or financial aspects and operational management. The *Group Leader* will have full authority to bind the group and each of its members during contract execution. If the joint tender is successful, the *Contracting Authority* shall sign the contract with the Group Leader, authorized by the other members to sign the contract on their behalf via power of attorney drawn up in the model attached in **Annex 04** "Power of Attorney".
+> The joint tender must clearly indicate the role and tasks of each member and of the *Group Leader* who will act as the *Contracting Authority*'s contact point for the contract's administrative or financial aspects and operational management. The *Group Leader* will have full authority to bind the group and each of its members during contract execution. If the joint tender is successful, the *Contracting Authority* shall sign the contract with the Group Leader, authorized by the other members to sign the contract on their behalf via power of attorney drawn up in the model attached in **Annex 04 "Power of Attorney"**.
 
 Changes in the composition of the group during the procurement procedure (after the submission deadline and before contract signature) shall lead to rejection of the tender except in case of:
 

@@ -35,33 +35,35 @@ Note: For oil immersion, please use the index of refraction 1.515 oil
 
 ## Total Magnification
 
-| Magnification Objective | Eyepiece | 10x   |
-| ----------------------- | -------- | ----- |
-| 4x                      |          | 40x   |
-| 10x                     |          | 100x  |
-| 40x (s)                 |          | 400x  |
-| 100x (oil,s)            |          | 1000x |
+| MagnificationObjective | Eyepiece | 10x   |
+| ---------------------- | -------- | ----- |
+| 4x                     |          | 40x   |
+| 10x                    |          | 100x  |
+| 40x (s)                |          | 400x  |
+| 100x (oil,s)           |          | 1000x |
 
+
+<page_footer>16</page_footer>
 
 # PARTS LIST
 
-| Name                              | Qty |
-| --------------------------------- | --- |
-| Microscope Stand                  | 1   |
-| 4x (parfocal distance adjustable) | 1   |
-| 10x                               | 1   |
-| Achromatic Objective              | 1   |
-|                                   | 1   |
-| 10x Wide Field Eyepiece w/Pointer | 2   |
-| Abbe Condenser NA1.25             | 1   |
-| Plastic Dust Cover                | 1   |
-| Spare 6V20W Halogen Bulb          | 1   |
-| Lens Cleaning Tissue              | 1   |
-| Cedar Oil                         | 1   |
-| 1A Fuse (spare)                   | 1   |
-| Specification                     | 1   |
-| Inspection Certificate            | 1   |
-| Packing List                      | 1   |
+| Name                              | Qty                                         |   |
+| --------------------------------- | ------------------------------------------- | - |
+| Microscope Stand                  | 1                                           |   |
+| Achromatic Objective              | 4x (parfocal distance adjustable)           | 1 |
+|                                   | 10x                                         | 1 |
+|                                   | 40x (s) (parfocal distance adjustable)      | 1 |
+|                                   | 100x (oil,s) (parfocal distance adjustable) | 1 |
+| 10x Wide Field Eyepiece w/Pointer | 2                                           |   |
+| Abbe Condenser NA1.25             | 1                                           |   |
+| Plastic Dust Cover                | 1                                           |   |
+| Spare 6V20W Halogen Bulb          | 1                                           |   |
+| Lens Cleaning Tissue              | 1                                           |   |
+| Cedar Oil                         | 1                                           |   |
+| 1A Fuse (spare)                   | 1                                           |   |
+| Specification                     | 1                                           |   |
+| Inspection Certificate            | 1                                           |   |
+| Packing List                      | 1                                           |   |
 
 
 # OPERATION
@@ -71,5 +73,3 @@ Note: For oil immersion, please use the index of refraction 1.515 oil
 3. Place the specimen on the stage and secure with spring clips. NOTE: The cover glass must face upward (the thinner glass is the cover glass), otherwise when the 40x objective is used the specimen cannot be observed. Observation is best when the thickness of the cover glass is 0.1-1.1mm and the cover glass is 0.17mm.
 4. Plug power cord into an electrical outlet. Turn microscope lamp ON.
 5. Observe the specimen using the lowest magnification objective first. The 10x objective provides a larger field of view making it easier to search the specimen.
-
-<page_footer>16</page_footer>

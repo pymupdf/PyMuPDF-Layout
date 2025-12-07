@@ -2,7 +2,7 @@
 
 Santos Annual Report 2004 :: 25
 
-# PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) BY ACTIVITY
+## PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) BY ACTIVITY
 
 |                                  | Sales gas(incl. ethane)PJ | Crude oilmmbbl | Condensatemmbbl | LPG000tonnes | Totalmmboe |
 | -------------------------------- | ------------------------- | -------------- | --------------- | ------------ | ---------- |
@@ -14,8 +14,7 @@ Santos Annual Report 2004 :: 25
 | Estimated reserves year end 2004 | 2,873                     | 74             | 49              | 3,523        | 643        |
 
 
-## PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) YEAR END 2004 BY AREA
-(mmboe)
+## PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) YEAR END 2004 BY AREA (mmboe)
 
 | Area                        | Sales gas(incl. ethane)PJ | Crude oilmmbbl | Condensatemmbbl | LPG000tonnes | Totalmmboe |
 | --------------------------- | ------------------------- | -------------- | --------------- | ------------ | ---------- |
@@ -31,8 +30,7 @@ Santos Annual Report 2004 :: 25
 | Total                       | 2,873                     | 74             | 49              | 3,523        | 643        |
 
 
-## RESERVES (SANTOS SHARE)
-(mmboe)
+## RESERVES (SANTOS SHARE) (mmboe)
 
 |                                      | Year end2003 | Production | Revisions | Additions | Acq/Divest | Year end2004 |
 | ------------------------------------ | ------------ | ---------- | --------- | --------- | ---------- | ------------ |
@@ -43,10 +41,4 @@ Santos Annual Report 2004 :: 25
 
 \* Contingent resources excludes any contribution from Jeruk which was still under evaluation at year end.
 
-## DEFINING RESERVES
-Santos has in place an evaluation and reporting process that is in line with international industry practice and is in general conformity with reserves definitions and resource classification systems published by the Society of Petroleum Engineers (SPE), World Petroleum Congress (WPC) and the American Association of Petroleum Geologists (AAPG). The definitions used are consistent with the requirements of the Australian Stock Exchange Ltd (ASX).
-
-Reserves are defined as those quantities of petroleum which are anticipated to be commercially recovered from known accumulations from a given date forward. Santos reports reserves net of the gas required for processing and transportation to the customer. Reserves reported are based on, and accurately reflect, information compiled by full-time employees of the Company who have the requisite qualifications and experience prescribed by the ASX Listing Rules.
-
-## EXTERNALLY REVIEWED BOOKING PROCESS
-Santos' reserves processes and procedures were reviewed by independent expert, Gaffney, Cline & Associates, and found to be 'appropriate to providing robust estimates of Santos' reserve position in accordance with international industry practice'.
+**DEFINING RESERVES** Santos has in place an evaluation and reporting process that is in line with international industry practice and is in general conformity with reserves definitions and resource classification systems published by the Society of Petroleum Engineers (SPE), World Petroleum Congress (WPC) and the American Association of Petroleum Geologists (AAPG). The definitions used are consistent with the requirements of the Australian Stock Exchange Ltd (ASX). Reserves are defined as those quantities of petroleum which are anticipated to be commercially recovered from known accumulations from a given date forward. Santos reports reserves net of the gas required for processing and transportation to the customer. Reserves reported are based on, and accurately reflect, information compiled by full-time employees of the Company who have the requisite qualifications and experience prescribed by the ASX Listing Rules. **EXTERNALLY REVIEWED BOOKING PROCESS** Santos' reserves processes and procedures were reviewed by independent expert, Gaffney, Cline & Associates, and found to be 'appropriate to providing robust estimates of Santos' reserve position in accordance with international industry practice'.

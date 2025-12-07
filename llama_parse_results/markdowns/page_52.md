@@ -1,9 +1,6 @@
 
 
-EC - FWC services Dec 2018
-Contract no: [complete]
-
-European Agency for Safety and Health at Work
+Contract no: [complete]                                                                                                    EC - FWC services Dec 2018
 
 If moral rights on parts of the *results* protected by copyright may exist, the contractor must obtain the consent of *creators* regarding the granting or waiver of the relevant moral rights in accordance with the applicable legal provisions and be ready to provide documentary evidence upon request.
 

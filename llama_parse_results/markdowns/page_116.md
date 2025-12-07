@@ -2,7 +2,7 @@
 
 US 9,423,690 B2
 
-# PATTERN FORMING METHOD, ELECTRON BEAM-SENSITIVE OR EXTREME ULTRAVIOLET RAY-SENSITIVE RESIN COMPOSITION, RESIST FILM, AND METHOD FOR MANUFACTURING ELECTRONIC DEVICE, AND ELECTRONIC DEVICE USING THE SAME
+# 1 PATTERN FORMING METHOD, ELECTRON BEAM-SENSITIVE OR EXTREME ULTRAVIOLET RAY-SENSITIVE RESIN COMPOSITION, RESIST FILM, AND METHOD FOR MANUFACTURING ELECTRONIC DEVICE, AND ELECTRONIC DEVICE USING THE SAME
 
 ## CROSS-REFERENCE TO RELATED APPLICATION
 
@@ -17,6 +17,8 @@ The present invention relates to a pattern forming method using a developer cont
 A micromachining by a lithography using a photoresist composition has been conducted in a conventional manufacturing process of a semiconductor device such as an IC or LSI. Recently, an ultrafine pattern formation of a submicron region or a quarter micron region has been required, because an integration level of an integrated circuit becomes higher. Accordingly, an exposure wavelength has a tendency to become shorter from g line to i line, and further to a KrF excimer laser ray. Furthermore, development of a lithography using an electron beam or X-ray or EUV ray other than the excimer laser ray is now progressing.
 
 These electron beam or X-ray or EUV ray lithography takes a position as a pattern forming technique of the next generation or the next of the next generation, and a resist composition of a high sensitivity and high resolution is desired. Particularly, a high sensitization is a very important problem to be solved for shortening of a processing time of wafer. However, when intending to the high sensitization, a resolution which is represented by a pattern shape or limiting resolution line width is prone to be reduced. Thus, the development of a resist composition which is capable to satisfy these characteristics at the same time is highly demanded.
+
+# 2
 
 A high sensitivity, a high resolution and a good pattern shape are in a relationship of a tradeoff therebetween, and thus it is very important how to satisfy them at the same time.
 

@@ -1,37 +1,38 @@
 
 
 US 2012/0003590 A1                                                Jan. 5, 2012
-                                    60
+
+60
 
 -continued
+
+[Chemical structure: Polymer chain with CH2-CH repeating unit connected to a benzene ring with an oxygen substituent. The oxygen is connected to a sulfonyl group (O=S=O) with fluorine atoms. Below this is a complex counter-ion structure containing a central positively charged atom with three benzene rings, two of which have methoxy (OMe) substituents.]
 
 P-54
 
-[Chemical structure showing polymer chain with CH<sub>2</sub>-CH repeating unit connected to benzene ring with sulfonate group (O=S=O with F-F bonds) and a separate structure with MeO groups and benzene rings with a central boron atom marked with ⊕]
+[Chemical structure: Polymer chain showing -CH2-C(CH3)- repeating unit connected to a carbonyl ester group, which is connected to a benzene ring with a biphenyl substituent.]
 
 -continued
 
-[Chemical structure showing polymer chain with CH<sub>3</sub> side group and CH<sub>2</sub>-CH repeating unit, connected to an ester linkage and naphthalene ring system]
+[Chemical structure: Similar polymer chain with benzene ring connected to sulfonyl group with fluorine atoms and a negatively charged SO3 group.]
 
--continued
+[Chemical structure: Complex counter-ion showing a central positively charged atom with three benzene rings, two having methoxy (OMe) groups.]
 
-[Chemical structure showing polymer chain with CH<sub>2</sub>-CH repeating unit connected to benzene ring with sulfonate group containing multiple F atoms and SO<sub>3</sub><sup>⊖</sup>]
+[Chemical structure: Polymer chain with CH2-CH repeating unit connected to benzene ring with biphenyl substituent and OH group.]
 
-[Chemical structure showing MeO-substituted benzene rings with central boron atom marked with ⊕ and OMe groups]
+[Chemical structure: Polymer chain with -CH2-C(CH3)- repeating unit connected to carbonyl ester group attached to an anthracene structure.]
 
-[Chemical structure showing polymer chain with CH<sub>2</sub>-CH repeating unit connected to biphenyl system with OH group]
-
-[Chemical structure showing polymer chain with CH<sub>2</sub>-CH repeating unit connected to benzene ring with sulfonate group and a separate diphenyl boron structure marked with ⊕]
+[Chemical structure: Polymer chain with CH2-CH repeating unit connected to benzene ring with oxygen substituent connected to sulfonyl group with fluorine atoms and negatively charged SO3 group. Counter-ion shows triphenyl structure with positive charge.]
 
 P-55
 
-[Chemical structure showing polymer chain with CH<sub>3</sub> side group and CH<sub>2</sub>-CH repeating unit, connected to ester linkage and naphthalene ring system with OMe group and OH group]
+[Chemical structure: Two polymer chains - one with CH2-CH repeating unit connected to benzene ring with biphenyl and OH substituents, and another with -CH2-C(CH3)- repeating unit connected to carbonyl ester group attached to naphthalene ring with OMe substituent.]
 
-## <Other Components>
+<ins><Other Components></ins>
 
-[0317] The composition of the present invention may further contain a photo-acid generator, a basic compound, a surfactant, a solvent, a dye, a photo-base generator, an antioxidant, a solvent and the like. These components are described below.
+[0317] The composition of the present invention may further contain a photo-acid generator, a basic compound, a surfactant, a solvent, a dye, a photo-base generator, an anti-oxidant, a solvent and the like. These components are described below.
 
-### (Photo-Acid Generator)
+<ins>(Photo-Acid Generator)</ins>
 
 [0318] The composition of the present invention may further contain a photo-acid generator in addition to the repeating unit (A) and the repeating unit (B).
 

@@ -1,0 +1,29 @@
+
+
+![](c397c8d13a885b05543b490ca9317118_img.jpg)
+
+Figure 7 is a plot showing the magnetic phase shift  $\Delta\varphi_l(T)$  (in degrees) versus temperature  $T$  (in K) for surface planes  $l=1$  (triangles),  $l=2$  (squares),  $l=3$  (diamonds), and  $l=4$  (circles). The plot compares results for thicknesses  $n=8$  (straight lines and full symbols) and  $n=16$  (dashed lines and open symbols). For  $n=8$ , the phase shift decreases monotonically with temperature, dropping sharply below the Néel temperature  $T_N(8)$  (around 80 K). For  $n=16$ , the phase shift is significantly smaller and decreases more gradually. The y-axis ranges from 0 to 30 degrees, and the x-axis ranges from 0 to 140 K.
+
+FIG. 7: (color online)  $\Delta\varphi_l(T)$  vs. temperature for the surface planes,  $l=1$  (triangles),  $l=2$  (squares),  $l=3$  (diamonds),  $l=4$  (circles). Straight lines and full symbols:  $n=8$ . Dashed lines and open symbols:  $n=16$ .
+
+film leads to an effective 2d-like trend. Region *ii*) looks however more intriguing, and requires a more accurate discussion, which can benefit from a careful comparison of the behaviour of a given quantity in regions *i*) and *ii*).
+
+For this purpose, we look at the temperature dependence of the rotation angle of the magnetization between NN planes. In Fig. 7,  $\Delta\varphi_l(T)$  for  $n=8$  and  $n=16$  (continuous and dashed lines, respectively), is plotted for the outermost planes,  $l=1\dots 4$ . For both thicknesses, a monotonic trend is observed for all  $l$ , but at variance with what happens for the highest thickness, for  $n=8$  we see, starting from a temperature  $T\lesssim T_N(8)$ , an abrupt drop of  $\Delta\varphi_3$  and  $\Delta\varphi_4$ , which rapidly reach an almost constant value, only slightly larger than  $\Delta\varphi_1$ . In the temperature range  $T_N(8)\lesssim T<T_C(8)$  we thus substantially observe the same small magnetic phase shifts between all NN layers, testifying an energetically stable *quasi*-FM configuration giving no contribution to the helical order parameters. The latter point can be made clearer by looking at the peak position  $Q_{z,\max}$  of the structure factor  $S(0,0,q_z)$ . In Fig. 8 the average of  $Q_{z,\max}$  vs  $T$  is reported, again for  $n=8$  and for different lateral dimensions  $L$ <sup>26</sup>. As expected from the previous argument, we see that  $Q_{z,\max}=0$  for  $T_N(8)<T<T_C(8)$ , while it begins to shift to higher values as soon as the temperature decreases below  $T_N(8)$ , making apparent a progressive fan stabilization with  $Q_{z,\max}\neq 0$  and reaching a value of about  $21^\circ$  for  $T=10$  K.
+
+In a previous study, where the magnetic properties of Ho thin films were investigated by MC simulations of a Heisenberg model with easy-plane single-ion anisotropy and six out-of-plane coupling constants (as obtained by experimental neutron scattering measurements<sup>16</sup>) on a HCP lattice<sup>14,15</sup>, it was found that for thicknesses comparable with the helical pitch the phase diagram landscape is quite different from what we find here. Indeed, for  $n=9-16$ , three different magnetic phases could be sin
+
+![](1559db1c389771b44f7dc11d48b06079_img.jpg)
+
+Figure 8 is a plot showing the peak position of the structure factor  $Q_{z,\max}$  (in degrees) versus temperature  $T$  (in K) for thickness  $n=8$ . The plot shows data for different lateral dimensions  $L$  (16, 32, 64, 128). The y-axis ranges from 0 to 30 degrees, and the x-axis ranges from 0 to 100 K. The inset shows the magnetic vector profile  $(m_l^x, m_l^y)$  for  $L=64$  at various temperatures, illustrating the transition from a paramagnetic phase to a long-range ordered phase.
+
+FIG. 8: (color online)  $Q_{z,\max}$  position of the maximum of  $S(\vec{q})$ , vs. temperature for thickness  $n=8$ . Inset: magnetic vector  $(m_l^x, m_l^y)$  profile for some temperatures for  $L=64$ . Colors and symbols as in Fig. 2.
+
+![](88096eec96db1b919e141720a47f97c6_img.jpg)
+
+Figure 9 is a plot showing the magnetic phase shift  $\Delta\varphi_l$  (in degrees) versus the layer index  $l$  (from 1 to 12) for a BCT lattice with thickness  $n=12$ . The plot shows results for temperatures  $T=100$  K, 130 K, 135 K, 140 K, and 145 K. The y-axis ranges from 0 to 80 degrees. The plot displays a characteristic block phase structure, with two external blocks of ordered layers ( $l=1\dots 5$  and  $l=8\dots 12$ ) separated by a block of disordered layers ( $l=6\dots 7$ ), where  $\Delta\varphi_l$  is roughly  $10^\circ$ .
+
+FIG. 9:  $\Delta\varphi_l$  for a BCT lattice and  $n=12$ , when the six coupling constants set employed in Ref. 14,15 (see text) is used. The temperature range has been chosen around  $T_C(n)$  (error bars lie within point size).
+
+gled out, with the high-temperature, paramagnetic phase separated from the low-temperature, long-range ordered one, by an intermediate-temperature block phase where outer ordered 4-layers blocks coexist with some inner disordered ones. Moreover, it was observed that the phase transition of such inner layers turns out to have the signatures of a Kosterlitz-Thouless one.
+
+The absence of the block phase in the  $J_1-J_2$  model here investigated has to be attributed to the different range of interactions, rather than to the different lattice structure. We came to this conclusion by doing some simulations using the same set of interaction constants employed in Refs. 14,15, but using a BCT lattice: the results we obtained for  $\Delta\varphi_l$  with  $n=12$  are reported in Fig. 9. The latter is absolutely similar to Fig. 7 of Ref. 15 and clearly displays the footmarks of the block phase (see down-triangle), with two external blocks of ordered layers ( $l=1\dots 5$  and  $l=8\dots 12$ ), where  $\Delta\varphi_l$  is roughly  $10^\circ$ , separated by a block of disordered layers, and with almost

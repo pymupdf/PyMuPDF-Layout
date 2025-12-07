@@ -3,8 +3,8 @@
 # CORPORATE INFORMATION
 
 ## Corporate Headquarters
-6100 North Western Avenue  
-Oklahoma City, OK 73118  
+6100 North Western Avenue
+Oklahoma City, OK 73118
 (405) 935-8000
 
 ## Internet Address
@@ -17,24 +17,23 @@ Chesapeake Energy Corporation's common stock is listed on the New York Stock Exc
 During 2010 the company declared a cash dividend of $0.075 per share on March 8, June 21, September 1 and December 20 for a total dividend declared of $0.30 per share.
 
 ## Independent Public Accountants
-PricewaterhouseCoopers LLP  
-6120 South Yale, Suite 1850  
-Tulsa, OK 74136  
+PricewaterhouseCoopers LLP
+6120 South Yale, Suite 1850
+Tulsa, OK 74136
 (918) 524-1200
 
 ## Stock Transfer Agent and Registrar
 Communication concerning the transfer of shares, lost certificates, duplicate mailings or change of address notifications should be directed to our transfer agent:
-
-Computershare Trust Company, N.A.  
-250 Royall Street  
-Canton, MA 02021  
-(800) 884-4225  
+Computershare Trust Company, N.A.
+250 Royall Street
+Canton, MA 02021
+(800) 884-4225
 www.computershare.com
 
 ## Trustee for the Company's Senior Notes
-The Bank of New York Mellon Trust Company, N.A.  
-101 Barclay Street, 8th Floor  
-New York, NY 10286  
+The Bank of New York Mellon Trust Company, N.A.
+101 Barclay Street, 8th Floor
+New York, NY 10286
 www.bnymellon.com
 
 ## Forward-looking Statements
@@ -73,9 +72,11 @@ The SEC requires natural gas and oil companies, in filings made with the SEC, to
 | First Quarter  | 49.87   | 34.42  | 46.15   |
 
 
-**CHK**  
-**LISTED**  
-**NYSE**
+CHK
+LISTED
+NYSE
+
+[Aerial photograph showing an industrial or energy facility with storage tanks and buildings surrounded by residential areas and vegetation]
 
 WWW.CHK.COM
 
@@ -84,3 +85,7 @@ TWITTER.COM/CHESAPEAKE
 FACEBOOK.COM/CHESAPEAKE
 
 YOUTUBE.COM/CHESAPEAKEENERGY
+
+FSC MIX
+Paper from responsible sources
+FSC® C101537

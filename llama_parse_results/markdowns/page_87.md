@@ -4,14 +4,14 @@
 
 The Company recorded an $800,000 write-down of certain ATM hardware assets associated with the purchase of the Budapest Bank ATM network in May 2000 and the Service Bank ATM network in March 1999 (see Note 10 to the Consolidated Financial Statements – Asset Write Down). In addition, the Company recorded a one-time gain in its Central European Sub-segment of $1.2 million. The gain is related to a change in Hungarian law that eliminates a major portion of the Company's liability for import taxes on ATM hardware to the Hungarian government. The gain is included as an element of direct operating costs.
 
-## Network Services: EBITDA
-
-| Quarter | EBITDA (USD Million) |
-| ------- | -------------------- |
-| Q1      | -0.7                 |
-| Q2      | 0.4                  |
-| Q3      | 0.7                  |
-| Q4      | 1.3                  |
+| Network Services: EBITDA | Network Services: EBITDA |
+| ------------------------ | ------------------------ |
+| USD Million              | 1.3                      |
+|                          | 0.7                      |
+|                          | 0.4                      |
+|                          | -0.7                     |
+| Q1                       | Q2                       |
+| Q3                       | Q4                       |
 
 
 The operating expenses for the Central European Sub-segment totaled $21.7 million for the year ended December 31, 2000 as compared to $20.7 million for the year ended December 31, 1999, an increase of 5%. The increase in operating expenses is largely the result of an increase in the number of ATMs operated by the Company from 1,203 at December 31, 1999 to 1,391 at December 31, 2000, and increased transaction volumes.
@@ -22,16 +22,16 @@ The operating expenses for the Other ATM Operations Sub-segment were $2.4 millio
 
 Direct operating costs in the Network Services Segment consist primarily of: ATM installation costs; ATM site rentals; and costs associated with maintaining ATMs, ATM telecommunications, interest on network cash and cash delivery and security services to ATMs. Such costs increased to $24.4 million for the year ended December 31, 2000 from $21.9 million for the year ended December 31, 1999. The increase in direct operating costs is primarily attributable to costs associated with operating the increased number of ATMs in the network during the periods. Also, intercompany allocations were made to charge the ATM operations with transaction switching and bank connection fees associated with the operations central processing center in Budapest. These allocations totalled $3.5 million and $2.9 million for the years ended December 31, 2000 and 1999, respectively. Direct operating costs for 2000 include a one-time gain of $1.2 million due to a change in Hungarian law that eliminates a major portion of the Company's liability for import taxes on ATM hardware. Direct operating costs also include a $657,000 gain realized in 1999 from the sale of the Croatian network assets. The components of direct operating costs for the years ended December 31, 2000 and 1999 were:
 
-| (in thousands)                                | Years ending December 31, 2000 | Years ending December 31, 1999 |
-| --------------------------------------------- | ------------------------------ | ------------------------------ |
-| ATM communication                             | $ 4,183                        | $ 3,982                        |
-| ATM cash filling and interest on network cash | 7,426                          | 5,900                          |
-| ATM maintenance                               | 3,987                          | 2,967                          |
-| ATM site rental                               | 2,258                          | 2,421                          |
-| ATM installation                              | 675                            | 783                            |
-| Transaction processing and ATM monitoring     | 5,242                          | 4,205                          |
-| Other                                         | 600                            | 1,663                          |
-| Total direct operating expenses               | $ 24,371                       | $ 21,921                       |
+|                                               | Years ending December 31,<br/>2000 | Years ending December 31,<br/>1999 |
+| --------------------------------------------- | ---------------------------------- | ---------------------------------- |
+| ATM communication                             | $ 4,183                            | $ 3,982                            |
+| ATM cash filling and interest on network cash | 7,426                              | 5,900                              |
+| ATM maintenance                               | 3,987                              | 2,967                              |
+| ATM site rental                               | 2,258                              | 2,421                              |
+| ATM installation                              | 675                                | 783                                |
+| Transaction processing and ATM monitoring     | 5,242                              | 4,205                              |
+| Other                                         | 600                                | 1,663                              |
+| Total direct operating expenses               | $ 24,371                           | $ 21,921                           |
 
 
 As a percentage of network revenue, direct operating costs fell from 83% for the year ended December 31, 1999 to 66% for the year ended December 31, 2000. On a per ATM basis the direct operating costs fell from $12,782 per ATM for the year ended December 31, 1999 to $9,807 per ATM for the year ended December 31, 2000, an improvement of 23%. On a per transaction basis the direct operating costs fell from $0.66 per transaction for the year ended December 31, 1999 to $0.46 per transaction for the year ended December 31, 2000, an improvement of 30%.

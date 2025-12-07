@@ -1,7 +1,12 @@
 
 
-EC - FWC services Dec 2018
+[European Agency for Safety and Health at Work logo]
+
 Contract no: [complete]
+
+EC - FWC services Dec 2018
+
+[EU flag with circle of stars]
 
 d) a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing;
 e) measures to protect personal data from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of or access to personal data transmitted, stored or otherwise processed.

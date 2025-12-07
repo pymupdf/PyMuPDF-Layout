@@ -1,4 +1,7 @@
 
+
+BARSKA®
+
 13
 
 # OPERATION (cont.)
@@ -54,32 +57,44 @@
 3. Replace with a new halogen bulb.
 4. Open the window in the base plate and replace the halogen lamp or fluorescent lamp of transmitted illuminator.
 
+----
+
+<page_header>
+</page_header>
+
+<page_footer>
+BARSKA®
+
+14
+</page_footer>
+
 # MODEL AY11236
 
-Interpupillary Slide Adjustment
-Eyepiece
-Rotating Head
-Revolving Turret
-Stand
-Objectives
-Stage
-Condenser
-Focusing Knob
-Coarse Adjustment Knob
-Fine Adjustment Knob
-Lamp On/Off Switch
-Stage Clip Adjustment
-Power Cord
-Lamp
+Interpupillary Slide Adjustment ←→ Eyepiece
 
-Model AY11236
+Rotating Head →
 
-## MICROSCOPE USAGE
+Revolving Turret →
+← Stand
+
+Objectives →
+
+Stage → ← Coarse Adjustment Knob
+
+Condenser → ← Fine Adjustment Knob
+
+Focusing Knob → Lamp On/Off Switch → ← Stage Clip Adjustment
+
+← Power Cord
+
+Lamp →
+
+**Model AY11236**
+
+# MICROSCOPE USAGE
 
 BARSKA Model AY11236 is a powerful fixed power compound microscope designed for biological studies such as specimen examination. It can also be used for examining bacteria and for general clinical and medical studies and other scientific uses.
 
-## CONSTRUCTION
+# CONSTRUCTION
 
 BARSKA Model AY11236 is a fixed power compound microscope. It is constructed with two optical paths at the same angle. It is equipped with transmitted illumination. By using this instrument, the user can observe specimens at magnification from 40x to 1000x by selecting the desired objective lens. Coarse and fine focus adjustments provide accuracy and image detail. The rotating head allows the user to position the eyepieces for maximum viewing comfort and easy access to all adjustment knobs.
-
-<page_footer>14</page_footer>

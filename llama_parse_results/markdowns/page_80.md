@@ -20,10 +20,10 @@ If you get an error message in Excel you might not get much help from the progra
 
 An invalid cell reference error message occurs when a spreadsheet formula contains incorrect cell references.
 
-| fx =#REF!+L12 |       |   |
-| ------------- | ----- | - |
-| C             | D     | E |
-| ④             | #REF! |   |
+| fx |       |   | =​#REF!+L12 |   |
+| -- | ----- | - | ----------- | - |
+| C  | D     | E |             |   |
+| ◇  | #REF! |   |             |   |
 
 
 #REF! error in an Excel formula

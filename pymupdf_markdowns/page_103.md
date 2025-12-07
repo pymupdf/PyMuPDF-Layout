@@ -119,6 +119,8 @@ management according to the basic policies.
 
 
 
+
+
 |CreditRisk<br>Corporate Risk Market Risk<br>Management<br>Liquidity Risk<br>Dept<br>.<br>OperationalRisk|CreditRisk|
 |---|---|
 |General Affairs Dept.|Processing Risk|
