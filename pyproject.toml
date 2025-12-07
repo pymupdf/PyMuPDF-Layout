@@ -8,6 +8,7 @@ dependencies = [
     "aiofiles>=25.1.0",
     "autocorrect>=2.6.1",
     "clean-text>=0.6.0",
+    "docling>=2.64.0",
     "google-genai>=1.52.0",
     "llama-cloud-services>=0.6.88",
     "llama-parse>=0.6.88",
@@ -19,6 +20,7 @@ dependencies = [
     "pymupdf4llm>=0.2.0",
     "rapidfuzz>=3.14.0",
     "reductoai[aiohttp]>=0.13.0",
+    "torch>=2.9.1",
     "unidecode>=1.4.0",
 ]
 

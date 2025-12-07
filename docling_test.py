@@ -31,14 +31,14 @@ from docling.utils.model_downloader import download_models
 
 # --- Configuration ---
 INPUT_DIR = Path("PDFs")
-BASE_OUTPUT_DIR = Path("docling")
+BASE_OUTPUT_DIR = Path("docling_pipeline_wocr")
 MARKDOWNS_DIR = BASE_OUTPUT_DIR / "markdowns"
 JSONL_OUTPUT = BASE_OUTPUT_DIR / "results.jsonl"
 ARTIFACTS_PATH = Path("models_cache")
 
 
 # L4 Tuning
-NUM_WORKERS = 6  # Optimized for L4 (24GB VRAM) on g2-standard-32
+NUM_WORKERS = 16  # Optimized for L4 (24GB VRAM) on g2-standard-32
 OCR_BATCH_SIZE = 64
 LAYOUT_BATCH_SIZE = 32
 docling_version = importlib.metadata.version("docling")  # FIX 2: Fixed syntax (added space after =)
@@ -81,8 +81,8 @@ def _parallel_worker_task(args):
         artifacts_path=ARTIFACTS_PATH,
         accelerator_options=accelerator_options,
         ocr_options=ocr_options,
-        do_ocr=True,
-        do_table_structure=True,
+        do_ocr=False,
+        do_table_structure=False,
         ocr_batch_size=OCR_BATCH_SIZE,
         layout_batch_size=LAYOUT_BATCH_SIZE,
         table_batch_size=16,
@@ -112,6 +112,8 @@ def _parallel_worker_task(args):
             # Conversion
             result = converter.convert(file_path, raises_on_error=True)
             doc = result.document
+            duration = time.time() - start_time
+
             
             # Save Markdown
             md_filename = f"{file_path.stem}.md"
@@ -121,7 +123,6 @@ def _parallel_worker_task(args):
             with open(md_path, "w", encoding="utf-8") as f:
                 f.write(full_markdown)
 
-            duration = time.time() - start_time
 
             # Create Record (Matching Reducto Schema)
             record = {
