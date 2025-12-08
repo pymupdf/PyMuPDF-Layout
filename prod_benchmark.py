@@ -1,14 +1,22 @@
-import pymupdf  # PyMuPDF
-import re
-import json
-import os
+"""
+PDF Processing and Benchmarking Pipeline.
+
+This module provides a pipeline for extracting annotations from PDFs,
+combining them with OCR text, cleaning the text, and benchmarking
+various markdown conversion methods against ground truth data.
+"""
+
 import argparse
+import json
 import logging
+import os
+import re
 from collections import defaultdict
-from pathlib import Path
+
 import pandas as pd
+import pymupdf
 from cleantext import clean
-from autocorrect import Speller
+
 from benchmark_data.utils import find_best_match_and_normalized_distance
 
 
@@ -16,13 +24,22 @@ from benchmark_data.utils import find_best_match_and_normalized_distance
 # LOGGING SETUP
 # ==============================================================================
 
-def setup_logging(verbose=False):
-    """Configure logging for the application."""
+
+def setup_logging(verbose: bool = False) -> logging.Logger:
+    """
+    Configure logging for the application.
+    
+    Args:
+        verbose: If True, sets logging level to DEBUG; otherwise INFO.
+        
+    Returns:
+        Configured logger instance.
+    """
     level = logging.DEBUG if verbose else logging.INFO
     logging.basicConfig(
         level=level,
-        format='%(asctime)s - %(levelname)s - %(message)s',
-        datefmt='%Y-%m-%d %H:%M:%S'
+        format="%(asctime)s - %(levelname)s - %(message)s",
+        datefmt="%Y-%m-%d %H:%M:%S",
     )
     return logging.getLogger(__name__)
 
@@ -32,10 +49,16 @@ def setup_logging(verbose=False):
 # ==============================================================================
 
 
-def extract_highlighted_text(pdf_path, logger):
+def extract_highlighted_text(pdf_path: str, logger: logging.Logger) -> list[dict]:
     """
     Extract highlighted text from PDFs with annotations.
-    Returns list of annotation dictionaries.
+
+    Args:
+        pdf_path: Path to a PDF file or directory containing PDFs.
+        logger: Logger instance for output.
+
+    Returns:
+        List of annotation dictionaries containing page number, annotation key/text, and source.
     """
     logger.info(f"Starting PDF annotation extraction from: {pdf_path}")
     
@@ -101,20 +124,31 @@ def extract_highlighted_text(pdf_path, logger):
     logger.info(f"Extracted {len(json_output)} annotations")
     
     return json_output
+
+
 # ==============================================================================
 # STEP 2: COMBINE ANNOTATIONS WITH OCR
 # ==============================================================================
 
-def parse_key(key):
+def parse_key(key: str) -> tuple[int, int]:
     """Parse annotation key (e.g., '1.1' -> (1, 1))."""
-    parts = key.split('.')
+    parts = key.split(".")
     return (int(parts[0]), int(parts[1]))
 
 
-def combine_annotations_with_ocr(annotations, excel_path, logger):
+def combine_annotations_with_ocr(
+    annotations: list[dict], excel_path: str, logger: logging.Logger
+) -> list[dict]:
     """
     Combine annotations with OCR text from Excel.
-    Returns combined data structure.
+
+    Args:
+        annotations: List of annotation dictionaries from extract_highlighted_text.
+        excel_path: Path to Excel file containing OCR text data.
+        logger: Logger instance for output.
+
+    Returns:
+        List of dictionaries with combined annotation and OCR data per page.
     """
     logger.info("Combining annotations with OCR text")
     
@@ -200,15 +234,22 @@ def combine_annotations_with_ocr(annotations, excel_path, logger):
 # STEP 3: TEXT CLEANING
 # ==============================================================================
 
-def extract_and_clean_by_page(data, logger):
+def extract_and_clean_by_page(
+    data: list[dict], logger: logging.Logger
+) -> list[dict]:
     """
     Extract and clean text, grouped by page number.
-    Returns a list of dictionaries with page_number and texts array.
-    Includes both annotations and OCR text.
+
+    Processes both annotations and OCR text, returning cleaned text with OCR flags.
+
+    Args:
+        data: Combined annotation and OCR data from combine_annotations_with_ocr.
+        logger: Logger instance for output.
+
+    Returns:
+        List of dictionaries with page_number, texts array, and is_ocr flags.
     """
     logger.info("Cleaning and processing text")
-    
-    # spell = Speller(only_replacements=True)
     result = []
     
     for item in data:
@@ -233,26 +274,11 @@ def extract_and_clean_by_page(data, logger):
                     except (IndexError, ValueError):
                         order_num = 0
 
+                    # NOTE: We intentionally skip autocorrect and aggressive cleaning here.
+                    # Autocorrect can cause false positives (e.g., "field" -> "fiend").
+                    # Aggressive cleaning replaces foreign language characters with English equivalents.
                     cleaned_text = text
 
-                    # Note: we don't want to do this as it autocorrects & cleans to give false positives,
-                    # See examples here: https://pypi.org/project/cleantext/ - we don;t want to try to guess words
-                    # Cleaning here also means that foreign languages characters and words are replaced by English characters & words
-                    '''
-                    # Clean the text
-                    text = spell(text)  # Apply autocorrect, note this auto corrects badly! e.g. field -> fiend
-            
-                    cleaned_text = clean(
-                        text,
-                        lower=False,
-                        normalize_whitespace=True,
-                        fix_unicode=False,
-                        strip_lines=True,
-                        no_line_breaks=True,
-                        lang="en"
-                    )
-                    '''
-              
                     if cleaned_text.strip():
                         annotation_pairs.append((order_num, cleaned_text.strip()))
             
@@ -297,23 +323,27 @@ def extract_and_clean_by_page(data, logger):
 # STEP 4: BENCHMARKING
 # ==============================================================================
 
-def generate_raw_scores(ground_truth_data, folder_info, logger):
+def generate_raw_scores(
+    ground_truth_data: list[dict],
+    folder_info: list[tuple[str, str]],
+    logger: logging.Logger,
+) -> pd.DataFrame:
     """
-    Processes ground truth data against markdown files from various methods.
-    
+    Process ground truth data against markdown files from various methods.
+
     For each piece of text ("needle") in the ground truth, this function searches
     for the best match in the corresponding page's markdown file ("haystack")
     for each specified method.
 
     Args:
-        ground_truth_data: A list of dictionaries, where each dictionary
-                           represents a page and contains its 'page_number'
-                           and a list of 'texts' to find.
-        folder_info: A list of tuples, each defining a method's folder
-                     and the desired column name for its scores.
+        ground_truth_data: List of dictionaries, each containing 'page_number'
+            and a list of 'texts' to find.
+        folder_info: List of tuples (folder_path, column_name) defining each
+            method's markdown folder and the desired score column name.
+        logger: Logger instance for output.
 
     Returns:
-        A pandas DataFrame containing the raw scores (normalized distances)
+        DataFrame containing the raw scores (normalized distances)
         for each needle against each method, including OCR flag.
     """
     all_results = []
@@ -354,10 +384,17 @@ def generate_raw_scores(ground_truth_data, folder_info, logger):
     return pd.DataFrame(all_results)
 
 
-def analyze_results(scores_df, mapping_file, score_columns, min_score_threshold, excluded_folders, logger):
+def analyze_results(
+    scores_df: pd.DataFrame,
+    mapping_file: str,
+    score_columns: list[str],
+    min_score_threshold: float,
+    excluded_folders: list[str],
+    logger: logging.Logger,
+) -> pd.DataFrame:
     """
-    Analyzes the raw scores to produce a final summary report.
-    
+    Analyze raw scores to produce a final summary report.
+
     This function merges scores with page-folder mappings, filters data,
     calculates mean accuracy, adds folder counts, computes a weighted
     average, and sorts the results for presentation.
@@ -367,10 +404,11 @@ def analyze_results(scores_df, mapping_file, score_columns, min_score_threshold,
         mapping_file: Path to the CSV file mapping page numbers to folders.
         score_columns: List of column names containing scores.
         min_score_threshold: Threshold for filtering results.
-        excluded_folders: List of folders to exclude.
+        excluded_folders: List of folders to exclude from analysis.
+        logger: Logger instance for output.
 
     Returns:
-        A pandas DataFrame containing the final, formatted benchmark results.
+        DataFrame containing the final, formatted benchmark results.
     """
     logger.info("Analyzing results...")
 
@@ -381,8 +419,7 @@ def analyze_results(scores_df, mapping_file, score_columns, min_score_threshold,
     # 2. Filter data
     # Drop rows where any method failed to produce a score
     filtered_df = merged_df.dropna(subset=score_columns).copy()
-    print("filtered_df:",filtered_df)
-    print("filtered")   
+
     # Exclude specified folders (e.g., 'test' folders)
     filtered_df = filtered_df[~filtered_df["Folder"].isin(excluded_folders)]
     filtered_df.to_csv("benchmark_granular.csv", index=False)
@@ -428,8 +465,13 @@ def analyze_results(scores_df, mapping_file, score_columns, min_score_threshold,
 # MAIN PIPELINE
 # ==============================================================================
 
-def main():
-    """Main function to run the entire pipeline."""
+def main() -> int:
+    """
+    Run the entire PDF processing and benchmarking pipeline.
+
+    Returns:
+        Exit code (0 for success, 1 for failure).
+    """
     
     # Parse command line arguments
     parser = argparse.ArgumentParser(
@@ -517,7 +559,7 @@ def main():
         
         # Save intermediate result
         with open(args.cleaned_output, 'w', encoding='utf-8') as f:
-            json.dump(cleaned_data, f, ensure_ascii=False, indent=2) # don't escape unicode, ensure ascii
+            json.dump(cleaned_data, f, ensure_ascii=False, indent=2)
         logger.info(f"Saved cleaned data to: {args.cleaned_output}")
         
         # STEP 4: Run benchmarks
