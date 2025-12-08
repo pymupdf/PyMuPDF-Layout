@@ -14,7 +14,7 @@ import pymupdf4llm
 
 # --- Configuration ---
 INPUT_DIR = Path("PDFs")
-BASE_OUTPUT_DIR = Path("pymupdflayout_results_g2_32")
+BASE_OUTPUT_DIR = Path("pymupdflayout_results")
 MARKDOWNS_DIR = BASE_OUTPUT_DIR / "markdowns"
 JSONL_OUTPUT = BASE_OUTPUT_DIR / "results.jsonl"
 MAX_WORKERS = os.cpu_count() or 4  # Utilize all available cores
