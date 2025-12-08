@@ -10,9 +10,7 @@ os.environ["DOCLING_NUM_THREADS"] = "4"
 
 import time
 import json
-import uuid
 import shutil
-import logging
 import multiprocessing
 import gc
 import importlib.metadata  # FIX 1: Added missing import

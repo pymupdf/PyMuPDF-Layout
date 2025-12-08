@@ -1,6 +1,5 @@
 import os
 import time
-import sys
 import multiprocessing
 import json
 from pathlib import Path
@@ -105,6 +104,7 @@ def convert_single_file(pdf_path: Path) -> dict:
 
 
 def main():
+    GLOBAL_START_TIME = time.time() 
     print(f"--- Initializing PyMuPDF Pipeline (CPUs: {MAX_WORKERS}) ---")
     print(f"PyMuPDF version: {PYMUPDF_VERSION}")
     print(f"PyMuPDF4LLM version: {PYMUPDF4LLM_VERSION}")
@@ -161,6 +161,9 @@ def main():
     else:
         print("\n✅ All files processed successfully.")
     print("="*40 + "\n")
+
+    total_duration = time.time() - GLOBAL_START_TIME
+    print(f"Total Duration:  {total_duration:.2f}s")
 
 
 if __name__ == "__main__":
