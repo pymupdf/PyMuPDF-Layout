@@ -1,8 +1,8 @@
-,llama_parse,reducto,gemini,datalab,docling_pipeline_ocr,pymupdflayout,docling_pipeline_wocr,Folder_Count
-finance_samples,98.47,95.94,98.86,98.12,95.3,74.34,95.29,90.0
-govt tenders,96.14,91.88,96.0,93.01,91.29,92.82,91.29,26.0
-laws_sample,95.37,87.69,95.35,96.67,88.3,87.83,88.3,33.0
-manuals_sample,92.85,93.45,89.35,87.53,79.3,80.31,77.1,106.0
-patents,94.09,94.45,91.52,77.47,78.1,89.46,78.08,148.0
+,llama_parse,reducto,gemini,datalab,docling_cpu_with_ocr,pymupdflayout,docling_cpu_without_ocr,Folder_Count
+finance_samples,98.47,95.94,98.86,98.12,96.52,74.34,96.68,90.0
+govt tenders,96.14,91.88,96.0,93.01,93.53,92.82,93.54,26.0
+laws_sample,95.37,87.69,95.35,96.67,88.86,87.83,88.86,33.0
+manuals_sample,92.64,92.9,88.84,87.07,82.46,79.9,76.69,107.0
+patents,94.09,94.45,91.52,77.47,78.02,89.46,78.04,148.0
 science_sample,87.38,96.28,89.37,87.86,93.03,94.52,93.03,42.0
-Weighted_Mean,94.26,94.04,92.83,87.35,84.8,84.77,84.27,445.0
+Weighted_Mean,94.21,93.9,92.7,87.25,85.94,84.66,84.59,446.0

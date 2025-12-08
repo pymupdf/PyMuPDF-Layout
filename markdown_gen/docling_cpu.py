@@ -75,9 +75,8 @@ from docling.datamodel.pipeline_options import (
     AcceleratorOptions, 
     AcceleratorDevice
 )
-from docling.datamodel.base_models import InputFormat, ConversionStatus
+from docling.datamodel.base_models import InputFormat
 # Strict No-OCR Backend
-from docling.backend.pypdfium2_backend import PyPdfiumDocumentBackend
 
 # Configure Logging
 logging.basicConfig(
