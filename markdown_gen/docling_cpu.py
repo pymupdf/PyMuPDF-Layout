@@ -341,5 +341,9 @@ def main():
     print(f"Total Duration:  {total_duration:.2f}s")
 
 if __name__ == "__main__":
-    multiprocessing.freeze_support() # For Windows compatibility
+    # Force 'spawn' start method - critical for Linux compatibility
+    # macOS defaults to 'spawn', but Linux uses 'fork' which causes deadlocks
+    # with PyTorch and other threaded libraries
+    multiprocessing.set_start_method('spawn', force=True)
+    multiprocessing.freeze_support()  # For Windows compatibility
     main()
