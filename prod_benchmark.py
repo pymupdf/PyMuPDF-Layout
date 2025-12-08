@@ -9,7 +9,7 @@ from pathlib import Path
 import pandas as pd
 from cleantext import clean
 from autocorrect import Speller
-from utils import find_best_match_and_normalized_distance
+from benchmark_data.utils import find_best_match_and_normalized_distance
 
 
 # ==============================================================================
@@ -388,7 +388,7 @@ def analyze_results(scores_df, mapping_file, score_columns, min_score_threshold,
     filtered_df.to_csv("benchmark_granular.csv", index=False)
     # Keep only rows where at least one method found a close match
     filtered_df = filtered_df[filtered_df[score_columns].min(axis=1) < min_score_threshold]
-    filtered_df.to_csv("benchmark_filtered.csv", index=False)
+    filtered_df.to_csv("benchmark_data/benchmark_filtered.csv", index=False)
 
     if filtered_df.empty:
         logger.warning("No data left after filtering. Cannot generate report.")
@@ -438,19 +438,19 @@ def main():
     )
     
     # Input files
-    parser.add_argument('--pdf-path', type=str, default='PDFs',
+    parser.add_argument('--pdf-path', type=str, default='benchmark_data/PDFs',
                         help='Path to PDF file or directory containing PDFs')
-    parser.add_argument('--excel-path', type=str, default='Pictures.xlsx',
+    parser.add_argument('--excel-path', type=str, default='benchmark_data/Pictures.xlsx',
                         help='Path to Excel file with OCR text')
-    parser.add_argument('--page-mapping', type=str, default='page_folder_mapping.csv',
+    parser.add_argument('--page-mapping', type=str, default='benchmark_data/page_folder_mapping.csv',
                         help='Path to page-folder mapping CSV file')
     
     # Output files
-    parser.add_argument('--annotations-output', type=str, default='annotations.json',
+    parser.add_argument('--annotations-output', type=str, default='benchmark_data/annotations.json',
                         help='Output path for extracted annotations')
-    parser.add_argument('--combined-output', type=str, default='combined_output.json',
+    parser.add_argument('--combined-output', type=str, default='benchmark_data/combined_output.json',
                         help='Output path for combined data')
-    parser.add_argument('--cleaned-output', type=str, default='cleaned_output.json',
+    parser.add_argument('--cleaned-output', type=str, default='benchmark_data/cleaned_output.json',
                         help='Output path for cleaned data')
     parser.add_argument('--benchmark-output', type=str, default='benchmark_results_final.csv',
                         help='Output path for benchmark results')
