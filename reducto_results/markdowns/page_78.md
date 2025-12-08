@@ -1,6 +1,10 @@
 2. The import mappings window opens. Select the source host from which you want to import the volume mappings. As shown in Figure 8-39, we select the host ITSO-VMHOST-01 and click Import.
 
-The image shows a dialog box labeled "Import Mappings". It includes a dropdown menu labeled "Select Source Host", with the current selection being "ITSO-VMHOST-". There are "Cancel" and "Import" buttons.
+- Title: Import Mappings
+- Field: Select Source Host: [dropdown] — value shown: "ITSO-VMHOST-"
+- Dropdown appears focused/outlined
+- Close icon (X) at top-right
+- Action buttons: "Cancel" and "Import"
 
 Figure 8-39 import volume mappings source host selection
 
@@ -12,28 +16,13 @@ To rename a host, complete the following steps:
 
 1. Select the host, and then right-click and select Rename (see Figure 8-40).
 
-| Name             | Host Type | # of Ports | Host Mappings | Host Cluster ID | Host Cluster Name |
-|------------------|-----------|------------|---------------|-----------------|-------------------|
-| ITSO-VMHOST-01   | Generic   | 2          | No            | —               | —                 |
-| ITSO-VMHOST-02   | Generic   | 2          | No            | —               | —                 |
+The image shows a software interface with a table and a context menu. The table displays host information. The context menu opened from the "Actions" button, shows options such as "Rename...", "Assign to Host Cluster...", etc.
 
-Visible UI elements:
-- Top controls: Add Host button, Actions (dropdown), filter controls (Default / Contains / Filter textbox).
-- Bottom status: "Showing 2 hosts" (partial).
+| Name            | Host Type | # of Ports | Host Mappings | Host Cluster ID | Host Cluster Nam II! |
+|-----------------|-----------|------------|---------------|-----------------|----------------------|
+| ITSO-VMHOST-01  | Generic   | 2          | No            |                 |                      |
+| ITSO-VMHOST-02  | Generic   | 2          | No            |                 |                      |
 
-Actions menu (visible items, top → bottom):
-- Rename...
-- Assign to Host Cluster...
-- Remove from Host Cluster...
-- Modify Volume Mappings...
-- Duplicate Volume Mappings...
-- Import Volume Mappings...
-- Modify Type...
-- Edit Throttle...
-- View All Throttles...
-- Remove Private Mappings...
-- Remove
-- Properties
 
 Figure 8-40 Rename a host
 

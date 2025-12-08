@@ -79,26 +79,16 @@ $21 million after-tax profit
 that was booked in the 2004
 financial year.
 
-| Legend symbol | Meaning |
-|---|---|
-| Outlined polygon (white) | Santos acreage |
-| Outlined polygon (bold/black) | Santos acreage acquired through Novus acquisition |
-| Dark solid shape | Oil field |
-| Light gray shape | Gas field |
-| Solid black line | Oil pipeline |
-| Solid gray line | Gas pipeline |
-| Scale bar | 0–50 kilometres |
+Key entities in the image:
 
-| Map feature | Notes / location |
-|---|---|
-| Brantas PSC | Large Santos acreage west of Surabaya, East Java |
-| Sampang PSC | Santos acreage north of Madura Island |
-| Madura Offshore PSC | Santos acreage off Madura Island |
-| Nth Bali 1 PSC | Santos acreage east, near Bali Sea |
-| Bawean 1 PSC | Santos acreage north of Madura / Bawean Island |
-| Fields labeled | Maleo, Oyong (shown as oil/gas field symbols within acreage) |
-| Cities/islands | Surabaya, Grati, Bawean Island, Madura Island, Bali, Kangean Islands |
-| Pipelines | Oil and gas pipelines shown connecting fields/shore (see legend) |
-| Context | Map covers East Java / Java Sea / Bali Sea region; scale 0–50 km |
+*   **PSC areas**: Brantas PSC, Bawean 1 PSC, Sampang PSC, Madura Offshore PSC, Nth Bali 1 PSC
+*   **Locations**: Surabaya, Grati, Jeruk, Oyong, Maleo, Bawean Island, Madura Island, Bali, Kangean Islands, East Java, Java Sea, Bali Sea
+*   **Legend**: 
+    *   Santos acreage
+    *   Santos acreage acquired through Novus acquisition
+    *   Oil field
+    *   Gas field
+    *   Oil pipeline
+    *   Gas pipeline
 
 Santos Annual Report 2004 23

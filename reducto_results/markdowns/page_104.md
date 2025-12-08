@@ -72,7 +72,7 @@ RCI common stock actively trades on the TSX and NYSE, with average daily trading
 ## ADJUSTED NET INCOME AND EARNINGS PER SHARE
 
 | Year | Value |
-| ----------- | ----------- |
+|------|-------|
 | 2008 | $1.00 |
 | 2009 | $1.16 |
 | 2010 | $1.28 |

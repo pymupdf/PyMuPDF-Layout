@@ -111,22 +111,23 @@ BARSKA
 
 ## MODEL AY11236
 
-| Part | Short description |
-|---|---|
-| Eyepiece | Top lenses for viewing |
-| Interpupillary Slide Adjustment | Adjusts distance between eyepieces |
-| Rotating Head | Rotates binocular head |
-| Revolving Turret | Holds/rotates objective lenses |
-| Objectives | Objective lenses of varying magnification |
-| Stand | Arm/support connecting head and base |
-| Stage | Platform where the slide is placed |
-| Stage Clip Adjustment | Secures and positions the slide |
-| Condenser Focusing Knob | Adjusts condenser height/focus |
-| Lamp On/Off Switch | Turns illumination on/off |
-| Lamp | Built-in light source in base |
-| Coarse Adjustment Knob | Large knob for rough focusing |
-| Fine Adjustment Knob | Small knob for precise focusing |
-| Power Cord | Mains power connection |
+Here's the key information from the image:
+
+*   **Microscope Parts:**
+    *   Eyepiece
+    *   Interpupillary Slide Adjustment
+    *   Rotating Head
+    *   Revolving Turret
+    *   Objectives
+    *   Stage
+    *   Condenser Focusing Knob
+    *   Lamp
+    *   Lamp On/Off Switch
+    *   Stand
+    *   Coarse Adjustment Knob
+    *   Fine Adjustment Knob
+    *   Stage Clip Adjustment
+    *   Power Cord
 
 Model AY11236
 

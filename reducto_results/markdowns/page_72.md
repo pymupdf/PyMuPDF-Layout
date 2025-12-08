@@ -1,15 +1,8 @@
 Basic English Language Skills
 
-The image shows keys on a vintage typewriter. The keys shown read "D", "F", "G", "H", "J", and "K".
-
-| Key | Letter |
-|---|---|
-| 1 | D |
-| 2 | F |
-| 3 | G |
-| 4 | H |
-| 5 | J |
-| 6 | K |
+- Object: Close-up of vintage/typewriter key row
+- Visible keys (left-to-right): D, F, G, H, J, K
+- Keytops: circular, worn/aged white with black letters on a dark metal frame
 
 ## Approve/Approve of
 
@@ -37,8 +30,6 @@ You “complement” something (or someone) when you add something else to it th
 
 E.g. That scarf complements her dress.
 
-- Subject: Close-up photograph of vintage typewriter keys
-- Visible key labels (left→right): E, R, T, Y, U, I
-- Key shape/color: round ivory/cream keytops with black lettering and dark metal rims
-- Condition/details: worn surfaces, rust/staining and chipped paint on several keys
-- Composition: tight horizontal crop, dark background (typewriter body)
+- Subject: close-up of vintage typewriter keys
+- Visible keys (left → right): E, R, T, Y, U, I
+- Condition/details: round, worn/aged keytops with visible rust/discoloration; dark keyboard background; panoramic/horizontal crop

@@ -1,4 +1,4 @@
-The image shows a nighttime view of an oil rig. The structure is illuminated with yellow lights.
+Oil rig at night.
 
 ## The Eagle Ford continues to have one of the highest internal rates of return of any of the US unconventional resource plays.
 
@@ -27,11 +27,13 @@ As at and for theYear Ended 31 December 2014
 
 (excluding contingent resources)
 
-| Period  | Blue series (bottom) | Orange series (top) | Total (left axis) | Grey line (right axis) |
-|---------|----------------------:|---------------------:|------------------:|-----------------------:|
-| JAN-13  | ~30                  | ~80                  | ~110              | ~3.7                   |
-| JAN-14  | ~35                  | ~55                  | ~90               | ~2.9                   |
-| JAN-15  | ~50                  | ~110                 | ~160              | ~4.3                   |
+| Date    | Bar (Left Axis) | Line (Right Axis) |
+| :------ | :--------------- | :---------------- |
+| JAN-13  | ~102             | ~3.0              |
+| JAN-14  | ~85              | ~2.2              |
+| JAN-15  | ~152             | ~4.3              |
+
+Blue bars represent the bottom segment of the stacked bar chart, while yellow bars represent the top segment.
 
 In 2014, the Company brought 35 gross (26.1 net) Eagle Ford wells into production by D&P investments of $244 million. Through $26 million of direct mineral leases and $36 million of acquisitions in 2014, the Company increased its Eagle Ford acreage position to 20,742 net acres, which represents 153.7 net undrilled 3P Reserves locations.
 

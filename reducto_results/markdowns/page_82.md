@@ -1,27 +1,28 @@
 15.ClickFinish to end the storage migration wizard, as shown in Figure 9-14.
 
-Key information from the image:
+- Title: "Storage Migration Wizard"
 
-*   **Title:** Storage Migration Wizard.
-*   **SAN:** Data is being migrated to SAN.
-*   **Action:** User should finalize action in management GUI to remove image-mode volume copies. Unzone/remove original storage system.
-*   **Available Actions:** Back, Finish.
+- Illustration: Storage array on left, SAN (labelled "SAN") in middle with disks, arrows pointing to three servers on right (migration from array → SAN → servers).
+
+- Main text (transcribed):
+  "The data migration has begun. After it is completed use the finalize action in the Migration panel of the management GUI to remove the image-mode volume copies. Then unzone and remove the original storage system."
+
+- UI elements: Disabled "Back" button, active "Finish" button (bottom right).
 
 Figure 9-14 Migration is started
 
 The end of the wizard is not the end of the migration task. You can find the progress of the migration in the Storage Migration window, as shown in Figure 9-15. The target storage pool and the progress of the volume copy synchronization is also displayed there.
 
-Start New Migration:
-Actions:
-Default
-Contains
-Filter
+Start New Migration Actions:
+[ ] Default
+[ ] Contains
+[ ] Filter
 
 Volume Name: controller0_00000000...
 Target Pool: Test Pool
 Status: Online
 Progress: 15%
-UID: 600507680C9B80004800000000034
+UID: 600507680C9B800048000000000034
 
 Figure 9-15 The ongoing Migration is listed in the Storage Migration window
 

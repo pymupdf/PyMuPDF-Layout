@@ -11,11 +11,15 @@ IF YOU ARE: (A) YOUNGER THAN 18 YEARS OR (B) UNEMPLOYED
 Parent/Guarantor Details
 
 I approve and confirm this application.
-Name: <empty>
+
+Name:
 Relation to student: <empty>
-ID No: <empty>
-Cell No: <empty>
-Home No: <empty>
+
+ID No.: <empty>
+
+Cell No.: <empty>
+
+Home No.: <empty>
 
 Parent/Guardian/Guarantor Signature: <empty>
 

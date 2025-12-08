@@ -15,24 +15,16 @@ MEA GAP
 ΔΗ V465 Δ
 LUNDI 35 114 63
 
-| Field | Value |
-|---|---|
-| Top label | 122.05 |
-| Navaid name | JACKSON |
-| VOR frequency / ident | 115.4  JAC  101 |
-| Morse ident (graphic) | (morse code shown) |
-| Coordinates | N43°37.26'  W110°43.90' |
-| Fix / Procedure | CASPER (MCA) |
-
-Airway altitude restrictions:
-| Airway / Segment | Minimum Crossing / Altitude |
-|---|---|
-| V520 | 15200 W |
-| V330 | 13400 W |
-| V465 NE → V330 W or V520 W | 16000 |
-| V520 E → V330 W | 14200 |
-| V330 E → V520 W | 16000 |
-| V328 NW → V465 SW | 15100 |
+*   **Frequency:** 122.05
+*   **Name:** JACKSON
+*   **VOR:** 115.4 JAC 101
+*   **Coordinates:** N43°37.26' W110°43.90'
+*   **MCA Casper:** V520 15200W, V330 13400W
+*   **MTA:**
+    *   V465 NE TO V330 W OR V520 W 16000
+    *   V520 E TO V330 W 14200
+    *   V330 E TO V520 W 16000
+    *   V328 NW TO V465 SW 15100
 
 ## Description
 

@@ -1,11 +1,12 @@
 8
 
-| Additional Users Downloaded | Cumulative IV Tokens Found (Millions) - Predictive Ranking | Cumulative IV Tokens Found (Millions) - Random Baseline | Cumulative IV Tokens Found (Millions) - Edge Count Ranking |
-|---|---|---|---|
-| 0 | 0 | 0 | 0 |
-| 500 | 1.25 | 0.40 | 0.40 |
+| Queue Ordering Strategy | Description |
+|---|---|
+| Predictive Ranking | Solid line, shows rapid increase in cumulative IV tokens found as additional users are downloaded. |
+| Random Baseline | Dashed line, shows slower increase than "Predictive Ranking". |
+| Edge Count Ranking | Solid line, shows similar increase to "Random Baseline." |
 
-The chart shows Cumulative IV tokens found against Additional Users Downloaded for different queue ordering strategies: Predictive Ranking, Random Baseline, and Edge Count Ranking. Predictive Ranking finds the most tokens, outperforming both Random Baseline and Edge Count Ranking strategies.
+The x-axis represents additional users downloaded. The y-axis represents Cumulative IV Tokens Found (Millions).
 
 Fig. 2. IV Tokens Gathered by Crawling Strategy
 

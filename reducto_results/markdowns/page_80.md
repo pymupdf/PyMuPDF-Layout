@@ -20,11 +20,11 @@ If you get an error message in Excel you might not get much help from the progra
 
 An invalid cell reference error message occurs when a spreadsheet formula contains incorrect cell references.
 
-- Formula bar: =#REF!+L12
-- Cell (column D) displays: #REF!
-- Yellow error indicator (smart tag) shown at left of the row
-- Red caption in image: “#REF! error in an Excel formula”
-- Implication shown: one operand in the formula was replaced by #REF! (invalid cell reference); L12 remains referenced
+Key details from the image:
+
+*   **Error:** #REF! error in an Excel formula.
+*   **Formula:** `=#REF!+L12` is displayed in the formula bar.
+*   **Cell Display:** Cell D displays `#REF!` error.
 
 In above example, if you click on the cell that contains the #REF! error, you will see that the cell reference within the cell has been replaced with #REF!. Therefore, in order to fix this error, you need to re-enter the correct cell references into your formula.
 
