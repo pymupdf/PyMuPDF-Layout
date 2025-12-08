@@ -381,6 +381,8 @@ def analyze_results(scores_df, mapping_file, score_columns, min_score_threshold,
     # 2. Filter data
     # Drop rows where any method failed to produce a score
     filtered_df = merged_df.dropna(subset=score_columns).copy()
+    print("filtered_df:",filtered_df)
+    print("filtered")   
     # Exclude specified folders (e.g., 'test' folders)
     filtered_df = filtered_df[~filtered_df["Folder"].isin(excluded_folders)]
     filtered_df.to_csv("benchmark_granular.csv", index=False)
@@ -474,16 +476,13 @@ def main():
     
     # Define folder info for benchmarking
     folder_info = [
-        ('reducto_markdowns', 'reducto'),
-        ('pymupdf_markdowns', 'pymupdf4llm'),
-        ('llamaparse_markdowns', 'llamaparse'),
-        ('datalab_markdowns', 'datalab'),
-        ('gemini_markdowns', 'gemini'),
-        ('docling_markdowns', 'docling'),
-        ('geminipro_markdowns', 'geminipro'),
-        ('llamaparse_highest_markdowns', 'llamaparse_highest'),
-        ('datalablllm_markdowns', 'datalabllm'),
-        ('pymupdflayout_markdowns', "pymupdflayout")
+        ('reducto_results/markdowns', 'reducto'),
+        ('datalab_results/markdowns', 'datalab'),
+        ('gemini_results/markdowns', 'gemini'),
+        ('llama_parse_results/markdowns', 'llama_parse'),
+        ('pymupdflayout_results/markdowns', 'pymupdflayout'),
+        ('docling_pipeline_ocr_results/markdowns', 'docling_pipeline_ocr'),
+        ('docling_pipeline_wocr_results/markdowns', 'docling_pipeline_wocr'),
     ]
     score_columns = [col_name for _, col_name in folder_info]
     
@@ -526,7 +525,7 @@ def main():
         logger.info("STEP 4: Running benchmarks")
         logger.info("="*70)
         raw_scores_df = generate_raw_scores(cleaned_data, folder_info, logger)
-        
+
         final_results = analyze_results(
             raw_scores_df,
             args.page_mapping,
