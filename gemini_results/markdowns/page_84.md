@@ -1,0 +1,16 @@
+### 12.3.3 Start activation process on a running system
+
+To activate encryption on a running system, complete the following steps:
+
+1. Click **Settings** → **System** → **Licensed Functions**.
+2. Click **Encryption Licenses**, as shown in Figure 12-9.
+
+   ![Figure 12-9: Expanding Encryption Licenses section on the Licensed Functions window](placeholder-figure-12-9.png)
+
+   **Figure 12-9 (summary):** A screenshot of the management GUI. On the left sidebar, "Settings" is selected, expanding to show "System" and "Licensed Functions". In the main pane, under "Licensed Functions", a button labeled "Encryption Licenses" is highlighted with a red outline.
+
+3. The Encryption Licenses window displays information about your control enclosures. Right-click the enclosure on which you want to install an encryption license. This action opens a menu with two license activation options (**Activate License Automatically** and **Activate License Manually**), as shown in Figure 12-10. Use either option to activate encryption. For more information about how to complete an automatic activation process, see 12.3.4, “Activate the license automatically” on page 614. For more information about how to complete a manual activation process, see 12.3.5, “Activate the license manually” on page 617.
+
+   ![Figure 12-10: Select the Control Enclosure on which you want to enable the encryption](placeholder-figure-12-10.png)
+
+   **Figure 12-10 (summary):** A screenshot of the "Encryption Licenses" table listing control enclosures. A context menu is shown overlaying a specific control enclosure row, presenting two options: "Activate License Automatically" and "Activate License Manually".

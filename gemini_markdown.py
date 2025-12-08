@@ -23,7 +23,7 @@ GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 MAX_CONCURRENCY = 5
 MAX_RETRIES = 3  # Number of retry attempts
 RETRY_DELAY = 2  # Seconds to wait between retries
-INPUT_DIR = Path("pdfs")
+INPUT_DIR = Path("PDFs")
 BASE_OUTPUT_DIR = Path("gemini_results")
 MARKDOWNS_DIR = BASE_OUTPUT_DIR / "markdowns"
 JSONL_OUTPUT = BASE_OUTPUT_DIR / "results.jsonl"
@@ -249,6 +249,11 @@ async def main():
         
     # Get all PDFs
     files_to_parse = list(INPUT_DIR.glob("*.pdf"))
+    all_pdfs = list(INPUT_DIR.glob("*.pdf"))
+    files_to_parse = [f for f in all_pdfs if not (MARKDOWNS_DIR / f.with_suffix('.md').name).exists()]
+
+    # Only process PDFs that are missing their .md output
+
     
     # FIXED: Remove or replace the buggy filter line
     # If you want to filter specific files, uncomment and modify:
