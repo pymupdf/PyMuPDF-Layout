@@ -10,3 +10,4 @@ wheels/
 .venv
 .env
 models_cache/
+.DS_Store
