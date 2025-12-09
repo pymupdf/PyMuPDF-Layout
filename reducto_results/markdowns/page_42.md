@@ -18,19 +18,21 @@ Airspace
 
 | Item | Details |
 |---|---|
-| Title / label | Controlled Airspace — Screened Blue with a Solid Blue Outline |
-| Mode C ring | "30 NM MODE C" (shown on outer circle/ring) |
-| Shading / outline | Screened light-blue fill with a solid blue outline (area shown inside circle) |
-| Airport 1 (symbol + text) | Salt Lake City Intl (SLC)<br>4227 L 120<br>(A) 124.75 125.625 |
-| Airport 2 (symbol + text) | SALT LAKE CITY South Valley Rgnl (U42)<br>4606 9 58<br>AWOS-3 134.425 |
+| Figure title / legend | Controlled Airspace — Screened Blue with a Solid Blue Outline |
+| Airspace depiction | Blue screened fill with solid blue boundary around a service area |
+| Mode C veil / radius | 30 NM (labelled "30 NM MODE C" on perimeter) |
+| Airport — Salt Lake City Intl (SLC) | Green airport symbol; text: "Salt Lake City Intl (SLC)" on next lines: "4227 T 120" and "(A) 124.75 125.625" |
+| Airport — Salt Lake City South Valley Rgnl (U42) | Green airport symbol; text: "SALT LAKE CITY South Valley Rgnl (U42)" on next lines: "4606 58" and "AWOS-3 134.425" |
 
-Key entities in the image:
-
-*   **Airports**: Salt Lake City Intl (SLC), Tooele Valley (TVY), Hill AFB (HIF), Fairfield (FFU), Provo (PVU).
-*   **VORs**: OGD, WASATCH, CEDAR CITY.
-*   **Airways**: V236, V484, V32, V21-101, V6, V200.
-*   **Restricted Areas**: R-6403, R-6412A, R-6412B, R-6412C, R-6412D.
-*   **Class B Airspace**: Surrounds Salt Lake City.
+| Element | Details |
+|---|---|
+| Airspace class | Class B |
+| Vertical limits (general) | Surface to 10,000' MSL (unless otherwise designated) |
+| Structure | Individually tailored areas: a surface core plus two or more concentric layered “shelves” |
+| Example shown (center) | Salt Lake City International (SLC) Class B depiction |
+| Other named nearby points/airports on chart | Cedar City, Provo, Wasatch, Fairfield, Heber City |
+| Chart symbology (legend summary) | Solid blue lines and blue shading = Class B boundaries; each shelf is labeled with its floor (MSL) and the common top of 10,000' MSL |
+| Key note from image text | “Each Class B airspace area is individually tailored and consists of a surface area and two or more layers.”
 
 That airspace from the surface to 10,000’ MSL (unless otherwise designated) surrounding the nation’s busiest airports. Each Class B airspace area is individually tailored and consists of a surface area and two or more layers.
 

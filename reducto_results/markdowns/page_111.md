@@ -19,15 +19,16 @@ The repeating unit having a cyclic carbonate ester struc- 20
 
 ture is preferably the repeating unit represented by Formula (A-1).
 
-- Figure: Formula (A-1) — repeating unit (polymer monomer).
-- Core connectivity:
-  - Polymer backbone segment (left) — tertiary carbon bearing substituent R^1.
-  - That backbone carbon is bonded to a carbonyl (O= C) forming an ester linkage: O=C–O–A–(cyclic carbonate).
-  - A links the ester oxygen to a five‑membered cyclic carbonate (1,3‑dioxolan‑2‑one motif): a five‑membered ring with two oxygens and a carbonyl.
-- Substituents/labels shown on the cyclic carbonate:
-  - Z is attached to the ring (dashed curved bond indicating variable linkage).
-  - (R^4)2_n indicated as a substituent associated with Z.
-- Labels present on the figure: R^1, A, Z, (R^4)2_n.
+Formula: (A-1)
+
+Key structural features
+- Polymer repeating unit: backbone fragment is a substituted vinyl/methacrylate-type unit: –[CH(R1)–C(=O)–O–A–(cyclic carbonate)]–
+- Pendant group: five‑membered cyclic carbonate (1,3‑dioxolan‑2‑one) attached via an oxygen to linker A.
+- Ring substituent: the ring carbon between the two oxygens bears Z–(R2)n (dashed bond in figure indicates substitution at that carbon).
+- Variable groups: R1 (on backbone carbon), A (linker between ester oxygen and cyclic carbonate), Z and (R2)n (substituents on the cyclic carbonate ring).
+
+ASCII connectivity (approximate)
+-[-CH(R1)-C(=O)-O-A-O-CR-(O)-C(=O)-]- with Z-(R2)n on the CR in the cyclic carbonate ring.
 
 (A-1) 25 25
 
@@ -43,9 +44,9 @@ substituent. If n is 2 or more, R²'s each independently represents a If n is 2 
 
 A represents a single bond or a divalent linking group.
 
-65 65
-
 Z represents a atomic group forming a monocyclid or polycyclic structure together with a group represented by -O-C(=O)—0— in the formula.
+
+65 65
 
 n represents an integer of 0 or more.
 
@@ -85,12 +86,22 @@ In the resin (A), the repeating unit represented by Formula (A-1) may be contain
 
 45
 
-60 60
-
 Hereinafter, specific examples of the repeating unit hav- ing a cyclic carbonate ester structure are shown below, but the present invention is not limited thereto.
+
+60 60
 
 In addition, R in the following specific examples has the same meaning as R in Formula (A-1).
 
-The image displays two chemical structures. Both structures contain a polymer chain with repeating units, an ester linkage, and a tetrahydro-2H-pyran-2-one ring system. The structures differ in the substituent on the carbon adjacent to the pyranone ring. In the first structure, the carbon is unsubstituted, while in the second structure, it is substituted with a methyl group. Each polymer chain includes a substituent labeled R_A^1.
+- Context: Examples of a divalent linking group "A" (attached to a polymer repeat unit). Each structure shows a polymer backbone (left squiggle) with a pendant methacrylate-type unit bearing R_A^1 on the tertiary carbon and an ester linkage C(=O)–O to the spacer.
+
+- Structure 1 (left):
+  - Pendant: –C(R_A^1)(–)–C(=O)–O–CH2–CH2–O–(five‑membered cyclic anhydride)
+  - Terminal ring: five-membered cyclic anhydride (succinic anhydride-like)
+
+- Structure 2 (right):
+  - Pendant: –C(R_A^1)(–)–C(=O)–O–CH2–C(CH3)2–CH2–O–(five‑membered cyclic anhydride)
+  - Terminal ring: same five‑membered cyclic anhydride
+
+- Key entities: polymer repeat unit, R_A^1 substituent, ester linkage (C=O–O), ether-containing spacer variants (linear ethylene glycol‑type vs. branched isopropylidene spacer), terminal cyclic anhydride.
 
 Examples of the a divalent linking group represented by Examples of the a divalent linking group represented by A may include an alkylene group, a cycloalkylene group, an ester bond, an amide bond, an ether bond, an urethane bond,

@@ -64,9 +64,8 @@ The procedure according to Example 3 was repeated but using 2-vinyl-1,3-dioxane 
 
 35
 
-Key entities: Polymer chain, Chemical Formula 7.
-Polymer chain with two side groups labeled a and b.
-Group a contains an oxygen ring, while Group b contains a carboxyl group.
+The image depicts a chemical structure labeled "<Chemical Formula 7>". The polymer chain contains two distinct repeating units, designated as "a" and "b". Unit "a" features a cyclic ether moiety, while unit "b" has a carboxylic acid group.
+
 
 ## EXAMPLE 5
 

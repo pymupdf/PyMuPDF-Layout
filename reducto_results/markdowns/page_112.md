@@ -55,12 +55,7 @@ cyclic amines such as pyrrole and piperidine.
 
 [0494] Resin P-14 was synthesized according to the following scheme.
 
-- (5): p‑Vinyl phenyl acetate (4‑vinylphenyl O‑acetyl)
-- → deprotection/hydrolysis →
-- (6): p‑Vinylphenol (4‑vinylphenol)
-- → reaction with perfluoro‑sulfonyl reagent →
-- (7): p‑Vinylphenyl O‑sulfonyl–perfluoroalkyl sulfonyl fluoride (structure drawn as Ar–O–SO2–(CF2)4–SO2F; vinyl group retained)
-- → conversion of terminal SO2F →
-- (8): p‑Vinylphenyl O‑sulfonyl–perfluoroalkyl sodium sulfonate (Ar–O–SO2–(CF2)4–SO3Na)
-
-Scheme context: these steps yield the functionalized vinyl aryl unit used to prepare Resin P‑14.
+- (5) 4‑Vinylphenyl acetate (para‑vinyl phenyl O‑acetyl)
+- (6) 4‑Vinylphenol (deprotected phenol)
+- (7) Aryl O‑linked perfluoroalkyl sulfonyl fluoride: 4‑vinyl‑O–SO2–(CF2)4–SO2F (aryl O–S(=O)2–(CF2)4–SO2F)
+- (8) Corresponding sodium sulfonate: 4‑vinyl‑O–SO2–(CF2)4–SO3Na (terminal SO2F → SO3Na conversion)

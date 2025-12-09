@@ -79,16 +79,25 @@ $21 million after-tax profit
 that was booked in the 2004
 financial year.
 
-Key entities in the image:
+The image shows a map of the Brantas PSC area in East Java.
 
-*   **PSC areas**: Brantas PSC, Bawean 1 PSC, Sampang PSC, Madura Offshore PSC, Nth Bali 1 PSC
-*   **Locations**: Surabaya, Grati, Jeruk, Oyong, Maleo, Bawean Island, Madura Island, Bali, Kangean Islands, East Java, Java Sea, Bali Sea
-*   **Legend**: 
-    *   Santos acreage
-    *   Santos acreage acquired through Novus acquisition
-    *   Oil field
-    *   Gas field
-    *   Oil pipeline
-    *   Gas pipeline
+Key entities:
+*   Brantas PSC
+*   Bawean 1 PSC
+*   Sampang PSC
+*   Madura Offshore PSC
+*   Nth Bali 1 PSC
+*   Java Sea, Bali Sea, East Java
+
+Legend:
+
+| Symbol | Description |
+| ----------- | ----------- |
+| White square | Santos acreage |
+| Bolded square | Santos acreage acquired through Novus Acquisition |
+| Black filled area | Oil Field |
+| Gray filled area | Gas Field |
+| Solid Line | Oil pipeline |
+| Dashed Line | Gas Pipeline |
 
 Santos Annual Report 2004 23

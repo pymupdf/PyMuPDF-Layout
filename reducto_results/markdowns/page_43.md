@@ -4,29 +4,36 @@ On VFR Charts, information about radio aids to navigation (NAVAID) are boxed, as
 
 avoided. When two or more radio aids in a general area have the same name with different frequencies, Tactical Air Navigation (TACAN) channel numbers, or identification letters, and no misinterpretation can result, the name of the radio aid may be indicated only once within the identification box. Very High Frequency/Ultra High Frequency (VHF/UHF) NAVAID names and identification boxes (shown in blue) take precedence. Only
 
-Key details from the image:
-
-*   **NAVAID:** VORTAC
-*   **Name:** PONTIAC
-*   **Identifier:** PTK
-*   **Frequencies:** 122.1R, 123.6
-*   **NDB Frequency:** 379 (with star symbol, indicating on request)
-*   **TACAN Channel:** 47
-*   **Operational Note:** FSS operates 0600-2200, Rancho Murleta FSS other times.
-*   **Shutdown Status:** Crosshatch indicates shutdown
-*   **Radio Frequencies:** FSS radio frequencies displayed.
-*   **ASOS/AWOS**: There is ASOS/AWOS system in place.
+| Callout / Legend item | Text or example shown in image |
+|---|---|
+| FSS Radio Frequencies | 122.1R (left), 123.6 (right) |
+| VORTAC (name) | PONTIAC (blue) |
+| ASOS/AWOS | circled "A" symbol near right frequency |
+| Identifier | small letters shown inside identification box (labelled "Identifier") |
+| Morse Code | Morse pattern shown inside identification box (labelled "Morse Code") |
+| NDB Frequency | 379° (star marker next to it) |
+| Frequency | (arrow labelled "Frequency" pointing to numeric entries such as 122.1R / 123.6) |
+| Channel | (callout "Channel" pointing to channel field in ID box) |
+| Operational note | "FSS oper 0600-2200" and "Rancho Murieta FSS other times." |
+| Crosshatch | "Crosshatch indicates Shutdown status" |
+| Operates less | "Operates less continuous or on-request" |
 
 those items that differ (e.g., frequency, Morse Code) are repeated in the box in the appropriate color. The choice of separate or combined boxes is made in each case on the basis of economy of space and clear identification of the radio aids.
 
 A NAVAID that is physically located on an airport may not always be represented as a typical NAVAID symbol. A small open circle indicates the NAVAID location when collocated with an airport icon.
 
-- NAVAID type (top of box): VOR
-- Name: SALEM
-- Frequency: 114.3 MHz
-- Identifier: SVM (shown in the box; dashed lines likely representing Morse ID)
-- Symbol: Open circle around airport icon = NAVAID is collocated with an airport
-- Diagram elements: compass rose with radial to the VOR; label caption: "Open circle symbol shown when NAVAID located on airport. Type of NAVAID shown in top of box."
+| Item | Value / Description |
+|---|---|
+| Chart type | VOR compass rose / NAVAID depiction |
+| NAVAID type (top of box) | VOR |
+| Name | SALEM |
+| Frequency (MHz) | 114.3 |
+| Identifier | SVM |
+| Collocation symbol | Small open circle shown (indicates NAVAID located on airport) |
+| NAVAID box detail | Type on top line; identifier and frequency shown; short dashed lines shown to right of identifier |
+| Radial shown | A radial drawn from the VOR toward roughly 030° (approximate bearing) |
+| Compass rose ticks/labels | Full 360° rose with ticks (minor ticks ~5°) and major labels at 30° increments (labels displayed as 0, 3, 6, 9, ... corresponding to 360°, 030°, 060°, 090°, ...) |
+| Caption/note (on figure) | "Open circle symbol shown when NAVAID located on airport. Type of NAVAID shown in top of box." |
 
 The type of NAVAID will be identified by: "VOR," (VHF Omni-Directional Range) "VORTAC" (VOR Tactical Aircraft Control), "VOR-DME," (VOR-Distance Measuring Equipment) or “DME” (Distance Measuring Equipment) positioned on and breaking the top line of the NAVAID box.
 

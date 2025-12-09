@@ -1,23 +1,13 @@
-Legend
-- Black solid: True DTE
-- Red dashed: Makarov lower
-- Red dash-dot (or different red dash): Makarov upper
-- Blue solid: New lower bound
-Axes: x ∈ [0,30], y ∈ [0,1] (all subplots)
+**Figure 12: New bounds v.s. Makarov bounds**
 
-| Subplot | k1 | k2 | Key observation |
-|---:|---:|---:|---|
-| (1,1) top-left | 1 | 1 | All curves rise quickly to 1. Order (typical): Makarov lower < New lower < True DTE < Makarov upper. New lower closer to True than Makarov lower. |
-| (1,2) top-center | 1 | 10 | Curves slower to rise; New lower substantially closer to True than Makarov lower. Makarov upper is the loosest bound. |
-| (1,3) top-right | 1 | 40 | New lower remains closer to True; Makarov lower much lower for small x. |
-| (2,1) middle-left | 5 | 1 | Curves rise moderately; New lower nearly overlaps True at higher x and is above Makarov lower for most x. |
-| (2,2) center | 5 | 10 | New lower and True DTE are close across much of x; Makarov lower is noticeably looser (lower). |
-| (2,3) middle-right | 5 | 40 | New lower closer to True than Makarov lower; Makarov upper still the largest envelope. |
-| (3,1) bottom-left | 10 | 1 | All curves shift right (slower increase); New lower is closer to True than Makarov lower for most x. |
-| (3,2) bottom-center | 10 | 10 | New lower nearly matches True at moderate x; Makarov lower is distinctly lower. |
-| (3,3) bottom-right | 10 | 40 | New lower and True are very close for much of the range; Makarov bounds give a much wider interval. |
+The figure shows plots comparing the "True DTE", "Makarov lower", "Makarov upper" and "New lower bound". The plots show different combinations of k1 and k2 values: (1,1), (1,10), (1,40), (5,1), (5,10), (5,40), (10,1), (10,10), and (10,40). The x-axis ranges from 0 to 30 in all subplots.
 
-Overall summary: across all nine panels the New lower bound (blue) is generally tighter (closer to the True DTE, black) than the Makarov lower (red), while the Makarov upper provides the largest (loosest) upper bound.
+Key entities:
+*   True DTE
+*   Makarov lower
+*   Makarov upper
+*   New lower bound
+*   k1, k2 values
 
 Figure 12: New bounds v.s. Makarov bounds
 

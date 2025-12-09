@@ -1,8 +1,7 @@
-| Panel | Title | X-axis label | Y-axis label | Shape / Interpretation |
-|---|---:|---|---|---|
-| Left | Concave Treatment Response Function | Treatment Level t | Potential Outcome Y_t | Monotone increasing, concave curve (diminishing marginal returns); near-zero at low t, rises gradually with t |
-| Right | Convex Treatment Response Function | Treatment Level t | Potential Outcome Y_t | Monotone increasing, convex curve (accelerating marginal returns); near-zero at low t, rises rapidly at higher t |
-| Note | — | — | — | No legend shown; axes have tick marks but no numeric labels/units |
+| Panel | Title | X-axis | Y-axis | Shape / curvature | Marginal effect | Notes |
+|---|---:|---|---|---|---|---|
+| Left | Concave Treatment Response Function | Treatment Level t | Potential Outcome Y_t | Concave, increasing (curves upward less steeply as t increases) | Diminishing returns: slope decreases with t | No legend; behaves like a sqrt-like or log-like increasing curve |
+| Right | Convex Treatment Response Function | Treatment Level t | Potential Outcome Y_t | Convex, increasing (flat near 0, steeply rises at higher t) | Increasing returns: slope increases with t | No legend; behaves like an exponential- or power-like accelerating curve
 
 Figure 2: Concave treatment response and convex treatment response
 

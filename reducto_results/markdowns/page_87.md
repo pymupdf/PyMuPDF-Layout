@@ -2,8 +2,6 @@ The Company recorded an $800,000 write-down of certain ATM hardware assets assoc
 
 The operating expenses for the Central European Sub-segment totaled $21.7 million for the year ended December 31, 2000 as compared to $20.7 million for the year ended December 31, 1999, an i n c rease of 5%. The increase in operating expenses is largely the result of an increase in the number of ATMs operated by the Company from 1,203 at December 31, 1999 to 1,391 at December 31, 2000, and increased transaction volumes.
 
-Here's the data from the chart:
-
 | Quarter | EBITDA (USD Million) |
 |---|---|
 | Q1 | -0.7 |
@@ -11,7 +9,7 @@ Here's the data from the chart:
 | Q3 | 0.7 |
 | Q4 | 1.3 |
 
-The chart shows Network Services EBITDA.
+Chart title: Network Services: EBITDA
 
 The operating expenses for the We s t e rn European Sub-segment totaled $18.9 million for the year ended December 31, 2000 as compared to $16.5 million for the year ended December 31, 1999, an increase of 15%. The increase in operating expenses is largely the result of an increase in the number of ATMs operated by the Company from 621 at December 31, 1999 to 787 at December 31, 2000, and increased transaction volumes.
 

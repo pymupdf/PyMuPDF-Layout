@@ -46,9 +46,7 @@ BARSKA
 
 ## MODEL AY11240/AY11238
 
-| Left microscope — parts | Right microscope — parts |
-|---|---|
-| Eyepiece<br>Barrel<br>Revolving Turret<br>Objectives<br>Spring Clips<br>Stage<br>5‑Hole Diaphragm and Condenser<br>Concave Mirror<br>Stand<br>Coarse Adjustment Knob<br>Fine Adjustment Knob | Eyepiece<br>Monocular Tube<br>Eyepiece Set Screw<br>Rotating Head<br>Revolving Turret<br>Objectives<br>Spring Clips<br>Stage<br>5‑Hole Diaphragm and Condenser<br>Stage Height Limit Adjustment<br>Stand<br>Coarse Adjustment Knob<br>Fine Adjustment Knob<br>Lamp<br>Lamp On/Off Switch<br>Power Cord |
+Two microscope diagrams are presented. The left microscope has a concave mirror. Labeled components include: Eyepiece, Barrel, Revolving Turret, Objectives, Spring Clips, Stage, Concave Mirror, 5-Hole Diaphragm and Condenser, Coarse Adjustment Knob, Fine Adjustment Knob, Stand. The right microscope has a lamp, power cord and on/off switch. Labeled components include: Eyepiece, Monocular Tube, Eyepiece Set Screw, Rotating Head, Stage Height Limit Adjustment, Stand, Coarse Adjustment Knob, Fine Adjustment Knob, Revolving Turret, Objectives, Spring Clips, Stage, 5-Hole Diaphragm and Condenser, Lamp, Lamp On/Off Switch, and Power Cord.
 
 Model AY11240
 

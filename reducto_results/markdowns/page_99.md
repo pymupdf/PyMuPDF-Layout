@@ -11,57 +11,57 @@ Bcfe at end of year
 
 Bcfe at end of year
 
-Here's the data from the bar chart:
+| Year | Bcfe (end of year) | Color |
+|------|--------------------:|:------|
+| 00   | 400                 | blue  |
+| 01   | 450                 | blue  |
+| 02   | 600                 | blue  |
+| 03   | 800                 | blue  |
+| 04   | 1,000               | blue  |
+| 05   | 1,300               | blue  |
+| 06   | 1,600               | blue  |
+| 07   | 2,000               | blue  |
+| 08   | 2,300               | blue  |
+| 09   | 2,500               | blue  |
+| 10   | 2,900               | green |
 
-| Year | Bcfe at End of Year |
-|---|---|
-| 00 | 375  |
-| 01 | 450 |
-| 02 | 500 |
-| 03 | 750 |
-| 04 | 1000 |
-| 05 | 1275 |
-| 06 | 1600 |
-| 07 | 1950 |
-| 08 | 2300 |
-| 09 | 2500 |
-| 10 | 2800 |
+| Year | Value (approx) | Color |
+|------|----------------|-------|
+| 00   | 500            | Blue  |
+| 01   | 1,000          | Blue  |
+| 02   | 1,500          | Blue  |
+| 03   | 2,500          | Blue  |
+| 04   | 4,500          | Blue  |
+| 05   | 5,000          | Blue  |
+| 06   | 9,000          | Blue  |
+| 07   | 11,000         | Blue  |
+| 08   | 12,000         | Blue  |
+| 09   | 14,500         | Blue  |
+| 10   | 17,500         | Green |
 
-
-| Year | Value |
-|---|---|
-| 00 | 1,500 |
-| 01 | 2,000 |
-| 02 | 2,500 |
-| 03 | 3,000 |
-| 04 | 5,000 |
-| 05 | 7,500 |
-| 06 | 9,000 |
-| 07 | 11,000 |
-| 08 | 12,000 |
-| 09 | 14,000 |
-| 10 | 17,500 |
-
-
-| Year | Proved and Unrisked, Unproved Reserves |
-|---|---|
-| 00 | 0 |
-| 01 | 0 |
-| 02 | 0 |
-| 03 | 0 |
-| 04 | 0 |
-| 05 | 50000 |
-| 06 | 80000 |
-| 07 | 110000 |
-| 08 | 180000 |
-| 09 | 190000 |
-| 10 | 280000 |
+| Year | Proved Reserves | Unrisked, Unproved Reserves |
+|---|---|---|
+| 00 | 0 |  |
+| 01 | 0 |  |
+| 02 | 0 |  |
+| 03 | 0 |  |
+| 04 | 0 |  |
+| 05 | 50,000 |  |
+| 06 | 80,000 |  |
+| 07 | 110,000 |  |
+| 08 | 180,000 |  |
+| 09 | 190,000 |  |
+| 10 |  | 280,000 |
 
 *Proved and unrisked, unproved reserves
 
 Chesapeake’s Stock Price Chesapeake’s Stock Price at Month End Henry Hub Natural Gas Spot Price at Month End
 
-The image displays a chart showing the "CHK Stock Price" and "Henry Hub Natural Gas Spot Price" from December 2000 to December 2010. The CHK stock price is represented by blue and green bars while the price of natural gas is represented with a tan line.
+| Metric                      | Color  |
+| --------------------------- | ------ |
+| CHK Stock Price             | Blue   |
+| Henry Hub Natural Gas Spot Price | Orange |
+| Month End                   | Green  |
 
 Chesapeake’s Five-Year and Ten-Year Common Stock Performance The graphs below compare the performance of our common stock to the S&P 500 Stock Index and a group of peer companies for the past five and 10 years. The graph on the left assumes an investment of $100 on December 31, 2004 and the reinvestment of all dividends. The graph on the right assumes an investment of $100 on December 31, 1999 and the reinvestment of all dividends. The graphs show the value of the investment at the end of each year.
 
@@ -71,31 +71,29 @@ Chesapeake’s Five-Year and Ten-Year Common Stock Performance The graphs below 
 
 ## TEN-YEAR PERFORMANCE TEN-YEAR PERFORMANCE
 
-Legend: CHK = green, 2010 Peer Group = orange, S&P 500 = blue
+| Year | CHK  | 2010 Peer Group | S&P 500 |
+| ---- | ---- | --------------- | ------- |
+| 05   | ~96  | ~96             | ~100    |
+| 06   | ~92  | ~95             | ~115    |
+| 07   | ~122 | ~145            | ~120    |
+| 08   | ~54  | ~103            | ~78     |
+| 09   | ~85  | ~132            | ~90     |
+| 10   | ~88  | ~145            | ~110    |
 
-| Year | CHK ($) | 2010 Peer Group ($) | S&P 500 ($) |
-|------|---------:|--------------------:|------------:|
-| 2005 | 100      | 100                 | 100         |
-| 2006 | 95       | 100                 | 115         |
-| 2007 | 122      | 150                 | 125         |
-| 2008 | 53       | 120                 | 70          |
-| 2009 | 85       | 130                 | 95          |
-| 2010 | 92       | 150                 | 118         |
+| Year | CHK (green) | 2010 Peer Group (orange) | S&P 500 (blue) |
+|------:|------------:|-------------------------:|---------------:|
+| 2000 | 100 | 100 | 100 |
+| 2001 | 90  | 88  | 92  |
+| 2002 | 105 | 100 | 100 |
+| 2003 | 140 | 130 | 105 |
+| 2004 | 170 | 200 | 110 |
+| 2005 | 320 | 205 | 120 |
+| 2006 | 300 | 280 | 130 |
+| 2007 | 420 | 310 | 120 |
+| 2008 | 170 | 230 | 80  |
+| 2009 | 285 | 300 | 100 |
+| 2010 | 295 | 310 | 115 |
 
-Here's the data extracted from the chart:
-
-| Year | CHK | 2010 Peer Group | S&P 500 |
-|---|---|---|---|
-| 00 | 100 | 100 | 100 |
-| 01 | 60 | 80 | 80 |
-| 02 | 70 | 80 | 70 |
-| 03 | 100 | 100 | 90 |
-| 04 | 170 | 130 | 100 |
-| 05 | 330 | 210 | 100 |
-| 06 | 300 | 210 | 120 |
-| 07 | 410 | 300 | 120 |
-| 08 | 170 | 210 | 80 |
-| 09 | 280 | 280 | 90 |
-| 10 | 310 | 310 | 110 |
+Note: 2010 peer group = Anadarko, Apache, Devon, Encana, EOG (XTO excluded due to acquisition by Exxon Mobil).
 
 (1) The 2010 peer group is comprised of Anadarko Petroleum Corp., Apache Corp., Devon Energy Corp., Encana Corp. and EOG Resources, Inc. XTO Energy, Inc. was not included in the 2010 peer group due to its acquisition by Exxon Mobil Corp. 500 150

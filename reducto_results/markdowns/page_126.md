@@ -99,11 +99,11 @@ Primary Examiner-Sin J. Lee
 
 A photosensitive composition includes (A) a compound represented by the following formula (I):
 
-Photosensitive composition compound formula (I) shows:
+The image depicts a chemical formula (I).
 
-R¹ through R¹³ represent H or a substituent.
-Z represents a single bond or divalent linking group.
-X⁻ represents an anion with a proton acceptor functional group.
+*   R<sup>1</sup> to R<sup>13</sup> each independently represents a hydrogen atom or a substituent.
+*   Z represents a single bond or a divalent linking group.
+*   X<sup>-</sup> represents an anion containing a proton acceptor functional group.
 
 wherein R 1 to R 13 each independently represents a hydrogen atom or a substituent, Z represents a single bond or a divalent linking group, and x- represents an anion containing a proton acceptor functional group.
 

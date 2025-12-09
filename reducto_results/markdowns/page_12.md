@@ -1,28 +1,30 @@
-Key details from the image:
+The image shows five plots (A-E) representing data related to partition degeneracy and its correlation with excursion count.
 
-*   **(A)** Node Assignments: Shows partitions identified using Louvain, with a color-coded Community ID legend.
-*   **(B)** Association Matrix: Represents node association weights, with a color-coded scale from 0 to 100.
-*   **(C)** Z-Score Rand Index Matrix: Displays the Z-score Rand index between partition pairs.
-*   **(D)** Scatterplot: Compares mean Z-score Rand index to the number of events.
-*   **(E)** Correlation Plot: Mean Z-score Rand index and event count correlation plotted against subject ID. Most subjects exhibit positive correlations.
+*   **(A)** shows Node Assignments: Partitions identified using Louvain
+*   **(B)** is an Association Matrix: Node ID vs Node ID with Association weight (0-100).
+*   **(C)** Matrix of z-score Rand indices: Partitions identified using Louvain vs Partitions identified using Louvain with Z-score Rand index (0-60)
+*   **(D)** Scatter plot: Mean Z-score Rand index vs. Number of events.
+*   **(E)** Line plot: Mean Z-score Rand index and event count correlation vs. Subject ID.
 
 Figure 5: Partition degeneracy and correlation with excursion count. (A) As an example, we show the set of 100 partitions obtained by maximizing modularity for a single instance of dFC (169 events). (B) The association matrix for this set of partitions. Each element in the association matrix counts the number of times that two nodes were assigned to the same partition. The node order is the same as in Figure 4. (C) Matrix of z-score Rand indices for all pairs of the 100 partitions shown in panel (A). (D) We show the scatterplot of mean z-score Rand index for each time point plotted against the event count, both calculated at the same time point, for one representative participant. (E) Correlation coefficients for z-score Rand index and event count plotted across participants. Note that of the 80 participants, only four exhibited negative correlations.
 
-| Legend color | Network label |
-|---:|---|
-| Red | CONT (control) |
-| Yellow/Orange | DMN (default mode) |
-| Green | DAN (dorsal attention) |
-| Cyan/Teal | LIM (limbic) |
-| Blue | VAN (ventral attention) |
-| Purple/Magenta | SMN (somatomotor) |
-| Pink | VIS (visual) |
+**Figure 6 Breakdown:**
 
-| Panel | Description / data extracted |
-|---:|---|
-| A | Mean difference association matrix across all participants (Δ_ij). Colorbar range: −0.10 to +0.10 (values indicate change in co-assignment probability between excursion vs non-excursion conditions). Node order same as Fig. 4. |
-| B | Statistically significant node-pair differences in co-assignment between conditions. Colors denote which condition shows greater co-assignment (labels on figure: "Non > Excursions" vs "Excursions > Non"). Matrix is a significance mask over panel A. |
-| C | Bar plot: number of significant co-assignment changes per node (nodes ordered by rank). Y-axis range shown 0–60 (max ≈60). Bars are colored by network (legend above). Top-ranked nodes (highest counts) are predominantly DMN.
+*   **Panel A:** Shows the mean difference in association matrices between non-mass excursions and excursions across participants. Color scale indicates the magnitude of the difference.
+
+*   **Panel B:** Highlights node pairs with statistically significant differences in co-assignment probability between non-excursions and excursions.
+
+*   **Panel C:** Displays the number of significant co-assignment changes for each node, ordered by rank. Most changes were from the Default Mode Network (DMN).
+
+**Legend for Panel C:**
+
+*   CONT: Control
+*   DMN: Default Mode
+*   DAN: Dorsal Attention
+*   LIM: Limbic
+*   VAN: Ventral Attention
+*   SMN: Somatomotor Network
+*   VIS: Visual
 
 Figure 6: Default mode network dissociates during mass-excursions. A) Mean difference in association matrices constructed during non-mass excursions and excursions. B) Node pairs that were statistically more or less likely to be observed in the same community during nonexcursions compared to excursions. The network labels are taken from Yeo et al. (2011), with labels corresponding to networks for control (CONT), default mode (DMN), dorsal attention (DAN), limbic (LIM), ventral attention (VAN), somatomotor network (SMN), and visual (VIS). C) We sum the rows of the matrix in panel B) to identify regions that that consistently change their community co-assignments with other regions. The regions that change the most are predominantly regions associated with DMN.
 

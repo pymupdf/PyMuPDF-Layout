@@ -66,14 +66,7 @@ Erfinder: Erfinder:
 
 (57) Die vorliegende Erfindung betrifft eine Sensorvorrichtung (4) für einen Messerhalter (1), umfassend - einen Grundkörper (6) zur Befestigung der Sensorvorrichtung (4) an einem Messerhalter (1), - mindestens einen an dem Grundkörper (6) befestigten Sensor (7) zur Erfassung einer Größe und - einen an dem Grundkörper (6) befestigten Sender (8) zur kabellosen Übertragung der von dem Sensor (7) erfassten Größe.
 
-- 1: Messerhalter / gesamte Haltevorrichtung (knife holder assembly)  
-- 2: Schneide-/Rad-Einheit (cutting wheel unit)  
-- 3: Mittenachse / Spindel des Rades (central axle)  
-- 4: Sensorvorrichtung (sensor device) — angeordnet am Rad/Schneidebereich  
-- 5: Sensor-/Befestigungsstelle am Rad (sensor element or mounting on wheel rim)  
-- 11: Antriebs-/Motorgehäuse (vertical housing über dem Rad)
-
-Zusammenhang: Die Sensorvorrichtung (4) ist am Messerhalter (1) nahe der Schneideeinheit (2) positioniert; in der Patentschrift werden zusätzlich Grundkörper (6), Sensor (7) und Sender (8) beschrieben (nicht gesondert im Bild nummeriert).
+The image shows a diagram labeled "Fig. 1". Key components are labeled: 1, 2, 3, 4, 5, and 11.
 
 EP 3 800 018 A1
 

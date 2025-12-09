@@ -6,23 +6,23 @@ Jan. 5, 2012
 
 -continued
 
-The image displays multiple chemical structures including polymers and sulfonium salts.
-
-Key compounds depicted:
-
-*   Polymers with phenyl substituents.
-*   Sulfonium salts with various substituents.
-*   Sulfonates and related structures.
-*   A molecule derived from fluorene.
+The image contains chemical structures including polymers and organic molecules. Some notable groups include sulfonates, fluorinated sulfonyl compounds, biaryl groups, and triphenylsulfonium ions.
 
 P-54
 
-The image shows two chemical structures. The first one has a repeating unit of CH2-CH, with a naphthalene ring attached and an OH group. The second has a repeating unit of CH2-C(CH3), with an ester linkage to a substituted cyclohexane ring with an OMe group.
+Two chemical structures are shown. The structure on the left has a repeating unit of -CH2-CH- with a naphthalene ring and an OH group attached to the CH. The structure on the right has a repeating unit of -CH2-C(CH3)- with a carbonyl group attached. An ester is formed by connecting the carbonyl to a 6-membered ring containing a methoxy group (OMe).
 
 -continued
 
-Key chemical structures are displayed, featuring repeating units with different functional groups attached.
+Left repeat unit
+- Backbone: —(CH2–C–)—
+- Substituents on the tertiary carbon: CH3 and a carbonyl ester: C(=O)–O–Ar
+- Pendant group: an ester-linked biphenyl (O–phenyl–phenyl). Concise formula: —[CH2–C(CH3)(COO–biphenyl)]—
 
+Right repeat unit
+- Backbone: —(CH2–CH–)—
+- Pendant group: a para-phenyl substituent bearing an alkoxy-sulfonyl–perfluoroalkyl–sulfonate: Ar–O–SO2–(CF2)4–SO3
+- Concise formula: —[CH2–CH(Ph–O–SO2–(CF2)4–SO3)]— (Ph = phenyl, CF2 chain shown as four CF2 units in the drawing)
 
 MeO.
 

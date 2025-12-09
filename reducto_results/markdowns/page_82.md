@@ -1,13 +1,6 @@
 15.ClickFinish to end the storage migration wizard, as shown in Figure 9-14.
 
-- Title: "Storage Migration Wizard"
-
-- Illustration: Storage array on left, SAN (labelled "SAN") in middle with disks, arrows pointing to three servers on right (migration from array → SAN → servers).
-
-- Main text (transcribed):
-  "The data migration has begun. After it is completed use the finalize action in the Migration panel of the management GUI to remove the image-mode volume copies. Then unzone and remove the original storage system."
-
-- UI elements: Disabled "Back" button, active "Finish" button (bottom right).
+The image displays the "Storage Migration Wizard" interface. The migration has begun; after completion, use the "finalize" action in the Migration panel to remove image-mode volume copies, unzone, and remove the original storage system. The GUI includes "Back" and "Finish" buttons. A diagram visually represents data migration from one storage unit through a SAN to multiple servers.
 
 Figure 9-14 Migration is started
 

@@ -4,19 +4,18 @@
 
 Figure 11-84 shows an example of a triangle topology (A → B, A → C, and B →C).
 
-The image shows a triangle topology with nodes A, B, and C. The connections are A to B, A to C, and B to C.
-
+Triangle topology diagram with nodes A, B, and C connected. A is connected to B and C, while B is connected to C.
 
 Figure 11-84 Triangle topology
 
 Figure 11-85 shows an example of a fully connected topology (A→B, AC, A → D, B → D, and C → D).
 
-| Node | Position | Connected to |
-|------|----------|--------------|
-| A    | top-left | B, C, D |
-| B    | bottom-left | A, C, D |
-| C    | top-right | A, B, D |
-| D    | bottom-right | A, B, C |
+|     | A   | B   | C   | D   |
+|-----|-----|-----|-----|-----|
+| A   | —   | Yes | Yes | Yes |
+| B   | Yes | —   | Yes | Yes |
+| C   | Yes | Yes | —   | Yes |
+| D   | Yes | Yes | Yes | —   |
 
 Figure 11-85 Fully connected topology
 

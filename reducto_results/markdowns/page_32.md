@@ -13,6 +13,10 @@ invitation for trouble of many sorts. The normal and emergency procedures applic
 
 Great time and effort are expended in the 1 preparation of the flight handbook to provide the most exact information, data, and procedures. Diligent study and continuous UC of the flight handbook will ensure that the greatest effectiveness is achieved from the airplane while still operating within the inherent capabilities of the design.
 
-A fighter jet flies in the sky.
+- Subject: single twin-engine jet aircraft in flight (side profile, left side visible)
+- Configuration: low wing, single vertical tail, two-seat cockpit canopy
+- Markings: circular/national insignia visible on fuselage side
+- Flight environment: above or near cloud layer, horizon near top third of image
+- Image quality: high contrast, grainy/halftone reproduction (likely scanned from handbook)
 
 412

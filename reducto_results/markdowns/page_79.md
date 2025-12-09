@@ -6,19 +6,20 @@ Draft Document for Review December 11, 2019 1:55 pm
 
 IBM Cloud Pak for Automation is a containerized automation software platform with pre-integrated automation capabilities such as workflow and decision automation, content management, document processing, and operational intelligence (Figure 3-7 on page 43). This enables organizations to digitize all styles of work with AI-infused business-oriented tools and built-in operational analytics for visibility and governance. This offering empowers business users to rapidly deliver applications and services at enterprise scale for greater cost savings and operational efficiencies. The IBM Cloud Pak for Automation can run anywhere (on-premises, on private and public clouds, and in pre-integrated systems) and is Red Hat OpenShift certified.
 
-| Layer | Contents / Labels |
+| Layer | Components / Description |
 |---|---|
-| IBM containerized software (top banner) | Tasks; Workflow; Decisions; Content; Capture; Operational Intelligence |
-| Operational services (middle band) | Logging, monitoring, security, identity access management |
-| Red Hat OpenShift (bottom band) | Red Hat OpenShift |
+| IBM containerized software (top layer) | Tasks; Workflow; Decisions; Content; Capture; Operational Intelligence |
+| Operational services (middle layer) | Logging, monitoring, security, identity & access management |
+| Red Hat OpenShift (base layer) | Underlying container platform / runtime (certified) |
 
 Figure 3-7 IBM Cloud Pak for Automation
 
 Successful enterprises look for modernizing their business operations with intelligent automation lowering costs and increasing revenue as shown in Figure 3-8.
 
-| Reduce costs (↓) | Improve top-line (↑) |
+| Feature | Details |
 |---|---|
-| - Improve efficiency of their automated systems<br>- Make employees more efficient<br>- Extract information from unstructured data | - New business models<br>- Find new opportunities for revenue growth<br>- Deliver better (more personalized, more relevant...) products and services |
+| Reduce Costs | Improve efficiency of automated systems, make employees more efficient, extract information from unstructured data |
+| Improve Top-Line | New business models, find new opportunities for revenue growth, deliver better (more personalized, more relevant...) products and services |
 
 Figure 3-8 IBM Cloud Pak for Automation benefits
 

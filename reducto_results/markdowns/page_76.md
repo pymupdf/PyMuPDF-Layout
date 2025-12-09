@@ -1,9 +1,8 @@
 Key details from the "Create Pool" dialog box:
 
 *   Pool Name: Pool2
-*   Data reduction: Enabled
-*   Warning: Physical capacity usage exceeding 85% in a data reduction pool may affect I/O performance. The system needs 15% of physical capacity available for efficient reclamation.
-*   Options: Cancel, Create
+*   Data Reduction: Enabled
+*   Warning: I/O performance may be affected if the physical capacity usage of a data reduction pool exceeds 85%. The system requires 15% available capacity for efficient reclamation.
 
 Figure 6-4 Create Pool dialog box
 
@@ -13,12 +12,11 @@ A standard storage pool that is created by using the GUI has a default extent si
 
 If you want to specify a different extent size, you can enable this option by clicking Settings → GUI Preferences → General and checking Advanced pool settings, as shown in Figure 6-5.
 
-Key details from the image:
+The image shows the "General" settings page within a system interface. Key settings displayed are:
 
-*   GUI shows Settings -> General
-*   Default logout time is set to 120 minutes.
-*   Knowledge Center URL is: http://www.ibm.com/support/knowledgecenter/STPVGU
-*   Advanced pool settings are enabled, allowing extent size selection during pool creation.
+*   **Default logout time:** 120 minutes.
+*   **Knowledge Center:** A URL is provided for the knowledge center.
+*   **Advanced pool settings:** This setting is enabled to "Allow extent size selection during pool creation."
 
 Figure 6-5 Advanced pool settings
 

@@ -38,14 +38,7 @@ KO
 
 Then the Hamiltonian H has a real-valued energy spectrum if and only if |ξ1,2| ≤ 1. Figure 2 shows the domain in the plane (Im(E a )/κ0, κa/κ0) where H has a purely continuous energy spectrum for a few increasing values of the ratio |Re(Ea )/κ0|. The domain lies in the sector
 
-The image shows domains of non-existence of bound states for the Hamiltonian H in the (Im(Ea)/κ0, κa/κ0) plane for increasing values of the ratio |Re(Ea)/κ0|.
-
-| Plot                 | Re(Ea)/κ0 |
-| -------------------- | ---------- |
-| Top Left             | 0          |
-| Top Right            | ±0.5       |
-| Bottom Left          | ±1         |
-| Bottom Right         | ±1.8       |
+The image shows four plots of shaded regions in the (Im(Ea )/κ0 , κa /κ0 ) plane for varying values of Re(Ea )/κ0. The plots show the domains of non-existence of bound states for a Hamiltonian H. The parameter Re(Ea )/κ0 varies across the plots, with values of 0, ±0.5, ±1 and ±1.8. As the value of Re(Ea )/κ0 increases, the shaded region where the energy spectrum is real-valued and purely continuous becomes smaller.
 
 FIG. 2: Domains of non-existence of bound states for the Hamiltonian H in the (Im(Ea )/κ0 , κa /κ0 ) plane (shaded regions) for increasing values of the ratio |Re(Ea)|/κ0 . For a non-Hermitian Hamiltonian, i.e. Im(Ea ) 6= 0, in the shaded regions the energy spectrum of H is real-valued and purely continuous. Spectral singularities occur at the boundary of the shaded regions.
 

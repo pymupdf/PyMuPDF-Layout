@@ -1,11 +1,4 @@
-| Component | Details |
-|---|---|
-| Axes | Horizontal: Y0 ; Vertical: Y1 |
-| 45° line | Y1 = Y0 (drawn through origin) |
-| Indexed line (labelled) | Y1 = ((t1 - t_w)/(t0 - t_w))·Y0 − ((t1 - t0)/(t0 - t_w))·w (slope = (t1−t_w)/(t0−t_w), intercept = −((t1−t0)/(t0−t_w))·w) |
-| Second diagonal | A steeper/shallower straight line through the same intersection (unnamed) forming the other boundary of the wedge |
-| Intersection | The two diagonal lines intersect in the first quadrant; this point anchors the shaded region |
-| Shaded region | Yellow wedge above the intersection, bounded by the two diagonal lines (represents support under concave treatment response) |
+The image shows a 2D plot with axes labeled as Y₀ and Y₁. There are two lines plotted on the graph: one represents Y₁ = Y₀, and the other represents Y₁ = (t₁ - t𝓌)/(t₀ - t𝓌) Y₀ - (t₁ - t₀)/(t₀ - t𝓌)w. The area above the second line is shaded in yellow.
 
 Figure A.5: Support under concave treatment response
 
@@ -20,7 +13,7 @@ t1-to t1-to t1-to
 
 bk+1 ≤ bk.
 
-The image shows three plots (a, b, c) representing Bₖᴰ for Bₖ = (-∞, bₖ) and Bₖ₊₁ = (-∞, bₖ₊₁). The plots show the relationship between Y₀ and Y₁ = Y₀ + δ, along with lines and dotted lines to indicate intervals. A vertical bar (purple in a and b, green in c) represents Bₖᴰ.
+The image shows three plots, (a), (b), and (c), illustrating  BDk for Bk = (-∞, bk) and Bk+1 = (-∞, bk+1). The plots show the relationship between Y₀ and Y₁. Each plot includes the line Y₁ = Y₀+δ and lines intersect at bk and bk+1. Each plot also shows a vertical rectangle which is colored in either purple or green.
 
 Case a) bk+1 < bk ≤ to-tw & + w t1-to
 

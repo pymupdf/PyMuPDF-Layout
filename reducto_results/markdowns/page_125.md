@@ -30,13 +30,7 @@ As the cyclic hydrocarbon group represented by Fb, a cyclopentyl group, a cycloh
 
 The specific examples of the repeating units having the structure represented by formula (Fl) are shown below.
 
-| Example (position) | Backbone repeating fragment | Linkage to norbornyl unit | Pendant group (attached to norbornyl) |
-|---|---:|---|---|
-| Top-left | —( )— (simple alkyl backbone, no carbonyl shown) | Direct C–C alkyl linkage (pendant norbornyl directly on main chain) | norbornyl–CH2–C(CF3)2–OH (gem‑bis(trifluoromethyl)carbinol) |
-| Top-right | —(CH2–C(CH3)–)… (methacrylate-type backbone unit) | Ester: …–C(=O)–O–norbornyl (methacrylic ester linkage) | norbornyl–CH2–C(CF3)2–OH (gem‑bis(trifluoromethyl)carbinol) |
-| Bottom | —(CH2–CH(H)–)… (acrylate/ethylenic-type backbone unit) | Ester: …–C(=O)–O–norbornyl (acrylic ester linkage) | norbornyl–CH2–C(CF3)2–OH (gem‑bis(trifluoromethyl)carbinol) |
-
-Key entities: bicyclic alicyclic (norbornyl) hydrocarbon pendant, geminal bis(trifluoromethyl) carbinol unit [(CF3)2C–OH], and either direct alkyl or ester (methacrylate/acrylate) linkages to the polymer backbone.
+Three chemical structures are shown, all containing a norbornane-like ring and a hydroxyl group with two trifluoromethyl groups attached to the same carbon atom. Two of the molecules have the norbornane-like ring attached via an ester group to a methacrylic-like acid or acrylic-like acid.
 
 The alicyclic hydrocarbon-based acid-decomposable resin in the invention can contain various kinds of repeating structural units, besides the above repeating structural units, for the purpose of the adjustments of dry etching resistance, aptitude for standard developing solutions, adhesion to a substrate, for standard developing solutions, adhesion to a substrate, resist profile, and further, general requisite performances of resists, e.g., resolution, heat resistance and sensitivity.
 

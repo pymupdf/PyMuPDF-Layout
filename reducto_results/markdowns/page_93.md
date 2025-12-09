@@ -75,12 +75,7 @@ The SEC requires natural gas and oil companies, in filings made with the SEC, to
 LISTED
 NYSE
 
-- Aerial photograph of a campus or residential housing complex.
-- Key entities: >10 multi-story red-brick buildings with pitched/hip roofs (dorm/apartment-like).
-- Layout: buildings arranged in parallel blocks with internal driveways and courtyards.
-- Infrastructure: several parking lots with parked cars, sidewalks, and tree-lined streets.
-- Roads: a main road runs along the foreground and another along the right edge of the image.
-- Vegetation: scattered mature trees and grassy areas between buildings.
+The image shows an aerial view of a college campus with red brick buildings. There is a construction crane present. The landscape includes trees and parking lots.
 
 ## WWW.CHK.COM
 

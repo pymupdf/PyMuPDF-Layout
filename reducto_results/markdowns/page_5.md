@@ -1,12 +1,20 @@
 8
 
-| Queue Ordering Strategy | Description |
-|---|---|
-| Predictive Ranking | Solid line, shows rapid increase in cumulative IV tokens found as additional users are downloaded. |
-| Random Baseline | Dashed line, shows slower increase than "Predictive Ranking". |
-| Edge Count Ranking | Solid line, shows similar increase to "Random Baseline." |
+| Additional Users Downloaded | Predictive Ranking (Millions, approx.) | Random Baseline (Millions, approx.) | Edge Count Ranking (Millions, approx.) |
+|---:|---:|---:|---:|
+| 0   | 0.00 | 0.00 | 0.00 |
+| 50  | 0.07 | 0.03 | 0.02 |
+| 100 | 0.24 | 0.12 | 0.07 |
+| 150 | 0.36 | 0.18 | 0.14 |
+| 200 | 0.50 | 0.25 | 0.22 |
+| 250 | 0.60 | 0.28 | 0.30 |
+| 300 | 0.78 | 0.33 | 0.35 |
+| 350 | 0.90 | 0.36 | 0.38 |
+| 400 | 1.05 | 0.40 | 0.44 |
+| 450 | 1.12 | 0.42 | 0.48 |
+| 500 | 1.25 | 0.45 | 0.50 |
 
-The x-axis represents additional users downloaded. The y-axis represents Cumulative IV Tokens Found (Millions).
+Values are approximate readings from the plotted curves.
 
 Fig. 2. IV Tokens Gathered by Crawling Strategy
 

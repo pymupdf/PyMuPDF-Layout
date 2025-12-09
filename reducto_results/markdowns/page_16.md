@@ -1,11 +1,8 @@
-| Series | Initial value | y1 range (approx.) | y2 range (approx.) | Representative points (y1, y2) (approx.) |
-|---|---:|---:|---:|---|
-| Red — upper arcs | (0, 1.2) | 0.0 → 1.1 | 1.15 → 0.85 | (0.0, 1.20), (0.5, 1.10), (1.0, 0.90) |
-| Red — lower arcs | (0, 1.2) | 0.0 → 1.1 | -1.55 → -1.00 | (0.0, -1.55), (0.5, -1.30), (1.0, -1.00) |
-| Blue — upper arcs | (0, 1.5) | 0.0 → 1.1 | 1.50 → 1.15 | (0.0, 1.45), (0.5, 1.35), (1.0, 1.15) |
-| Blue — lower arcs | (0, 1.5) | 0.0 → 1.1 | -1.60 → -1.10 | (0.0, -1.60), (0.5, -1.40), (1.0, -1.15) |
-
-Notes: trajectories shown converge toward a periodic solution as time increases (red: init (0,1.2); blue: init (0,1.5)). Values are approximate, read from the plotted figure.
+The image is a chart showing the trajectory of a system.
+- x axis: y1
+- y axis: y2
+- red arcs: trajectory with initial value (0, 1.2)
+- blue arcs: orbit with initial value (0, 1.5)
 
 Figure 7: The red arcs are the trajectory of the system (5.60) with initial value (0, 1.2) and the blue arcs are the orbit with initial value (0, 1.5) . Through simulation, we observe that the trajectories approach to the periodic solution of (5.60) as time increases.
 

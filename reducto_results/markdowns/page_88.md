@@ -10,15 +10,18 @@ BOLIVIA
 
 20°
 
-Key entities in the image:
+| Location | Marker type | Approx. latitude (from map) | Notes |
+|---|---:|---:|---|
+| Nueva Esperanza (Project) | Navy square | ~20°S | Project site (labelled prominently) |
+| Antofagasta | Blue dot | ~22–23°S | City marker |
+| Chañaral | Blue dot | ~25°S | City marker near Copiapó |
+| Copiapó | Navy square / large label "COPIAPO" | ~25–26°S | Project/region label |
+| La Serena | Blue dot | ~30°S | City marker on 30° line |
+| Santiago | Large blue dot | ~33–34°S | Major city marker |
 
-*   **Locations:** Antofagasta, Chañaral, La Serena, Santiago, Copiapo, and Nueva Esperanza.
-
-*   **Countries:** Chile, Argentina.
-
-*   A globe illustrating the position of South America.
-* Nueva Esperanza Project
-*  Latitude lines shown: 20°, 30°, 40°, 50°
+Additional details:
+- Latitude grid lines shown at 20°, 30°, 40°, 50°.
+- Inset globe highlights the location in central Chile/South America.
 
 # Nueva Esperanza
 Project

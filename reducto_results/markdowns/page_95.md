@@ -1,8 +1,7 @@
-- Photo of a university building: Australian School of Petroleum, University of Adelaide (context notes Santos funding).
-- Five‑storey red brick building with horizontal window bands.
-- Glass/modern atrium or stairwell on left side.
-- Exterior lighting on; shot appears taken at dusk/evening.
-- Foreground: paved plaza, mature trees to the left.
+- Subject: Australian School of Petroleum building, University of Adelaide  
+- Context: Funded by Santos (investment in Australia’s petroleum industry)  
+- Visual details: red-brick mid-rise academic building (4–5 floors), horizontal bands of windows, illuminated entrance, paved courtyard with trees, dusk lighting  
+- Key entities: University of Adelaide, Australian School of Petroleum, Santos (donor)
 
 Santos is investing in the future of Australia's petroleum industry through the funding of the Australian School of Petroleum at the University of Adelaide.
 
@@ -162,12 +161,12 @@ efficiency strategies and to the
 identification and implementation
 
 | Year | Volume (m³) |
-|------|-------------|
-| 2001 | ~400        |
-| 2002 | ~400        |
-| 2003 | ~2,000      |
-| 2004 | ~50         |
+| --- | --- |
+| '01 | 400 |
+| '02 | 400 |
+| '03 | 2000 |
+| '04 | 100 |
 
-Note: 2003 peak annotated as "Lytton oil spill effect". No legend present.
+Graph depicts the "Lytton oil spill effect."
 
 Santos Annual Report 2004 27

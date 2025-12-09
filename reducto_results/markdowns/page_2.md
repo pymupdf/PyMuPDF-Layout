@@ -16,33 +16,11 @@ In recent years, several approaches to extract sSWNTs from nanotube powders wer
 
 In this letter, we report on the electronic properties of FET consisting of semiconducting-enriched single wall carbon nanotubes, without detectable traces of metallic nanotubes and impurities, with in our detection limits. This unprecedented achievement is made possible by ultracentrifugation (250,000g), sonication and filtration of solutions composed of SWNT powders with polyfluorene as extracting agent in toluene. Evidences are gathered by optical absorption, Raman and electrical measurements (see Fig.1). We shall demonstrate that such s
 
-(a) Legend
-| Sample | Color |
-|---:|:---|
-| L | black |
-| M | blue |
-| S | red |
+**Key Information:**
 
-(b) Panel (a) — Optical absorption (Wavelength range 400–1600 nm; Absorbance 0.00–0.20)
-| Sample | Major absorption bands / assignments | Approx. peak positions (nm) | Approx. peak absorbance |
-|---:|:---|:---:|:---:|
-| L (black) | S11, S22, M11 present (strongest S11) | S11 peaks ≈ 1150–1350; S22 ≈ 600–900; M11 ≈ 400–600 | S11 max ≈ 0.18–0.20 |
-| M (blue) | S11 and S22 visible, weaker than L | S11 ≈ 1150–1350 (smaller), S22 ≈ 600–900 | S11 max ≈ 0.08–0.12 |
-| S (red) | Strong semiconducting S features, metallic features suppressed | S11 ≈ 1150–1350 (distinct peaks), S22 ≈ 600–900 (smaller) | S11 max ≈ 0.05–0.10 |
-
-(c) Panel (b) — Raman at 514.5 nm (Wavenumber 100–330 cm⁻¹; Normalized intensity 0–1)
-| RBM region | Assignment | Peak positions (cm⁻¹) | Relative intensity L / M / S |
-|---:|:---:|:---:|:---|
-| ~140–220 | semiconducting SWNT RBMs | major peaks ≈ 150, 180–220 | L: high; M: medium; S: high (S particularly strong in s‑SWNT RBM region) |
-| ~240–310 | metallic SWNT RBMs | peaks ≈ 250–300 | L: present; M: present; S: very weak/absent |
-
-(d) Panel (c) — Transfer characteristic ID vs VG (VDS = −14 V; VG range −30 to +30 V; ID shown on log scale ≈10⁻¹⁰–10⁻³ A)
-| Sample | Gate response | Approx. ID at VG = −30 V | Approx. ID at VG = +30 V | Approx. on/off |
-|---:|:---|:---:|:---:|:---:|
-| M (blue) | Nearly gate-independent (metallic-like) | ~10⁻⁴ – 10⁻⁵ A | ~10⁻⁵ – 10⁻⁴ A (similar) | ≲ 10 (negligible switching) |
-| S (red) | Strong p-type gating (semiconducting) | ~10⁻⁵ – 10⁻⁶ A | ~10⁻¹⁰ A | ≈ 10⁴–10⁵ (large on/off) |
-
-(Values are approximate, read from the plotted scales.)
+*   **(a)** Optical absorption spectra of L, M, and S samples vs. Wavelength. M11, S22 and S11 are labeled along wavelength axis.
+*   **(b)** Raman spectra of L, M and S samples with S-SWNT and M-SWNT labels along Wavenumber.
+*   **(c)** Transfer characteristic, ID vs VG for VDS =-14V of FET devices made of samples M and S.
 
 FIG. 1: (Color online): (a) shows the optical absorption spectra and (b) the Raman spectra at 514.5 nm of L, M and S samples . (c) displays the transfer characteristic, ID vs VG for VDS =-14V of FET devices made of sample M and S.
 

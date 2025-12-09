@@ -12,45 +12,47 @@ To support continued innovation throughout the company, we made significant inve
 
 expand high-potential product portfolios As growth prospects accelerate for our Foodservice and ethnic foods businesses, we are expanding our portfolio of products in both sectors. Our Foodservice business offers a growing selection of branded products, including the highly popular café h family
 
-| Year | Net Sales (Billions $) |
-|---|---|
-| 2000 | 3.4 |
-| 2001 | 3.9 |
-| 2002 | 3.9 |
-| 2003 | 4.1 |
-| 2004 | 4.8 |
+| Year | Net sales (Billions $) |
+|------|------------------------|
+| 00   | 3.3                    |
+| 01   | 3.8                    |
+| 02   | 3.9                    |
+| 03   | 4.3                    |
+| 04   | 4.8                    |
 
-CAGR: 8.3%
+CAGR: 8.3%. 2004 bar highlighted (darker).
 
-| Year | Net Earnings (Millions $) |
-|---|---|
-| 00 | 165 |
-| 01 | 180 |
-| 02 | 185 |
-| 03 | 182 |
-| 04 | 231.7 |
+| Year | Net earnings (Millions $) |
+|------|---------------------------:|
+| 2000 | ~160                      |
+| 2001 | ~170                      |
+| 2002 | ~180                      |
+| 2003 | ~175                      |
+| 2004 | 231.7                     |
 
-CAGR: 8.0%
+Notes: "net earnings" (Millions $); CAGR 8.0%
 
 | Year | Net earnings per share (USD) |
-|------|------------------------------:|
-| 2000 | $1.10                        |
-| 2001 | $1.30                        |
-| 2002 | $1.35                        |
-| 2003 | $1.30                        |
-| 2004 | $1.65                        |
+|------|------------------------------|
+| 2000 | ~$1.10 |
+| 2001 | ~$1.30 |
+| 2002 | ~$1.35 |
+| 2003 | ~$1.30 |
+| 2004 | $1.65 |
 
-- Units: Dollars. CAGR: 8.3%.
-- 2004 bar is highlighted/darker and explicitly labeled $1.65.
+CAGR (00–04): 8.3%
 
-| Year | Annual dividend (USD) |
-|------|-----------------------|
-| 2000 | $0.32 (approx.) |
-| 2001 | $0.34 (approx.) |
-| 2002 | $0.36 (approx.) |
-| 2003 | $0.39 (approx.) |
-| 2004 | $0.45 (labelled) |
+| Year | Dividend ($) |
+|------|--------------:|
+| 2000 | 0.38 |
+| 2001 | 0.33 |
+| 2002 | 0.36 |
+| 2003 | 0.39 |
+| 2004 | 0.45 |
 
-CAGR: 6.5% (chart)
+| Metric | Value |
+|--------|-------:|
+| Series | Annual dividend (Dollars) |
+| CAGR (2000–2004) | 6.5% |
 
 2004 Annual Report 3

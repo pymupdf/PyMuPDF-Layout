@@ -6,9 +6,7 @@ Feb. 13, 2020
 
 -continued
 
-Key information:
-*   Molecule with a cyclohexane ring, benzene ring, two isopropyl groups, and a sulfonic acid group.
-*   Volume of 350 Å³.
+Key information: Chemical structure and volume 350Å³.
 
 311 A³
 
@@ -18,13 +16,11 @@ HO3S
 
 HO 1448
 
-- Structure: 1,3,5-tricyclohexylphenyl core with a fourth substituent being a perfluoroalkyl-sulfonic acid linked through an aryl–O–S(=O)2–O (sulfonate) motif.
-- Substituents:
-  - Three cyclohexyl rings attached to the benzene (presumably 1,3,5 positions).
-  - A perfluoroalkyl chain (multiple F atoms on the alkyl chain) terminating in a sulfonic acid group (–SO3H).
-  - Sulfonyl linkage shown as O–S(=O)2–O between the aryl ring and the perfluoroalkyl–SO3H fragment.
-- Functional groups: aryl ether/sulfonate linkage, sulfonyl (S=O)2, perfluoroalkyl chain, terminal sulfonic acid (–SO3H).
-- Annotated property: molecular volume = 535 Å^3.
+- Central core: benzene ring substituted with three cyclohexyl groups (1,3,5-tris(cyclohexyl)benzene).
+- Aryl linkage: benzene O–linked to a sulfonyl/sulfonate group (aryl–O–S(=O)2–O–...).
+- Perfluoroalkyl chain: linear perfluorinated alkyl chain (multiple CF2/CF units with F labels) attached to the sulfonyl linker.
+- Terminal group: sulfonic acid (–SO3H) at the far end of the perfluoroalkyl chain (shown as HO3S).
+- Molecular volume: 535 Å^3.
 
 290A3
 HO. CF3

@@ -1,18 +1,16 @@
-Left panel — Correlation (Efficiency = effective samples / time)
+| Category | Correlation=0.2 | Correlation=0.5 | Correlation=0.8 |
+|---|---|---|---|
+| All Blocked | ~230 | ~210 | ~100 |
+| All Scalar | ~900 | ~150 | ~30 |
+| Auto Blocking | ~180 | ~30 | ~6500 |
 
-| Correlation | All Blocked (orange) | All Scalar (green) | Auto Blocking (blue) |
-|-------------:|---------------------:|-------------------:|---------------------:|
-| 0.2          | 220                  | 780                | 820                  |
-| 0.5          | 180                  | 130                | 420                  |
-| 0.8          | 80                   | 30                 | 300                  |
+| Category | Model Size (N) = 20 | Model Size (N) = 50 | Model Size (N) = 100 |
+|---|---|---|---|
+| All Blocked | ~1600 | ~300 | ~100 |
+| All Scalar | ~6500 | ~1400 | ~25 |
+| Auto Blocking | ~200 | ~100 | ~40 |
 
-Right panel — Model size N (Efficiency = effective samples / time)
-
-| Model size (N) | All Blocked (orange) | All Scalar (green) | Auto Blocking (blue) |
-|---------------:|---------------------:|-------------------:|---------------------:|
-| 20             | 1,400                | 1,500              | 7,000                |
-| 50             | 300                  | 200                | 1,800                |
-| 100            | 40                   | 20                 | 1,000                |
+The chart displays efficiency (effective samples / time) vs. correlation and model size (N) for different MCMC algorithms. The algorithms include "All Blocked," "All Scalar," and "Auto Blocking."
 
 Figure 3: Efficiency results for two contrived model structures: varying sized blocks of fixed correlation (left), and fixed sized blocks of varying correlation (right).
 

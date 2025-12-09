@@ -8,16 +8,18 @@ Notes regarding approach lighting systems are shown at the bottom of the sketch 
 
 Other approach lighting is shown on the airport sketch as a symbol on the side of the runway where they are actually located. Symbols that are shown in negative indicate pilot-controlled lighting.
 
-Key entities and details from the image:
+| FAF to MAP | Knots | 60 | 90 | 120 | 150 | 180 |
+|-----------:|:-----:|:--:|:--:|:---:|:---:|:---:|
+| Min:Sec    |       |5:00|3:20|2:30 |2:00 |1:40 |
 
-*   ELEV: 5434
-*   TDZE: 5352
-*   Airport Sketch: Runway configurations and features (e.g., Runways 7, 16L/R, 17R, 26, 34L/R, 35L/R, tower (TWR 5704), approach lighting (A5, A), lighting indicators (d, P)
-*   FAF to MAP: 5 NM at various speeds
-
-| Knots  | 60    | 90    | 120   | 150   | 180   |
-| :----- | :---- | :---- | :---- | :---- | :---- |
-| Min:Sec | 5:00  | 3:20  | 2:30  | 2:00  | 1:40  |
+- Airport elevation: 5434 ft
+- TDZE: 5352 ft
+- Symbol: boxed D (declared distances indicated)
+- FAF inbound: 082° — 5 NM from FAF
+- TDZ/CL (threshold/centerline lights) installed for runways: 7, 16L, 16R, 17R, 26, 34L, 34R, 35L, 35R
+- HIRL: All runways
+- Runway dimensions shown (examples on sketch): 12000 x 200; 12000 x 150
+- Note: Runway centerline lights (CL) shown as negative dot pattern through runway centerline on sketch
 
 Runway centerline lights (CL) are installed on some precision approach runways to facilitate landing under adverse visibility conditions. They are located along the runway centerline and are spaced at 50 foot intervals. Runways with CL are shown in a negative dot pattern through the middle of the solid runway as illustrated in the airport sketch to right.
 
@@ -35,19 +37,21 @@ Base Information, as required and necessary to identify the MAP area and in the 
 
 Airport Diagrams are specifically designed to assist in the movement of ground traffic at locations with complex runway/ taxiway configurations. Airport Diagrams are not intended for use in approach and landing or departure operations. An airport diagram assists pilots in identifying their location on the airport, thus reducing requests for “progressive taxi instructions” from controllers.
 
-Key entities and details from the airport diagram:
-
-*   Runway identification: 2
-*   Runway dimensions: 9000 ft x 200 ft, 1000 ft x 200 ft
-*   Runway heading: 023.2° (Magnetic)
-*   Field Elevation: 174
-*   Runway slope: 0.7% Up
-*   Runway End Elevation: 164
-*   HS 1 location near Runway End.
-*   Visual screen near the right of the diagram.
-*   BAK-12.
-*   EMAS.
-*   Displaced Threshold.
+| Feature | Value / Description |
+|---|---|
+| Runway heading (magnetic) | 023.2° |
+| Runway slope | 0.7% UP (toward the right in image) |
+| Field elevation | 174 ft |
+| Runway end elevation (left) | 164 ft |
+| Runway dimensions | 9000 × 200 ft |
+| Movement area dimensions (right portion) | 1000 × 200 ft |
+| Displaced threshold | Shown (diamond/threshold symbol) on right portion |
+| Runway identification | Shown (oval symbol) near right end |
+| Visual screen | Shown (hatched rectangle) to right of runway |
+| EMAS | Shown at right runway end (striped block) |
+| BAK-12 | Marked in circle near left end (engineered arresting system) |
+| Runway designation (left end) | 20 |
+| Hold-short sign | "HS 1" indicated near left side |
 
 115
 

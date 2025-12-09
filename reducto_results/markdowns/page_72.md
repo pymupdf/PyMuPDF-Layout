@@ -1,8 +1,6 @@
 Basic English Language Skills
 
-- Object: Close-up of vintage/typewriter key row
-- Visible keys (left-to-right): D, F, G, H, J, K
-- Keytops: circular, worn/aged white with black letters on a dark metal frame
+Typewriter keys: D, F, G, H, J, K.
 
 ## Approve/Approve of
 
@@ -30,6 +28,4 @@ You “complement” something (or someone) when you add something else to it th
 
 E.g. That scarf complements her dress.
 
-- Subject: close-up of vintage typewriter keys
-- Visible keys (left → right): E, R, T, Y, U, I
-- Condition/details: round, worn/aged keytops with visible rust/discoloration; dark keyboard background; panoramic/horizontal crop
+The image shows typewriter keys with letters E, R, T, Y, U, and I.

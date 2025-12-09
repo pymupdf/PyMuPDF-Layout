@@ -111,23 +111,22 @@ BARSKA
 
 ## MODEL AY11236
 
-Here's the key information from the image:
+Microscope components:
 
-*   **Microscope Parts:**
-    *   Eyepiece
-    *   Interpupillary Slide Adjustment
-    *   Rotating Head
-    *   Revolving Turret
-    *   Objectives
-    *   Stage
-    *   Condenser Focusing Knob
-    *   Lamp
-    *   Lamp On/Off Switch
-    *   Stand
-    *   Coarse Adjustment Knob
-    *   Fine Adjustment Knob
-    *   Stage Clip Adjustment
-    *   Power Cord
+*   Interpupillary Slide Adjustment
+*   Eyepiece
+*   Rotating Head
+*   Revolving Turret
+*   Objectives
+*   Stage
+*   Condenser Focusing Knob
+*   Lamp On/Off Switch
+*   Stand
+*   Coarse Adjustment Knob
+*   Fine Adjustment Knob
+*   Stage Clip Adjustment
+*   Power Cord
+*   Lamp
 
 Model AY11236
 

@@ -73,8 +73,11 @@ and Callister 1 which was also
 plugged and abandoned with
 gas shows.
 
-The image shows a man with a mustache wearing a brown blazer and striped shirt.
-
+- Human subject: older adult male (approx. 60–75 years)
+- Facial features: prominent moustache, smiling expression
+- Clothing: tan/beige blazer over blue striped shirt
+- Framing: head-and-shoulders portrait, slight right-facing angle
+- Background: indoor/office-like, out of focus (neutral)
 
 '2004 was a great year for our
 explorers. We started drilling
@@ -89,10 +92,10 @@ is delivering.
 Vice President
 Geoscience and New Ventures
 
-- Caption (purple box): "Float-off of Jack Bates rig prior to deep water drilling operations, offshore Otway Basin, Victoria."
-- Main entities: offshore drilling rig "Jack Bates"; heavy-lift/support vessel "MIGHTY SERVANT I" (visible name on hull).
-- Action: float-off operation of the rig before deep-water drilling.
-- Location: offshore Otway Basin, Victoria.
-- Context note (surrounding text): "Vice President Geoscience and New Ventures."
+The image shows the "Float-off of Jack Bates rig prior to deep water drilling operations, offshore Otway Basin, Victoria."
+
+Key entities:
+*   Jack Bates rig (offshore drilling rig)
+*   MIGHTY SERVANT 1 (ship)
 
 Santos Annual Report 2004 15

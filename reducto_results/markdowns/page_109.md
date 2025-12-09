@@ -113,21 +113,9 @@ Primary Examiner - Amanda C Walke
 
 There is provided a pattern forming method, including: (a) forming a film by using an electron beam-sensitive or extreme ultraviolet ray-sensitive resin composition containing a resin (A) having a repeating unit represented by Formula (1-0) and a repeating unit represented by Formula (1-2); (b) exposing the film by using an electron beam or extreme ultraviolet ray; and (c) developing the exposed film by using a developer containing an organic solvent to form a negative pattern, wherein a content of the repeating unit represented by Formula (1-0) is 45 mo!% or more based on a whole repeating units in the resin (A).
 
-The image shows the chemical formula (1-0) which represents a repeating unit used in a resin composition for pattern forming. The resin is electron beam-sensitive or extreme ultraviolet ray-sensitive.
+The image shows a chemical formula (1-0). It represents a repeating unit in a resin (A). The resin is used in a pattern forming method involving electron beam or extreme ultraviolet ray exposure and development to form a negative pattern.
 
 
-- Diagram ID: (1-2); header text: "14 Claims, No Drawings"
-
-- Overall: a tertiary carbon bearing two attachment points (*) and an Rb substituent, connected via a linker L2 to a substituted benzene ring.
-
-- Key entities and connectivity:
-  - Tertiary carbon: central C with two asterisks (*) indicating attachment points and one substituent labeled Rb.
-  - Linker: L2 connects the tertiary C downward to the benzene ring (attached at the ring top position).
-  - Benzene ring substituents:
-    - (R3)n2 at one ring position (bottom-left).
-    - (OH)n1 at another ring position (bottom-right).
-  - n1, n2 indicate multiplicities/number of those substituents (unspecified).
-
-- Visual notes: substituents (R3)n2 and (OH)n1 are on the ring relative to the L2 attachment as shown (two distinct ring positions).
+Key information: Chemical structure (1-2) with "Rb", "L2", "R3n2", and "(OH)n1" groups attached. Stars indicate bonding locations.
 
 14 Claims, No Drawings

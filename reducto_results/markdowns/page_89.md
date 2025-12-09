@@ -4,12 +4,10 @@ The Shenandoah Telephone Directory has undergone many changes since we published
 
 The goal has always been to provide a useful tool for our customers. The pace of change has quickened in the last few years. In 2000, for the first time, Shenandoah Telephone’s directory expanded from telephone listings for only Shenandoah County and Bergton, to include business and residential listings for Rockingham, Frederick, Clarke, and Warren counties. In 2001, Page County listings were added. The name of our directory was changed to ShentelPages in 2002 to reflect the expanded listing area. Although we included additional information in our directory, we continued to only furnish it to our local telephone customers.
 
-- Document title: THE FARMERS' MUTUAL TELEPHONE SYSTEM
-- Jurisdiction/format: OF SHENANDOAH COUNTY, DIRECTORY.
-- Contents (as printed): NAMES OF STOCK-HOLDERS AND PHONE-HOLDERS, WITH THE RESPECTIVE CALLS, AND WHERE TO BE FOUND.
-- Additional: WITH Charter, Constitution and By-Laws adopted, Rules and Regulations.
-- Year: 1906.
-- Notes: Cover shows binder holes at top; small publisher/printer line at bottom is partly illegible.
+*   **Title:** The Farmers' Mutual Telephone System of Shenandoah County, Directory.
+*   Lists names of stockholders and phone-holders with respective calls and locations.
+*   Charter, Constitution, and By-Laws adopted, Rules and Regulations.
+*   **Year:** 1906.
 
 Early in 2003, we conducted a customer survey to measure potential public acceptance of a regional phone directory for the six-county area. The findings of the survey indicated almost 60% would likely use an expanded six-county directory, with a fourth of all respondents saying they would use a regional directory more often than the directory they currently had in their home or business. Based on these positive results, Shentel launched an expanded directory to meet the demand.
 
@@ -17,11 +15,11 @@ An extensive public-awareness campaign was launched on television and radio, in 
 
 Key details from the image:
 
-*   **Directory Name:** SHENTEL Pages
-*   **Coverage:** Business and residential listings for Shenandoah, Clarke, Rockingham, Frederick, Warren, and Page counties.
+*   **Title:** SHENTELPages
+*   **Listings:** Business and residential listings for Shenandoah, Clarke, Rockingham, Frederick, Warren, and Page counties
 *   **Year:** 2004
 *   **Area Code:** 540
-*   **Website:** [www.shentelpages.com](http://www.shentelpages.com)
+*   **Website:** Visit ShentelPages.com for up-to-date listings. www.shentelpages.com
 
 In December 2003, Shentel mailed out 120,000 ShentelPages directories to every home and business in Shenandoah, Rockingham, Frederick, Page, Clarke and Warren counties. ShentelPages now has a potential audience that exceeds 300,000 readers. The 2004 directory continues to be an important local resource. In addition to telephone listings, it contains both general and county-specific information - from ZIP codes to area codes, and from international dialing instructions to the listing of regional interstate exits.
 

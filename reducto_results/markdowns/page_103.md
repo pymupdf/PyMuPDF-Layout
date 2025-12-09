@@ -23,19 +23,11 @@ Top management plays an active role in determining SMFG’s Groupwide basic poli
 
 ■ SMFG’s Risk Management System
 
-| Organization | Board / Governance | Audit / Oversight | Risk Management Unit / Committees | Risk types covered | Supporting departments | Relationship with group |
-|---|---:|---|---|---|---|---|
-| SMFG (holding company) | Board of Directors; Management Committee; Designated Board Members | Corporate Auditors; External Audit; Audit Dept. | Corporate-wide Risk Management (Corporate Risk Management Dept. / Corporate Planning Dept.) | Credit risk; Market risk; Liquidity risk; Operational risk; Processing risk; System risk | General Affairs Dept.; IT Planning Dept.; Corporate Planning Dept. | Provides guidance for drafting basic policies and monitoring to group companies |
-| SMBC (bank; major group company) | Board of Directors; Management Committee; Designated Board Members; Board Member in Charge of Risk Management Unit | Corporate Auditors; External Audit; Internal Audit Unit | Bank-wide Risk Management (Risk Management Unit; Corporate Risk Management Dept.; Credit & Investment Planning Dept.); Credit Risk Management Committee; Market Risk Management Committee | Credit risk; Market risk; Liquidity risk; Operational risk; Processing risk; System risk; Settlement risk; Other risks | Operations Planning Dept.; IT Planning Dept.; Other departments; Corporate Planning Dept./Corporate Risk Management Dept. | Reports to SMFG; integrates group guidance into bank-wide risk framework |
+Entities in the image:
 
-Group companies (listed in center column, reporting to / monitored by SMFG)
-- SMBC
-- SMBC Nikko Securities
-- SMFG Card & Credit
-- Sumitomo Mitsui Card
-- Cedyna Financial
-- Sumitomo Mitsui Finance & Leasing
-- Japan Research Institute
-- SMBC Friend Securities
+*   **SMFG**: Risk management chart; includes Board of Directors, Management Committee, Designated Board Members.
+*   **SMBC**: Includes SMBC Nikko Securities, SMFG Card & Credit, Sumitomo Mitsui Card, Cedyna Financial, Sumitomo Mitsui Finance & Leasing, Japan Research Institute, and SMBC Friend Securities.
+*   **Corporate-wide Risk Management**: Includes Corporate Risk Management Dept, General Affairs Dept, IT Planning Dept. & various risks (Credit, Market, Liquidity, Operational, Processing, System) and Corporate Planning Dept./ Corporate Risk Management Dept.
+*   **Bank-wide Risk Management**: Includes risk types and Corporate Planning Dept./Corporate Risk Management Dept.
 
 32 SMFG 2011

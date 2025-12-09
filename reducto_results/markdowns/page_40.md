@@ -1,21 +1,32 @@
-| Item / Text shown | Type / Context | Value / Notes |
-|---|---:|---|
-| OPNIC (MAP) | MAP point | Shown on main profile and in the circular inset (arrow to location) |
-| BOULD (FAF) | FAF (final approach fix) | Text “(FAF) BOULD” adjacent to profile; nearby numbers: 1068 (immediately below) and 1542 (nearby) |
-| LEEBR (IF) | IF (initial fix) | Labeled “(IF) LEEBR” on the inbound track (right side) |
-| 2400 | Altitude constraint | Printed on inbound track before FAF |
-| A(3) 1542 | Altitude/constraint | Printed along inbound track near 2400 (format shown as “A(3) 1542”) |
-| 950 | Profile point | Number printed near a fix on the profile (just left of MAP OPNIC) |
-| 1068 | Profile point | Number printed immediately below BOULD label |
-| 1875 | Terrain/point | Number printed above/right of inbound track |
-| 1252, 1140, 949, 1546, 902, 918, 1000, 1264, 963, 1348, 1354 | Terrain elevations / obstruction symbols | Clustered northwest of the profile; many shown with small peak/triangle symbols (some with caret “^”) |
-| SEE INSET | Note | Text near top directing to the circular inset |
-| Circular inset: 336° (4.2) from MAP | Final approach geometry | Shows bearing 336° and distance 4.2 (from MAP) |
-| Circular inset: H (helipad) | Landmark | Helipad symbol shown near roads in inset |
-| Circular inset: (MAP) OPNIC | MAP location | Marked on inset with arrow |
-| Roads in inset | Visual reference | Labels shown: I-70, I-65/70 (printed), and I-52/74 (printed) |
+| Feature | Identifier / Symbol | Altitude / Value | Notes |
+|---|---:|---:|---|
+| Initial approach fix (IF) | LEEBR (IF) | 2400 ft | On inbound track (right side of plan view) |
+| Final approach fix (FAF) | BOULD (FAF) | 1068 ft | FAF located on final approach course |
+| Missed approach point (MAP) | OPNIC (MAP) | 950 ft (label shown) | Circled MAP symbol on final course |
+| DME/Bearing from MAP (inset) | — | 336° / 4.2 nm | "336° (4.2) from MAP" shown in inset |
+| Helipad symbol | H | — | Shown in inset near highway intersection |
 
+Terrain / obstacles (triangle symbols with elevations shown on chart)
+- 1875 ft
+- 1546 ft
+- 1542 ft
+- 1354 ft
+- 1348 ft
+- 1264 ft
+- 1252 ft
+- 1140 ft
+- 1000 ft (appears multiple times)
+- 963 ft
+- 949 ft
+- 918 ft
+- 902 ft
 
+Inset — ground reference features
+- Highways: I-65, I-70, I-52/74, I-65/70 shown
+- MAP OPNIC location marked on inset with arrow pointing to road network
+- Helipad (H) shown northwest of MAP OPNIC in inset
+
+(Chart title: "Example of Copter with Inset")
 
 Example of Copter with Inset
 

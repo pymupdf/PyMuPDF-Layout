@@ -4,15 +4,15 @@ Feb. 13, 2020
 
 40
 
-- Context: examples of acid-diffusion-control agents (for resist compositions).
+The image displays multiple chemical structures, including:
 
-1. Top-left — triarylimidazole: imidazole core (NH) substituted with three phenyl rings (tri‑aryl imidazole).
-2. Top-right — polyether tertiary amine diol: tertiary nitrogen linked to multiple ethylene‑oxide (PEG) units with terminal hydroxyl groups (multi‑ethylene glycol arms).
-3. Middle-left — quaternary ammonium cation: tetra‑alkyl ammonium (N+) bearing several linear alkyl chains (alkylated ammonium).
-4. Middle-center — benzoate anion: phenyl carboxylate (O–) shown separately (counterion).
-5. Middle-right — long‑chain quaternary ammonium carboxylate: N+ with long alkyl chains paired with a carboxylate anion (alkylammonium carboxylate salt).
-6. Bottom-left — bis‑N‑heterocycle amine: central secondary/tertiary nitrogen link to two piperidine (six‑membered N‑heterocycle) units (N‑linked piperidine-containing diamine).
-7. Bottom-right — morpholine/polyether unit: morpholine (O–N six‑membered) connected to oligoethylene‑glycol chain(s), one arm terminated by a methoxy group (morpholine-containing polyether/PEG derivative).
+*   A nitrogen heterocycle with three phenyl groups attached.
+*   A branched polyether with terminal hydroxyl groups.
+*   A quaternary ammonium cation with four butyl groups.
+*   A benzoate anion.
+*   A quaternary ammonium cation with three long alkyl chains and a carboxylate group.
+*   A structure containing a morpholine ring, cyclohexyl groups, and an imine.
+*   A polyether with a morpholine ring and a methoxy group.
 
 [0397] The content of the acid diffusion control agent in the resist composition is preferably 0.001 % to 10% by mass, and more preferably 0.01 % to 5% by mass with respect to the total solid content of the composition.
 

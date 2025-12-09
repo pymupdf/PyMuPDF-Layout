@@ -2,21 +2,13 @@
 
 ## Special Flight Rules Area (SFRA)
 
-Symbol: Blue bracket map symbol indicating SFAR boundary.
+The image shows a diagram and text related to aviation regulations.
 
-Exact label text:
-"SPECIAL FEDERAL AVIATION REGULATIONS (SFAR)
-14 CFR Part 93, Subpart U and SFAR 50-2 -
-GRAND CANYON NATIONAL PARK SPECIAL
-FLIGHT RULES AREA. Special regulations apply
-to all aircraft operations below 18,000 feet MSL."
-
-Key entities:
-- Regulation: Special Federal Aviation Regulations (SFAR)
-- Legal reference: 14 CFR Part 93, Subpart U; SFAR 50-2
-- Area: Grand Canyon National Park Special Flight Rules Area
-- Effect: Special regulations apply to all aircraft operations
-- Vertical limit: below 18,000 feet MSL
+Key information:
+*   **SFAR:** Special Federal Aviation Regulations
+*   **Regulations:** 14 CFR Part 93, Subpart U and SFAR 50.2
+*   **Location:** Grand Canyon National Park Special Flight Rules Area
+*   **Altitude Restriction:** Special regulations apply to all aircraft operations below 18,000 feet MSL.
 
 ## Special Use Airspace
 
@@ -72,15 +64,12 @@ prior to entering this area.
 
 30
 
-| Symbol / Visual | Zone name | Key text / Notes |
+| Area Type | Symbol / Graphic | Label / Notes |
 |---|---:|---|
-| Blue diagonal hatch along boundary with grey shaded area | Flight Restricted Zone (FRZ) relating to National Security | Label: "FLIGHT RESTRICTED ZONE" |
-| Purple dashed semicircle | National Security Area | Caption: "Appropriate notes as required may be shown" |
-| Small purple irregular shape | Small Area (within National Security Area) | — |
-| Purple boxed notice (small) | National Security notice | "FOR REASONS OF NATIONAL SECURITY PILOTS ARE REQUESTED TO AVOID FLIGHT BELOW 1200' MSL IN THIS AREA" |
-| Grey rectangle with curved blue arc labeled "DCA‑VOR‑DME‑60‑NM" | Special Awareness Training Areas (depiction) | — |
-| Blue outlined notice box | Special Awareness Training notice | "Special awareness training required within 60 NM of DCA VOR‑DME. See description on Flyway." |
-| Purple arc labeled "MODE C" with "30 NM" under it | Mode C (FAR 91.215) | Caption: "Appropriate notes as required may be shown." |
-| Purple stacked dots/dashed linear band with large text | Air Defense Identification Zone (ADIZ) | Large label: "CONTIGUOUS U.S. ADIZ"; note: "Delimiting line not shown when it coincides with International Boundary, projection lines or other linear features."
+| Flight Restricted Zone (FRZ) — relating to National Security | Gray shaded area with blue diagonal hatch at boundary | "FLIGHT RESTRICTED ZONE" (national security) |
+| National Security Area (NSA) | Purple segmented semicircular arc; small filled irregular area labeled "Small Area" | "Appropriate notes as required may be shown" and magenta notice box: "FOR REASONS OF NATIONAL SECURITY PILOTS ARE REQUESTED TO AVOID FLIGHT BELOW 1200' MSL IN THIS AREA" |
+| Special Awareness Training Areas | Small gray band with a blue curved line labeled along it | Blue notice box: "Special awareness training required within 60 NM of DCA VOR-DME. See description on Flyway." Blue curved label: "DCA‑VOR‑DME‑60‑NM" |
+| Mode C (FAR 91.215) | Purple arc with text along arc | "MODE C" and inner text "30 NM" (Mode C transponder requirement) |
+| Air Defense Identification Zone (ADIZ) | Purple text block with dotted delimiter line beneath | "CONTIGUOUS U.S. ADIZ" — note: delimiting line not shown when coincident with international boundary, projection lines, or other linear features |
 
 FAA Chart Users’ Guide - VFR Symbology - Sectional and Terminal Area Charts

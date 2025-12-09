@@ -1,33 +1,6 @@
 6
 
-| Mode Number i | λ_i (approx) |
-|---:|---:|
-| 1 | 11.0 |
-| 2 | 8.0 |
-| 3 | 2.5 |
-| 4 | 1.3 |
-| 5 | 0.8 |
-| 6 | 0.40 |
-| 7 | 0.22 |
-| 8 | 0.11 |
-| 9 | 0.035 |
-| 10 | 0.028 |
-| 11 | 0.020 |
-| 12 | 0.017 |
-| 13 | 0.014 |
-| 14 | 0.012 |
-| 15 | 0.010 |
-| 16 | 0.009 |
-| 17 | 0.008 |
-| 18 | 0.007 |
-| 19 | 0.005 |
-| 20 | 0.004 |
-| 21 | 0.003 |
-| 22 | 0.002 |
-| 23 | 0.0012 |
-| 24 | 0.0008 |
-
-Notes: Values are approximate readings from the plotted curve (y-axis is logarithmic).
+The chart shows the ordered list of eigenvalues for a cluster covariance matrix. The x-axis represents the Mode Number (i), and the y-axis represents λi. The y-axis is in log scale.
 
 FIG. 4: An ordered list of the Eigenvalues for our cluster covariance matrix.
 

@@ -12,9 +12,7 @@ Important Note: If you don't fill in your correct address, we won't be able to d
 
 Proof of any other relevant qualifications you have obtained
 
-- Scene: close-up of a doorstep/entryway.
-- Main objects: one black canvas sneaker with white laces/toe cap (front-center), a brown paper package/bag (right edge).
-- Human presence: right hand (no face visible) reaching toward or placing the package.
-- Surface: dark tiled floor/threshold under shoe and package.
-- Orientation: low-angle, shallow depth of field (foreground shoe and package in focus; background blurred).
-- No identifiable people or text visible.
+- Scene: doorstep/entryway with tiled floor and door threshold in background
+- Main objects: brown paper bag/package on floor; right hand reaching to pick it up
+- Person: right foot wearing a black low-top canvas sneaker with white laces and white rubber toe cap
+- Composition: shoe centered-left, hand and bag at right edge of frame

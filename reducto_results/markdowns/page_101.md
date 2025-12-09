@@ -109,13 +109,13 @@ selecting the right co-venturers.
 
 EXPENDITURE BY CATEGORY
 
-| Category            | Amount        |
-| ------------------- | ------------- |
-| Drilling            | $63.6 million |
-| Geoscience and other| $37.5 million |
-| Seismic             | $17.2 million |
-| New ventures        | $7.3 million  |
-
+| Category | Amount (million $) | % of total |
+|---|---:|---:|
+| Drilling | $63.6 | 50.7% |
+| Geoscience and other | $37.5 | 29.9% |
+| Seismic | $17.2 | 13.7% |
+| New ventures | $7.3 | 5.8% |
+| **Total** | **$125.6** | **100%** |
 
 ## 2004 EXPLORATION
 
@@ -159,36 +159,28 @@ achievement for a company that
 had its beginnings in a desert
 environment.
 
-Legend
-
-| Symbol | Meaning |
+| Legend item | Symbol |
 |---|---|
-| black square | Oil field |
-| light gray square | Gas field |
-| black line | Oil pipeline |
-| light gray line | Gas pipeline |
+| Oil field | Dark filled square |
+| Gas field | Light filled square |
+| Oil pipeline | Dark line |
+| Gas pipeline | Light grey line |
+| Scale | 0–50 kilometres |
 
-Key map features
-
-| Name | Type | Notes / Location |
+| Feature | Type | Location / Notes |
 |---|---:|---|
-| Kutei Basin | Basin/region | Offshore Makassar Strait (between Kalimantan and Sulawesi) |
-| Donggala PSC | PSC block | Large outlined block centrally east |
-| Popodi PSC | PSC block | North of Donggala PSC |
-| Papalang PSC | PSC block | South/east of Donggala PSC |
-| Hiu Aman | Well/site (star) | Inside Donggala PSC |
-| Bontang | Town / field cluster | Kalimantan coast, north of Samarinda |
-| Santan | Field | Near Bontang on Kalimantan coast |
-| Samarinda | City | Inland on Kalimantan |
-| Senipah | Field | South of Samarinda, near Balikpapan |
-| Balikpapan | City/port | Southern Kalimantan coast (near Apar Bay) |
-| Palu | City | Sulawesi coast opposite PSC blocks |
-| Oil fields (symbols) | Onshore/nearshore fields | Concentrated along Kalimantan coast (Bontang, Santan, Senipah) |
-| Gas fields (symbols) | Onshore/offshore fields | Several shown near the Kalimantan coast |
-| Oil pipelines | Infrastructure | Network linking fields and coastal facilities |
-| Gas pipelines | Infrastructure | Lighter-lines linking fields to processing/ports |
-| Scale | Map scale | 0–50 kilometres |
+| KUTEI BASIN | Region | Makassar Strait between Kalimantan (Borneo) and Sulawesi |
+| Bontang | Town / port | West coast of Kalimantan; pipeline hub |
+| Santan | Field (marked) | Near Bontang (off/nearshore) |
+| Samarinda | Town | West Kalimantan (inland/coastal) |
+| Senipah | Field (marked) | South of Samarinda / near Balikpapan |
+| Balikpapan | City / port | South Kalimantan coast |
+| Apar Bay | Bay | Southwest of Balikpapan |
+| Popodi PSC | Production-sharing contract (PSC) block | Offshore, north of Donggala PSC |
+| Donggala PSC | PSC block | Large offshore block east of Kalimantan (contains Hiu Aman) |
+| Papalang PSC | PSC block | Offshore, south of Donggala PSC |
+| Hiu Aman | Well / discovery (star symbol) | Located inside Donggala PSC |
+| Palu | Town | Sulawesi coast |
+| Pipelines shown | Infrastructure | Multiple oil (dark) and gas (light grey) pipelines connecting fields/ports and PSC areas |
 
-16
-
-Santos Annual Report 2004
+16 Santos Annual Report 2004

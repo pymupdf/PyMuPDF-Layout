@@ -4,22 +4,27 @@ People
 
 Now choose any cell in this table and choose Pivot Table wizard in the Data menu. Excel asks for the data source and suggests this table. Click OK.
 
-Key elements:
+- Image: screenshot of Microsoft Excel (Ribbon UI), Insert tab selected.
+- Prominent highlighted control: PivotTable button (Tables group).
+- Tooltip title: "Insert PivotTable"
+- Tooltip text (verbatim):
+  - "Click here to summarize data using a PivotTable or to insert a PivotChart.
+  - PivotTables make it easy to arrange and summarize complicated data and drill down on details."
+- Visible ribbon elements: Office button (top-left), Quick Access toolbar icons, Tabs: Home | Insert | Page Layout.
+- Other groups/icons visible: Table (Tables), Picture, Clip Art, Shapes (Illustrations).
+- Partial worksheet visible at right/bottom: a column header starting "Payment…" and a row entry showing "Y" and "1 Washing Allow…"
 
-*   Excel's "Insert" tab is active.
-*   The "Tables" group has "PivotTable" and "Table" buttons.
-*   A popup window says "Insert PivotTable" and describes its purpose.
-*   Sample Excel column with "Payment Allowance Expense Wages Miscellaneous" entries.
+| Name of Worker | Week | Nature of Payment      | Amount |
+|----------------|------|------------------------|--------|
+| X              | 1    | Washing Allowance      | 25     |
+| X              | 1    | Conveyance Expenses    | 30     |
 
-Key details:
-
-*   **Table Columns**: Name of Worker, Week, Nature of Payment, Amount
-*   **Data**:
-    *   Worker X, Week 1, Washing Allowance, Amount 25
-    *   Worker X, Week 1, Conveyance Expenses, Amount 30
-*   **"Create PivotTable" Dialog**:
-    *   Selecting data range `Sheet1!$A$2:$D$50`
-    *   Option selected to place PivotTable in "New Worksheet"
+- Dialog title: Create PivotTable
+- Table/Range (selected): Sheet1!$A$2:$D$50
+- Data source option: Select a table or range (selected)
+- External data source: not selected
+- PivotTable placement: New Worksheet (selected); Existing Worksheet (not selected)
+- Buttons: OK, Cancel
 
 are
 
@@ -27,12 +32,11 @@ Here, we need understand the data range. Excel suggests the table as shown in ab
 
 One more suggestion is, as shown in Graphic you can define the Destination of Pivot Table as New Sheet or Existing Sheet.
 
-The image shows the "Create PivotTable" dialog box in Excel.
+The image shows the "Create PivotTable" dialog box from a spreadsheet software.
 
-Key information:
-
-*   **Data Source:** Select a table or range. The table/range is specified as Sheet1!$A$2:$D$50.
-*   **PivotTable Report Location:** The user can choose to place the PivotTable in a New Worksheet or an Existing Worksheet. In this case, New Worksheet is selected.
+Key elements:
+*   **Data Source:** Select a table or range, Table/Range: `Sheet1!$A$2:$D$50`
+*   **PivotTable Report Location:** Options include "New Worksheet" (selected) or "Existing Worksheet".
 
 Page
 
