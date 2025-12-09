@@ -162,9 +162,14 @@ def main():
         print("\n✅ All files processed successfully.")
     print("="*40 + "\n")
 
-    total_duration = time.time() - GLOBAL_START_TIME
-    print(f"Total Duration:  {total_duration:.2f}s")
+    total_duration = time.time() - GLOBAL_START_TIME   
+    duration_file = BASE_OUTPUT_DIR / "duration.txt"
+    with open(duration_file, "w", encoding="utf-8") as f:
+        f.write(f"Total Duration: {total_duration:.2f}s\n")
+    print(f"Duration saved to: {duration_file}")
+ 
 
+    
 
 if __name__ == "__main__":
     # Windows requires this protection for multiprocessing
