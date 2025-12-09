@@ -521,11 +521,10 @@ def main() -> int:
         ('reducto_results/markdowns', 'reducto'),
         ('datalab_results/markdowns', 'datalab'),
         ('gemini_results/markdowns', 'gemini'),
-        ('llama_parse_results/markdowns', 'llama_parse'),
+        ('llama_parse_results/markdowns', 'llama_par'),
         ('pymupdflayout_results/markdowns', 'pymupdflayout'),
-        ('docling_wiocr_results/markdowns', 'docling_cpu_without_ocr'),
-        # ('docling_pipeline_wocr_results/markdowns', 'docling_pipeline_wocr'),
-        ('docling_cpu_wocr_results/markdowns', 'docling_cpu_with_ocr'),
+        ('docling_wocr_results/markdowns', 'docling_cpu_without_ocr'),
+        ('docling_ocr_results/markdowns', 'docling_cpu_with_ocr'),
     ]
     score_columns = [col_name for _, col_name in folder_info]
     

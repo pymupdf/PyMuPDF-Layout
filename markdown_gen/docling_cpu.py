@@ -13,15 +13,10 @@ from importlib.metadata import version
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 INPUT_DIR = Path("PDFs")
-BASE_OUTPUT_DIR = Path("docling_cpu_results")
-MARKDOWNS_DIR = BASE_OUTPUT_DIR / "markdowns"
-JSONL_OUTPUT = BASE_OUTPUT_DIR / "results.jsonl"
 MAX_WORKERS = os.cpu_count() or 4  # Utilize all available cores
 
-# Ensure folders exist
+# Ensure input folder exists
 INPUT_DIR.mkdir(parents=True, exist_ok=True)
-BASE_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-MARKDOWNS_DIR.mkdir(parents=True, exist_ok=True)
 
 # Get versions
 DOCLING_VERSION = version("docling")
@@ -56,9 +51,9 @@ def configure_env_for_threading(n_threads: int):
     os.environ["DOCLING_NUM_THREADS"] = s_threads
 
 
-def append_jsonl(record: dict):
+def append_jsonl(record: dict, jsonl_output: Path):
     """Append a single JSON record to the JSONL file."""
-    with JSONL_OUTPUT.open("a", encoding="utf-8") as f:
+    with jsonl_output.open("a", encoding="utf-8") as f:
         f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
@@ -106,7 +101,8 @@ def worker_initializer(n_threads: int):
 def process_single_document(
     file_path: Path, 
     output_dir: Path, 
-    do_table_structure: bool
+    do_table_structure: bool,
+    do_ocr: bool
 ) -> Dict[str, Any]:
     """
     The isolated logic for converting one document. 
@@ -124,8 +120,8 @@ def process_single_document(
         
         pipeline_options = PdfPipelineOptions()
         
-        # STRICT NO-OCR SETTINGS
-        pipeline_options.do_ocr = False
+        # OCR SETTINGS - Configurable
+        pipeline_options.do_ocr = do_ocr
         pipeline_options.do_code_enrichment = False  # Optimization: Disable if not needed
         pipeline_options.do_formula_enrichment = False # Optimization
         
@@ -220,8 +216,22 @@ def process_single_document(
 # ORCHESTRATION LOGIC
 # -----------------------------------------------------------------------------
 
-def main():
+def run_pipeline(base_output_dir: Path, do_ocr: bool):
+    """
+    Run the Docling pipeline with specified configuration.
+    
+    Args:
+        base_output_dir: Base directory for output files
+        do_ocr: Whether to enable OCR processing
+    """
     GLOBAL_START_TIME = time.time()
+    
+    # Setup output directories
+    markdowns_dir = base_output_dir / "markdowns"
+    jsonl_output = base_output_dir / "results.jsonl"
+    
+    base_output_dir.mkdir(parents=True, exist_ok=True)
+    markdowns_dir.mkdir(parents=True, exist_ok=True)
     
     # -----------------------------------------------------------------------------
     # CONFIGURATION (Hardcoded)
@@ -230,9 +240,11 @@ def main():
     THREADS_PER_WORKER = 4           # OpenMP/MKL threads per worker (Recommended: 4-8)
     DISABLE_TABLES = False           # Set to True to disable Table Structure model
 
-    print(f"--- Initializing Docling CPU Pipeline (CPUs: {MAX_WORKERS}) ---")
+    ocr_status = "ENABLED" if do_ocr else "DISABLED"
+    print(f"\n--- Initializing Docling CPU Pipeline (OCR: {ocr_status}, CPUs: {MAX_WORKERS}) ---")
     print(f"Docling version: {DOCLING_VERSION}")
     print(f"Torch version: {TORCH_VERSION}")
+    print(f"Output directory: {base_output_dir}")
 
     # Get files
     pdf_files = list(INPUT_DIR.glob("*.pdf"))
@@ -243,7 +255,7 @@ def main():
     print(f"Processing {len(pdf_files)} files...")
 
     # Clear or create the JSONL file
-    JSONL_OUTPUT.write_text("")
+    jsonl_output.write_text("")
 
     # Resource Calculation Strategy
     total_physical_cores = multiprocessing.cpu_count()
@@ -263,6 +275,7 @@ def main():
     print(f"HPC CPU DOCLING PIPELINE CONFIGURATION")
     print(f"{'='*60}")
     print(f"Input Directory      : {INPUT_DIR}")
+    print(f"Output Directory     : {base_output_dir}")
     print(f"Total Documents      : {len(pdf_files)}")
     print(f"Physical Cores       : {total_physical_cores}")
     print(f"Worker Processes     : {num_workers}")
@@ -273,14 +286,14 @@ def main():
         print(f"WARNING: Potential Oversubscription (Ratio: {oversubscription_ratio:.2f}x)")
         print(f"         Consider reducing workers or threads per worker.")
     
-    print(f"OCR Status           : DISABLED (Enforced via PyPdfiumBackend)")
+    print(f"OCR Status           : {ocr_status}")
     print(f"Table Extraction     : {'DISABLED' if DISABLE_TABLES else 'ENABLED'}")
     print(f"{'='*60}\n")
 
     # Configure the arguments for starmap
-    # (file_path, output_dir, do_table_structure)
+    # (file_path, output_dir, do_table_structure, do_ocr)
     tasks = [
-        (pdf, MARKDOWNS_DIR, not DISABLE_TABLES) 
+        (pdf, markdowns_dir, not DISABLE_TABLES, do_ocr) 
         for pdf in pdf_files
     ]
 
@@ -299,7 +312,7 @@ def main():
         
         try:
             for record in pool.starmap(process_single_document, tasks):
-                append_jsonl(record)
+                append_jsonl(record, jsonl_output)
                 results.append(record)
                 
                 # Print status
@@ -320,7 +333,7 @@ def main():
     total_duration = sum(r.get("duration", 0) for r in results)
     
     print("\n" + "="*40)
-    print(f"PROCESSING COMPLETE")
+    print(f"PROCESSING COMPLETE (OCR: {ocr_status})")
     print("="*40)
     print(f"Total Files:     {len(pdf_files)}")
     print(f"Successful:      {successful}")
@@ -339,6 +352,42 @@ def main():
 
     total_duration = time.time() - GLOBAL_START_TIME
     print(f"Total Duration:  {total_duration:.2f}s")
+    
+    # Save total duration to file
+    duration_file = base_output_dir / "duration.txt"
+    with open(duration_file, "w", encoding="utf-8") as f:
+        f.write(f"Total Duration: {total_duration:.2f}s\n")
+    print(f"Duration saved to: {duration_file}")
+
+
+def main():
+    """Run the pipeline with both OCR and non-OCR configurations."""
+    
+    # Configuration for both runs
+    OCR_OUTPUT_DIR = Path("docling_ocr_results")
+    WOCR_OUTPUT_DIR = Path("docling_wocr_results")
+    
+    print("=" * 60)
+    print("RUNNING DOCLING PIPELINE - DUAL MODE")
+    print("=" * 60)
+    
+    # Run 1: With OCR
+    print("\n" + "=" * 60)
+    print("RUN 1: WITH OCR")
+    print("=" * 60)
+    run_pipeline(base_output_dir=OCR_OUTPUT_DIR, do_ocr=True)
+    
+    # Run 2: Without OCR
+    print("\n" + "=" * 60)
+    print("RUN 2: WITHOUT OCR")
+    print("=" * 60)
+    run_pipeline(base_output_dir=WOCR_OUTPUT_DIR, do_ocr=False)
+    
+    print("\n" + "=" * 60)
+    print("ALL RUNS COMPLETE")
+    print("=" * 60)
+    print(f"OCR results saved to: {OCR_OUTPUT_DIR}")
+    print(f"Non-OCR results saved to: {WOCR_OUTPUT_DIR}")
 
 if __name__ == "__main__":
     # Force 'spawn' start method - critical for Linux compatibility
