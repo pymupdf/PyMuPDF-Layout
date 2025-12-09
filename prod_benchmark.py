@@ -521,7 +521,7 @@ def main() -> int:
         ('reducto_results/markdowns', 'reducto'),
         ('datalab_results/markdowns', 'datalab'),
         ('gemini_results/markdowns', 'gemini'),
-        ('llama_parse_results/markdowns', 'llama_par'),
+        ('llama_parse_results/markdowns', 'llama_parse'),
         ('pymupdflayout_results/markdowns', 'pymupdflayout'),
         ('docling_wocr_results/markdowns', 'docling_cpu_without_ocr'),
         ('docling_ocr_results/markdowns', 'docling_cpu_with_ocr'),
