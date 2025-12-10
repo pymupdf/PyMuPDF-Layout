@@ -479,7 +479,7 @@ def main() -> int:
     )
     
     # Input files
-    parser.add_argument('--pdf-path', type=str, default='benchmark_data/PDFs',
+    parser.add_argument('--pdf-path', type=str, default='PDFs/',
                         help='Path to PDF file or directory containing PDFs')
     parser.add_argument('--excel-path', type=str, default='benchmark_data/Pictures.xlsx',
                         help='Path to Excel file with OCR text')
