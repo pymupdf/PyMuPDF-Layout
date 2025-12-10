@@ -79,19 +79,9 @@ We evaluate tools using a **Flow-Aware Text Accuracy (FATA) Score**.
 
 This benchmark was used to generate a comparative analysis of modern PDF extraction tools that produce markdown directly. The initial set of tools evaluated includes:
 
-* LlamaParse
-* Docling
-* Marker
-* Reducto
-* PyMuPDF4LLM
-* Pymupdf-Layout
-* Google Gemini (multimodal)
----
-
-
-# How to run this benchmark
-
-```bash
-uv sync
-uv run prod_benchmark.py
-```
+* [LlamaParse](https://www.llamaindex.ai/llamaparse) (Agentic Plus, premium)
+* [Docling](https://github.com/docling-project/docling) (Open Source, pipeline based with and without OCR)
+* [DataLab/Marker](https://www.datalab.to) (Hosted Solution)
+* [Reducto](https://reducto.ai) (Hosted Solution)
+* [PyMuPDF-Layout](https://pypi.org/project/pymupdf-layout/) (Available on PyPi with PolyForm Noncommercial License)
+* [Google Gemini 3](https://aistudio.google.com/models/gemini-3) (with a [single prompt](markdown_gen/ai_prompt.md))
