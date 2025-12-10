@@ -422,10 +422,9 @@ def analyze_results(
 
     # Exclude specified folders (e.g., 'test' folders)
     filtered_df = filtered_df[~filtered_df["Folder"].isin(excluded_folders)]
-    filtered_df.to_csv("benchmark_granular.csv", index=False)
     # Keep only rows where at least one method found a close match
     filtered_df = filtered_df[filtered_df[score_columns].min(axis=1) < min_score_threshold]
-    filtered_df.to_csv("benchmark_data/benchmark_filtered.csv", index=False)
+    filtered_df.to_csv("benchmark_granular.csv", index=False)
 
     if filtered_df.empty:
         logger.warning("No data left after filtering. Cannot generate report.")

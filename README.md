@@ -1,12 +1,36 @@
-# How to generate markdowns
+# How to Run the Benchmark
 
+
+##  Installing dependencies
 ``` bash
-cp .env.example
-
+cp .env.example .env # Add relevant API keys
+apt install tesseract-ocr 
+apt-get install -y libgl1 libglib2.0-0
+uv sync
 ```
 
+Markdowns can be generated using the following command for each platform:
+``` bash
+uv run markdown_gen/{platform name}.py 
+```
 
+Docling is optimized for CPU with and without OCR, it will produce two folders `docling_ocr_results` (with OCR) and `docling_wocr_results` (without OCR). PyMuPDF-Layout is also optimized for CPU. 
 
+Running `uv run markdown_gen/{platform name}.py ` will produce a folder with this template 
+{platform_name}_results which will contain the markdowns folder containing all markdowns and a `results.jsonl` file containing the logs. 
+
+Docling and PyMuPDF_Layout additionally create a file inside the {platform_name}_results folder named `duration.txt` which contains the total time taken to generate the markdowns.
+
+## Running the benchmark
+
+``` bash
+uv run prod_benchmark.py
+```
+
+It produces these files
+
+1. benchmark_results_final.csv which contains the final results of the benchmark
+2. benchmark_granular.csv which contains the granular results of the benchmark for each eaxmple in the document
 
 
 # Flow-Aware PDF-to-Markdown Benchmark
