@@ -1,3 +1,14 @@
+# How to generate markdowns
+
+``` bash
+cp .env.example
+
+```
+
+
+
+
+
 # Flow-Aware PDF-to-Markdown Benchmark
 
 This repository provides a benchmark for evaluating the accuracy of PDF-to-Markdown extraction tools. The main goal is to measure how well a tool can convert a complex, 2D PDF document into a 1D (text/markdown) format that **preserves the logical reading flow** of the content.
